@@ -1,0 +1,5 @@
+https://packages.debian.org/hashdeep
+https://packages.debian.org/ssdeep
+https://packages.debian.org/hashid
+https://packages.debian.org/gtkhash
+https://packages.debian.org/nautilus-gtkhash

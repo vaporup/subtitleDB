@@ -1,0 +1,10 @@
+
+ffmpeg -i filename  2>&1 | sed -n "s/.*, \(.*\) fp.*/\1/p"   # gets fps
+
+ffprobe -select_streams v -show_streams filename.avi
+
+https://askubuntu.com/questions/110264/how-to-find-frames-per-second-of-any-video-file
+https://superuser.com/questions/84631/how-do-i-get-the-number-of-frames-in-a-video-on-the-linux-command-line
+
+
+
