@@ -1,1 +1,1 @@
-a distributed subtitle database
+a gitributed subtitle database
