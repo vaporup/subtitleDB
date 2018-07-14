@@ -1,0 +1,20 @@
+---
+title: Victoria
+
+alternative_titles:
+- Виктория
+- Eins Zwei Fünf Acht
+- En natt i Berlin
+- Вiкторiя
+
+filename: Victoria.2015.720p.BluRay.x264.VPPV.srt
+language: en
+imdb_id: tt4226388
+tmdb_id: 320007
+year: 2015
+format: srt
+
+matches:
+- filename: /Victoria.2015.720p.BluRay.x264.VPPV.mp4
+  hash: 1b79ec1de299be79
+  filesize: 1208110945
