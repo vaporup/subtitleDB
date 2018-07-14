@@ -877,7 +877,7 @@ Morning, Captain.
 
 201
 00:20:59,425 --> 00:21:02,344
-<i>The crew were mostlyjust kids.</i>
+<i>The crew were mostly just kids.</i>
 
 202
 00:21:02,762 --> 00:21:05,805
@@ -995,7 +995,7 @@ I heard he shot himself in the head.
 227
 00:22:43,362 --> 00:22:45,488
 <i>And we have an important message</i>
-<i>for all Gls</i>
+<i>for all GIs</i>
 
 228
 00:22:45,573 --> 00:22:48,074
@@ -3740,7 +3740,7 @@ Chef, knock it off! Give him a break!
 830
 01:14:51,988 --> 01:14:55,532
 What do you think I said?
-And give yourjaws a rest!
+And give your jaws a rest!
 
 831
 01:14:56,284 --> 01:14:58,952
