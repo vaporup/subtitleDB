@@ -1,0 +1,14 @@
+---
+title: Chasing Amy
+
+filename: Chasing.Amy.1997.720p.BluRay.x264.YIFY.srt
+language: en
+imdb_id: tt0118842
+tmdb_id: 2255
+year: 1997
+format: srt
+
+matches:
+- filename: Chasing.Amy.1997.720p.BluRay.x264.YIFY.mp4
+  hash: 53ef8f6fea32313e
+  filesize: 851507439
