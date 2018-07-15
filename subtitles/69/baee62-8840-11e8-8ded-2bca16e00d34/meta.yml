@@ -1,0 +1,18 @@
+---
+title: Cocktail
+
+alternative_titles:
+- Coctel
+- Коктейль
+
+filename: Cocktail.srt
+language: en
+imdb_id: tt0094889
+tmdb_id: 7520
+year: 1988
+format: srt
+
+matches:
+- filename: Cocktail.avi
+  hash: 877859bf0fc997b1
+  filesize: 734271488
