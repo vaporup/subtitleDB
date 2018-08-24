@@ -1,14 +1,14 @@
 ---
-title: The Big Hit
+title: "The Big Hit"
 
-filename: The-Big-Hit_BlueLady.srt
-language: en
-imdb_id: tt0120609
-tmdb_id: 9448
-year: 1998
-format: srt
+filename: "The-Big-Hit_BlueLady.srt"
+language: "en"
+imdb_id: "tt0120609"
+tmdb_id: "9448"
+year: "1998"
+format: "srt"
 
 matches:
-- filename: The-Big-Hit_BlueLady.avi
-  hash: e8d4dd22e0d094e4
-  filesize: 1571809280
+- filename: "The-Big-Hit_BlueLady.avi"
+  hash: "e8d4dd22e0d094e4"
+  filesize: "1571809280"

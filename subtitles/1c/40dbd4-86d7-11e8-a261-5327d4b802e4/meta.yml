@@ -1,29 +1,29 @@
 ---
-title: As Tears Go By
+title: "As Tears Go By"
 
-original_title: Wang Jiao ka men
+original_title: "Wang Jiao ka men"
 
 alternative_titles:
-- Carmen of the Streets
-- Conflito Mortal
-- El fluir de las lágrimas
-- Ahogy peregnek a könnyek
-- Fatal Checkout
-- Yeolheol nama
-- Kiedy lzy przemina
-- Ao Sabor da Ambição
-- Пока не высохнут слезы
-- Ölüm Hesabi
-- Vuong Giac Khai Mon
+- "Carmen of the Streets"
+- "Conflito Mortal"
+- "El fluir de las lágrimas"
+- "Ahogy peregnek a könnyek"
+- "Fatal Checkout"
+- "Yeolheol nama"
+- "Kiedy lzy przemina"
+- "Ao Sabor da Ambição"
+- "Пока не высохнут слезы"
+- "Ölüm Hesabi"
+- "Vuong Giac Khai Mon"
 
-filename: as_tears_go_by.srt
-language: en
-imdb_id: tt0096461
-tmdb_id: 24163
-year: 1988
-format: srt
+filename: "as_tears_go_by.srt"
+language: "en"
+imdb_id: "tt0096461"
+tmdb_id: "24163"
+year: "1988"
+format: "srt"
 
 matches:
-- filename: as_tears_go_by.avi
-  hash: c4c68473a2be4bcd
-  filesize: 734466048
+- filename: "as_tears_go_by.avi"
+  hash: "c4c68473a2be4bcd"
+  filesize: "734466048"

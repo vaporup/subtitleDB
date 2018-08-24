@@ -1,21 +1,21 @@
 ---
-title: Dragon Tiger Gate
+title: "Dragon Tiger Gate"
 
-original_title: Lung fu moon
+original_title: "Lung fu moon"
 
 alternative_titles:
-- Врата дракона и тигра
-- Escola do Tigre e do Dragão
-- Long hu men
+- "Врата дракона и тигра"
+- "Escola do Tigre e do Dragão"
+- "Long hu men"
 
-filename: Dragon-Tiger-Gate.srt
-language: en
-imdb_id: tt0482930
-tmdb_id: 15860
-year: 2006
-format: srt
+filename: "Dragon-Tiger-Gate.srt"
+language: "en"
+imdb_id: "tt0482930"
+tmdb_id: "15860"
+year: "2006"
+format: "srt"
 
 matches:
-- filename: Dragon-Tiger-Gate.avi
-  hash: ec478ce20243f92c
-  filesize: 2349348864
+- filename: "Dragon-Tiger-Gate.avi"
+  hash: "ec478ce20243f92c"
+  filesize: "2349348864"

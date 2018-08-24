@@ -1,19 +1,19 @@
 ---
-title: The Neon Demon
+title: "The Neon Demon"
 
 alternative_titles:
-- Неоновый демон
-- Neonski demon
-- Demônio de Neon
+- "Неоновый демон"
+- "Neonski demon"
+- "Demônio de Neon"
 
-filename: The.Neon.Demon.2016.720p.BluRay.x264-[YTS.AG].srt
-language: en
-imdb_id: tt1974419
-tmdb_id: 301365
-year: 2016
-format: srt
+filename: "The.Neon.Demon.2016.720p.BluRay.x264-[YTS.AG].srt"
+language: "en"
+imdb_id: "tt1974419"
+tmdb_id: "301365"
+year: "2016"
+format: "srt"
 
 matches:
-- filename: The.Neon.Demon.2016.720p.BluRay.x264-[YTS.AG].mp4
-  hash: dae9b145ce1cd2ad
-  filesize: 905544312
+- filename: "The.Neon.Demon.2016.720p.BluRay.x264-[YTS.AG].mp4"
+  hash: "dae9b145ce1cd2ad"
+  filesize: "905544312"

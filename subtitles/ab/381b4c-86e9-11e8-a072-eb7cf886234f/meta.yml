@@ -1,14 +1,14 @@
 ---
-title: Room 237
+title: "Room 237"
 
-filename: Room.237.2012.720p.BluRay.x264.YIFY.srt
-language: en
-imdb_id: tt2085910
-tmdb_id: 84330
-year: 2012
-format: srt
+filename: "Room.237.2012.720p.BluRay.x264.YIFY.srt"
+language: "en"
+imdb_id: "tt2085910"
+tmdb_id: "84330"
+year: "2012"
+format: "srt"
 
 matches:
-- filename: Room.237.2012.720p.BluRay.x264.YIFY.mp4
-  hash: 9ef7b824deee2aac
-  filesize: 844107493
+- filename: "Room.237.2012.720p.BluRay.x264.YIFY.mp4"
+  hash: "9ef7b824deee2aac"
+  filesize: "844107493"

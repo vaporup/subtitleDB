@@ -1,18 +1,18 @@
 ---
-title: A Clockwork Orange
+title: "A Clockwork Orange"
 
 alternative_titles:
-- Uhrwerk Orange
-- Заводной апельсин
+- "Uhrwerk Orange"
+- "Заводной апельсин"
 
-filename: A Clockwork Orange 1971 720p BluRay x264 AC3 - Ozlem Hotpena.srt
-language: en
-imdb_id: tt0066921
-tmdb_id: 185
-year: 1971
-format: srt
+filename: "A Clockwork Orange 1971 720p BluRay x264 AC3 - Ozlem Hotpena.srt"
+language: "en"
+imdb_id: "tt0066921"
+tmdb_id: "185"
+year: "1971"
+format: "srt"
 
 matches:
-- filename: A Clockwork Orange 1971 720p BluRay x264 AC3 - Ozlem Hotpena.mp4
-  hash: eb065b7065daf06c
-  filesize: 1133782560
+- filename: "A Clockwork Orange 1971 720p BluRay x264 AC3 - Ozlem Hotpena.mp4"
+  hash: "eb065b7065daf06c"
+  filesize: "1133782560"

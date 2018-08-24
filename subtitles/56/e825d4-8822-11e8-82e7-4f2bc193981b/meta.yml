@@ -1,14 +1,14 @@
 ---
-title: It's a Wonderful Life
+title: "It's a Wonderful Life"
 
-filename: It's A Wonderful Life Original Uncut Version 1946 DvDrip[Eng]-greenbud1969.srt
-language: en
-imdb_id: tt0038650
-tmdb_id: 1585
-year: 1946
-format: srt
+filename: "It's A Wonderful Life Original Uncut Version 1946 DvDrip[Eng]-greenbud1969.srt"
+language: "en"
+imdb_id: "tt0038650"
+tmdb_id: "1585"
+year: "1946"
+format: "srt"
 
 matches:
-- filename: It's A Wonderful Life Original Uncut Version 1946 DvDrip[Eng]-greenbud1969.avi
-  hash: 639716e92297204b
-  filesize: 838305792
+- filename: "It's A Wonderful Life Original Uncut Version 1946 DvDrip[Eng]-greenbud1969.avi"
+  hash: "639716e92297204b"
+  filesize: "838305792"

@@ -1,19 +1,19 @@
 ---
-title: Paprika
+title: "Paprika"
 
-original_title: Papurika
+original_title: "Papurika"
 
 alternative_titles:
--  パプリカ
+- "パプリカ"
 
-filename: Paprika.srt
-language: en
-imdb_id: tt0851578
-tmdb_id: 4977
-year: 2006
-format: srt
+filename: "Paprika.srt"
+language: "en"
+imdb_id: "tt0851578"
+tmdb_id: "4977"
+year: "2006"
+format: "srt"
 
 matches:
-- filename: Paprika.avi
-  hash: 8a8f3965c9afd32e
-  filesize: 733988864
+- filename: "Paprika.avi"
+  hash: "8a8f3965c9afd32e"
+  filesize: "733988864"

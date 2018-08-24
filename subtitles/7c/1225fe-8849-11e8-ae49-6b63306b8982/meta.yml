@@ -1,19 +1,19 @@
 ---
-title: Ninja Scroll
+title: "Ninja Scroll"
 
-original_title: Jûbê ninpûchô
+original_title: "Jûbê ninpûchô"
 
 alternative_titles:
-- Манускрипт ниндзя
+- "Манускрипт ниндзя"
 
-filename: Ninja-Scroll.srt
-language: en
-imdb_id: tt0107692
-tmdb_id: 14282
-year: 1993
-format: srt
+filename: "Ninja-Scroll.srt"
+language: "en"
+imdb_id: "tt0107692"
+tmdb_id: "14282"
+year: "1993"
+format: "srt"
 
 matches:
-- filename: Ninja-Scroll.avi
-  hash: 18db48f4885b11d9
-  filesize: 1560905728
+- filename: "Ninja-Scroll.avi"
+  hash: "18db48f4885b11d9"
+  filesize: "1560905728"
