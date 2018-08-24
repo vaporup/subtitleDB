@@ -1,19 +1,19 @@
 ---
-title: If the Sun Rises in the West
+title: "If the Sun Rises in the West"
 
-original_title: Haega seojjogeseo ddeundamyun
+original_title: "Haega seojjogeseo ddeundamyun"
 
 alternative_titles:
-- If Sun Rise Up from West
+- "If Sun Rise Up from West"
 
-filename: If_the_Sun_Rises_in_the_West.srt
-language: en
-imdb_id: tt0291225
-tmdb_id: 349228
-year: 1998
-format: srt
+filename: "If_the_Sun_Rises_in_the_West.srt"
+language: "en"
+imdb_id: "tt0291225"
+tmdb_id: "349228"
+year: "1998"
+format: "srt"
 
 matches:
-- filename: If_the_Sun_Rises_in_the_West.avi
-  hash: 5786ff83b179bf23
-  filesize: 731148288
+- filename: "If_the_Sun_Rises_in_the_West.avi"
+  hash: "5786ff83b179bf23"
+  filesize: "731148288"

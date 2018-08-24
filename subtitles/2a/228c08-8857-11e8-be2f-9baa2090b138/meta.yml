@@ -1,18 +1,18 @@
 ---
-title: Being There
+title: "Being There"
 
 alternative_titles:
-- Willkommen, Mr. Chance
-- Muito Além do Jardim
+- "Willkommen, Mr. Chance"
+- "Muito Além do Jardim"
 
-filename: Being-There.srt
-language: en
-imdb_id: tt0078841
-tmdb_id: 10322
-year: 1979
-format: srt
+filename: "Being-There.srt"
+language: "en"
+imdb_id: "tt0078841"
+tmdb_id: "10322"
+year: "1979"
+format: "srt"
 
 matches:
-- filename: Being-There.avi
-  hash: dcde92e2a4aa96c7
-  filesize: 717238272
+- filename: "Being-There.avi"
+  hash: "dcde92e2a4aa96c7"
+  filesize: "717238272"

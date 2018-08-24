@@ -1,18 +1,18 @@
 ---
-title: The Animatrix
+title: "The Animatrix"
 
 alternative_titles:
-- Аниматрица
-- Animatrix
+- "Аниматрица"
+- "Animatrix"
 
-filename: The_Animatrix.srt
-language: en
-imdb_id: tt0328832
-tmdb_id: 55931
-year: 2003
-format: srt
+filename: "The_Animatrix.srt"
+language: "en"
+imdb_id: "tt0328832"
+tmdb_id: "55931"
+year: "2003"
+format: "srt"
 
 matches:
-- filename: The_Animatrix.avi
-  hash: 410e03a0b93c3ea2
-  filesize: 733968384
+- filename: "The_Animatrix.avi"
+  hash: "410e03a0b93c3ea2"
+  filesize: "733968384"

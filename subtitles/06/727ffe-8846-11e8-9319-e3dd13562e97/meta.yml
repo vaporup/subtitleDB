@@ -1,16 +1,16 @@
 ---
-title: City of Glass
+title: "City of Glass"
 
-original_title: Boli zhi cheng
+original_title: "Boli zhi cheng"
 
-filename: City_of_Glass.srt
-language: en
-imdb_id: tt0179110
-tmdb_id: 45399
-year: 1998
-format: srt
+filename: "City_of_Glass.srt"
+language: "en"
+imdb_id: "tt0179110"
+tmdb_id: "45399"
+year: "1998"
+format: "srt"
 
 matches:
-- filename: City_of_Glass.avi
-  hash: 8f30718c5239d80f
-  filesize: 731904000
+- filename: "City_of_Glass.avi"
+  hash: "8f30718c5239d80f"
+  filesize: "731904000"

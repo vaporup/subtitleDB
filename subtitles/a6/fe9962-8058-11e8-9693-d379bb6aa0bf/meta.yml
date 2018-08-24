@@ -1,21 +1,21 @@
 ---
-title: The Cat Returns
+title: "The Cat Returns"
 
-original_title: Neko no ongaeshi
+original_title: "Neko no ongaeshi"
 
 alternative_titles:
-- Das Königreich der Katzen
-- Katteprinsen
-- Boзвращение кота
+- "Das Königreich der Katzen"
+- "Katteprinsen"
+- "Boзвращение кота"
 
-filename: The_Cat_Returns.srt
-language: en
-imdb_id: tt0347618
-tmdb_id: 15370
-year: 2002
-format: srt
+filename: "The_Cat_Returns.srt"
+language: "en"
+imdb_id: "tt0347618"
+tmdb_id: "15370"
+year: "2002"
+format: "srt"
 
 matches:
-- filename: The_Cat_Returns.avi
-  hash: 4d24a872f1d5ed6a
-  filesize: 734089216
+- filename: "The_Cat_Returns.avi"
+  hash: "4d24a872f1d5ed6a"
+  filesize: "734089216"

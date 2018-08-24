@@ -1,21 +1,21 @@
 ---
-title: Wicked City
+title: "Wicked City"
 
-original_title: Yôjû toshi
+original_title: "Yôjû toshi"
 
 alternative_titles:
-- Poderes Eróticos
-- La cité interdite
-- La città delle bestie incantatrici
+- "Poderes Eróticos"
+- "La cité interdite"
+- "La città delle bestie incantatrici"
 
-filename: Wicked-City.srt
-language: en
-imdb_id: tt0098692
-tmdb_id: 21453
-year: 1987
-format: srt
+filename: "Wicked-City.srt"
+language: "en"
+imdb_id: "tt0098692"
+tmdb_id: "21453"
+year: "1987"
+format: "srt"
 
 matches:
-- filename: Wicked-City.avi
-  hash: 4cfd7108a0908acc
-  filesize: 1171734528
+- filename: "Wicked-City.avi"
+  hash: "4cfd7108a0908acc"
+  filesize: "1171734528"

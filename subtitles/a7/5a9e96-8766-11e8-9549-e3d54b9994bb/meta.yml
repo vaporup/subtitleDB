@@ -1,14 +1,14 @@
 ---
-title: Apocalypse Now
+title: "Apocalypse Now"
 
-filename: Apocalypse-Now.srt
-language: en
-imdb_id: tt0078788
-tmdb_id: 28
-year: 1979
-format: srt
+filename: "Apocalypse-Now.srt"
+language: "en"
+imdb_id: "tt0078788"
+tmdb_id: "28"
+year: "1979"
+format: "srt"
 
 matches:
-- filename: Apocalypse-Now.mp4
-  hash: 7b5003bd07108907
-  filesize: 1048237419
+- filename: "Apocalypse-Now.mp4"
+  hash: "7b5003bd07108907"
+  filesize: "1048237419"

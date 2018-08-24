@@ -1,20 +1,20 @@
 ---
-title: No Problem
+title: "No Problem"
 
-original_title: Moumantai
+original_title: "Moumantai"
 
 alternative_titles:
-- Wu wen ti
-- Yes, I am Mr. Moumantai!
+- "Wu wen ti"
+- "Yes, I am Mr. Moumantai!"
 
-filename: No_Problem - Mou_Man_Tai.srt
-language: en
-imdb_id: tt0226160
-tmdb_id: 356592
-year: 1999
-format: srt
+filename: "No_Problem - Mou_Man_Tai.srt"
+language: "en"
+imdb_id: "tt0226160"
+tmdb_id: "356592"
+year: "1999"
+format: "srt"
 
 matches:
-- filename: No_Problem - Mou_Man_Tai.avi
-  hash: 0c05eaeb1bdf4f6a
-  filesize: 720590848
+- filename: "No_Problem - Mou_Man_Tai.avi"
+  hash: "0c05eaeb1bdf4f6a"
+  filesize: "720590848"
