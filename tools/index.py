@@ -18,6 +18,7 @@ for root, dirnames, filenames in os.walk('subtitles'):
           yaml_content = yaml.load(yaml_data)
 
           #print yaml.safe_dump(yaml_content, allow_unicode=True, encoding="utf-8", default_flow_style=False)
-          if "alternative_titles" in yaml_content:
-            for alternative_title in yaml_content["alternative_titles"]:
-              print alternative_title
+          if "matches" in yaml_content:
+            for match in yaml_content["matches"]:
+                print match["hash"][0:2] + "/" + match["hash"][2:-1], yaml_content["language"], yaml_content["title"]
+
