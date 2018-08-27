@@ -20,5 +20,24 @@ for root, dirnames, filenames in os.walk('subtitles'):
           #print yaml.safe_dump(yaml_content, allow_unicode=True, encoding="utf-8", default_flow_style=False)
           if "matches" in yaml_content:
             for match in yaml_content["matches"]:
-                print match["hash"][0:2] + "/" + match["hash"][2:-1], yaml_content["language"], yaml_content["title"]
+                #print match["hash"][0:2] + "/" + match["hash"][2:-1] + "-" + match["filesize"], yaml_content["language"], yaml_content["title"], yaml_path
+                #print match["hash"][0:2] + "/" + match["hash"][2:-1], root.replace("subtitles/",""), yaml_content["title"]
+                #print match["hash"][0:2] + "/" + match["hash"][2:-1] + "-" + match["filesize"] + "-" + yaml_content["language"] + "-" + root.replace("subtitles/","")
+                directory = "/tmp/index/" + match["hash"][0:2] + "/" + match["hash"][2:-1] + "-" + match["filesize"]
+                sub = root.replace("subtitles/","")
+                if not os.path.exists(directory):
+                  os.makedirs(directory)
 
+                filename = directory + "/" + yaml_content["language"]
+
+                if os.path.exists(filename):
+                  with open("filename", "r+") as f:
+                    for line in f:
+                      if sub in line:
+                        break
+                    else: # not found, we are at the eof
+                      f.write(sub) # append missing data
+                else:
+                  f = open(filename, "w")
+                  f.write(sub + '\n')
+                  f.close()
