@@ -1,0 +1,9 @@
+---
+filename: "Saviour_of_the_Soul.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Saviour_of_the_Soul.avi"
+  hash: "e543f1c1ac4903fd"
+  filesize: "735850496"

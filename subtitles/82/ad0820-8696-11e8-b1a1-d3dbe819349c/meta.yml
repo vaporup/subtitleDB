@@ -1,14 +1,6 @@
 ---
 title: "2424"
 
-filename: "2424.srt"
-language: "en"
 imdb_id: "tt0335791"
 tmdb_id: "223834"
 year: "2002"
-format: "srt"
-
-matches:
-- filename: "2424.avi"
-  hash: "5194828e95187e2d"
-  filesize: "729077760"

@@ -6,14 +6,6 @@ original_title: "Yau ching sui yuet saan gai goo si"
 alternative_titles:
 - "You qing sui yue shan ji gu shi"
 
-filename: "Those_were_the_Days.srt"
-language: "en"
 imdb_id: "tt0244884"
 tmdb_id: "49288"
 year: "2000"
-format: "srt"
-
-matches:
-- filename: "Those_were_the_Days.avi"
-  hash: "35cd57968dbfbebe"
-  filesize: "732110848"

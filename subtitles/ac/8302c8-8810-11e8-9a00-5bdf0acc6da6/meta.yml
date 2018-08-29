@@ -1,14 +1,6 @@
 ---
 title: "Lethal Weapon 4"
 
-filename: "Lethal Weapon 4 - Director's Cut (1998).srt"
-language: "en"
 imdb_id: "tt0122151"
 tmdb_id: "944"
 year: "1998"
-format: "srt"
-
-matches:
-- filename: "Lethal Weapon 4 - Director's Cut (1998).avi"
-  hash: "22d0aac662d8115f"
-  filesize: "735457280"

@@ -1,0 +1,9 @@
+---
+filename: "Shiza.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Shiza.avi"
+  hash: "8b7d5fca75ca6d56"
+  filesize: "734343168"

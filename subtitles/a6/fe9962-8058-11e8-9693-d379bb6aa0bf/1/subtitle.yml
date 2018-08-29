@@ -1,0 +1,9 @@
+---
+filename: "The_Cat_Returns.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Cat_Returns.avi"
+  hash: "4d24a872f1d5ed6a"
+  filesize: "734089216"

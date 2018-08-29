@@ -1,0 +1,9 @@
+---
+filename: "Room.237.2012.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Room.237.2012.720p.BluRay.x264.YIFY.mp4"
+  hash: "9ef7b824deee2aac"
+  filesize: "844107493"

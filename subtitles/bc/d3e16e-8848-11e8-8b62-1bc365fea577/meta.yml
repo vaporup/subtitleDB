@@ -6,14 +6,6 @@ original_title: "Siu nin Wong Fei Hung chi: Tit ma lau"
 alternative_titles:
 - "Железная обезьяна"
 
-filename: "Iron-Monkey_Platimum-Edition.srt"
-language: "en"
 imdb_id: "tt0108148"
 tmdb_id: "12780"
 year: "1993"
-format: "srt"
-
-matches:
-- filename: "Iron-Monkey_Platimum-Edition.avi"
-  hash: "7f5240d32330ecc9"
-  filesize: "1563205632"

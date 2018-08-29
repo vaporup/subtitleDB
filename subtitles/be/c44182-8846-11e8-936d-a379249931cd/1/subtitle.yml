@@ -1,0 +1,9 @@
+---
+filename: "Twinkle_Twinkle_Lucky_Stars.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Twinkle_Twinkle_Lucky_Stars.avi"
+  hash: "743ce125892e5044"
+  filesize: "733169664"

@@ -1,0 +1,9 @@
+---
+filename: "Being-There.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Being-There.avi"
+  hash: "dcde92e2a4aa96c7"
+  filesize: "717238272"

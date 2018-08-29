@@ -1,0 +1,9 @@
+---
+filename: "The-Big-Hit_BlueLady.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Big-Hit_BlueLady.avi"
+  hash: "e8d4dd22e0d094e4"
+  filesize: "1571809280"

@@ -1,0 +1,9 @@
+---
+filename: "Iron-Monkey_Platimum-Edition.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Iron-Monkey_Platimum-Edition.avi"
+  hash: "7f5240d32330ecc9"
+  filesize: "1563205632"

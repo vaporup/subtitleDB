@@ -1,0 +1,9 @@
+---
+filename: "A Clockwork Orange 1971 720p BluRay x264 AC3 - Ozlem Hotpena.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "A Clockwork Orange 1971 720p BluRay x264 AC3 - Ozlem Hotpena.mp4"
+  hash: "eb065b7065daf06c"
+  filesize: "1133782560"

@@ -1,14 +1,6 @@
 ---
 title: "Under the Skin"
 
-filename: "Under.the.Skin.2013.720p.BluRay.x264.YIFY.srt"
-language: "en"
 imdb_id: "tt1441395"
 tmdb_id: "97370"
 year: "2013"
-format: "srt"
-
-matches:
-- filename: "Under.the.Skin.2013.720p.BluRay.x264.YIFY.mp4"
-  hash: "c81d198fb1c791fa"
-  filesize: "849275719"

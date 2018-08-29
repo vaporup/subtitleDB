@@ -1,0 +1,9 @@
+---
+filename: "Psycho-Pass.The.Movie.2015.720p.BRRip.x264.Japanese.AAC-ETRG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Psycho-Pass.The.Movie.2015.720p.BRRip.x264.Japanese.AAC-ETRG.mp4"
+  hash: "740d23d1d7594da0"
+  filesize: "936785202"

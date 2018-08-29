@@ -1,0 +1,9 @@
+---
+filename: "A.Dangerous.Method.2011.480p.BRRip.XviD.AC3-BKZ.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "A.Dangerous.Method.2011.480p.BRRip.XviD.AC3-BKZ.avi"
+  hash: "3ea37726543b32b4"
+  filesize: "1562307632"

@@ -1,0 +1,9 @@
+---
+filename: "The_Animatrix.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Animatrix.avi"
+  hash: "410e03a0b93c3ea2"
+  filesize: "733968384"

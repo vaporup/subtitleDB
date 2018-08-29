@@ -1,0 +1,9 @@
+---
+filename: "2424.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "2424.avi"
+  hash: "5194828e95187e2d"
+  filesize: "729077760"

@@ -1,14 +1,6 @@
 ---
 title: "It Follows"
 
-filename: "It.Follows.2014.720p.BluRay.x264.YIFY.srt"
-language: "en"
 imdb_id: "tt3235888"
 tmdb_id: "270303"
 year: "2014"
-format: "srt"
-
-matches:
-- filename: "It.Follows.2014.720p.BluRay.x264.YIFY.mp4"
-  hash: "9869555929428536"
-  filesize: "792258826"

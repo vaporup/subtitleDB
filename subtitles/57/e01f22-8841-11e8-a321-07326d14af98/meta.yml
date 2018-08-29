@@ -8,14 +8,6 @@ alternative_titles:
 - "The Loves and Adventures of Ulysses"
 - "Приключения Одиссея"
 
-filename: "Ulysses.pt.srt"
-language: "pt"
 imdb_id: "tt0047630"
 tmdb_id: "43194"
 year: "1954"
-format: "srt"
-
-matches:
-- filename: "Ulysses.avi"
-  hash: "85ae8c918791715f"
-  filesize: "1468061696"

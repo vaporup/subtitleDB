@@ -1,0 +1,9 @@
+---
+filename: "Pirates Of The Caribbean - The Curse Of The Black Pearl (2003).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Pirates Of The Caribbean - The Curse Of The Black Pearl (2003).avi"
+  hash: "5290b8ab66d4dbcb"
+  filesize: "944850944"

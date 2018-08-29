@@ -1,0 +1,9 @@
+---
+filename: "Wicked-City.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Wicked-City.avi"
+  hash: "4cfd7108a0908acc"
+  filesize: "1171734528"

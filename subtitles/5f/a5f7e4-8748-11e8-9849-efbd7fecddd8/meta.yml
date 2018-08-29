@@ -1,14 +1,6 @@
 ---
 title: "Barfly"
 
-filename: "Barfly.sub"
-language: "en"
 imdb_id: "tt0092618"
 tmdb_id: "10937"
 year: "1987"
-format: "sub"
-
-matches:
-- filename: "Barfly.avi"
-  hash: "094b4d25798d2775"
-  filesize: "1227042268"

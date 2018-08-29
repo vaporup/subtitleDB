@@ -1,0 +1,9 @@
+---
+filename: "End of Days [DVDRip ger].srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "End of Days [DVDRip ger].avi"
+  hash: "cf9f46e038f1589c"
+  filesize: "682018816"

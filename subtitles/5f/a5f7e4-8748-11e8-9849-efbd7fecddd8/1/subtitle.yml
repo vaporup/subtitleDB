@@ -1,0 +1,9 @@
+---
+filename: "Barfly.sub"
+language: "en"
+format: "sub"
+
+matches:
+- filename: "Barfly.avi"
+  hash: "094b4d25798d2775"
+  filesize: "1227042268"

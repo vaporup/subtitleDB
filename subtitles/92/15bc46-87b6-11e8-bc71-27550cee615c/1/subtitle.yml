@@ -1,0 +1,9 @@
+---
+filename: "Carrie.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Carrie.avi"
+  hash: "7e8264d7222b40cb"
+  filesize: "734013440"

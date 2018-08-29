@@ -1,0 +1,9 @@
+---
+filename: "Pirates Of The Caribbean - Dead Man's Chest (2006).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Pirates Of The Caribbean - Dead Man's Chest (2006).avi"
+  hash: "a45c97990a0d4629"
+  filesize: "944136192"

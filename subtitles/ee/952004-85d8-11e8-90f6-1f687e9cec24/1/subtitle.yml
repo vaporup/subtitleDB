@@ -1,0 +1,9 @@
+---
+filename: "Paprika.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Paprika.avi"
+  hash: "8a8f3965c9afd32e"
+  filesize: "733988864"

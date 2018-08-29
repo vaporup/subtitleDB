@@ -8,14 +8,6 @@ alternative_titles:
 - "Escola do Tigre e do Dragão"
 - "Long hu men"
 
-filename: "Dragon-Tiger-Gate.srt"
-language: "en"
 imdb_id: "tt0482930"
 tmdb_id: "15860"
 year: "2006"
-format: "srt"
-
-matches:
-- filename: "Dragon-Tiger-Gate.avi"
-  hash: "ec478ce20243f92c"
-  filesize: "2349348864"

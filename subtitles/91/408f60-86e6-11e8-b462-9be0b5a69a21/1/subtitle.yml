@@ -1,0 +1,9 @@
+---
+filename: "Those_were_the_Days.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Those_were_the_Days.avi"
+  hash: "35cd57968dbfbebe"
+  filesize: "732110848"

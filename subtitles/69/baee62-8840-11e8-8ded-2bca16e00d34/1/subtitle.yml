@@ -1,0 +1,9 @@
+---
+filename: "Cocktail.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Cocktail.avi"
+  hash: "877859bf0fc997b1"
+  filesize: "734271488"

@@ -1,14 +1,6 @@
 ---
 title: "Lethal Weapon"
 
-filename: "Lethal Weapon 1 - Director's Cut (1987).srt"
-language: "en"
 imdb_id: "tt0093409"
 tmdb_id: "941"
 year: "1987"
-format: "srt"
-
-matches:
-- filename: "Lethal Weapon 1 - Director's Cut (1987).avi"
-  hash: "348c8825529bf764"
-  filesize: "734988288"

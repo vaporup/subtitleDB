@@ -1,0 +1,9 @@
+---
+filename: "Lethal Weapon 1 - Director's Cut (1987).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Lethal Weapon 1 - Director's Cut (1987).avi"
+  hash: "348c8825529bf764"
+  filesize: "734988288"

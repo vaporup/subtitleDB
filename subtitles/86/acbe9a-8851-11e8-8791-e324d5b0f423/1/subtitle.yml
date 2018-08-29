@@ -1,0 +1,9 @@
+---
+filename: "The.Wizard.of.Oz.1939.1080p.BrRip.x264.BOKUTOX.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Wizard.of.Oz.1939.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
+  hash: "41d4e668593165d7"
+  filesize: "1506857011"

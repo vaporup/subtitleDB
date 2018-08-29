@@ -1,0 +1,9 @@
+---
+filename: "The_New_Dragon_Gate_Inn.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_New_Dragon_Gate_Inn.avi"
+  hash: "42b8c2457d731fdd"
+  filesize: "734359552"

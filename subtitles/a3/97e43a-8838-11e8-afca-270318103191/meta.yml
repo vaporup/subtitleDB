@@ -3,14 +3,6 @@ title: "One of the Lucky Ones"
 
 original_title: "Ban wo tong hang"
 
-filename: "One_of_the_Lucky_Ones.srt"
-language: "en"
 imdb_id: "tt0109203"
 tmdb_id: "355910"
 year: "1994"
-format: "srt"
-
-matches:
-- filename: "One_of_the_Lucky_Ones.avi"
-  hash: "4191f25fe113ef9a"
-  filesize: "727482368"

@@ -8,14 +8,6 @@ alternative_titles:
 - "Psycho-Pass. La película"
 - "Психопаспорт"
 
-filename: "Psycho-Pass.The.Movie.2015.720p.BRRip.x264.Japanese.AAC-ETRG.ru.srt"
-language: "ru"
 imdb_id: "tt4219130"
 tmdb_id: "296917"
 year: "2015"
-format: "srt"
-
-matches:
-- filename: "Psycho-Pass.The.Movie.2015.720p.BRRip.x264.Japanese.AAC-ETRG.mp4"
-  hash: "740d23d1d7594da0"
-  filesize: "936785202"

@@ -1,0 +1,9 @@
+---
+filename: "Dragon-Tiger-Gate.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Dragon-Tiger-Gate.avi"
+  hash: "ec478ce20243f92c"
+  filesize: "2349348864"

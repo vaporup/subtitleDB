@@ -1,0 +1,9 @@
+---
+filename: "The Parallax View.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Parallax View.avi"
+  hash: "e53c94d36c8fcd83"
+  filesize: "679514112"

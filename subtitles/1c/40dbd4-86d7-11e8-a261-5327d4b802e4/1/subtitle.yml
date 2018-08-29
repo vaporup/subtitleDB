@@ -1,0 +1,9 @@
+---
+filename: "as_tears_go_by.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "as_tears_go_by.avi"
+  hash: "c4c68473a2be4bcd"
+  filesize: "734466048"

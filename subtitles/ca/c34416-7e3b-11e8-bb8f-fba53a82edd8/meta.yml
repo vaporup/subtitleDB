@@ -3,16 +3,6 @@ title: "Burning Paradise"
 
 original_title: "Huo shao hong lian si"
 
-filename: "Burning_Paradise.srt"
-language: "en"
 imdb_id: "tt0110080"
 tmdb_id: "58457"
 year: "1994"
-format: "srt"
-
-matches:
-- filename: "Burning_Paradise.avi"
-  hash: "60bbaef3d8d0f5fe"
-  filesize: "707661824"
-  duration: "01:39:43.83"
-  fps: "24"

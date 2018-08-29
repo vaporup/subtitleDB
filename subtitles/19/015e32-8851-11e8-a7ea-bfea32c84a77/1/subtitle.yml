@@ -1,0 +1,9 @@
+---
+filename: "Blueberry 2004 720p BRRip.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Blueberry 2004 720p BRRip.mkv"
+  hash: "85e8b023879efed3"
+  filesize: "2273203164"

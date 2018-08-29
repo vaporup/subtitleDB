@@ -7,14 +7,6 @@ alternative_titles:
 - "Carrie: Des Satans jüngste Tochter"
 - "Günah tohumu"
 
-filename: "Carrie.srt"
-language: "en"
 imdb_id: "tt0074285"
 tmdb_id: "7340"
 year: "1976"
-format: "srt"
-
-matches:
-- filename: "Carrie.avi"
-  hash: "7e8264d7222b40cb"
-  filesize: "734013440"

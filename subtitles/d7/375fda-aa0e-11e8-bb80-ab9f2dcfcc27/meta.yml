@@ -6,14 +6,6 @@ alternative_titles:
 - "Duellen"
 - "Kauhun kilometrit"
 
-filename: "Duel.1971.720p.BluRay.x264.YIFY.srt"
-language: "en"
 imdb_id: "tt0067023"
 tmdb_id: "839"
 year: "1971"
-format: "srt"
-
-matches:
-- filename: "Duel.1971.720p.BluRay.x264.YIFY.mp4"
-  hash: "a7c4e338578ac915"
-  filesize: "732857895"

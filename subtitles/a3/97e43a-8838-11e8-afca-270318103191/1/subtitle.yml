@@ -1,0 +1,9 @@
+---
+filename: "One_of_the_Lucky_Ones.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "One_of_the_Lucky_Ones.avi"
+  hash: "4191f25fe113ef9a"
+  filesize: "727482368"

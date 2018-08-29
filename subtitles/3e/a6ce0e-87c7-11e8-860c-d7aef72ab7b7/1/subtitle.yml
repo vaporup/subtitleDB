@@ -1,0 +1,9 @@
+---
+filename: "Synchronicity.2015.720p.BRRip.x264.AAC-ETRG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Synchronicity.2015.720p.BRRip.x264.AAC-ETRG.mp4"
+  hash: "948274eb323b3db6"
+  filesize: "789946428"

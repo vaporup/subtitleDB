@@ -1,0 +1,9 @@
+---
+filename: "Touch.of.Evil.1958.ReEdited.BluRay.720p.H264.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Touch.of.Evil.1958.ReEdited.BluRay.720p.H264.mp4"
+  hash: "6f9af839ed77adfb"
+  filesize: "1073725655"

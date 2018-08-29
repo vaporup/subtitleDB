@@ -6,14 +6,6 @@ alternative_titles:
 - "Пираты Карибского моря: На краю света"
 - "Pirati dei Caraibi - Ai confini del mondo"
 
-filename: "Pirates Of The Caribbean - At World's End (2007).srt"
-language: "en"
 imdb_id: "tt0449088"
 tmdb_id: "285"
 year: "2007"
-format: "srt"
-
-matches:
-- filename: "Pirates Of The Caribbean - At World's End (2007).avi"
-  hash: "325f4149226785b3"
-  filesize: "944013312"
