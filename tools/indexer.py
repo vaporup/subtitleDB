@@ -1,9 +1,32 @@
 #!/usr/bin/env python
 
 import os
+import sys
 import yaml
 
+toolbar_width = 10
+
+percent_10  = True
+percent_20  = True
+percent_30  = True
+percent_40  = True
+percent_50  = True
+percent_60  = True
+percent_70  = True
+percent_80  = True
+percent_90  = True
+percent_100 = True
+
 uuid_prefix_foldernames = os.listdir("subtitles")
+
+alle = len(uuid_prefix_foldernames)
+count = float(alle)
+
+# setup toolbar
+sys.stdout.write("\nIndexing Subtitles ")
+sys.stdout.write("[%s]" % (" " * toolbar_width))
+sys.stdout.flush()
+sys.stdout.write("\b" * (toolbar_width+1)) # return to start of line, after '['
 
 for uuid_prefix_foldername in uuid_prefix_foldernames:
 
@@ -98,4 +121,60 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
   
 
 
+    count = count -1
+    percent = 100 - count / alle * 100
+
+    if percent > 10:
+      if percent_10:
+        sys.stdout.write(".")
+        sys.stdout.flush()
+        percent_10 = False
+    if percent > 20:
+      if percent_20:
+        sys.stdout.write(".")
+        sys.stdout.flush()
+        percent_20 = False
+    if percent > 30:
+      if percent_30:
+        sys.stdout.write(".")
+        sys.stdout.flush()
+        percent_30 = False
+    if percent > 40:
+      if percent_40:
+        sys.stdout.write(".")
+        sys.stdout.flush()
+        percent_40 = False
+    if percent > 50:
+      if percent_50:
+        sys.stdout.write(".")
+        sys.stdout.flush()
+        percent_50 = False
+    if percent > 60:
+      if percent_60:
+        sys.stdout.write(".")
+        sys.stdout.flush()
+        percent_60 = False
+    if percent > 70:
+      if percent_70:
+        sys.stdout.write(".")
+        sys.stdout.flush()
+        percent_70 = False
+    if percent > 80:
+      if percent_80:
+        sys.stdout.write(".")
+        sys.stdout.flush()
+        percent_80 = False
+    if percent > 90:
+      if percent_90:
+        sys.stdout.write(".")
+        sys.stdout.flush()
+        percent_90 = False
+    if percent > 95:
+      if percent_100:
+        sys.stdout.write(".")
+        sys.stdout.flush()
+        percent_100 = False
+
+sys.stdout.write("\n")
+sys.stdout.write("\n")
 
