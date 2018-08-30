@@ -42,8 +42,13 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
 
           if num_subs == 1:
             language = subtitle_info["subtitles"][0]["language"]
-          
-          # TODO if more than 1 subtitle  https://stackoverflow.com/questions/6987285/python-find-the-item-with-maximum-occurrences-in-a-list
+
+          if num_subs > 1:
+            # https://stackoverflow.com/questions/6987285/python-find-the-item-with-maximum-occurrences-in-a-list
+            languages = []
+            for sub in subtitle_info["subtitles"]:
+              languages.append(sub["language"])
+            language = max(languages,key=languages.count)
 
           for id_prov in ["imdb_id", "tmdb_id"]:
 
