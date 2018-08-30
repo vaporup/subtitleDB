@@ -1,0 +1,9 @@
+---
+filename: "Bichunmoo_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Bichunmoo_CD_1.avi"
+  hash: "57789bdee9551534"
+  filesize: "597882880"
