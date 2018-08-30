@@ -38,5 +38,5 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
 
             subtitle_info["subtitles"].append(subtitle_data)
 
-        print subtitle_info["imdb_id"], subtitle_info["title"]
+        print subtitle_info["imdb_id"], "(" + str(len(subtitle_info["subtitles"])) + ")", subtitle_info["title"], uuid_prefix_foldername
 
