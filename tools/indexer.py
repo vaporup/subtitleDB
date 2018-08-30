@@ -38,5 +38,59 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
 
             subtitle_info["subtitles"].append(subtitle_data)
 
-        print subtitle_info["imdb_id"], "(" + str(len(subtitle_info["subtitles"])) + ")", subtitle_info["title"], uuid_prefix_foldername
+          num_subs = len(subtitle_info["subtitles"])
+
+          if num_subs == 1:
+            language = subtitle_info["subtitles"][0]["language"]
+          
+          # TODO if more than 1 subtitle  https://stackoverflow.com/questions/6987285/python-find-the-item-with-maximum-occurrences-in-a-list
+
+          for id_prov in ["imdb_id", "tmdb_id"]:
+
+            if id_prov in subtitle_info:
+              #print subtitle_info["imdb_id"] + "-" + language + "-" + str(num_subs) + "-" + os.path.join(uuid_prefix_foldername , uuid_foldername)
+              sub = os.path.join(uuid_prefix_foldername , uuid_foldername)
+              directory = "/tmp/index/by-" + id_prov.replace("_id","") + "/" + subtitle_info[id_prov]
+              if not os.path.exists(directory):
+                  os.makedirs(directory)
+
+              filename = directory + "/" + language + "-" + str(num_subs)
+
+              if os.path.exists(filename):
+                with open(filename, "r+") as f:
+                  for line in f:
+                    if sub in line:
+                      break
+                  else: # not found, we are at the eof
+                    f.write(sub) # append missing data
+              else:
+                f = open(filename, "w")
+                f.write(sub + '\n')
+                f.close()
+
+          for subtitle in subtitle_info["subtitles"]:
+
+            if "matches" in subtitle:
+              for match in subtitle["matches"]:
+                directory = "/tmp/index/by-hash-filesize/" + match["hash"][0:2] + "/" + match["hash"][2:-1] + "-" + match["filesize"]
+                sub = os.path.join(uuid_prefix_foldername , uuid_foldername)
+                if not os.path.exists(directory):
+                  os.makedirs(directory)
+
+                filename = directory + "/" + language
+
+                if os.path.exists(filename):
+                  with open(filename, "r+") as f:
+                    for line in f:
+                      if sub in line:
+                        break
+                    else: # not found, we are at the eof
+                      f.write(sub) # append missing data
+                else:
+                  f = open(filename, "w")
+                  f.write(sub + '\n')
+                  f.close()
+  
+
+
 
