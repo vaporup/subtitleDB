@@ -23,7 +23,7 @@ alle = len(uuid_prefix_foldernames)
 count = float(alle)
 
 # setup toolbar
-sys.stdout.write("\nIndexing Subtitles ")
+sys.stdout.write("\nIndexing subtitles ")
 sys.stdout.write("[%s]" % (" " * toolbar_width))
 sys.stdout.flush()
 sys.stdout.write("\b" * (toolbar_width+1)) # return to start of line, after '['
