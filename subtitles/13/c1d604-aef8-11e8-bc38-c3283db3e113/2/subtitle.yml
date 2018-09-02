@@ -1,0 +1,9 @@
+---
+filename: "Fida_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Fida_CD_2.avi"
+  hash: "a60a1248752a26f8"
+  filesize: "734832640"
