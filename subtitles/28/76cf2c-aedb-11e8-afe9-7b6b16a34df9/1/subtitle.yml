@@ -1,0 +1,9 @@
+---
+filename: "santi-precious.brrip.xvid.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "santi-precious.brrip.xvid.avi"
+  hash: "2d393dafea7a1230"
+  filesize: "1542881280"
