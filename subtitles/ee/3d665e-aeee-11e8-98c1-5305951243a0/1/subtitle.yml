@@ -1,0 +1,9 @@
+---
+filename: "fanaa_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "fanaa_CD_1.avi"
+  hash: "9925c707b1efcbd4"
+  filesize: "734660608"
