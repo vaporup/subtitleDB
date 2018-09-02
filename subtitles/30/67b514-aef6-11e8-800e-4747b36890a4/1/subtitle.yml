@@ -1,0 +1,9 @@
+---
+filename: "Fight_Back_to_School_II_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Fight_Back_to_School_II_CD_1.avi"
+  hash: "9ae6a1f105efbf8b"
+  filesize: "657610752"
