@@ -1,0 +1,9 @@
+---
+filename: "Next.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Next.avi"
+  hash: "5947cc5f88865020"
+  filesize: "733870080"
