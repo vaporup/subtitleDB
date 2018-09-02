@@ -1,0 +1,9 @@
+---
+filename: "Wing_Chun_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Wing_Chun_CD_2.avi"
+  hash: "073e1455c91dff65"
+  filesize: "650405888"
