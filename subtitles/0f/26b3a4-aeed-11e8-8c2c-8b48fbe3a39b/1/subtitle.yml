@@ -1,0 +1,9 @@
+---
+filename: "Sunflower-CD-1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Sunflower-CD-1.avi"
+  hash: "026f4126bff76bb1"
+  filesize: "734801920"
