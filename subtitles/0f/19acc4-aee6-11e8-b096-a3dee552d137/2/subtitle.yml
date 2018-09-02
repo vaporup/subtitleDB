@@ -1,0 +1,9 @@
+---
+filename: "Namnam_buknyeo_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Namnam_buknyeo_CD_2.avi"
+  hash: "307315d6dc197512"
+  filesize: "735623168"
