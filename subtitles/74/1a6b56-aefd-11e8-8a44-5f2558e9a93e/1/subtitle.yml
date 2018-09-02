@@ -1,0 +1,9 @@
+---
+filename: "The-Hustler_CODY.ro.srt"
+language: "ro"
+format: "srt"
+
+matches:
+- filename: "The-Hustler_CODY.avi"
+  hash: "2314f952f6a54966"
+  filesize: "946812928"
