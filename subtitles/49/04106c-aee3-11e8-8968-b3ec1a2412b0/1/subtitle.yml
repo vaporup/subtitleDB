@@ -1,0 +1,9 @@
+---
+filename: "A-Place-in-the-Sun.en.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "A-Place-in-the-Sun.avi"
+  hash: "da642d5ef9abab87"
+  filesize: "1461614592"
