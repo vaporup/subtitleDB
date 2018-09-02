@@ -1,0 +1,9 @@
+---
+filename: "The_Secret_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Secret_CD_1.avi"
+  hash: "d372c04a4afd4311"
+  filesize: "725239808"
