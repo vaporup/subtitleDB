@@ -1,0 +1,9 @@
+---
+filename: "Veer-Zaara_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Veer-Zaara_CD_2.avi"
+  hash: "7d27bb8a3fc3216b"
+  filesize: "734484480"
