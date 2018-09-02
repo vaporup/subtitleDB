@@ -1,0 +1,9 @@
+---
+filename: "Monsters_Ball_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Monsters_Ball_CD_2.avi"
+  hash: "63ca1956607c468e"
+  filesize: "721731584"
