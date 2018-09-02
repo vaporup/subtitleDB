@@ -1,0 +1,9 @@
+---
+filename: "Classic_ReCall_CD_3.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Classic_ReCall_CD_3.avi"
+  hash: "d6cb89b60798719b"
+  filesize: "731314176"
