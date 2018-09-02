@@ -1,0 +1,9 @@
+---
+filename: "Tokyo!.2008.DVDRip.XviD.AC3.iNT-REMOVE.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Tokyo!.2008.DVDRip.XviD.AC3.iNT-REMOVE.avi"
+  hash: "da7d418d4261a3e2"
+  filesize: "735070208"
