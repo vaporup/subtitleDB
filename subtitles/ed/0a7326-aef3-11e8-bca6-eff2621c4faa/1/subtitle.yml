@@ -1,0 +1,9 @@
+---
+filename: "The-Prince-of-Tennis-CD-1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Prince-of-Tennis-CD-1.avi"
+  hash: "397739dfad27b530"
+  filesize: "731561984"
