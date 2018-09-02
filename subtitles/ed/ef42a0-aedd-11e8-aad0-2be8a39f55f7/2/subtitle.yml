@@ -1,0 +1,9 @@
+---
+filename: "Zoo_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Zoo_CD_2.avi"
+  hash: "afacdf5afb09e7a5"
+  filesize: "731494400"
