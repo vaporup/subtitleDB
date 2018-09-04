@@ -1,0 +1,9 @@
+---
+filename: "Embrace.of.the.Serpent.2015.720p.BRRip.x264.Spanish.AAC-ETRG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Embrace.of.the.Serpent.2015.720p.BRRip.x264.Spanish.AAC-ETRG.mp4"
+  hash: "1e75b800bb396129"
+  filesize: "977462850"
