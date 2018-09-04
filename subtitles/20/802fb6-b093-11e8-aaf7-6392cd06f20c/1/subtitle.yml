@@ -1,0 +1,9 @@
+---
+filename: "sC0rp-beyond.the.black.rainbow.2010.limited.brrip.xvid.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "sC0rp-beyond.the.black.rainbow.2010.limited.brrip.xvid.avi"
+  hash: "b190cf942128fe3a"
+  filesize: "733821316"
