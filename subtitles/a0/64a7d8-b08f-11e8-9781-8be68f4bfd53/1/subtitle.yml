@@ -1,0 +1,9 @@
+---
+filename: "Beat_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Beat_CD_1.avi"
+  hash: "c30f3a948568c5b1"
+  filesize: "734752256"
