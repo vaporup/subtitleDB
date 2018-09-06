@@ -1,0 +1,9 @@
+---
+filename: "Scarface_1983_Uncut Version_Collectors Edition-Ekolb.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Scarface_1983_Uncut Version_Collectors Edition-Ekolb.avi"
+  hash: "24841abe92bf6817"
+  filesize: "1468016640"
