@@ -1,0 +1,9 @@
+---
+filename: "Leaving Las Vegas KLAXXON.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Leaving Las Vegas KLAXXON.avi"
+  hash: "efc23de1745dd4ad"
+  filesize: "1031241728"
