@@ -1,0 +1,9 @@
+---
+filename: "Requiem.For.A.Dream.DIRECTORS.CUT.2000.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Requiem.For.A.Dream.DIRECTORS.CUT.2000.720p.BrRip.x264.YIFY.mp4"
+  hash: "ef58b01b14740583"
+  filesize: "734157820"
