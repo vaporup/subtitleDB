@@ -1,0 +1,9 @@
+---
+filename: "Last Life in the Universe.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Last Life in the Universe.avi"
+  hash: "01d4c6782fc75c38"
+  filesize: "733931520"
