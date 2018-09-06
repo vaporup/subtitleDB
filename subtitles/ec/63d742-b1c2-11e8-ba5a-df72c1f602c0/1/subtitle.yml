@@ -1,0 +1,9 @@
+---
+filename: "Eyes-Wide-Shut.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Eyes-Wide-Shut.mp4"
+  hash: "5208167b5f307585"
+  filesize: "1310439533"
