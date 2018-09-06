@@ -1,0 +1,9 @@
+---
+filename: "The.Man.From.Earth.2007.PROPER.DVDRip.XviD-DOMiNO.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Man.From.Earth.2007.PROPER.DVDRip.XviD-DOMiNO.avi"
+  hash: "cdbc67f47b1e13cc"
+  filesize: "731097088"
