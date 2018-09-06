@@ -1,0 +1,9 @@
+---
+filename: "Ponyo (2008) 720p [Jpn 5.1 & Eng] Blu-ray (Studio Ghibli).es.srt"
+language: "es"
+format: "srt"
+
+matches:
+- filename: "Ponyo (2008) 720p [Jpn 5.1 & Eng] Blu-ray (Studio Ghibli).mp4"
+  hash: "543ce6d3440fde47"
+  filesize: "1610733194"
