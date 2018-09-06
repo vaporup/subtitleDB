@@ -1,0 +1,9 @@
+---
+filename: "Jacobs.Ladder.1990.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Jacobs.Ladder.1990.720p.BluRay.x264.YIFY.mp4"
+  hash: "be36b72439ecaf83"
+  filesize: "735664174"
