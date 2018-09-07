@@ -1,0 +1,9 @@
+---
+filename: "Memoirs Of An Invisible Man (1992).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Memoirs Of An Invisible Man (1992).avi"
+  hash: "c3e37f79a9b8595b"
+  filesize: "954318862"
