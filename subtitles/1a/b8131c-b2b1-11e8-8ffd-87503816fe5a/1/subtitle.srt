@@ -2696,7 +2696,7 @@ Audrey, you're next.
 
 631
 00:43:07,108 --> 00:43:08,442
-No way, José!
+No way, JosÃ©!
 
 632
 00:43:10,526 --> 00:43:11,734
@@ -5955,4 +5955,3 @@ I'm not going to press any charges.
 01:34:56,682 --> 01:34:58,473
 What did I tell ya?
 Did I say trust me?
-

@@ -8,7 +8,7 @@ PONYO EN EL ACANTILADO
 
 3
 00:06:48,941 --> 00:06:51,535
-¡Sosuke, vuelve enseguida!
+Â¡Sosuke, vuelve enseguida!
 
 4
 00:06:51,811 --> 00:06:52,903
@@ -20,7 +20,7 @@ Un pececito rojo.
 
 6
 00:08:47,593 --> 00:08:48,890
-Está atascado.
+EstÃ¡ atascado.
 
 7
 00:09:06,279 --> 00:09:07,712
@@ -28,37 +28,37 @@ Eso fue raro.
 
 8
 00:09:18,090 --> 00:09:19,318
-¡Uy!
+Â¡Uy!
 
 9
 00:09:22,361 --> 00:09:23,885
-¿Está muerta?
+Â¿EstÃ¡ muerta?
 
 10
 00:09:28,034 --> 00:09:30,002
-Me lamió.
-¡Está viva!
+Me lamiÃ³.
+Â¡EstÃ¡ viva!
 
 11
 00:09:33,239 --> 00:09:35,173
-¡Sosuke, nos vamos!
+Â¡Sosuke, nos vamos!
 
 12
 00:09:35,908 --> 00:09:39,071
-¡Lisa, capturé una pececita!
+Â¡Lisa, capturÃ© una pececita!
 
 13
 00:09:49,589 --> 00:09:53,958
 Este viento no es normal.
-¡Sosuke, voy a arrancar el coche!
+Â¡Sosuke, voy a arrancar el coche!
 
 14
 00:10:03,069 --> 00:10:04,229
-¿La encontraron?
+Â¿La encontraron?
 
 15
 00:10:09,875 --> 00:10:12,935
-¿Qué, "capturada por un humano"?
+Â¿QuÃ©, "capturada por un humano"?
 
 16
 00:10:16,082 --> 00:10:18,642
@@ -66,23 +66,23 @@ Esto es malo... muy malo.
 
 17
 00:10:44,910 --> 00:10:46,605
-¿Estás muerto?
+Â¿EstÃ¡s muerto?
 
 18
 00:10:54,720 --> 00:10:56,153
-¡Estás vivo!
+Â¡EstÃ¡s vivo!
 
 19
 00:11:05,398 --> 00:11:09,459
-¡Sosuke! ¡Voy a llegar tarde!
+Â¡Sosuke! Â¡Voy a llegar tarde!
 
 20
 00:11:09,869 --> 00:11:12,861
-¡Lisa! ¡Capturé una pececita!
+Â¡Lisa! Â¡CapturÃ© una pececita!
 
 21
 00:11:13,005 --> 00:11:14,495
-¿Una "pececita"?
+Â¿Una "pececita"?
 
 22
 00:11:14,774 --> 00:11:17,004
@@ -91,11 +91,11 @@ En las rocas.
 23
 00:11:42,868 --> 00:11:46,235
 Lo siento, pero no puedes
-usar herbicidas aquí.
+usar herbicidas aquÃ­.
 
 24
 00:11:48,874 --> 00:11:49,876
-¡Demonios, no!
+Â¡Demonios, no!
 
 25
 00:11:49,878 --> 00:11:54,677
@@ -108,7 +108,7 @@ Mientras no sea herbicida.
 
 27
 00:11:57,983 --> 00:11:59,280
-¡Buenos días!
+Â¡Buenos dÃ­as!
 
 28
 00:12:07,326 --> 00:12:09,351
@@ -116,73 +116,73 @@ Esto es muy malo.
 
 29
 00:12:12,098 --> 00:12:13,827
-Vaya tipo más espeluznante.
+Vaya tipo mÃ¡s espeluznante.
 
 30
 00:12:13,966 --> 00:12:17,163
-No digas eso sobre los extraños, Sosuke.
+No digas eso sobre los extraÃ±os, Sosuke.
 
 31
 00:12:17,303 --> 00:12:18,736
-No lo volveré a hacer.
+No lo volverÃ© a hacer.
 
 32
 00:12:18,871 --> 00:12:21,396
-¿Te llevarás eso al colegio?
+Â¿Te llevarÃ¡s eso al colegio?
 
 33
 00:12:22,374 --> 00:12:23,864
-¿No se quejará la maestra?
+Â¿No se quejarÃ¡ la maestra?
 
 34
 00:12:24,243 --> 00:12:27,906
-No te preocupes. Te cuidaré.
+No te preocupes. Te cuidarÃ©.
 
 35
 00:12:28,114 --> 00:12:29,581
-¡Es linda!
+Â¡Es linda!
 
 36
 00:12:36,422 --> 00:12:38,253
-Están usando el dique seco.
+EstÃ¡n usando el dique seco.
 
 37
 00:12:39,859 --> 00:12:42,384
-Toma, cómete esto
+Toma, cÃ³mete esto
 antes de que lleguemos.
 
 38
 00:12:43,629 --> 00:12:45,563
-Quizá tenga hambre.
+QuizÃ¡ tenga hambre.
 
 39
 00:12:46,465 --> 00:12:47,727
-¿Quieres un poco?
+Â¿Quieres un poco?
 
 40
 00:12:49,135 --> 00:12:51,399
-¡Oye, mi herida ha desaparecido!
+Â¡Oye, mi herida ha desaparecido!
 
 41
 00:12:54,607 --> 00:12:57,405
-La llamaré Ponyo.
+La llamarÃ© Ponyo.
 
 42
 00:12:58,110 --> 00:13:01,136
-¡Ella es realmente especial!
+Â¡Ella es realmente especial!
 Puede hacer magia.
 
 43
 00:13:01,781 --> 00:13:04,477
-Sanó mi herida.
+SanÃ³ mi herida.
 
 44
 00:13:14,660 --> 00:13:16,628
-¿Quieres jamón?
+Â¿Quieres jamÃ³n?
 
 45
 00:13:31,610 --> 00:13:35,569
-- ¡A Ponyo le gusta el jamón, Lisa!
+- Â¡A Ponyo le gusta el jamÃ³n, Lisa!
 - Ya somos dos.
 
 46
@@ -191,34 +191,34 @@ No.
 
 47
 00:14:03,375 --> 00:14:04,967
-¡Qué asqueroso!
+Â¡QuÃ© asqueroso!
 
 48
 00:14:05,311 --> 00:14:07,040
-¡Apúrate, Lisa!
+Â¡ApÃºrate, Lisa!
 
 49
 00:14:15,988 --> 00:14:18,548
-¡Cuánta porquería!
-¡Es intolerable!
+Â¡CuÃ¡nta porquerÃ­a!
+Â¡Es intolerable!
 
 50
 00:14:20,659 --> 00:14:22,058
-¡Buenos días!
+Â¡Buenos dÃ­as!
 
 51
 00:14:28,834 --> 00:14:31,462
 Mira, Ponyo.
-Ahí está nuestra casa.
+AhÃ­ estÃ¡ nuestra casa.
 
 52
 00:14:52,825 --> 00:14:54,952
-- Te dejaré aquí.
+- Te dejarÃ© aquÃ­.
 - De acuerdo.
 
 53
 00:14:55,094 --> 00:14:56,118
-Diviértete.
+DiviÃ©rtete.
 
 54
 00:14:56,262 --> 00:14:57,820
@@ -226,17 +226,17 @@ Nos vemos.
 
 55
 00:14:59,198 --> 00:15:00,665
-Buenos días.
+Buenos dÃ­as.
 Disculpa mi tardanza.
 
 56
 00:15:00,799 --> 00:15:02,664
-¿Podrías acercar
+Â¿PodrÃ­as acercar
 la silla de ruedas de Noriko?
 
 57
 00:15:18,250 --> 00:15:19,911
-Buenos días, Sosuke
+Buenos dÃ­as, Sosuke
 
 58
 00:15:20,052 --> 00:15:22,816
@@ -245,7 +245,7 @@ Luego hablo contigo.
 
 59
 00:15:22,955 --> 00:15:24,183
-¡Dios!
+Â¡Dios!
 
 60
 00:15:24,323 --> 00:15:25,790
@@ -257,42 +257,42 @@ No puedo hablar ahora, Toki.
 
 62
 00:15:35,501 --> 00:15:38,026
-Quizá la maestra se enfade.
+QuizÃ¡ la maestra se enfade.
 
 63
 00:15:39,738 --> 00:15:41,035
-¡Ya sé!
+Â¡Ya sÃ©!
 
 64
 00:15:44,810 --> 00:15:47,779
-Espera aquí.
-Volveré pronto.
+Espera aquÃ­.
+VolverÃ© pronto.
 
 65
 00:15:50,449 --> 00:15:52,383
-¿Y si viniera un gato?
+Â¿Y si viniera un gato?
 
 66
 00:16:02,995 --> 00:16:06,726
-Quédate aquí, ya vuelvo.
+QuÃ©date aquÃ­, ya vuelvo.
 
 67
 00:16:14,139 --> 00:16:16,437
-Te veo después.
+Te veo despuÃ©s.
 
 68
 00:16:18,477 --> 00:16:21,571
 No hay problema.
-No le pasará nada.
+No le pasarÃ¡ nada.
 
 69
 00:16:22,081 --> 00:16:24,379
 De acuerdo, gracias.
-Adiós.
+AdiÃ³s.
 
 70
 00:16:24,783 --> 00:16:26,410
-Buenos días, maestra.
+Buenos dÃ­as, maestra.
 
 71
 00:16:26,685 --> 00:16:27,811
@@ -300,21 +300,21 @@ Hola, Sosuke.
 
 72
 00:16:27,953 --> 00:16:29,443
-¿Cómo estás?
+Â¿CÃ³mo estÃ¡s?
 
 73
 00:16:34,593 --> 00:16:36,788
-- ¡Sosuke!
+- Â¡Sosuke!
 - Kumiko.
 
 74
 00:16:36,929 --> 00:16:40,194
-¿Te gusta mi vestido?
-Me lo compró mi mamá.
+Â¿Te gusta mi vestido?
+Me lo comprÃ³ mi mamÃ¡.
 
 75
 00:16:41,567 --> 00:16:43,296
-¡Vamos a jugar, Sosuke!
+Â¡Vamos a jugar, Sosuke!
 
 76
 00:16:43,435 --> 00:16:45,494
@@ -323,7 +323,7 @@ Estoy ocupado.
 
 77
 00:16:45,637 --> 00:16:47,161
-¿Y eso?
+Â¿Y eso?
 
 78
 00:16:47,306 --> 00:16:50,798
@@ -332,15 +332,15 @@ Estoy ocupado.
 
 79
 00:16:51,010 --> 00:16:52,034
-¡Así es!
+Â¡AsÃ­ es!
 
 80
 00:17:13,632 --> 00:17:15,031
-¡Ponyo!
+Â¡Ponyo!
 
 81
 00:17:22,374 --> 00:17:23,841
-¡Sosuke!
+Â¡Sosuke!
 
 82
 00:17:24,043 --> 00:17:25,067
@@ -348,7 +348,7 @@ Kumiko.
 
 83
 00:17:25,210 --> 00:17:26,677
-¿Qué es eso?
+Â¿QuÃ© es eso?
 
 84
 00:17:26,879 --> 00:17:28,870
@@ -356,16 +356,16 @@ Se supone que no puedes traer nada.
 
 85
 00:17:29,314 --> 00:17:33,341
-Pero estos árboles
-están fuera del recinto escolar.
+Pero estos Ã¡rboles
+estÃ¡n fuera del recinto escolar.
 
 86
 00:17:33,485 --> 00:17:34,747
-Enséñamelo.
+EnsÃ©Ã±amelo.
 
 87
 00:17:36,088 --> 00:17:37,487
-¡Vaya, un pez!
+Â¡Vaya, un pez!
 
 88
 00:17:37,723 --> 00:17:39,918
@@ -374,12 +374,12 @@ Es Ponyo.
 
 89
 00:17:40,059 --> 00:17:42,323
-¿"Ponyo"?
-¡Déjame ver!
+Â¿"Ponyo"?
+Â¡DÃ©jame ver!
 
 90
 00:17:42,661 --> 00:17:44,686
-¿Prometes no contarlo?
+Â¿Prometes no contarlo?
 
 91
 00:17:44,830 --> 00:17:46,058
@@ -387,12 +387,12 @@ Lo prometo.
 
 92
 00:17:48,167 --> 00:17:50,067
-¿No es linda?
+Â¿No es linda?
 
 93
 00:17:56,408 --> 00:18:00,276
-Está muy gorda.
-El mío es mucho más bonito.
+EstÃ¡ muy gorda.
+El mÃ­o es mucho mÃ¡s bonito.
 
 94
 00:18:22,701 --> 00:18:27,035
@@ -401,11 +401,11 @@ Ella fue mala contigo.
 
 95
 00:18:30,742 --> 00:18:32,972
-Te daré un poco de agua.
+Te darÃ© un poco de agua.
 
 96
 00:18:55,033 --> 00:18:56,057
-¡Ponyo!
+Â¡Ponyo!
 
 97
 00:19:03,108 --> 00:19:04,108
@@ -413,11 +413,11 @@ Me asustaste.
 
 98
 00:19:09,481 --> 00:19:11,778
-<i>¡Vaya! ¡Qué raro!</i>
+<i>Â¡Vaya! Â¡QuÃ© raro!</i>
 
 99
 00:19:11,780 --> 00:19:15,079
-<i>Oí la voz de Sosuke.</i>
+<i>OÃ­ la voz de Sosuke.</i>
 
 100
 00:19:15,854 --> 00:19:20,120
@@ -429,32 +429,32 @@ Deben ser voces imaginarias.
 
 102
 00:19:22,661 --> 00:19:24,822
-Aquí estoy, Yoshie.
+AquÃ­ estoy, Yoshie.
 
 103
 00:19:26,398 --> 00:19:30,164
-Sabía que había escuchado tu voz.
+SabÃ­a que habÃ­a escuchado tu voz.
 
 104
 00:19:31,336 --> 00:19:33,566
-¿Tengo un secreto?
+Â¿Tengo un secreto?
 
 105
 00:19:33,705 --> 00:19:34,705
-¡Sí!
+Â¡SÃ­!
 
 106
 00:19:34,740 --> 00:19:36,230
-¡Bingo!
+Â¡Bingo!
 
 107
 00:19:36,575 --> 00:19:39,100
-De acuerdo, ¿de qué color es mi secreto?
+De acuerdo, Â¿de quÃ© color es mi secreto?
 
 108
 00:19:41,747 --> 00:19:43,612
-- ¡Rojo!
-- ¡Rojo!
+- Â¡Rojo!
+- Â¡Rojo!
 
 109
 00:19:44,082 --> 00:19:46,073
@@ -462,11 +462,11 @@ Buena conjetura.
 
 110
 00:19:46,285 --> 00:19:48,412
-¿Cómo lo sabían?
+Â¿CÃ³mo lo sabÃ­an?
 
 111
 00:19:48,554 --> 00:19:49,816
-Muéstranoslo.
+MuÃ©stranoslo.
 
 112
 00:19:50,088 --> 00:19:51,385
@@ -474,11 +474,11 @@ De acuerdo.
 
 113
 00:19:53,892 --> 00:19:55,359
-¡Vaya, qué lindo!
+Â¡Vaya, quÃ© lindo!
 
 114
 00:19:55,494 --> 00:19:57,018
-¡Muy bonito!
+Â¡Muy bonito!
 
 115
 00:19:57,229 --> 00:19:58,423
@@ -486,31 +486,31 @@ Se llama Ponyo.
 
 116
 00:19:58,564 --> 00:20:02,000
-Le encanta el jamón
+Le encanta el jamÃ³n
 y puede hacer magia.
 
 117
 00:20:02,534 --> 00:20:06,493
 Me hice un corte en el dedo,
-pero ella lo sanó.
+pero ella lo sanÃ³.
 
 118
 00:20:08,707 --> 00:20:12,370
 Me pregunto
-si podría sanar nuestras piernas.
+si podrÃ­a sanar nuestras piernas.
 
 119
 00:20:12,511 --> 00:20:16,504
-Entonces podríamos correr como tú.
+Entonces podrÃ­amos correr como tÃº.
 
 120
 00:20:17,282 --> 00:20:20,649
-Bueno, primero tendría que
+Bueno, primero tendrÃ­a que
 preguntarle a Ponyo.
 
 121
 00:20:20,786 --> 00:20:22,981
-¿Puedo mirar?
+Â¿Puedo mirar?
 
 122
 00:20:23,121 --> 00:20:24,383
@@ -518,11 +518,11 @@ Claro, Toki.
 
 123
 00:20:26,291 --> 00:20:29,021
-¡Cielo santo, tiene cara!
+Â¡Cielo santo, tiene cara!
 
 124
 00:20:30,862 --> 00:20:34,855
-¡Devuélvela antes de que
+Â¡DevuÃ©lvela antes de que
 provoque un tsunami!
 
 125
@@ -539,40 +539,40 @@ Peces como esos dan mala suerte.
 
 128
 00:20:46,245 --> 00:20:49,578
-¡El tsunami!
-¡Está aquí!
+Â¡El tsunami!
+Â¡EstÃ¡ aquÃ­!
 
 129
 00:20:50,482 --> 00:20:52,712
-¡El tsunami ha llegado!
+Â¡El tsunami ha llegado!
 
 130
 00:20:57,990 --> 00:20:59,423
-¿Qué sucede, Toki?
+Â¿QuÃ© sucede, Toki?
 
 131
 00:20:59,558 --> 00:21:01,992
-¡Mira mis ropas!
+Â¡Mira mis ropas!
 
 132
 00:21:10,035 --> 00:21:11,297
-<i>¡Sosuke!</i>
+<i>Â¡Sosuke!</i>
 
 133
 00:21:16,308 --> 00:21:18,333
-<i>¡Sosuke!</i>
+<i>Â¡Sosuke!</i>
 
 134
 00:21:24,249 --> 00:21:26,149
-<i>¡Sosuke!</i>
+<i>Â¡Sosuke!</i>
 
 135
 00:21:26,351 --> 00:21:29,013
-¡Regresa aquí y discúlpate!
+Â¡Regresa aquÃ­ y discÃºlpate!
 
 136
 00:21:38,397 --> 00:21:42,094
-No te preocupes. Te protegeré.
+No te preocupes. Te protegerÃ©.
 
 137
 00:21:44,069 --> 00:21:45,331
@@ -584,7 +584,7 @@ Sosuke.
 
 139
 00:21:54,646 --> 00:21:55,772
-¡Ponyo!
+Â¡Ponyo!
 
 140
 00:21:58,283 --> 00:22:00,581
@@ -596,35 +596,35 @@ Ponyo... ama a...
 
 142
 00:22:03,889 --> 00:22:05,379
-...¡Sosuke!
+...Â¡Sosuke!
 
 143
 00:22:11,063 --> 00:22:12,394
-Yo también te amo.
+Yo tambiÃ©n te amo.
 
 144
 00:22:12,998 --> 00:22:15,466
-¡Ponyo ama a Sosuke!
+Â¡Ponyo ama a Sosuke!
 
 145
 00:22:56,208 --> 00:22:57,607
-¡Ponyo!
+Â¡Ponyo!
 
 146
 00:22:59,044 --> 00:23:01,706
-¡Ponyo!
+Â¡Ponyo!
 
 147
 00:23:06,218 --> 00:23:08,049
-¡Ponyo!
+Â¡Ponyo!
 
 148
 00:23:09,955 --> 00:23:11,980
-¡Sosuke!
+Â¡Sosuke!
 
 149
 00:23:13,158 --> 00:23:15,126
-¡Ponyo!
+Â¡Ponyo!
 
 150
 00:24:16,721 --> 00:24:19,849
@@ -637,11 +637,11 @@ Es algo inevitable.
 
 152
 00:24:23,161 --> 00:24:25,129
-Ponyo nació en el mar.
+Ponyo naciÃ³ en el mar.
 
 153
 00:24:25,263 --> 00:24:27,288
-Ella regresó a casa,
+Ella regresÃ³ a casa,
 eso es todo.
 
 154
@@ -651,33 +651,33 @@ ese tipo espeluznante se haya ido.
 
 155
 00:24:32,637 --> 00:24:33,661
-¿Una lamida?
+Â¿Una lamida?
 
 156
 00:24:34,840 --> 00:24:36,205
-¡Deprisa, se derrite!
+Â¡Deprisa, se derrite!
 
 157
 00:24:39,644 --> 00:24:40,975
-¡No está mal!
+Â¡No estÃ¡ mal!
 
 158
 00:24:46,184 --> 00:24:49,449
-Alégrate.
-Koichi estará en casa esta noche.
+AlÃ©grate.
+Koichi estarÃ¡ en casa esta noche.
 
 159
 00:24:50,555 --> 00:24:53,615
-<i>Se desilusionará
+<i>Se desilusionarÃ¡
 si te encuentra deprimido.</i>
 
 160
 00:25:19,885 --> 00:25:22,183
-No más océano por hoy, ¿de acuerdo?
+No mÃ¡s ocÃ©ano por hoy, Â¿de acuerdo?
 
 161
 00:25:49,414 --> 00:25:51,006
-¿Sosuke?
+Â¿Sosuke?
 
 162
 00:25:51,917 --> 00:25:53,384
@@ -685,7 +685,7 @@ Es hora de entrar.
 
 163
 00:25:53,919 --> 00:25:58,379
-¿Crees que este balde ayudará
+Â¿Crees que este balde ayudarÃ¡
 a Ponyo a encontrarnos?
 
 164
@@ -694,63 +694,63 @@ Hay una sola manera de averiguarlo.
 
 165
 00:26:16,041 --> 00:26:19,636
-¿Puedes atender, Sosuke?
+Â¿Puedes atender, Sosuke?
 Debe ser Koichi.
 
 166
 00:26:21,980 --> 00:26:23,208
-¿Hola?
+Â¿Hola?
 
 167
 00:26:23,348 --> 00:26:25,077
-Sí, soy yo.
+SÃ­, soy yo.
 
 168
 00:26:25,078 --> 00:26:26,078
-<i>Sí, estoy bien.</i>
+<i>SÃ­, estoy bien.</i>
 
 169
 00:26:27,919 --> 00:26:32,219
-<i>Regresaré esta noche. Haré una señal
-cuando me esté acercando a la costa.</i>
+<i>RegresarÃ© esta noche. HarÃ© una seÃ±al
+cuando me estÃ© acercando a la costa.</i>
 
 170
 00:26:32,524 --> 00:26:34,719
-Bien. Aquí está Lisa.
+Bien. AquÃ­ estÃ¡ Lisa.
 
 171
 00:26:36,294 --> 00:26:39,229
-¿Koichi? Sí.
-¡¿Qué?!
+Â¿Koichi? SÃ­.
+Â¡Â¿QuÃ©?!
 
 172
 00:26:39,998 --> 00:26:42,228
-¿No puedes librarte de eso?
+Â¿No puedes librarte de eso?
 
 173
 00:26:42,367 --> 00:26:46,133
-¡Muy bien... deja a tu esposa
+Â¡Muy bien... deja a tu esposa
 y a tu hijo en el acantilado!
 
 174
 00:26:46,371 --> 00:26:47,929
-¡Me rindo!
+Â¡Me rindo!
 
 175
 00:26:51,509 --> 00:26:52,806
-¿Por qué molestarse?
+Â¿Por quÃ© molestarse?
 
 176
 00:26:53,378 --> 00:26:55,803
-Vamos, Sosuke. ¡Cenemos!
+Vamos, Sosuke. Â¡Cenemos!
 
 177
 00:26:56,581 --> 00:26:58,242
-Quiero comer aquí.
+Quiero comer aquÃ­.
 
 178
 00:27:26,978 --> 00:27:28,036
-¡Ahí está!
+Â¡AhÃ­ estÃ¡!
 
 179
 00:27:28,179 --> 00:27:30,943
@@ -758,8 +758,8 @@ Apaga las luces, Lisa.
 
 180
 00:27:54,939 --> 00:27:58,875
-¡Es Sosuke! Es un genio.
-Sólo tiene cinco años.
+Â¡Es Sosuke! Es un genio.
+SÃ³lo tiene cinco aÃ±os.
 
 181
 00:27:59,010 --> 00:28:00,841
@@ -772,54 +772,54 @@ Dice que lo siente.
 183
 00:28:09,354 --> 00:28:10,612
 ES...
-ESTÚ...
+ESTÃš...
 
 184
 00:28:10,755 --> 00:28:12,115
-ESTÚPI...
-ESTÚPIDO
+ESTÃšPI...
+ESTÃšPIDO
 
 185
 00:28:12,390 --> 00:28:14,323
 ES...
-ESTÚ...
+ESTÃš...
 
 186
 00:28:14,459 --> 00:28:15,989
-ESTÚPI...
-ESTÚPIDO
+ESTÃšPI...
+ESTÃšPIDO
 
 187
 00:28:16,127 --> 00:28:17,826
-¡ESTÚPIDO! ¡¡ESTÚPIDO!!
-¡¡¡ESTÚPIDO!!!
+Â¡ESTÃšPIDO! Â¡Â¡ESTÃšPIDO!!
+Â¡Â¡Â¡ESTÃšPIDO!!!
 
 188
 00:28:17,829 --> 00:28:19,330
-¡¡¡¡ESTÚPIDO!!!!
-¡¡¡¡¡ESTÚPIDO!!!!!
+Â¡Â¡Â¡Â¡ESTÃšPIDO!!!!
+Â¡Â¡Â¡Â¡Â¡ESTÃšPIDO!!!!!
 
 189
 00:28:24,602 --> 00:28:26,570
-¡Dice que te ama!
+Â¡Dice que te ama!
 
 190
 00:28:27,539 --> 00:28:29,769
-¡Muchísimo!
+Â¡MuchÃ­simo!
 
 191
 00:28:32,477 --> 00:28:34,234
-ES... ESTÚ...
-ESTÚPI...
+ES... ESTÃš...
+ESTÃšPI...
 
 192
 00:28:34,379 --> 00:28:36,576
-ESTÚPIDO - ESTÚPIDO
-ESTÚPIDO - ESTÚPIDO
+ESTÃšPIDO - ESTÃšPIDO
+ESTÃšPIDO - ESTÃšPIDO
 
 193
 00:28:42,554 --> 00:28:45,318
-¡Es fantástico!
+Â¡Es fantÃ¡stico!
 
 194
 00:28:50,528 --> 00:28:51,856
@@ -842,23 +842,23 @@ BESOS
 198
 00:29:19,424 --> 00:29:24,191
 No llores, Lisa.
-Yo no lo haré.
+Yo no lo harÃ©.
 
 199
 00:29:25,630 --> 00:29:29,498
-Le prometí a Ponyo que cuidaría de ella.
+Le prometÃ­ a Ponyo que cuidarÃ­a de ella.
 
 200
 00:29:34,038 --> 00:29:36,608
-Espero que no esté llorando.
+Espero que no estÃ© llorando.
 
 201
 00:29:40,011 --> 00:29:43,538
-¡Muy bien, alegrémonos!
+Â¡Muy bien, alegrÃ©monos!
 
 202
 00:29:44,382 --> 00:29:47,078
-# Soy tan feliz como podría serlo #
+# Soy tan feliz como podrÃ­a serlo #
 
 203
 00:29:49,454 --> 00:29:50,944
@@ -867,11 +867,11 @@ No te preocupes, Sosuke.
 204
 00:29:51,089 --> 00:29:54,183
 Estoy segura de que Ponyo
-también está bien.
+tambiÃ©n estÃ¡ bien.
 
 205
 00:29:57,228 --> 00:30:00,994
-<i>Ahora comamos. ¡Nos comeremos también
+<i>Ahora comamos. Â¡Nos comeremos tambiÃ©n
 la cena de Koichi!</i>
 
 206
@@ -880,17 +880,17 @@ Es mi culpa.
 
 207
 00:30:12,544 --> 00:30:17,140
-Haberte traído para que mires
+Haberte traÃ­do para que mires
 fue un error.
 
 208
 00:30:17,949 --> 00:30:21,248
-¿Cuántas veces te he advertido
+Â¿CuÃ¡ntas veces te he advertido
 acerca de los humanos?
 
 209
 00:30:21,519 --> 00:30:23,749
-Hasta su aliento está corrupto.
+Hasta su aliento estÃ¡ corrupto.
 
 210
 00:30:23,888 --> 00:30:26,254
@@ -898,20 +898,20 @@ Vamos, debes comer.
 
 211
 00:30:26,491 --> 00:30:28,891
-¿Puedes oírme, Brunhilde?
+Â¿Puedes oÃ­rme, Brunhilde?
 
 212
 00:30:29,694 --> 00:30:31,184
-¡Quiero jamón!
+Â¡Quiero jamÃ³n!
 
 213
 00:30:33,798 --> 00:30:37,666
-¿"Jamón"?
-¿Qué demonios has estado haciendo?
+Â¿"JamÃ³n"?
+Â¿QuÃ© demonios has estado haciendo?
 
 214
 00:30:37,802 --> 00:30:39,599
-¡Respóndeme, Brunhilde!
+Â¡RespÃ³ndeme, Brunhilde!
 
 215
 00:30:39,871 --> 00:30:43,136
@@ -920,7 +920,7 @@ Es Ponyo.</i>
 
 216
 00:30:43,508 --> 00:30:45,135
-¿"Ponyo"?
+Â¿"Ponyo"?
 
 217
 00:30:45,476 --> 00:30:47,706
@@ -928,15 +928,15 @@ Es Ponyo.</i>
 
 218
 00:30:47,707 --> 00:30:50,707
-<i>¡Quiero ser humana!</i>
+<i>Â¡Quiero ser humana!</i>
 
 219
 00:30:51,482 --> 00:30:52,710
-¿"Humana"?
+Â¿"Humana"?
 
 220
 00:30:52,917 --> 00:30:55,784
-¿Cómo puedes amar
+Â¿CÃ³mo puedes amar
 a tan desagradables criaturas?
 
 221
@@ -945,7 +945,7 @@ Se roban la vida del mar.
 
 222
 00:31:00,191 --> 00:31:02,989
-Yo fui humano, en una época.
+Yo fui humano, en una Ã©poca.
 
 223
 00:31:03,394 --> 00:31:05,692
@@ -954,66 +954,66 @@ de esa herencia maldita.
 
 224
 00:31:05,830 --> 00:31:08,492
-<i>¡Quiero tener manos!</i>
+<i>Â¡Quiero tener manos!</i>
 
 225
 00:31:08,700 --> 00:31:11,134
-<i>¡No me gusta esto!</i>
+<i>Â¡No me gusta esto!</i>
 
 226
 00:31:12,036 --> 00:31:14,800
-<i>¡Quiero tener piernas como Sosuke!</i>
+<i>Â¡Quiero tener piernas como Sosuke!</i>
 
 227
 00:31:15,106 --> 00:31:16,698
-¡Vaya insensatez!
+Â¡Vaya insensatez!
 
 228
 00:31:35,927 --> 00:31:39,363
-<i>¡Mírame!
-¡Manos y pies!</i>
+<i>Â¡MÃ­rame!
+Â¡Manos y pies!</i>
 
 229
 00:31:40,565 --> 00:31:44,524
-No... ¡no me digas
+No... Â¡no me digas
 que probaste la sangre humana!
 
 230
 00:31:44,802 --> 00:31:46,133
-<i>¡Quiero ver a Sosuke!</i>
+<i>Â¡Quiero ver a Sosuke!</i>
 
 231
 00:31:46,271 --> 00:31:50,207
-¡No!
-¡Su sangre ha alterado tu ADN!
+Â¡No!
+Â¡Su sangre ha alterado tu ADN!
 
 232
 00:31:50,375 --> 00:31:52,240
-¡Reviértete!
-¡Reviértete!
+Â¡ReviÃ©rtete!
+Â¡ReviÃ©rtete!
 
 233
 00:31:58,683 --> 00:32:01,083
-¡Reviértete!
-¡Reviértete!
+Â¡ReviÃ©rtete!
+Â¡ReviÃ©rtete!
 
 234
 00:32:05,590 --> 00:32:07,990
-No está funcionando.
-Necesito más poder.
+No estÃ¡ funcionando.
+Necesito mÃ¡s poder.
 
 235
 00:32:21,472 --> 00:32:22,530
-<i>¡Déjame salir!</i>
+<i>Â¡DÃ©jame salir!</i>
 
 236
 00:32:22,674 --> 00:32:26,009
-Quédate quieta, sangre maldita.
+QuÃ©date quieta, sangre maldita.
 
 237
 00:32:26,011 --> 00:32:28,910
-¡Reviértete!
-¡Reviértete!
+Â¡ReviÃ©rtete!
+Â¡ReviÃ©rtete!
 
 238
 00:32:38,256 --> 00:32:41,953
@@ -1021,13 +1021,13 @@ Igual que su madre... tan fuerte.
 
 239
 00:32:47,198 --> 00:32:50,599
-Ella debería seguir siendo inocente
+Ella deberÃ­a seguir siendo inocente
 y pura para siempre.
 
 240
 00:33:11,422 --> 00:33:14,289
-No podré retenerla
-durante mucho tiempo más.
+No podrÃ© retenerla
+durante mucho tiempo mÃ¡s.
 
 241
 00:33:14,492 --> 00:33:17,154
@@ -1035,17 +1035,17 @@ Necesito la ayuda de su madre.
 
 242
 00:33:26,437 --> 00:33:29,099
-¡No! ¡Mi elixir es demasiado fuerte
+Â¡No! Â¡Mi elixir es demasiado fuerte
 para ustedes!
 
 243
 00:33:29,574 --> 00:33:31,508
-¡Fuera! ¡Váyanse!
+Â¡Fuera! Â¡VÃ¡yanse!
 
 244
 00:33:31,809 --> 00:33:34,801
 Mi escudo de cangrejos
-estaba debilitándose.
+estaba debilitÃ¡ndose.
 
 245
 00:33:35,079 --> 00:33:37,274
@@ -1057,119 +1057,119 @@ Debo conservar la calma.
 
 247
 00:33:38,750 --> 00:33:41,947
-¡Cuando pienso que debo volver
+Â¡Cuando pienso que debo volver
 a encontrarme con ella!
 
 248
 00:33:42,520 --> 00:33:45,751
-Esta tanda debería estar lista.
+Esta tanda deberÃ­a estar lista.
 
 249
 00:33:55,099 --> 00:33:56,896
-No hay fugas por aquí.
+No hay fugas por aquÃ­.
 
 250
 00:34:01,606 --> 00:34:03,301
-Esta puerta está floja.
+Esta puerta estÃ¡ floja.
 
 251
 00:34:08,646 --> 00:34:10,273
-Luego la repararé.
+Luego la repararÃ©.
 
 252
 00:34:17,188 --> 00:34:19,850
-¡Si alguna criatura
-llegara a entrar aquí--
+Â¡Si alguna criatura
+llegara a entrar aquÃ­--
 
 253
 00:34:43,714 --> 00:34:45,113
-¡Fabuloso!
+Â¡Fabuloso!
 
 254
 00:34:45,249 --> 00:34:49,743
-Siento el poder del océano
+Siento el poder del ocÃ©ano
 en mi propio ADN.
 
 255
 00:34:50,188 --> 00:34:54,716
-Cuando este pozo esté lleno,
-comenzará la Era del Océano.
+Cuando este pozo estÃ© lleno,
+comenzarÃ¡ la Era del OcÃ©ano.
 
 256
 00:34:54,859 --> 00:34:57,885
-¡Una explosión de vida comparable
-a la de la Era Cámbrica!
+Â¡Una explosiÃ³n de vida comparable
+a la de la Era CÃ¡mbrica!
 
 257
 00:34:58,029 --> 00:35:01,157
 Esta repugnante Era del Hombre
-pronto acabará.
+pronto acabarÃ¡.
 
 258
 00:35:05,903 --> 00:35:07,837
-<i>Habrá que reparar esta puerta.</i>
+<i>HabrÃ¡ que reparar esta puerta.</i>
 
 259
 00:36:31,556 --> 00:36:33,023
-¡Dientes!
+Â¡Dientes!
 
 260
 00:36:41,065 --> 00:36:43,533
-¡Regresaré con Sosuke!
+Â¡RegresarÃ© con Sosuke!
 
 261
 00:39:14,485 --> 00:39:15,577
-¿Una manga de agua?
+Â¿Una manga de agua?
 
 262
 00:39:15,720 --> 00:39:17,950
-¡Capitán, mire allí!
+Â¡CapitÃ¡n, mire allÃ­!
 
 263
 00:39:21,325 --> 00:39:24,556
-- ¡Un tsunami!
-- ¡Metan el barco en el oleaje!
+- Â¡Un tsunami!
+- Â¡Metan el barco en el oleaje!
 
 264
 00:39:26,097 --> 00:39:28,156
-¿Qué es eso?
+Â¿QuÃ© es eso?
 
 265
 00:39:32,703 --> 00:39:35,729
-<i>¡Capitán!
-¡No funciona la radio ni el radar!</i>
+<i>Â¡CapitÃ¡n!
+Â¡No funciona la radio ni el radar!</i>
 
 266
 00:39:39,443 --> 00:39:42,879
-¿Una niña?
-¡Debe ser de la edad de Sosuke!
+Â¿Una niÃ±a?
+Â¡Debe ser de la edad de Sosuke!
 
 267
 00:39:52,857 --> 00:39:55,052
-Adiós.
-Te veo mañana.
+AdiÃ³s.
+Te veo maÃ±ana.
 
 268
 00:39:56,694 --> 00:39:59,595
 - Gracias.
-- Cuídense.
+- CuÃ­dense.
 
 269
 00:40:00,698 --> 00:40:03,792
-¿Quieres esperar a Lisa aquí?
+Â¿Quieres esperar a Lisa aquÃ­?
 
 270
 00:40:03,934 --> 00:40:07,097
-Está bien, tomaré el atajo.
-Adiós.
+EstÃ¡ bien, tomarÃ© el atajo.
+AdiÃ³s.
 
 271
 00:40:07,371 --> 00:40:08,804
-Adiós.
+AdiÃ³s.
 
 272
 00:40:09,340 --> 00:40:10,864
-Ten cuidado por ahí.
+Ten cuidado por ahÃ­.
 
 273
 00:40:53,350 --> 00:40:56,717
@@ -1178,8 +1178,8 @@ Se fue la luz.
 
 274
 00:40:56,854 --> 00:40:59,948
-¿No habrá quedado la puerta abierta, no?
-¿Te fue bien en la escuela?
+Â¿No habrÃ¡ quedado la puerta abierta, no?
+Â¿Te fue bien en la escuela?
 
 275
 00:41:00,224 --> 00:41:03,682
@@ -1188,21 +1188,21 @@ Estaremos bien.
 
 276
 00:41:03,828 --> 00:41:05,159
-¿Estás segura?
+Â¿EstÃ¡s segura?
 
 277
 00:41:05,563 --> 00:41:07,929
-Nosotros íbamos a pasar
+Nosotros Ã­bamos a pasar
 la noche, de todos modos.
 
 278
 00:41:08,299 --> 00:41:13,299
-Deberías irte a casa
+DeberÃ­as irte a casa
 mientras puedas.
 
 279
 00:41:14,839 --> 00:41:17,034
-Espérame, Sosuke.
+EspÃ©rame, Sosuke.
 
 280
 00:41:28,819 --> 00:41:29,945
@@ -1210,8 +1210,8 @@ Yoshie.
 
 281
 00:41:30,921 --> 00:41:35,688
-¡Vaya! Sosuke.
-Está tan oscuro, no puedo verte.
+Â¡Vaya! Sosuke.
+EstÃ¡ tan oscuro, no puedo verte.
 
 282
 00:41:35,826 --> 00:41:38,294
@@ -1219,7 +1219,7 @@ Esto es para ti.
 
 283
 00:41:40,564 --> 00:41:43,499
-Dios mío, ¿qué es?
+Dios mÃ­o, Â¿quÃ© es?
 
 284
 00:41:43,634 --> 00:41:45,261
@@ -1235,30 +1235,30 @@ No puedo ver nada.
 
 287
 00:41:49,607 --> 00:41:52,474
-¡Vaya imprudencia!
+Â¡Vaya imprudencia!
 
 288
 00:41:52,610 --> 00:41:55,579
-No quiero pasar la noche aquí.
+No quiero pasar la noche aquÃ­.
 
 289
 00:41:58,916 --> 00:42:03,717
-- Bien, volvió la luz.
-- ¡Es un pez!
+- Bien, volviÃ³ la luz.
+- Â¡Es un pez!
 
 290
 00:42:03,988 --> 00:42:08,516
-¿Quizá la pececita mágica de Sosuke
-encendió las luces?
+Â¿QuizÃ¡ la pececita mÃ¡gica de Sosuke
+encendiÃ³ las luces?
 
 291
 00:42:08,726 --> 00:42:11,388
-<i>Un micro-tifón
+<i>Un micro-tifÃ³n
 extremadamente poderoso.</i>
 
 292
 00:42:11,562 --> 00:42:14,053
-<i>Los barcos deberían ser muy precavidos.</i>
+<i>Los barcos deberÃ­an ser muy precavidos.</i>
 
 293
 00:42:15,499 --> 00:42:17,228
@@ -1271,11 +1271,11 @@ para pronosticar el tiempo.
 
 295
 00:42:22,506 --> 00:42:24,497
-Deberías ir a casa, Sosuke.
+DeberÃ­as ir a casa, Sosuke.
 
 296
 00:42:25,009 --> 00:42:27,340
-Tu pez nos traerá suerte.
+Tu pez nos traerÃ¡ suerte.
 
 297
 00:42:27,342 --> 00:42:30,141
@@ -1283,12 +1283,12 @@ Ya no tenemos miedo
 
 298
 00:42:38,589 --> 00:42:40,489
-Aquí está el tuyo, Toki.
+AquÃ­ estÃ¡ el tuyo, Toki.
 
 299
 00:42:44,028 --> 00:42:47,395
-Está todo arrugado.
-¿Qué es?
+EstÃ¡ todo arrugado.
+Â¿QuÃ© es?
 
 300
 00:42:47,531 --> 00:42:48,589
@@ -1296,7 +1296,7 @@ De este modo.
 
 301
 00:42:51,168 --> 00:42:53,136
-¡Lo sé!
+Â¡Lo sÃ©!
 Es un saltamontes.
 
 302
@@ -1314,19 +1314,19 @@ Me sigue pareciendo un saltamontes.
 305
 00:43:02,046 --> 00:43:05,948
 Nos vamos, Sosuke.
-Despídete de todas.
+DespÃ­dete de todas.
 
 306
 00:43:08,152 --> 00:43:10,313
-Adiós a todas.
+AdiÃ³s a todas.
 
 307
 00:43:10,554 --> 00:43:12,647
-Adiós.
+AdiÃ³s.
 
 308
 00:43:13,290 --> 00:43:15,724
-¡No dejen que el viento los arrastre!
+Â¡No dejen que el viento los arrastre!
 
 309
 00:43:16,794 --> 00:43:18,455
@@ -1334,29 +1334,29 @@ Sube.
 
 310
 00:43:23,100 --> 00:43:25,000
-Los teléfonos tampoco funcionan.
+Los telÃ©fonos tampoco funcionan.
 
 311
 00:43:48,659 --> 00:43:50,456
-¡El mar está revuelto!
+Â¡El mar estÃ¡ revuelto!
 
 312
 00:43:54,632 --> 00:43:56,827
-¿Se hundirán los barcos?
+Â¿Se hundirÃ¡n los barcos?
 
 313
 00:43:57,234 --> 00:44:01,898
-Están a salvo en el mar.
-Estoy segura de que Koichi está allí.
+EstÃ¡n a salvo en el mar.
+Estoy segura de que Koichi estÃ¡ allÃ­.
 
 314
 00:44:13,550 --> 00:44:17,077
 - Veo peces, Lisa.
-- ¡El cinturón!
+- Â¡El cinturÃ³n!
 
 315
 00:44:28,032 --> 00:44:30,159
-¡Tienes que volver!
+Â¡Tienes que volver!
 
 316
 00:44:30,300 --> 00:44:32,894
@@ -1364,63 +1364,63 @@ La gente va hacia los refugios.
 
 317
 00:44:33,170 --> 00:44:37,607
-¡Pero hay gente
+Â¡Pero hay gente
 en el asilo de ancianos!
 
 318
 00:44:37,875 --> 00:44:41,675
-Estarán bien.
-Están en la ladera de sotavento.
+EstarÃ¡n bien.
+EstÃ¡n en la ladera de sotavento.
 
 319
 00:44:42,346 --> 00:44:45,076
-Sólo tengo que llegar a casa.
+SÃ³lo tengo que llegar a casa.
 
 320
 00:44:45,349 --> 00:44:47,783
-Será mejor que rodees la montaña.
+SerÃ¡ mejor que rodees la montaÃ±a.
 
 321
 00:44:51,021 --> 00:44:52,682
-Aquí vamos, Sosuke.
+AquÃ­ vamos, Sosuke.
 
 322
 00:44:54,124 --> 00:44:55,523
-¡No! ¡Detente!
+Â¡No! Â¡Detente!
 
 323
 00:44:55,659 --> 00:44:57,627
-¡Cuidado con esa ola!
+Â¡Cuidado con esa ola!
 
 324
 00:45:02,933 --> 00:45:03,991
-¡Viene hacia aquí!
+Â¡Viene hacia aquÃ­!
 
 325
 00:45:04,268 --> 00:45:06,600
-¡Escápate, Lisa!
+Â¡EscÃ¡pate, Lisa!
 
 326
 00:45:46,543 --> 00:45:49,569
-- Los peces nos están siguiendo.
-- ¡El cinturón, Sosuke!
+- Los peces nos estÃ¡n siguiendo.
+- Â¡El cinturÃ³n, Sosuke!
 
 327
 00:46:03,360 --> 00:46:04,952
-¡Apriétatelo bien!
+Â¡ApriÃ©tatelo bien!
 
 328
 00:46:57,181 --> 00:46:58,910
-¡Esa ola no se rendirá!
+Â¡Esa ola no se rendirÃ¡!
 
 329
 00:47:09,626 --> 00:47:13,289
-Una niña se cayó.
-Venía corriendo sobre los peces.
+Una niÃ±a se cayÃ³.
+VenÃ­a corriendo sobre los peces.
 
 330
 00:47:18,402 --> 00:47:19,699
-¿Dónde?
+Â¿DÃ³nde?
 
 331
 00:47:28,712 --> 00:47:30,077
@@ -1428,7 +1428,7 @@ El mar sigue creciendo.
 
 332
 00:47:30,347 --> 00:47:32,679
-¿Dónde la viste?
+Â¿DÃ³nde la viste?
 
 333
 00:47:33,016 --> 00:47:35,416
@@ -1436,7 +1436,7 @@ Sobre un pez.
 
 334
 00:47:35,752 --> 00:47:36,776
-¿"Un pez"?
+Â¿"Un pez"?
 
 335
 00:47:41,491 --> 00:47:42,685
@@ -1449,39 +1449,39 @@ Ya casi llegamos a casa.
 
 337
 00:48:56,566 --> 00:48:57,760
-¡Una niña!
+Â¡Una niÃ±a!
 
 338
 00:48:58,035 --> 00:49:01,129
-Aquí, mejor ven con nosotros.
+AquÃ­, mejor ven con nosotros.
 
 339
 00:49:01,605 --> 00:49:03,596
-Quédate aquí, Sosuke.
+QuÃ©date aquÃ­, Sosuke.
 
 340
 00:49:29,066 --> 00:49:31,091
-Sosuke, ¿la conoces?
+Sosuke, Â¿la conoces?
 
 341
 00:49:52,522 --> 00:49:53,750
-¿Ponyo?
+Â¿Ponyo?
 
 342
 00:49:54,691 --> 00:49:56,921
-¡Sí, soy yo!
+Â¡SÃ­, soy yo!
 
 343
 00:49:57,260 --> 00:49:58,955
-¡Eres tú!
+Â¡Eres tÃº!
 
 344
 00:50:00,397 --> 00:50:04,299
-¡Ponyo ahora es una niñita, Lisa!
+Â¡Ponyo ahora es una niÃ±ita, Lisa!
 
 345
 00:50:15,612 --> 00:50:17,580
-¡Lo logré!
+Â¡Lo logrÃ©!
 
 346
 00:50:36,066 --> 00:50:38,933
@@ -1489,7 +1489,7 @@ Escuchen, chicos.
 
 347
 00:50:39,202 --> 00:50:42,603
-No importa lo extraño
+No importa lo extraÃ±o
 que parezca todo...
 
 348
@@ -1498,44 +1498,44 @@ que parezca todo...
 
 349
 00:50:46,209 --> 00:50:47,506
-Pórtense bien.
+PÃ³rtense bien.
 
 350
 00:50:51,248 --> 00:50:53,682
-Quítate tu impermeable, Sosuke.
+QuÃ­tate tu impermeable, Sosuke.
 
 351
 00:50:53,950 --> 00:50:56,510
-Toma, Ponyo, sostén la luz.
+Toma, Ponyo, sostÃ©n la luz.
 
 352
 00:51:01,224 --> 00:51:03,215
-Te traeré una toalla.
+Te traerÃ© una toalla.
 
 353
 00:51:20,510 --> 00:51:21,670
-¡Vamos, Ponyo!
+Â¡Vamos, Ponyo!
 
 354
 00:51:24,081 --> 00:51:26,106
-¡Huele como tú!
+Â¡Huele como tÃº!
 
 355
 00:51:29,886 --> 00:51:30,886
-¡Ponyo!
+Â¡Ponyo!
 
 356
 00:51:35,792 --> 00:51:39,353
-¡La tengo!
+Â¡La tengo!
 Vamos a secarte.
 
 357
 00:51:43,467 --> 00:51:45,662
-¡Qué pelirroja más bonita!
+Â¡QuÃ© pelirroja mÃ¡s bonita!
 
 358
 00:51:48,638 --> 00:51:50,128
-Pero tus ropas están secas.
+Pero tus ropas estÃ¡n secas.
 
 359
 00:51:50,674 --> 00:51:54,633
@@ -1544,60 +1544,60 @@ El agua no la humedece.
 
 360
 00:51:58,381 --> 00:52:00,144
-¡Me gusta esto!
+Â¡Me gusta esto!
 
 361
 00:52:00,484 --> 00:52:03,647
-¡De acuerdo!
-¿Quién quiere una bebida caliente?
+Â¡De acuerdo!
+Â¿QuiÃ©n quiere una bebida caliente?
 
 362
 00:52:03,887 --> 00:52:06,151
-Ayúdame con la luz, Ponyo.
+AyÃºdame con la luz, Ponyo.
 
 363
 00:52:06,356 --> 00:52:07,687
-¡Ya voy!
+Â¡Ya voy!
 
 364
 00:52:08,258 --> 00:52:10,283
-¿Piensas que tendremos agua?
+Â¿Piensas que tendremos agua?
 
 365
 00:52:10,427 --> 00:52:11,427
-¡Claro!
+Â¡Claro!
 
 366
 00:52:11,561 --> 00:52:12,789
-¡Claro!
+Â¡Claro!
 
 367
 00:52:15,599 --> 00:52:16,599
-¡Agua!
+Â¡Agua!
 
 368
 00:52:16,600 --> 00:52:18,261
-¡Agua!
+Â¡Agua!
 
 369
 00:52:18,935 --> 00:52:21,563
-Afuera tenemos un depósito.
+Afuera tenemos un depÃ³sito.
 
 370
 00:52:23,340 --> 00:52:25,433
-¿Y gas?
+Â¿Y gas?
 
 371
 00:52:25,709 --> 00:52:26,869
-<i>¡Presto!</i>
+<i>Â¡Presto!</i>
 
 372
 00:52:27,110 --> 00:52:28,144
-¡Muy bien!
+Â¡Muy bien!
 
 373
 00:52:28,145 --> 00:52:29,145
-¡Muy bien!
+Â¡Muy bien!
 
 374
 00:52:29,279 --> 00:52:31,270
@@ -1605,19 +1605,19 @@ Es propano.
 
 375
 00:52:33,917 --> 00:52:35,680
-De acuerdo, siéntense.
+De acuerdo, siÃ©ntense.
 
 376
 00:52:36,520 --> 00:52:37,714
-¡De acuerdo!
+Â¡De acuerdo!
 
 377
 00:52:37,854 --> 00:52:39,754
-Por aquí, Ponyo.
+Por aquÃ­, Ponyo.
 
 378
 00:52:45,562 --> 00:52:47,120
-Siéntate, así.
+SiÃ©ntate, asÃ­.
 
 379
 00:52:50,300 --> 00:52:52,165
@@ -1629,15 +1629,15 @@ Necesitas tus manos.
 
 381
 00:52:56,373 --> 00:52:57,806
-¡Tengo pies!
+Â¡Tengo pies!
 
 382
 00:53:00,810 --> 00:53:02,072
-¡Vaya!
+Â¡Vaya!
 
 383
 00:53:05,215 --> 00:53:07,206
-¿Qué están haciendo ustedes dos?
+Â¿QuÃ© estÃ¡n haciendo ustedes dos?
 
 384
 00:53:07,450 --> 00:53:10,248
@@ -1645,31 +1645,31 @@ Sus pies son como manos.
 
 385
 00:53:29,773 --> 00:53:31,263
-Ahí tienes.
+AhÃ­ tienes.
 
 386
 00:53:38,782 --> 00:53:40,147
-¡Esto es lo mejor!
+Â¡Esto es lo mejor!
 
 387
 00:54:28,365 --> 00:54:30,526
-Está riquísimo.
+EstÃ¡ riquÃ­simo.
 
 388
 00:54:31,334 --> 00:54:34,269
-¿Qué deberíamos hacer ahora?
+Â¿QuÃ© deberÃ­amos hacer ahora?
 
 389
 00:54:34,704 --> 00:54:36,228
-Quiero jamón.
+Quiero jamÃ³n.
 
 390
 00:54:36,473 --> 00:54:38,668
-El jamón la vuelve loca.
+El jamÃ³n la vuelve loca.
 
 391
 00:54:40,143 --> 00:54:42,202
-Entonces cómanlo.
+Entonces cÃ³manlo.
 
 392
 00:54:42,479 --> 00:54:45,380
@@ -1687,33 +1687,33 @@ Koichi es mi padre.
 
 395
 00:54:53,690 --> 00:54:55,385
-¿Es un hechicero malvado?
+Â¿Es un hechicero malvado?
 
 396
 00:54:55,525 --> 00:54:58,961
 No, tonta.
-Es el capitán de un barco.
+Es el capitÃ¡n de un barco.
 
 397
 00:54:59,629 --> 00:55:01,563
-¿Qué hay de tu padre, Ponyo?
+Â¿QuÃ© hay de tu padre, Ponyo?
 
 398
 00:55:01,931 --> 00:55:04,923
-¡Fujimoto!
+Â¡Fujimoto!
 Me mantuvo prisionera.
 
 399
 00:55:05,869 --> 00:55:08,030
-Me escapé.
+Me escapÃ©.
 
 400
 00:55:09,572 --> 00:55:11,164
-¿Y tu madre?
+Â¿Y tu madre?
 
 401
 00:55:11,574 --> 00:55:14,600
-¡Amo a mi madre!
+Â¡Amo a mi madre!
 
 402
 00:55:15,111 --> 00:55:17,545
@@ -1725,16 +1725,16 @@ Al parecer es como Lisa.
 
 404
 00:55:24,184 --> 00:55:26,049
-¿Puedes ayudarme, Ponyo?
+Â¿Puedes ayudarme, Ponyo?
 
 405
 00:55:42,068 --> 00:55:44,798
-Quizá el combustible
-es demasiado viejo, ¿no?
+QuizÃ¡ el combustible
+es demasiado viejo, Â¿no?
 
 406
 00:55:45,372 --> 00:55:46,566
-¿Está atascado?
+Â¿EstÃ¡ atascado?
 
 407
 00:55:46,740 --> 00:55:47,866
@@ -1742,27 +1742,27 @@ Atascado.
 
 408
 00:55:48,041 --> 00:55:50,305
-Está atascado ahí.
+EstÃ¡ atascado ahÃ­.
 
 409
 00:56:05,292 --> 00:56:06,623
-¡Fantástico!
+Â¡FantÃ¡stico!
 
 410
 00:56:06,927 --> 00:56:08,758
-¡Todo genial!
+Â¡Todo genial!
 
 411
 00:56:10,497 --> 00:56:12,362
-¡Caramba, Ponyo!
+Â¡Caramba, Ponyo!
 
 412
 00:56:30,350 --> 00:56:32,079
-¡Antena! ¡Antena!
+Â¡Antena! Â¡Antena!
 
 413
 00:56:32,219 --> 00:56:35,211
-¿Se hundieron todos los barcos, Lisa?
+Â¿Se hundieron todos los barcos, Lisa?
 
 414
 00:56:36,623 --> 00:56:38,853
@@ -1770,15 +1770,15 @@ No puedo ver ninguna luz.
 
 415
 00:56:56,743 --> 00:56:58,472
-¡Qué ruido!
+Â¡QuÃ© ruido!
 
 416
 00:56:58,745 --> 00:56:59,745
-¿Qué sucede?
+Â¿QuÃ© sucede?
 
 417
 00:57:00,881 --> 00:57:03,349
-Hasta la radio está destrozada.
+Hasta la radio estÃ¡ destrozada.
 
 418
 00:57:04,551 --> 00:57:08,715
@@ -1799,32 +1799,32 @@ Vamos a cenar.
 
 422
 00:57:19,366 --> 00:57:20,731
-¡Jamón!
+Â¡JamÃ³n!
 
 423
 00:57:29,509 --> 00:57:33,377
-¿Preparados?
-Cuidado, está caliente.
+Â¿Preparados?
+Cuidado, estÃ¡ caliente.
 
 424
 00:57:48,862 --> 00:57:50,227
-No está listo todavía.
+No estÃ¡ listo todavÃ­a.
 
 425
 00:57:50,797 --> 00:57:52,458
-Tomará unos tres minutos.
+TomarÃ¡ unos tres minutos.
 
 426
 00:58:07,347 --> 00:58:08,939
-¡Cierren los ojos!
+Â¡Cierren los ojos!
 
 427
 00:58:09,983 --> 00:58:11,610
-¡Todavía no!
+Â¡TodavÃ­a no!
 
 428
 00:58:13,987 --> 00:58:15,887
-No espíes, Ponyo.
+No espÃ­es, Ponyo.
 
 429
 00:58:19,592 --> 00:58:21,617
@@ -1832,11 +1832,11 @@ De acuerdo, ya pueden abrir los ojos.
 
 430
 00:58:22,429 --> 00:58:24,624
-<i>Y... ¡presto!</i>
+<i>Y... Â¡presto!</i>
 
 431
 00:58:30,971 --> 00:58:31,995
-¡Jamón!
+Â¡JamÃ³n!
 
 432
 00:58:32,138 --> 00:58:33,765
@@ -1844,37 +1844,37 @@ Me alegro por ti, Ponyo.
 
 433
 00:58:55,161 --> 00:58:57,186
-Ponyo se durmió.
+Ponyo se durmiÃ³.
 
 434
 00:59:04,437 --> 00:59:06,735
-¿Su hogar está lejos?
+Â¿Su hogar estÃ¡ lejos?
 
 435
 00:59:06,873 --> 00:59:08,864
-Creo que sí.
+Creo que sÃ­.
 
 436
 00:59:24,557 --> 00:59:27,355
 Mira, Sosuke.
-El mar está más calmo.
+El mar estÃ¡ mÃ¡s calmo.
 
 437
 00:59:28,395 --> 00:59:29,862
-¿Porque Ponyo está dormida?
+Â¿Porque Ponyo estÃ¡ dormida?
 
 438
 00:59:29,996 --> 00:59:31,827
-¡Mira allí!
+Â¡Mira allÃ­!
 
 439
 00:59:39,606 --> 00:59:42,166
-Se está moviendo.
-Alguien está allí.
+Se estÃ¡ moviendo.
+Alguien estÃ¡ allÃ­.
 
 440
 00:59:42,642 --> 00:59:44,439
-¿Gente del asilo de ancianos?
+Â¿Gente del asilo de ancianos?
 
 441
 00:59:51,017 --> 00:59:52,143
@@ -1886,33 +1886,33 @@ Es el camino que va a la cima.
 
 443
 00:59:57,724 --> 00:59:59,715
-Sosuke, quédate con Ponyo.
+Sosuke, quÃ©date con Ponyo.
 
 444
 01:00:11,071 --> 01:00:15,064
-Quizá pueda llegar hasta allí
-por la carretera de la montaña.
+QuizÃ¡ pueda llegar hasta allÃ­
+por la carretera de la montaÃ±a.
 
 445
 01:00:17,977 --> 01:00:20,468
-Iré al asilo de ancianos.
+IrÃ© al asilo de ancianos.
 
 446
 01:00:20,613 --> 01:00:21,773
-Yo también iré.
+Yo tambiÃ©n irÃ©.
 
 447
 01:00:23,016 --> 01:00:25,041
-Quédate aquí con Ponyo.
+QuÃ©date aquÃ­ con Ponyo.
 
 448
 01:00:25,285 --> 01:00:28,618
-Yo también iré.
+Yo tambiÃ©n irÃ©.
 Llevaremos a Ponyo con nosotros.
 
 449
 01:00:29,355 --> 01:00:30,788
-¡Iré contigo!
+Â¡IrÃ© contigo!
 
 450
 01:00:33,059 --> 01:00:36,825
@@ -1925,7 +1925,7 @@ Alguien debe quedarse.
 
 452
 01:00:41,167 --> 01:00:43,067
-Están sucediendo muchas cosas
+EstÃ¡n sucediendo muchas cosas
 que no entiendo.
 
 453
@@ -1939,17 +1939,17 @@ la residencia de ancianos.
 
 455
 01:00:54,180 --> 01:00:58,139
-El saber que te quedarás aquí
-me ayudará.
+El saber que te quedarÃ¡s aquÃ­
+me ayudarÃ¡.
 
 456
 01:00:58,351 --> 01:01:01,320
 No te preocupes.
-Prometo que volveré.
+Prometo que volverÃ©.
 
 457
 01:01:02,822 --> 01:01:03,822
-¿Lo prometes?
+Â¿Lo prometes?
 
 458
 01:01:05,291 --> 01:01:06,622
@@ -1957,7 +1957,7 @@ Lo prometo.
 
 459
 01:01:06,759 --> 01:01:08,283
-¡Lo prometiste!
+Â¡Lo prometiste!
 
 460
 01:01:09,229 --> 01:01:10,821
@@ -1965,7 +1965,7 @@ Te quiero, Sosuke.
 
 461
 01:02:05,552 --> 01:02:08,885
-¡Veo las luces del pueblo!
+Â¡Veo las luces del pueblo!
 
 462
 01:02:09,155 --> 01:02:10,155
@@ -1977,68 +1977,68 @@ Ahora podemos navegar.
 
 464
 01:02:12,525 --> 01:02:14,959
-Nunca había visto ese pueblo.
+Nunca habÃ­a visto ese pueblo.
 
 465
 01:02:20,733 --> 01:02:23,531
-¿La tormenta
-nos arrastró hasta América?
+Â¿La tormenta
+nos arrastrÃ³ hasta AmÃ©rica?
 
 466
 01:02:41,287 --> 01:02:44,620
-Eso no es una montaña.
+Eso no es una montaÃ±a.
 Y eso no es un puerto.
 
 467
 01:02:44,991 --> 01:02:46,288
-¡Son barcos!
+Â¡Son barcos!
 
 468
 01:02:56,369 --> 01:02:59,429
-¡La tormenta los apiló en la montaña!
+Â¡La tormenta los apilÃ³ en la montaÃ±a!
 
 469
 01:03:00,006 --> 01:03:04,306
 Es un cementerio de barcos.
-¿Qué sucede?
+Â¿QuÃ© sucede?
 
 470
 01:03:09,415 --> 01:03:10,746
-¡Perdemos energía!
+Â¡Perdemos energÃ­a!
 
 471
 01:03:10,883 --> 01:03:13,875
-¡Póngase al pairo!
-¡Echen el ancla!
+Â¡PÃ³ngase al pairo!
+Â¡Echen el ancla!
 
 472
 01:03:14,020 --> 01:03:15,180
-¡Sí, sí!
+Â¡SÃ­, sÃ­!
 
 473
 01:03:28,501 --> 01:03:30,264
-¡Algo se acerca!
+Â¡Algo se acerca!
 
 474
 01:03:58,264 --> 01:04:00,027
-¡¿Una diosa del mar?!
+Â¡Â¿Una diosa del mar?!
 
 475
 01:04:10,610 --> 01:04:11,634
-¡El motor!
+Â¡El motor!
 
 476
 01:04:11,778 --> 01:04:12,904
-¡Estamos salvados!
+Â¡Estamos salvados!
 
 477
 01:04:13,046 --> 01:04:16,072
-El motor se volvió a encender.
-¡Fue ella!
+El motor se volviÃ³ a encender.
+Â¡Fue ella!
 
 478
 01:04:16,215 --> 01:04:19,776
-Protégenos del daño...
+ProtÃ©genos del daÃ±o...
 
 479
 01:04:47,080 --> 01:04:48,809
@@ -2046,25 +2046,25 @@ Vamos, vamos.
 
 480
 01:05:02,228 --> 01:05:07,165
-¡Una barrera encantada!
-¿Dónde aprendió esto?
+Â¡Una barrera encantada!
+Â¿DÃ³nde aprendiÃ³ esto?
 
 481
 01:05:24,884 --> 01:05:27,648
-Santo Dios... ¡es humana!
+Santo Dios... Â¡es humana!
 
 482
 01:05:28,755 --> 01:05:31,690
-¡Oye, cuidado!
-¿Qué estás haciendo?
+Â¡Oye, cuidado!
+Â¿QuÃ© estÃ¡s haciendo?
 
 483
 01:05:39,732 --> 01:05:42,428
-¡Detente! ¡Esto no es seguro!
+Â¡Detente! Â¡Esto no es seguro!
 
 484
 01:05:45,505 --> 01:05:46,870
-¡Para de una vez!
+Â¡Para de una vez!
 
 485
 01:05:54,647 --> 01:05:57,980
@@ -2073,8 +2073,8 @@ trato de salvar a su hermana.
 
 486
 01:06:03,322 --> 01:06:06,348
-Ella está aquí.
-¡Contestó a mi llamada!
+Ella estÃ¡ aquÃ­.
+Â¡ContestÃ³ a mi llamada!
 
 487
 01:06:43,162 --> 01:06:46,723
@@ -2083,25 +2083,25 @@ Ella está aquí.
 
 488
 01:06:47,567 --> 01:06:49,467
-Qué océano tan lindo.
+QuÃ© ocÃ©ano tan lindo.
 
 489
 01:06:53,272 --> 01:06:58,266
-Tan mágico como mi antiguo mar devónico.
+Tan mÃ¡gico como mi antiguo mar devÃ³nico.
 
 490
 01:06:58,411 --> 01:07:01,073
-¡Es Ponyo!
-Probó la sangre humana...
+Â¡Es Ponyo!
+ProbÃ³ la sangre humana...
 
 491
 01:07:01,214 --> 01:07:04,342
-...y saqueó todo mi elixir.
+...y saqueÃ³ todo mi elixir.
 
 492
 01:07:05,218 --> 01:07:08,949
 "Ponyo".
-Qué nombre encantador.
+QuÃ© nombre encantador.
 
 493
 01:07:14,594 --> 01:07:16,357
@@ -2109,7 +2109,7 @@ Todo es mi culpa.
 
 494
 01:07:17,096 --> 01:07:21,465
-Está totalmente fuera de mi control.
+EstÃ¡ totalmente fuera de mi control.
 Es un completo caos.
 
 495
@@ -2118,20 +2118,20 @@ No entiende lo que ha hecho.
 
 496
 01:07:24,637 --> 01:07:26,373
-¡Ahora es humana...
+Â¡Ahora es humana...
 
 497
 01:07:26,375 --> 01:07:29,974
-...y anda por ahí con su novio!
+...y anda por ahÃ­ con su novio!
 
 498
 01:07:30,843 --> 01:07:34,370
-¡Si no la detenemos,
-el planeta está condenado!
+Â¡Si no la detenemos,
+el planeta estÃ¡ condenado!
 
 499
 01:07:43,289 --> 01:07:46,019
-¡No! Los satélites están cayendo.
+Â¡No! Los satÃ©lites estÃ¡n cayendo.
 
 500
 01:07:46,158 --> 01:07:48,718
@@ -2143,16 +2143,16 @@ Tranquilo.
 
 502
 01:07:58,938 --> 01:08:02,806
-Sosuke. ¿Así se llama, no?
+Sosuke. Â¿AsÃ­ se llama, no?
 
 503
 01:08:06,245 --> 01:08:10,079
-Aman a su hermana, ¿verdad?
+Aman a su hermana, Â¿verdad?
 
 504
 01:08:13,553 --> 01:08:17,284
-Escucha, querido. ¿Y si Ponyo
-realmente se convirtió en humana?
+Escucha, querido. Â¿Y si Ponyo
+realmente se convirtiÃ³ en humana?
 
 505
 01:08:18,157 --> 01:08:19,818
@@ -2161,41 +2161,41 @@ Usa la vieja magia.
 506
 01:08:20,026 --> 01:08:24,793
 Si el amor de Sosuke es real,
-ella perderá su poderes para siempre.
+ella perderÃ¡ su poderes para siempre.
 
 507
 01:08:25,064 --> 01:08:29,558
-¡Pero si no,
-se convertirá en espuma de mar!
+Â¡Pero si no,
+se convertirÃ¡ en espuma de mar!
 
 508
 01:08:29,969 --> 01:08:33,803
-De ahí es de donde
+De ahÃ­ es de donde
 venimos todos, querido.
 
 509
 01:08:33,940 --> 01:08:36,773
-¡Pero sólo tiene cinco años!
+Â¡Pero sÃ³lo tiene cinco aÃ±os!
 
 510
 01:08:42,081 --> 01:08:45,778
-Duerman bien, niños.
+Duerman bien, niÃ±os.
 
 511
 01:08:58,798 --> 01:08:59,924
-¡Sosuke!
+Â¡Sosuke!
 
 512
 01:09:01,400 --> 01:09:02,628
-¡Sosuke!
+Â¡Sosuke!
 
 513
 01:09:08,107 --> 01:09:09,768
-Buenos días, Ponyo.
+Buenos dÃ­as, Ponyo.
 
 514
 01:09:10,142 --> 01:09:12,508
-Buenos días, Sosuke.
+Buenos dÃ­as, Sosuke.
 
 515
 01:09:18,751 --> 01:09:21,311
@@ -2203,20 +2203,20 @@ Casi nos inundamos.
 
 516
 01:09:44,744 --> 01:09:48,771
-- ¿Dónde está Lisa?
-- Debe estar atrapada en algún lugar.
+- Â¿DÃ³nde estÃ¡ Lisa?
+- Debe estar atrapada en algÃºn lugar.
 
 517
 01:09:48,914 --> 01:09:51,747
-Ojalá tuviéramos un barco.
+OjalÃ¡ tuviÃ©ramos un barco.
 
 518
 01:09:54,920 --> 01:09:56,444
-¡Ahí hay una lancha!
+Â¡AhÃ­ hay una lancha!
 
 519
 01:09:58,658 --> 01:09:59,852
-No podemos cambiar su tamaño.
+No podemos cambiar su tamaÃ±o.
 
 520
 01:09:59,992 --> 01:10:01,619
@@ -2224,11 +2224,11 @@ Podemos.
 
 521
 01:10:17,410 --> 01:10:18,502
-¡Asombroso!
+Â¡Asombroso!
 
 522
 01:10:20,479 --> 01:10:23,471
-La vela también es más grande.
+La vela tambiÃ©n es mÃ¡s grande.
 
 523
 01:10:23,616 --> 01:10:24,913
@@ -2236,11 +2236,11 @@ Podemos ajustarla.
 
 524
 01:10:25,051 --> 01:10:26,279
-¡Es genial!
+Â¡Es genial!
 
 525
 01:10:26,485 --> 01:10:27,782
-¡Genial!
+Â¡Genial!
 
 526
 01:10:27,920 --> 01:10:29,080
@@ -2248,19 +2248,19 @@ Toma ese lado.
 
 527
 01:10:32,958 --> 01:10:34,084
-¿Lista?
+Â¿Lista?
 
 528
 01:10:34,393 --> 01:10:35,621
-¡Lista!
+Â¡Lista!
 
 529
 01:10:48,741 --> 01:10:50,402
-Está lista para navegar.
+EstÃ¡ lista para navegar.
 
 530
 01:10:52,712 --> 01:10:55,112
-Perfecto. ¡No hace agua!
+Perfecto. Â¡No hace agua!
 
 531
 01:10:55,247 --> 01:10:57,681
@@ -2268,7 +2268,7 @@ Ahora llenamos la caldera.
 
 532
 01:10:58,384 --> 01:11:00,852
-El agua va aquí.
+El agua va aquÃ­.
 
 533
 01:11:01,353 --> 01:11:03,947
@@ -2276,7 +2276,7 @@ Va dentro de la caldera.
 
 534
 01:11:31,317 --> 01:11:32,978
-¡Es como un cohete!
+Â¡Es como un cohete!
 
 535
 01:11:40,192 --> 01:11:41,625
@@ -2288,47 +2288,47 @@ En orden.
 
 537
 01:11:44,130 --> 01:11:45,130
-¿En orden?
+Â¿En orden?
 
 538
 01:11:45,264 --> 01:11:46,264
-¡En orden!
+Â¡En orden!
 
 539
 01:11:46,265 --> 01:11:48,927
-¡En orden! ¡En orden!
+Â¡En orden! Â¡En orden!
 
 540
 01:12:12,024 --> 01:12:13,150
-¿Está caliente?
+Â¿EstÃ¡ caliente?
 
 541
 01:12:13,292 --> 01:12:14,554
-¡Caliente!
+Â¡Caliente!
 
 542
 01:12:19,298 --> 01:12:21,027
-¡Está caliente!
+Â¡EstÃ¡ caliente!
 
 543
 01:12:24,003 --> 01:12:26,631
-La vela está encendida. Está encendida.
+La vela estÃ¡ encendida. EstÃ¡ encendida.
 
 544
 01:12:26,906 --> 01:12:30,307
-¡Caliente, caliente, caliente!
+Â¡Caliente, caliente, caliente!
 
 545
 01:12:37,917 --> 01:12:39,782
-¡Está caliente!
+Â¡EstÃ¡ caliente!
 
 546
 01:12:50,696 --> 01:12:51,993
-¡Grandioso!
+Â¡Grandioso!
 
 547
 01:12:53,833 --> 01:12:56,666
-¡Estamos listos, Sosuke!
+Â¡Estamos listos, Sosuke!
 
 548
 01:12:56,936 --> 01:12:58,733
@@ -2340,20 +2340,20 @@ Es muy divertido.
 
 550
 01:13:09,481 --> 01:13:12,075
-Está caliente, Sosuke.
+EstÃ¡ caliente, Sosuke.
 
 551
 01:13:12,551 --> 01:13:14,678
-Está muy caliente.
+EstÃ¡ muy caliente.
 
 552
 01:13:15,421 --> 01:13:19,187
-Mantén la vista al frente.
+MantÃ©n la vista al frente.
 Voy a virar la lancha.
 
 553
 01:13:19,725 --> 01:13:21,386
-Muy bien, seré la vigía.
+Muy bien, serÃ© la vigÃ­a.
 
 554
 01:13:48,454 --> 01:13:49,978
@@ -2361,7 +2361,7 @@ Hay un camino.
 
 555
 01:13:50,122 --> 01:13:52,113
-Es el camino que tomó Lisa.
+Es el camino que tomÃ³ Lisa.
 
 556
 01:13:54,660 --> 01:13:56,252
@@ -2369,20 +2369,20 @@ No la veo.
 
 557
 01:13:56,629 --> 01:14:00,065
-La verás.
-Ella me lo prometió.
+La verÃ¡s.
+Ella me lo prometiÃ³.
 
 558
 01:14:04,837 --> 01:14:08,068
-Peces primitivos... ¡de la Era Devónica!
+Peces primitivos... Â¡de la Era DevÃ³nica!
 
 559
 01:14:08,207 --> 01:14:10,300
-Ahí hay un Bothriolepis.
+AhÃ­ hay un Bothriolepis.
 
 560
 01:14:15,447 --> 01:14:16,505
-Ése de ahí es--
+Ã‰se de ahÃ­ es--
 
 561
 01:14:16,782 --> 01:14:17,782
@@ -2390,11 +2390,11 @@ El Dipnorhynchus.
 
 562
 01:14:17,950 --> 01:14:19,417
-¡Dipnorhynchus!
+Â¡Dipnorhynchus!
 
 563
 01:14:19,618 --> 01:14:21,882
-Ése es bastante grande.
+Ã‰se es bastante grande.
 
 564
 01:14:22,154 --> 01:14:23,849
@@ -2402,35 +2402,35 @@ Es un Devonynchus.
 
 565
 01:14:24,056 --> 01:14:26,217
-¡Devonynchus!
+Â¡Devonynchus!
 
 566
 01:14:32,564 --> 01:14:34,828
-¡Hola!
+Â¡Hola!
 
 567
 01:14:38,137 --> 01:14:39,137
-¡Un bote!
+Â¡Un bote!
 
 568
 01:14:40,239 --> 01:14:41,831
-¡Hola!
+Â¡Hola!
 
 569
 01:14:43,142 --> 01:14:44,837
-Nos están llamando.
+Nos estÃ¡n llamando.
 
 570
 01:14:46,045 --> 01:14:47,842
-¡Hola!
+Â¡Hola!
 
 571
 01:14:49,715 --> 01:14:50,977
-¡Vaya!
+Â¡Vaya!
 
 572
 01:14:58,157 --> 01:14:59,488
-¿Bastante bien, no?
+Â¿Bastante bien, no?
 
 573
 01:15:03,262 --> 01:15:04,854
@@ -2442,15 +2442,15 @@ Hola.
 
 575
 01:15:13,405 --> 01:15:16,067
-¡Qué linda lancha tienen!
+Â¡QuÃ© linda lancha tienen!
 
 576
 01:15:16,275 --> 01:15:19,267
-Vaya, eres el pequeño de Lisa.
+Vaya, eres el pequeÃ±o de Lisa.
 
 577
 01:15:19,578 --> 01:15:22,069
-Él no es pequeño, es Sosuke.
+Ã‰l no es pequeÃ±o, es Sosuke.
 
 578
 01:15:22,281 --> 01:15:23,805
@@ -2462,7 +2462,7 @@ Antes era un pez.
 
 580
 01:15:27,252 --> 01:15:28,685
-¿Un "pez?
+Â¿Un "pez?
 
 581
 01:15:29,488 --> 01:15:31,388
@@ -2470,35 +2470,35 @@ Ponyo... bonito nombre.
 
 582
 01:15:33,726 --> 01:15:35,626
-¿Han visto a Lisa?
+Â¿Han visto a Lisa?
 
 583
 01:15:35,828 --> 01:15:37,159
-¿Lisa?
+Â¿Lisa?
 
 584
 01:15:38,163 --> 01:15:39,824
-¿No está contigo?
+Â¿No estÃ¡ contigo?
 
 585
 01:15:39,965 --> 01:15:41,262
-Está en el asilo.
+EstÃ¡ en el asilo.
 
 586
 01:15:41,400 --> 01:15:42,765
-¿El asilo de ancianos?
+Â¿El asilo de ancianos?
 
 587
 01:15:42,968 --> 01:15:44,401
-Él es mi bebé.
+Ã‰l es mi bebÃ©.
 
 588
 01:16:14,400 --> 01:16:16,925
-Dios mío. ¿Qué sucede?
+Dios mÃ­o. Â¿QuÃ© sucede?
 
 589
 01:16:22,908 --> 01:16:24,535
-¿Es para nosotros?
+Â¿Es para nosotros?
 
 590
 01:16:38,490 --> 01:16:40,219
@@ -2514,32 +2514,32 @@ Probemos.
 
 593
 01:16:52,371 --> 01:16:54,032
-¡Está delicioso!
+Â¡EstÃ¡ delicioso!
 
 594
 01:16:54,673 --> 01:16:56,573
-La preparó Lisa.
+La preparÃ³ Lisa.
 
 595
 01:16:57,009 --> 01:16:58,306
-Es para el bebé.
+Es para el bebÃ©.
 
 596
 01:16:59,078 --> 01:17:04,038
-Lo siento. Todavía no puede tomar sopa.
+Lo siento. TodavÃ­a no puede tomar sopa.
 
 597
 01:17:04,316 --> 01:17:08,309
-Pero esto me ayudará
+Pero esto me ayudarÃ¡
 a poder darle leche.
 
 598
 01:17:10,556 --> 01:17:12,820
-Lisa también me amamantó.
+Lisa tambiÃ©n me amamantÃ³.
 
 599
 01:17:13,425 --> 01:17:16,656
-¿Puedo tomar la sopa, Ponyo?
+Â¿Puedo tomar la sopa, Ponyo?
 
 600
 01:17:16,795 --> 01:17:18,660
@@ -2555,15 +2555,15 @@ Gente del pueblo. Parece un festival.
 
 603
 01:17:41,787 --> 01:17:46,247
-¡Uds. ahí! ¿Necesitan ayuda?
+Â¡Uds. ahÃ­! Â¿Necesitan ayuda?
 
 604
 01:17:46,725 --> 01:17:51,492
-¡Gracias, por el momento estamos bien!
+Â¡Gracias, por el momento estamos bien!
 
 605
 01:17:52,030 --> 01:17:54,590
-Entonces, por favor, sígannos.
+Entonces, por favor, sÃ­gannos.
 
 606
 01:17:54,800 --> 01:17:57,735
@@ -2572,15 +2572,15 @@ en la cima.
 
 607
 01:17:58,003 --> 01:18:00,904
-¡Muy bien! Los seguiremos.
+Â¡Muy bien! Los seguiremos.
 
 608
 01:18:02,474 --> 01:18:03,907
-Todo el pueblo está aquí.
+Todo el pueblo estÃ¡ aquÃ­.
 
 609
 01:18:04,109 --> 01:18:06,634
-Espero que todos estén bien.
+Espero que todos estÃ©n bien.
 
 610
 01:18:06,845 --> 01:18:10,303
@@ -2589,7 +2589,7 @@ Espero que todos estén bien.
 
 611
 01:18:16,021 --> 01:18:17,021
-¡Leche!
+Â¡Leche!
 
 612
 01:18:17,990 --> 01:18:19,389
@@ -2597,37 +2597,37 @@ Cielos.
 
 613
 01:18:20,425 --> 01:18:21,483
-¡Leche!
+Â¡Leche!
 
 614
 01:18:21,627 --> 01:18:24,118
-Se comió todo el jamón.
+Se comiÃ³ todo el jamÃ³n.
 
 615
 01:18:24,263 --> 01:18:27,164
 Gracias.
-Esto me ayudará a amamantar bien.
+Esto me ayudarÃ¡ a amamantar bien.
 
 616
 01:18:27,399 --> 01:18:31,529
-¿Necesitas otra vela
+Â¿Necesitas otra vela
 para tu barco, Sosuke?
 
 617
 01:18:31,670 --> 01:18:35,003
-Gracias. Ponyo la agrandará.
+Gracias. Ponyo la agrandarÃ¡.
 
 618
 01:18:35,974 --> 01:18:37,032
-¡Tengan cuidado!
+Â¡Tengan cuidado!
 
 619
 01:18:37,176 --> 01:18:38,803
-¡Gracias a los dos!
+Â¡Gracias a los dos!
 
 620
 01:18:44,783 --> 01:18:46,341
-¿Qué sucede, cariño?
+Â¿QuÃ© sucede, cariÃ±o?
 
 621
 01:18:50,889 --> 01:18:52,413
@@ -2635,16 +2635,16 @@ No llores.
 
 622
 01:19:11,510 --> 01:19:13,102
-¡Ponyo!
+Â¡Ponyo!
 
 623
 01:19:25,891 --> 01:19:27,381
-¡Sosuke!
+Â¡Sosuke!
 
 624
 01:19:29,361 --> 01:19:32,228
-- ¿Dónde está Lisa?
-- ¿No estaba contigo?
+- Â¿DÃ³nde estÃ¡ Lisa?
+- Â¿No estaba contigo?
 
 625
 01:19:32,497 --> 01:19:35,694
@@ -2652,11 +2652,11 @@ Voy a ir a buscarla.
 
 626
 01:19:35,968 --> 01:19:39,335
-¿Sobrevivió a la ola?
+Â¿SobreviviÃ³ a la ola?
 
 627
 01:19:39,805 --> 01:19:42,433
-Sosuke, llévame contigo.
+Sosuke, llÃ©vame contigo.
 
 628
 01:19:42,841 --> 01:19:45,537
@@ -2670,8 +2670,8 @@ evacuados hacia el parque.
 
 630
 01:19:49,414 --> 01:19:51,609
-- ¡Tengan cuidado!
-- ¡Uds. pueden hacerlo!
+- Â¡Tengan cuidado!
+- Â¡Uds. pueden hacerlo!
 
 631
 01:19:52,084 --> 01:19:55,747
@@ -2680,7 +2680,7 @@ para que pase a buscarlos.
 
 632
 01:19:55,988 --> 01:19:58,218
-¡Buena suerte, Capitán!
+Â¡Buena suerte, CapitÃ¡n!
 
 633
 01:20:47,272 --> 01:20:50,139
@@ -2693,32 +2693,32 @@ Tengo otra.
 
 635
 01:20:57,916 --> 01:21:00,885
-¡Todavía está caliente!
+Â¡TodavÃ­a estÃ¡ caliente!
 
 636
 01:21:05,991 --> 01:21:08,653
-Adiós.
+AdiÃ³s.
 
 637
 01:21:09,461 --> 01:21:12,828
-¿Podrías agrandar ésta vela?
+Â¿PodrÃ­as agrandar Ã©sta vela?
 
 638
 01:21:13,031 --> 01:21:14,498
-Está bien.
+EstÃ¡ bien.
 
 639
 01:21:20,038 --> 01:21:22,905
-¿Tienes sueño, Ponyo?
+Â¿Tienes sueÃ±o, Ponyo?
 
 640
 01:21:30,082 --> 01:21:31,310
-¡Ponyo!
+Â¡Ponyo!
 
 641
 01:21:47,265 --> 01:21:48,926
-¡Ponyo!
-¡Ponyo!
+Â¡Ponyo!
+Â¡Ponyo!
 
 642
 01:22:46,858 --> 01:22:49,326
@@ -2727,19 +2727,19 @@ puedo caminar.
 
 643
 01:23:15,821 --> 01:23:17,288
-¡Un camino!
+Â¡Un camino!
 
 644
 01:23:29,968 --> 01:23:31,230
-¡Se está encogiendo!
+Â¡Se estÃ¡ encogiendo!
 
 645
 01:23:32,904 --> 01:23:34,303
-¡Ponyo!
+Â¡Ponyo!
 
 646
 01:23:56,127 --> 01:23:58,152
-¡Despierta, Ponyo!
+Â¡Despierta, Ponyo!
 
 647
 01:24:00,832 --> 01:24:02,595
@@ -2751,48 +2751,48 @@ No me asustes.
 
 649
 01:24:10,208 --> 01:24:13,268
-Pensé que te estabas
+PensÃ© que te estabas
 convirtiendo en pez.
 
 650
 01:24:25,524 --> 01:24:26,524
-¡El auto de Lisa!
+Â¡El auto de Lisa!
 
 651
 01:24:26,925 --> 01:24:29,086
-Ése es su auto, Ponyo.
+Ã‰se es su auto, Ponyo.
 
 652
 01:24:32,998 --> 01:24:34,795
-¡Lisa!
+Â¡Lisa!
 
 653
 01:24:38,169 --> 01:24:39,169
-¡Lisa!
+Â¡Lisa!
 
 654
 01:24:43,108 --> 01:24:44,837
-¡Lisa!
+Â¡Lisa!
 
 655
 01:24:47,012 --> 01:24:48,741
-¡Lisa!
+Â¡Lisa!
 
 656
 01:24:57,188 --> 01:24:59,349
-¡Lisa!
+Â¡Lisa!
 
 657
 01:25:02,027 --> 01:25:03,619
-¡Lisa!
+Â¡Lisa!
 
 658
 01:25:32,123 --> 01:25:34,421
-Aquí está tu lancha.
+AquÃ­ estÃ¡ tu lancha.
 
 659
 01:25:34,593 --> 01:25:37,528
-Tus ojos están húmedos.
+Tus ojos estÃ¡n hÃºmedos.
 
 660
 01:25:44,235 --> 01:25:46,203
@@ -2800,35 +2800,35 @@ Busquemos a Lisa.
 
 661
 01:26:33,485 --> 01:26:36,352
-- ¡Olvidaste tu chal!
-- ¿Quién lo necesita?
+- Â¡Olvidaste tu chal!
+- Â¿QuiÃ©n lo necesita?
 
 662
 01:26:36,488 --> 01:26:38,979
-¡Miren, es una ballena!
+Â¡Miren, es una ballena!
 
 663
 01:26:39,991 --> 01:26:43,586
-- ¡Mis rodillas no me duelen más!
-- ¿A qué le teníamos tanto miedo?
+- Â¡Mis rodillas no me duelen mÃ¡s!
+- Â¿A quÃ© le tenÃ­amos tanto miedo?
 
 664
 01:26:45,630 --> 01:26:49,031
-- ¿Esto es el Más Allá?
-- ¿Qué importa? Es maravilloso.
+- Â¿Esto es el MÃ¡s AllÃ¡?
+- Â¿QuÃ© importa? Es maravilloso.
 
 665
 01:26:51,403 --> 01:26:54,463
-¡Atención por favor!
-Reúnanse.
+Â¡AtenciÃ³n por favor!
+ReÃºnanse.
 
 666
 01:26:54,773 --> 01:26:56,070
-¡Ya vamos!
+Â¡Ya vamos!
 
 667
 01:26:56,207 --> 01:26:57,868
-¿Corremos?
+Â¿Corremos?
 
 668
 01:27:00,111 --> 01:27:02,102
@@ -2836,46 +2836,46 @@ Es tan lindo correr.
 
 669
 01:27:02,380 --> 01:27:04,280
-¡Nos encontramos allí!
+Â¡Nos encontramos allÃ­!
 
 670
 01:27:07,452 --> 01:27:09,386
-¡La ganadora!
+Â¡La ganadora!
 
 671
 01:27:11,456 --> 01:27:13,720
-Eres tan rápida, Kayo.
+Eres tan rÃ¡pida, Kayo.
 
 672
 01:27:14,492 --> 01:27:16,187
-¡Silencio, todo el mundo!
+Â¡Silencio, todo el mundo!
 
 673
 01:27:17,062 --> 01:27:19,326
 El momento de la verdad
-está cerca.
+estÃ¡ cerca.
 
 674
 01:27:19,564 --> 01:27:22,032
 Sosuke y Ponyo
-están por llegar aquí.
+estÃ¡n por llegar aquÃ­.
 
 675
 01:27:22,167 --> 01:27:23,600
-Es tan romántico.
+Es tan romÃ¡ntico.
 
 676
 01:27:23,735 --> 01:27:27,933
-- ¿Triunfará el amor?
-- ¡Estoy tan emocionada!
+- Â¿TriunfarÃ¡ el amor?
+- Â¡Estoy tan emocionada!
 
 677
 01:27:29,374 --> 01:27:30,602
-¡Silencio!
+Â¡Silencio!
 
 678
 01:27:30,742 --> 01:27:33,541
-Muy pronto serán testigos...
+Muy pronto serÃ¡n testigos...
 
 679
 01:27:33,543 --> 01:27:35,942
@@ -2883,55 +2883,55 @@ Muy pronto serán testigos...
 
 680
 01:27:37,315 --> 01:27:41,718
-Sr. Fujimoto, ¿Ud. no estará
+Sr. Fujimoto, Â¿Ud. no estarÃ¡
 tramando algo, verdad?
 
 681
 01:27:41,920 --> 01:27:44,889
-Tonterías, él es su padre.
+TonterÃ­as, Ã©l es su padre.
 
 682
 01:27:45,090 --> 01:27:49,356
-No tendrán problemas...
+No tendrÃ¡n problemas...
 si ella no despierta.
 
 683
 01:27:49,527 --> 01:27:51,222
-¡Ahora, discúlpenme!
+Â¡Ahora, discÃºlpenme!
 
 684
 01:27:59,537 --> 01:28:01,835
-Ojalá pudiera creerle.
+OjalÃ¡ pudiera creerle.
 
 685
 01:28:01,973 --> 01:28:04,407
-¿Adónde se fue Lisa?
+Â¿AdÃ³nde se fue Lisa?
 
 686
 01:28:04,576 --> 01:28:09,309
-Hace bastante tiempo que está hablando
+Hace bastante tiempo que estÃ¡ hablando
 con la madre de Ponyo.
 
 687
 01:28:17,355 --> 01:28:19,915
-Espero que esté bien.
+Espero que estÃ© bien.
 
 688
 01:28:20,058 --> 01:28:22,652
-¿De que hablarán?
+Â¿De que hablarÃ¡n?
 
 689
 01:28:22,794 --> 01:28:25,456
-Averigüémoslo.
-¡Lisa!
+AverigÃ¼Ã©moslo.
+Â¡Lisa!
 
 690
 01:28:25,597 --> 01:28:28,828
-¡Lisa!
+Â¡Lisa!
 
 691
 01:28:34,405 --> 01:28:36,368
-¡Todas estamos alentando...
+Â¡Todas estamos alentando...
 
 692
 01:28:36,370 --> 01:28:41,369
@@ -2939,25 +2939,25 @@ Averigüémoslo.
 
 693
 01:28:54,692 --> 01:28:55,886
-¡Lisa!
+Â¡Lisa!
 
 694
 01:28:56,027 --> 01:28:59,519
 - Debes estar preocupada.
-- Sosuke estará bien.
+- Sosuke estarÃ¡ bien.
 
 695
 01:28:59,664 --> 01:29:02,292
-Es un niño fuerte.
+Es un niÃ±o fuerte.
 
 696
 01:29:03,268 --> 01:29:06,863
 Gracias a todas.
-Él necesitará su apoyo.
+Ã‰l necesitarÃ¡ su apoyo.
 
 697
 01:29:15,580 --> 01:29:17,548
-Ponyo, es un túnel.
+Ponyo, es un tÃºnel.
 
 698
 01:29:25,723 --> 01:29:28,556
@@ -2965,11 +2965,11 @@ ALTO
 
 699
 01:29:33,164 --> 01:29:35,325
-Ya estuve aquí.
+Ya estuve aquÃ­.
 
 700
 01:29:36,434 --> 01:29:37,560
-¿Ponyo?
+Â¿Ponyo?
 
 701
 01:29:37,969 --> 01:29:39,903
@@ -2981,31 +2981,31 @@ No sueltes mi mano.
 
 703
 01:30:24,082 --> 01:30:25,413
-¡Ponyo!
+Â¡Ponyo!
 
 704
 01:30:44,569 --> 01:30:45,569
-¡Ponyo!
+Â¡Ponyo!
 
 705
 01:30:53,912 --> 01:30:54,912
-¡Ponyo!
+Â¡Ponyo!
 
 706
 01:31:16,834 --> 01:31:19,132
-¡Por favor, no te mueras!
+Â¡Por favor, no te mueras!
 
 707
 01:31:19,570 --> 01:31:21,265
-¡Ponyo!
+Â¡Ponyo!
 
 708
 01:31:22,073 --> 01:31:24,541
-¡Despierta, Ponyo!
+Â¡Despierta, Ponyo!
 
 709
 01:31:24,676 --> 01:31:27,270
-Calla. Déjala dormir.
+Calla. DÃ©jala dormir.
 
 710
 01:31:28,346 --> 01:31:30,314
@@ -3015,16 +3015,16 @@ por ti, Sosuke.
 711
 01:31:30,448 --> 01:31:33,781
 Lisa y las abuelas
-también esperan.
+tambiÃ©n esperan.
 
 712
 01:31:34,752 --> 01:31:35,776
-¡¿Lisa?!
+Â¡Â¿Lisa?!
 
 713
 01:31:35,987 --> 01:31:39,423
-¿Vendrán conmigo?
-Tú y Ponyo.
+Â¿VendrÃ¡n conmigo?
+TÃº y Ponyo.
 
 714
 01:31:42,193 --> 01:31:44,923
@@ -3032,47 +3032,47 @@ No la despertemos.
 
 715
 01:31:45,063 --> 01:31:47,224
-¡Sosuke!
+Â¡Sosuke!
 
 716
 01:31:47,598 --> 01:31:50,499
-¡No lo escuches!
+Â¡No lo escuches!
 
 717
 01:31:51,102 --> 01:31:54,600
-Engañó a todos
-para que vayan con él.
+EngaÃ±Ã³ a todos
+para que vayan con Ã©l.
 
 718
 01:31:54,605 --> 01:31:58,141
-- ¡Toky!
-- ¡Pero a mí no me engañó!
+- Â¡Toky!
+- Â¡Pero a mÃ­ no me engaÃ±Ã³!
 
 719
 01:31:58,176 --> 01:32:01,805
-Te aseguro que no tenemos más tiempo.
+Te aseguro que no tenemos mÃ¡s tiempo.
 
 720
 01:32:01,807 --> 01:32:03,705
-¿No ves lo que ocurre?
+Â¿No ves lo que ocurre?
 
 721
 01:32:03,848 --> 01:32:07,375
-¡Si la Luna se acerca más,
-será nuestro fin!
+Â¡Si la Luna se acerca mÃ¡s,
+serÃ¡ nuestro fin!
 
 722
 01:32:07,752 --> 01:32:10,778
-¿Es lo mejor que puedes hacer?
+Â¿Es lo mejor que puedes hacer?
 
 723
 01:32:11,255 --> 01:32:13,655
-¡Sosuke, ven aquí!
+Â¡Sosuke, ven aquÃ­!
 
 724
 01:32:13,858 --> 01:32:17,294
-Escúchame, Sosuke.
-Eres la última esperanza del planeta.
+EscÃºchame, Sosuke.
+Eres la Ãºltima esperanza del planeta.
 
 725
 01:32:17,428 --> 01:32:19,362
@@ -3080,65 +3080,65 @@ No me hagas usar la fuerza.
 
 726
 01:32:20,832 --> 01:32:21,992
-¡Ponyo!
+Â¡Ponyo!
 
 727
 01:32:23,568 --> 01:32:26,196
-¿Es así como tratas a tu padre?
+Â¿Es asÃ­ como tratas a tu padre?
 
 728
 01:32:33,044 --> 01:32:34,306
-¡Ponyo!
+Â¡Ponyo!
 
 729
 01:32:34,445 --> 01:32:37,039
-¡Corre, Sosuke!
+Â¡Corre, Sosuke!
 
 730
 01:32:37,181 --> 01:32:39,411
-¡No entiendes!
+Â¡No entiendes!
 
 731
 01:32:44,489 --> 01:32:46,150
-¡Puedes hacerlo!
+Â¡Puedes hacerlo!
 
 732
 01:32:48,259 --> 01:32:49,658
-¡Salta!
+Â¡Salta!
 
 733
 01:33:28,966 --> 01:33:30,263
-¿Ahora qué?
+Â¿Ahora quÃ©?
 
 734
 01:34:25,189 --> 01:34:26,189
-¡Lisa!
+Â¡Lisa!
 
 735
 01:34:26,257 --> 01:34:27,451
-¡Sosuke!
+Â¡Sosuke!
 
 736
 01:34:27,692 --> 01:34:28,852
-¡Ponyo!
+Â¡Ponyo!
 
 737
 01:34:33,898 --> 01:34:37,425
-- Miren allí.
-- ¿Dónde estamos?
+- Miren allÃ­.
+- Â¿DÃ³nde estamos?
 
 738
 01:34:47,812 --> 01:34:49,939
-Así que tú eres Sosuke.
+AsÃ­ que tÃº eres Sosuke.
 
 739
 01:34:50,148 --> 01:34:53,481
 Hola.
-¿Eres la madre de Ponyo?
+Â¿Eres la madre de Ponyo?
 
 740
 01:34:53,751 --> 01:34:54,751
-Sí.
+SÃ­.
 
 741
 01:34:55,186 --> 01:34:59,680
@@ -3147,11 +3147,11 @@ a mi hija.
 
 742
 01:35:00,324 --> 01:35:03,685
-Ponyo quiere ser como tú...
+Ponyo quiere ser como tÃº...
 
 743
 01:35:03,687 --> 01:35:05,785
-...pero ella liberó un terrible poder.
+...pero ella liberÃ³ un terrible poder.
 
 744
 01:35:06,864 --> 01:35:10,866
@@ -3164,36 +3164,36 @@ debe ser amada...
 
 746
 01:35:14,305 --> 01:35:18,366
-¿Sabes que Ponyo era un pez?
+Â¿Sabes que Ponyo era un pez?
 
 747
 01:35:18,609 --> 01:35:19,609
-Sí.
+SÃ­.
 
 748
 01:35:19,710 --> 01:35:23,669
-Tu sangre la humanizó... casi.
+Tu sangre la humanizÃ³... casi.
 
 749
 01:35:23,814 --> 01:35:24,814
-¡Eso es cierto!
+Â¡Eso es cierto!
 
 750
 01:35:24,916 --> 01:35:28,374
-Ponyo lamió mi herida
-y la curó.
+Ponyo lamiÃ³ mi herida
+y la curÃ³.
 
 751
 01:35:28,519 --> 01:35:30,919
-¡Por eso es que ella cambió!
+Â¡Por eso es que ella cambiÃ³!
 
 752
 01:35:32,023 --> 01:35:35,686
-¿Puedes aceptarla tal como es?
+Â¿Puedes aceptarla tal como es?
 
 753
 01:35:36,027 --> 01:35:38,086
-Siempre amaré a Ponyo...
+Siempre amarÃ© a Ponyo...
 
 754
 01:35:38,262 --> 01:35:40,787
@@ -3219,7 +3219,7 @@ debes renunciar a tus poderes.
 
 759
 01:36:25,176 --> 01:36:26,837
-¿Puedes hacerlo?
+Â¿Puedes hacerlo?
 
 760
 01:36:37,054 --> 01:36:40,751
@@ -3228,27 +3228,27 @@ besa esta burbuja...
 
 761
 01:36:40,891 --> 01:36:45,260
-...y Ponyo será una niñita.
+...y Ponyo serÃ¡ una niÃ±ita.
 
 762
 01:36:48,065 --> 01:36:50,363
-¡Bien hecho, Ponyo!
+Â¡Bien hecho, Ponyo!
 
 763
 01:36:51,068 --> 01:36:53,730
-¡Gracias, mamá de Ponyo!
+Â¡Gracias, mamÃ¡ de Ponyo!
 
 764
 01:36:59,577 --> 01:37:03,172
-Ahora el planeta otra vez está a salvo.
+Ahora el planeta otra vez estÃ¡ a salvo.
 
 765
 01:37:06,350 --> 01:37:08,443
-¡Espléndido, Sosuke!
+Â¡EsplÃ©ndido, Sosuke!
 
 766
 01:37:14,659 --> 01:37:16,354
-¡Sosuke!
+Â¡Sosuke!
 
 767
 01:37:40,284 --> 01:37:42,115
@@ -3260,12 +3260,12 @@ Gracias, Gran Mamare.
 
 769
 01:37:56,600 --> 01:37:59,865
-¡Allí están!
-¿Están bien?
+Â¡AllÃ­ estÃ¡n!
+Â¿EstÃ¡n bien?
 
 770
 01:38:04,842 --> 01:38:06,810
-Esperen, iré a buscar
+Esperen, irÃ© a buscar
 las sillas de rueda.
 
 771
@@ -3287,7 +3287,7 @@ Gracias.
 775
 01:38:20,758 --> 01:38:24,694
 Espero que me perdones.
-¿Puedo darte la mano?
+Â¿Puedo darte la mano?
 
 776
 01:38:30,434 --> 01:38:32,493
@@ -3295,21 +3295,21 @@ Cuida bien de ella.
 
 777
 01:38:34,805 --> 01:38:36,705
-¡Es Koichi!
+Â¡Es Koichi!
 
 778
 01:38:40,911 --> 01:38:42,970
-¡Koichi!
+Â¡Koichi!
 
 779
 01:38:46,484 --> 01:38:49,851
-¡Es Lisa!
-¡Y allí está Sosuke!
+Â¡Es Lisa!
+Â¡Y allÃ­ estÃ¡ Sosuke!
 
 780
 01:38:52,189 --> 01:38:55,317
 Mira, Ponyo.
-¡Es Koichi!
+Â¡Es Koichi!
 
 781
 01:39:16,182 --> 01:39:19,674
@@ -3323,11 +3323,11 @@ de las profundidades marinas #
 783
 01:39:24,054 --> 01:39:27,546
 # Ponyo, Ponyo, Ponyo,
-es una niñita #
+es una niÃ±ita #
 
 784
 01:39:27,825 --> 01:39:32,023
-# Es una niñita con pancita redonda #
+# Es una niÃ±ita con pancita redonda #
 
 785
 01:39:40,070 --> 01:39:43,870
@@ -3340,34 +3340,34 @@ Voy a correr #
 
 787
 01:39:48,212 --> 01:39:51,807
-# Aprieta-apretón,
-sacúdelas alrededor #
+# Aprieta-apretÃ³n,
+sacÃºdelas alrededor #
 
 788
 01:39:52,082 --> 01:39:55,984
-# ¡Miren, tengo manos!
-¡Tomémonos de ellas! #
+# Â¡Miren, tengo manos!
+Â¡TomÃ©monos de ellas! #
 
 789
 01:39:56,253 --> 01:39:59,984
-# Cuando salto con él #
+# Cuando salto con Ã©l #
 
 790
 01:40:00,257 --> 01:40:03,624
-# Mi corazón baila así #
+# Mi corazÃ³n baila asÃ­ #
 
 791
 01:40:04,094 --> 01:40:08,087
-# ¡Munch, munch!
-¡Beso, abrazo! #
+# Â¡Munch, munch!
+Â¡Beso, abrazo! #
 
 792
 01:40:08,532 --> 01:40:10,034
-# Él es #
+# Ã‰l es #
 
 793
 01:40:10,036 --> 01:40:13,834
-# Mi niño favorito #
+# Mi niÃ±o favorito #
 
 794
 01:40:14,104 --> 01:40:15,799
@@ -3385,9 +3385,8 @@ de las profundidades marinas #
 797
 01:40:24,114 --> 01:40:27,515
 # Ponyo, Ponyo, Ponyo,
-es una niñita #
+es una niÃ±ita #
 
 798
 01:40:27,785 --> 01:40:31,653
-# Es una niñita con pancita redonda #
-
+# Es una niÃ±ita con pancita redonda #

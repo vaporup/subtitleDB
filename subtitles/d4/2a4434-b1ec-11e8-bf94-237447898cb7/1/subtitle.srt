@@ -9,7 +9,7 @@
 3
 00:01:21,590 --> 00:01:27,150
 <i>("Un'aura amorosa del nostro tesoro"
-from "Così fan tutte")</i>
+from "CosÃ¬ fan tutte")</i>
 
 4
 00:01:27,670 --> 00:01:33,630
@@ -21,7 +21,7 @@ from "Così fan tutte")</i>
 
 6
 00:01:40,430 --> 00:01:46,150
-<i>Al cor porgerà</i>
+<i>Al cor porgerÃ </i>
 
 7
 00:01:46,950 --> 00:01:53,350
@@ -37,7 +37,7 @@ from "Così fan tutte")</i>
 
 10
 00:02:07,030 --> 00:02:12,910
-<i>Al cor porgerà</i>
+<i>Al cor porgerÃ </i>
 
 11
 00:02:13,710 --> 00:02:24,550
@@ -45,7 +45,7 @@ from "Così fan tutte")</i>
 
 12
 00:02:24,590 --> 00:02:29,910
-<i>Al cor porgerà</i>
+<i>Al cor porgerÃ </i>
 
 13
 00:02:30,950 --> 00:02:35,670
@@ -1498,8 +1498,8 @@ Christy's money,
 
 345
 00:43:30,950 --> 00:43:34,990
-- Must be £20 in there,
-- £28, seven and threepence,
+- Must be Â£20 in there,
+- Â£28, seven and threepence,
 
 346
 00:43:37,390 --> 00:43:41,950
@@ -1508,7 +1508,7 @@ for breakfast, dinner and tea,
 
 347
 00:43:42,030 --> 00:43:46,630
-and you have £28, seven and threepence
+and you have Â£28, seven and threepence
 up the fuckin' chimney?!
 
 348
@@ -3322,7 +3322,7 @@ Go on, then,
 
 760
 01:23:57,230 --> 01:24:00,030
-Jesus! £800, Christy,
+Jesus! Â£800, Christy,
 
 761
 01:24:03,590 --> 01:24:06,830
@@ -3382,7 +3382,7 @@ Bring it out and count it,
 
 773
 01:25:03,230 --> 01:25:05,550
-£800,
+Â£800,
 
 774
 01:25:07,750 --> 01:25:12,390

@@ -2635,7 +2635,7 @@ Good night, Eddie.
 624
 00:46:18,508 --> 00:46:20,896
 That's how they got the title
-"Danke Schön."
+"Danke SchÃ¶n."
 
 625
 00:46:21,059 --> 00:46:22,239
@@ -2700,7 +2700,7 @@ I might have... l've got a chip here.
 
 639
 00:47:03,278 --> 00:47:04,217
-Danke Schön.
+Danke SchÃ¶n.
 
 640
 00:47:05,416 --> 00:47:06,308
@@ -5396,4 +5396,3 @@ Drive carefully!
 1277
 01:26:09,850 --> 01:26:11,442
 Have a good trip!
-

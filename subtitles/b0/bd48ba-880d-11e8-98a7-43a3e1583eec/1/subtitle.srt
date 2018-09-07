@@ -4632,7 +4632,7 @@ giving the bloody title away now.
 
 1058
 01:35:44,930 --> 01:35:47,899
-- <i>!Qué lo manden al diablo!</i>
+- <i>!QuÃ© lo manden al diablo!</i>
 - Listen. Listen to me.
 
 1059

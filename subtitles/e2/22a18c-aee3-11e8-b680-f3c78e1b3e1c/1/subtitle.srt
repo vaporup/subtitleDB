@@ -14,7 +14,7 @@ Kann ich Sie mitnehmen?
 4
 00:02:09,840 --> 00:02:12,798
 - Ja bitte?
-- lch möchte zu Mr Charles Eastman.
+- lch mÃ¶chte zu Mr Charles Eastman.
 
 5
 00:02:13,000 --> 00:02:16,117
@@ -23,8 +23,8 @@ noch gedulden.
 
 6
 00:02:16,320 --> 00:02:20,279
-- Wo ist denn sein Büro?
-- Gehen Sie ins Verwaltungsgebäude.
+- Wo ist denn sein BÃ¼ro?
+- Gehen Sie ins VerwaltungsgebÃ¤ude.
 
 7
 00:02:21,880 --> 00:02:25,919
@@ -87,7 +87,7 @@ Wer?
 
 20
 00:03:26,320 --> 00:03:30,950
-Ja, natürlich. Gut, stellen Sie
+Ja, natÃ¼rlich. Gut, stellen Sie
 mir den jungen Mann mal durch.
 
 21
@@ -102,8 +102,8 @@ mir den jungen Mann mal durch.
 
 23
 00:03:43,520 --> 00:03:47,354
-- Weißt du noch, wer ich bin?
-- Aber natürlich. Wie geht es?
+- WeiÃŸt du noch, wer ich bin?
+- Aber natÃ¼rlich. Wie geht es?
 
 24
 00:03:47,560 --> 00:03:49,630
@@ -112,7 +112,7 @@ Du bist aber schnell hier.
 25
 00:03:49,840 --> 00:03:53,435
 Ja. Ich wollte dich
-nur nicht zu Hause stören.
+nur nicht zu Hause stÃ¶ren.
 
 26
 00:03:53,640 --> 00:03:57,030
@@ -154,7 +154,7 @@ Frau. Er ist ruhig und angenehm.
 34
 00:04:49,120 --> 00:04:54,797
 Nicht viel Bildung, aber Ambitionen.
-Er sieht Earl erstaunlich ähnlich.
+Er sieht Earl erstaunlich Ã¤hnlich.
 
 35
 00:04:55,000 --> 00:04:57,195
@@ -182,13 +182,13 @@ in der Firma.
 
 40
 00:05:09,080 --> 00:05:13,790
-Es muss hier nirgendwo eingeführt
-werden. Er will bloß arbeiten.
+Es muss hier nirgendwo eingefÃ¼hrt
+werden. Er will bloÃŸ arbeiten.
 
 41
 00:05:14,000 --> 00:05:19,632
 - Ein junger Mann namens Eastman.
-- Führen Sie ihn herein, William.
+- FÃ¼hren Sie ihn herein, William.
 
 42
 00:05:19,840 --> 00:05:24,595
@@ -220,27 +220,27 @@ Nimm Platz, George.
 
 48
 00:05:55,400 --> 00:05:58,836
-Mein Mann sagt, du würdest
+Mein Mann sagt, du wÃ¼rdest
 in Chicago in einem Hotel arbeiten.
 
 49
 00:05:59,040 --> 00:06:02,874
 - Das stimmt.
-- Du bist sehr plötzlich abgereist.
+- Du bist sehr plÃ¶tzlich abgereist.
 
 50
 00:06:03,080 --> 00:06:06,436
-Wissen Sie, ich habe gekündigt.
+Wissen Sie, ich habe gekÃ¼ndigt.
 
 51
 00:06:07,480 --> 00:06:12,429
 Mr Eastman hat gesagt,
-dass, wenn ich hierher käme,
+dass, wenn ich hierher kÃ¤me,
 
 52
 00:06:12,640 --> 00:06:15,518
-er für mich vielleicht
-eine Stelle hätte.
+er fÃ¼r mich vielleicht
+eine Stelle hÃ¤tte.
 
 53
 00:06:15,720 --> 00:06:18,632
@@ -277,7 +277,7 @@ aber ihr Name fiel ab und zu.
 
 60
 00:06:46,160 --> 00:06:50,233
-Sie schrieb Charles einen rührenden
+Sie schrieb Charles einen rÃ¼hrenden
 Brief nach dem Tod deines Vaters.
 
 61
@@ -314,7 +314,7 @@ Hast du da gerade intim gesagt?
 
 68
 00:07:15,000 --> 00:07:17,275
-- Du bist spät.
+- Du bist spÃ¤t.
 - Das bin ich doch immer.
 
 69
@@ -338,7 +338,7 @@ Wir haben keine Zeit.
 
 73
 00:07:30,320 --> 00:07:32,356
-Männer sind immer so pünktlich.
+MÃ¤nner sind immer so pÃ¼nktlich.
 
 74
 00:07:32,560 --> 00:07:35,711
@@ -356,7 +356,7 @@ Euer Haus macht Fortschritte.
 
 77
 00:07:42,920 --> 00:07:47,471
-- Darauf können Sie Gift nehmen!
+- Darauf kÃ¶nnen Sie Gift nehmen!
 - Kein Gift, bitte. Komm, gehen wir.
 
 78
@@ -375,26 +375,26 @@ Hast du irgendwo eine Bleibe?
 
 81
 00:07:59,160 --> 00:08:01,674
-Ich weiß, wo es ruhige Zimmer gibt.
+Ich weiÃŸ, wo es ruhige Zimmer gibt.
 
 82
 00:08:01,880 --> 00:08:05,555
-- Mein Sekretär wohnte dort immer.
+- Mein SekretÃ¤r wohnte dort immer.
 - lch habe schon was gefunden.
 
 83
 00:08:05,760 --> 00:08:08,354
-Das nenne ich aber Glück.
+Das nenne ich aber GlÃ¼ck.
 
 84
 00:08:08,560 --> 00:08:11,950
 Tut mir Leid, dass wir jetzt gehen
-müssen. Ein andermal.
+mÃ¼ssen. Ein andermal.
 
 85
 00:08:12,160 --> 00:08:15,470
-Du meldest dich morgen früh bei Earl.
-Schönen Abend noch.
+Du meldest dich morgen frÃ¼h bei Earl.
+SchÃ¶nen Abend noch.
 
 86
 00:08:15,680 --> 00:08:19,468
@@ -436,7 +436,7 @@ dich darauf aufmerksam zu machen.
 
 94
 00:08:53,680 --> 00:08:57,673
-Das ist George Eastman. Bitte führen
+Das ist George Eastman. Bitte fÃ¼hren
 Sie George zu Mr Whiting.
 
 95
@@ -461,7 +461,7 @@ PRoDUKTloNSSTElGERUNG
 99
 00:10:43,280 --> 00:10:47,876
 PRoDUKTloNSEFFlZlENZ
-KANN UM 20% ERHöHT WERDEN
+KANN UM 20% ERHÃ¶HT WERDEN
 
 100
 00:11:03,280 --> 00:11:05,236
@@ -479,18 +479,18 @@ AN DER SPlTZE DER JUNGEN GARDE
 
 103
 00:11:36,320 --> 00:11:39,471
-Das könnte
+Das kÃ¶nnte
 als Arbeitszimmer dienen.
 
 104
 00:11:39,680 --> 00:11:43,116
 Hier ist ein Schrank
-für deine Bücher
+fÃ¼r deine BÃ¼cher
 
 105
 00:11:43,320 --> 00:11:46,869
 Was da auch drin ist,
-Bücher sind es nicht!
+BÃ¼cher sind es nicht!
 
 106
 00:11:52,000 --> 00:11:55,356
@@ -508,7 +508,7 @@ Hat er sie gefunden?
 
 109
 00:12:00,000 --> 00:12:02,958
-Können wir dort glücklich
+KÃ¶nnen wir dort glÃ¼cklich
 werden?
 
 110
@@ -519,7 +519,7 @@ werden?
 111
 00:12:07,560 --> 00:12:10,518
 Umarme mich. Stell dir
-das nächtliche Meer vor.
+das nÃ¤chtliche Meer vor.
 
 112
 00:12:10,720 --> 00:12:13,678
@@ -531,16 +531,16 @@ Halt mich, Ray.
 
 114
 00:12:17,520 --> 00:12:21,274
-Wenn ich dich so spüre,
-werden all unsere Lügen wahr.
+Wenn ich dich so spÃ¼re,
+werden all unsere LÃ¼gen wahr.
 
 115
 00:12:21,480 --> 00:12:24,870
-Nichts kann sie zerstören.
+Nichts kann sie zerstÃ¶ren.
 
 116
 00:12:43,400 --> 00:12:51,114
-Wer mich sieht, denkt, ich würde mir
+Wer mich sieht, denkt, ich wÃ¼rde mir
 den Neffen des Chefs angeln wollen.
 
 117
@@ -561,7 +561,7 @@ im selben Boot.
 120
 00:13:01,320 --> 00:13:05,598
 Bis Sie einen besseren Job bekommen
-und zur Autoritätsperson werden.
+und zur AutoritÃ¤tsperson werden.
 
 121
 00:13:05,800 --> 00:13:08,758
@@ -575,11 +575,11 @@ Wer sagt das?
 123
 00:13:10,440 --> 00:13:13,671
 Sie sind doch nur bei uns,
-um das Geschäft kennen zu lernen.
+um das GeschÃ¤ft kennen zu lernen.
 
 124
 00:13:13,880 --> 00:13:16,599
-Ich wäre mir da nicht so sicher.
+Ich wÃ¤re mir da nicht so sicher.
 
 125
 00:13:16,800 --> 00:13:19,633
@@ -608,7 +608,7 @@ Wieso?
 
 131
 00:13:53,520 --> 00:13:57,274
-Ich verpacke doch Badeanzüge
+Ich verpacke doch BadeanzÃ¼ge
 sechs Tage die Woche.
 
 132
@@ -623,7 +623,7 @@ Nein.
 134
 00:14:05,920 --> 00:14:09,708
 Warum nicht?
-Stehen lhnen Badeanzüge nicht?
+Stehen lhnen BadeanzÃ¼ge nicht?
 
 135
 00:14:09,920 --> 00:14:15,438
@@ -667,12 +667,12 @@ Hier ist es, hier wohne ich.
 
 144
 00:14:58,960 --> 00:15:04,318
-- 4433½ Elm Avenue.
-- lch bringe Sie zur Tür.
+- 4433Â½ Elm Avenue.
+- lch bringe Sie zur TÃ¼r.
 
 145
 00:15:05,520 --> 00:15:09,559
-Das ist nicht nötig.
+Das ist nicht nÃ¶tig.
 Ich habe einen eigenen Eingang.
 
 146
@@ -682,7 +682,7 @@ Gute Nacht.
 147
 00:15:18,000 --> 00:15:20,275
 Mit meiner Wirtin
-ist nicht zu spaßen.
+ist nicht zu spaÃŸen.
 
 148
 00:15:26,080 --> 00:15:28,640
@@ -738,7 +738,7 @@ Aber nicht so oft wie sonst.
 
 160
 00:16:50,760 --> 00:16:55,788
-- lch dachte über meinen Plan nach.
+- lch dachte Ã¼ber meinen Plan nach.
 - Arbeiten wir noch nicht hart genug?
 
 161
@@ -757,12 +757,12 @@ Es geht dabei nicht nur um mich.
 
 164
 00:17:15,720 --> 00:17:20,032
-Es ist besser für dich
-als mit den Eastmans rumzuhängen,
+Es ist besser fÃ¼r dich
+als mit den Eastmans rumzuhÃ¤ngen,
 
 165
 00:17:20,240 --> 00:17:23,277
-mit all diesen Mädchen,
+mit all diesen MÃ¤dchen,
 die nichts tun.
 
 166
@@ -773,7 +773,7 @@ nur einmal bei ihnen zu Hause.
 167
 00:17:27,840 --> 00:17:30,593
 Ich dachte,
-du wärst jeden Abend dort.
+du wÃ¤rst jeden Abend dort.
 
 168
 00:17:30,800 --> 00:17:32,870
@@ -781,11 +781,11 @@ Red keinen Unsinn, Schatz.
 
 169
 00:17:34,000 --> 00:17:36,468
-George, weißt du noch, als ich sagte,
+George, weiÃŸt du noch, als ich sagte,
 
 170
 00:17:36,680 --> 00:17:41,629
-ein Eastman würde nicht im selben
+ein Eastman wÃ¼rde nicht im selben
 Boot wie alle anderen sitzen?
 
 171
@@ -794,7 +794,7 @@ Ja.
 
 172
 00:17:44,600 --> 00:17:46,352
-Ich nehme es zurück.
+Ich nehme es zurÃ¼ck.
 
 173
 00:17:52,240 --> 00:17:54,196
@@ -803,16 +803,16 @@ Gehen wir an einen ruhigeren ort.
 174
 00:18:05,840 --> 00:18:09,116
 Gibt es noch einen anderen ort,
-wohin wir gehen können?
+wohin wir gehen kÃ¶nnen?
 
 175
 00:18:09,320 --> 00:18:13,757
-Da wäre die Erfrischungshalle,
-wo sich die Schüler immer treffen.
+Da wÃ¤re die Erfrischungshalle,
+wo sich die SchÃ¼ler immer treffen.
 
 176
 00:18:13,960 --> 00:18:15,632
-Die machen zu viel Lärm.
+Die machen zu viel LÃ¤rm.
 
 177
 00:18:17,320 --> 00:18:20,278
@@ -827,7 +827,7 @@ solange du bei mir bist.
 179
 00:18:46,520 --> 00:18:50,479
 Schon mal etwas von einem Haus
-gehört? Da kann man ungestört reden.
+gehÃ¶rt? Da kann man ungestÃ¶rt reden.
 
 180
 00:18:50,680 --> 00:18:54,070
@@ -844,7 +844,7 @@ Komm.
 
 183
 00:19:33,000 --> 00:19:37,437
-Ich würde dich gern hereinbitten,
+Ich wÃ¼rde dich gern hereinbitten,
 aber Mrs Roberts ist so streng.
 
 184
@@ -854,12 +854,12 @@ keine Schwierigkeiten bereiten.
 
 185
 00:19:58,080 --> 00:20:03,154
-Ich würde dich gern hereinbitten,
+Ich wÃ¼rde dich gern hereinbitten,
 aber die Musik muss leise spielen.
 
 186
 00:20:47,000 --> 00:20:48,797
-Das ist schön.
+Das ist schÃ¶n.
 
 187
 00:20:50,000 --> 00:20:52,753
@@ -897,12 +897,12 @@ Wer ist das? Ist das George?
 
 195
 00:22:11,600 --> 00:22:14,637
-Für diese Stelle brauchte ich
+FÃ¼r diese Stelle brauchte ich
 niemanden zu feuern.
 
 196
 00:22:14,840 --> 00:22:16,956
-Das ist doch nichts für ihn.
+Das ist doch nichts fÃ¼r ihn.
 
 197
 00:22:17,160 --> 00:22:20,596
@@ -917,7 +917,7 @@ Posten. Hallo, George.
 199
 00:22:26,320 --> 00:22:29,073
 Du hast wohl gedacht,
-ich hätte dich vergessen.
+ich hÃ¤tte dich vergessen.
 
 200
 00:22:29,280 --> 00:22:32,716
@@ -937,12 +937,12 @@ ich hätte dich vergessen.
 203
 00:22:42,320 --> 00:22:45,756
 Bist du so weit,
-Verantwortung zu übernehmen?
+Verantwortung zu Ã¼bernehmen?
 
 204
 00:22:45,960 --> 00:22:49,589
 - Jawohl.
-- Gut. Ich werde dich befördern.
+- Gut. Ich werde dich befÃ¶rdern.
 
 205
 00:22:49,800 --> 00:22:53,236
@@ -961,21 +961,21 @@ den ich abgefasst habe, eingetroffen?
 208
 00:23:02,520 --> 00:23:08,231
 Mrs Eastman organisiert am 1 5.
-nächsten Monat bei uns ein Fest.
+nÃ¤chsten Monat bei uns ein Fest.
 
 209
 00:23:08,440 --> 00:23:11,637
-- Es wäre schön, wenn du auch kämest.
+- Es wÃ¤re schÃ¶n, wenn du auch kÃ¤mest.
 - Sehr gerne.
 
 210
 00:23:11,840 --> 00:23:16,595
-Gut, dann können wir uns auch mal
+Gut, dann kÃ¶nnen wir uns auch mal
 ein wenig unterhalten.
 
 211
 00:23:24,080 --> 00:23:26,514
-Am 1 5. nächsten Monat?
+Am 1 5. nÃ¤chsten Monat?
 
 212
 00:23:26,720 --> 00:23:30,633
@@ -999,7 +999,7 @@ nur meine Aufwartung machen.
 216
 00:24:15,840 --> 00:24:18,593
 - Hallo, Liebes!
-- Schön, dich zu sehen.
+- SchÃ¶n, dich zu sehen.
 
 217
 00:24:18,800 --> 00:24:20,074
@@ -1007,7 +1007,7 @@ Hallo.
 
 218
 00:25:29,360 --> 00:25:30,634
-Später.
+SpÃ¤ter.
 
 219
 00:25:46,080 --> 00:25:48,674
@@ -1017,7 +1017,7 @@ Später.
 220
 00:25:52,520 --> 00:25:56,433
 - Haben Sie lhre Jugend vergeudet?
-- Ja, das könnte man so sagen.
+- Ja, das kÃ¶nnte man so sagen.
 
 221
 00:25:58,160 --> 00:26:01,118
@@ -1034,7 +1034,7 @@ Sind Sie traurig?
 224
 00:26:15,520 --> 00:26:18,796
 Ich vertreibe mir nur die Zeit.
-Möchten Sie spielen?
+MÃ¶chten Sie spielen?
 
 225
 00:26:19,000 --> 00:26:22,515
@@ -1043,7 +1043,7 @@ Spielen Sie nur.
 
 226
 00:26:30,520 --> 00:26:33,034
-Mache ich Sie nervös?
+Mache ich Sie nervÃ¶s?
 
 227
 00:26:35,920 --> 00:26:37,194
@@ -1056,7 +1056,7 @@ Sind Sie einer?
 
 229
 00:26:41,960 --> 00:26:44,315
-Ich bin ein Neffe und heiße George.
+Ich bin ein Neffe und heiÃŸe George.
 
 230
 00:26:44,520 --> 00:26:46,954
@@ -1065,7 +1065,7 @@ Ich bin ein Neffe und heiße George.
 
 231
 00:26:48,000 --> 00:26:52,357
-- lch habe Sie im Frühling gesehen.
+- lch habe Sie im FrÃ¼hling gesehen.
 - lch erinnere mich nicht an Sie.
 
 232
@@ -1081,19 +1081,19 @@ mit lhren Eltern, oder?
 234
 00:27:04,400 --> 00:27:08,473
 - Und was machen Sie sonst noch so?
-- Die gewöhnlichen Dinge.
+- Die gewÃ¶hnlichen Dinge.
 
 235
 00:27:08,680 --> 00:27:11,194
-Aber Sie sehen ungewöhnlich aus.
+Aber Sie sehen ungewÃ¶hnlich aus.
 
 236
 00:27:12,520 --> 00:27:14,272
-Das höre ich zum ersten Mal.
+Das hÃ¶re ich zum ersten Mal.
 
 237
 00:27:14,480 --> 00:27:19,429
-- Sie sind ein Einzelgänger, oder?
+- Sie sind ein EinzelgÃ¤nger, oder?
 - Ja, manchmal.
 
 238
@@ -1116,7 +1116,7 @@ Angela.
 
 242
 00:27:35,120 --> 00:27:40,638
-Hast du ihr von deiner Beförderung
+Hast du ihr von deiner BefÃ¶rderung
 geschrieben? Das ist mein Junge.
 
 243
@@ -1125,7 +1125,7 @@ Ich werde ihr schreiben.
 
 244
 00:27:43,120 --> 00:27:46,954
-Mütter vernachlässigt man nicht.
+MÃ¼tter vernachlÃ¤ssigt man nicht.
 Ruf sie doch gleich an,
 
 245
@@ -1135,12 +1135,12 @@ Nimm dieses Telefon.
 
 246
 00:27:50,880 --> 00:27:54,668
-Ferngespräch. Wie lautet die Nummer,
+FerngesprÃ¤ch. Wie lautet die Nummer,
 George? Einen Augenblick.
 
 247
 00:27:56,680 --> 00:27:58,272
-Ich weiß nicht.
+Ich weiÃŸ nicht.
 
 248
 00:27:59,840 --> 00:28:01,114
@@ -1171,8 +1171,8 @@ Kommst du nach Hause?
 
 254
 00:28:25,840 --> 00:28:29,515
-Hör mal, Mama.
-Ich bin befördert worden.
+HÃ¶r mal, Mama.
+Ich bin befÃ¶rdert worden.
 
 255
 00:28:30,320 --> 00:28:35,269
@@ -1182,7 +1182,7 @@ jeden Monat Geld schicken.
 256
 00:28:36,000 --> 00:28:40,073
 Alles Gute zum Geburtstag,
-ich habe für dich gebetet.
+ich habe fÃ¼r dich gebetet.
 
 257
 00:28:40,280 --> 00:28:45,308
@@ -1196,7 +1196,7 @@ wie es war, als du gegangen bist.
 
 259
 00:28:53,320 --> 00:28:59,031
-Es läuft hier alles ganz gut.
+Es lÃ¤uft hier alles ganz gut.
 Ich bin hier zufrieden.
 
 260
@@ -1207,7 +1207,7 @@ Ich bin hier zufrieden.
 261
 00:29:05,320 --> 00:29:08,630
 - Wer war das?
-- Nur ein Mädchen, Mama.
+- Nur ein MÃ¤dchen, Mama.
 
 262
 00:29:10,320 --> 00:29:11,594
@@ -1239,16 +1239,16 @@ Versprochen.
 268
 00:29:34,680 --> 00:29:40,789
 Haben Sie versprochen, brav zu sein?
-Keine Zeit mit Mädchen zu vergeuden?
+Keine Zeit mit MÃ¤dchen zu vergeuden?
 
 269
 00:29:41,840 --> 00:29:46,470
 - lch vergeude meine Zeit nicht.
-- Dürfen Sie heute Abend ausgehen?
+- DÃ¼rfen Sie heute Abend ausgehen?
 
 270
 00:29:46,680 --> 00:29:49,831
-Dürfen Sie tanzen? Kommen Sie.
+DÃ¼rfen Sie tanzen? Kommen Sie.
 
 271
 00:29:50,040 --> 00:29:53,874
@@ -1257,7 +1257,7 @@ Geburtstag, Sie trauriger Bursche.
 
 272
 00:31:25,120 --> 00:31:28,510
-Ist das nicht die Höhe?
+Ist das nicht die HÃ¶he?
 
 273
 00:31:29,560 --> 00:31:32,279
@@ -1279,7 +1279,7 @@ eine besonders lange Aufwartung.
 
 277
 00:31:51,520 --> 00:31:54,273
-Er wird Dinge für mich regeln.
+Er wird Dinge fÃ¼r mich regeln.
 
 278
 00:31:54,480 --> 00:31:59,270
@@ -1288,12 +1288,12 @@ dich." Und das meint er wirklich.
 
 279
 00:32:00,160 --> 00:32:04,199
-Schön, aber du hättest mich
-anrufen können.
+SchÃ¶n, aber du hÃ¤ttest mich
+anrufen kÃ¶nnen.
 
 280
 00:32:07,520 --> 00:32:11,195
-- Ja, ich hätte anrufen können.
+- Ja, ich hÃ¤tte anrufen kÃ¶nnen.
 - Schon gut.
 
 281
@@ -1303,12 +1303,12 @@ auf dem Teller.
 
 282
 00:32:18,160 --> 00:32:20,435
-- Herzlichen Glückwunsch.
+- Herzlichen GlÃ¼ckwunsch.
 - Danke.
 
 283
 00:32:27,520 --> 00:32:33,117
-Der ist wunderschön! Den kann ich auf
+Der ist wunderschÃ¶n! Den kann ich auf
 meinem neuen Posten gut gebrauchen.
 
 284
@@ -1327,13 +1327,13 @@ War deine Cousine Marcia da?
 
 287
 00:32:50,320 --> 00:32:52,788
-All die schönen Mädchen
+All die schÃ¶nen MÃ¤dchen
 aus der Zeitung?
 
 288
 00:32:53,000 --> 00:32:57,073
 Einige, ja.
-Sie sind nicht alle schön.
+Sie sind nicht alle schÃ¶n.
 
 289
 00:32:58,000 --> 00:33:01,675
@@ -1342,17 +1342,17 @@ Sie sind nicht alle schön.
 
 290
 00:33:03,160 --> 00:33:06,197
-War sie schön?
+War sie schÃ¶n?
 Hat sie dir sehr gefallen?
 
 291
 00:33:07,240 --> 00:33:10,630
 Sie hat mir schon gefallen,
-schließlich sieht sie gut aus.
+schlieÃŸlich sieht sie gut aus.
 
 292
 00:33:10,840 --> 00:33:15,960
-- Sie trägt nette Sachen.
+- Sie trÃ¤gt nette Sachen.
 - Warum auch nicht? Sie hat Geld.
 
 293
@@ -1371,26 +1371,26 @@ dass du noch verabredet bist?
 296
 00:33:27,640 --> 00:33:33,158
 Ich kann ihnen von dir nichts sagen.
-Du weißt, in welcher Lage wir sind.
+Du weiÃŸt, in welcher Lage wir sind.
 
 297
 00:33:34,160 --> 00:33:35,513
-Ja, ich weiß.
+Ja, ich weiÃŸ.
 
 298
 00:33:36,600 --> 00:33:41,549
-Wenn meine Familie von uns erfährt,
+Wenn meine Familie von uns erfÃ¤hrt,
 sind wir beide unseren Job los.
 
 299
 00:33:42,680 --> 00:33:48,437
-Vielleicht möchtest du mich nicht
+Vielleicht mÃ¶chtest du mich nicht
 mehr so oft sehen. Ist es das?
 
 300
 00:33:51,080 --> 00:33:54,959
-Vielleicht möchtest du mich
-überhaupt nicht mehr sehen.
+Vielleicht mÃ¶chtest du mich
+Ã¼berhaupt nicht mehr sehen.
 
 301
 00:33:55,160 --> 00:34:00,314
@@ -1408,7 +1408,7 @@ anderen, du sieht genauso gut aus.
 
 304
 00:34:10,160 --> 00:34:12,833
-Hör bitte auf zu weinen.
+HÃ¶r bitte auf zu weinen.
 
 305
 00:34:14,000 --> 00:34:16,958
@@ -1454,7 +1454,7 @@ Al, ich bin's. Wie geht es dir?
 
 315
 00:36:12,240 --> 00:36:14,834
-Unverändert.
+UnverÃ¤ndert.
 
 316
 00:36:16,240 --> 00:36:20,199
@@ -1495,7 +1495,7 @@ Ach, hallo!
 
 325
 00:37:13,760 --> 00:37:19,517
-Natürlich erinnere ich mich an Sie.
+NatÃ¼rlich erinnere ich mich an Sie.
 Ich habe lhre Stimme nicht erkannt.
 
 326
@@ -1532,13 +1532,13 @@ Auf Wiedersehen, Angela.
 
 334
 00:38:24,000 --> 00:38:26,560
-- lch möchte lesen.
+- lch mÃ¶chte lesen.
 - Wie bitte?
 
 335
 00:38:26,760 --> 00:38:29,991
-Ich möchte lhre Gedanken
-lesen können.
+Ich mÃ¶chte lhre Gedanken
+lesen kÃ¶nnen.
 
 336
 00:38:30,920 --> 00:38:32,876
@@ -1546,7 +1546,7 @@ Warum haben Sie mich eingeladen?
 
 337
 00:38:33,080 --> 00:38:35,958
-Ich habe meine Gründe.
+Ich habe meine GrÃ¼nde.
 
 338
 00:38:42,840 --> 00:38:46,753
@@ -1564,20 +1564,20 @@ Guten Abend.
 
 341
 00:39:00,520 --> 00:39:03,671
-- George, amüsierst du dich?
+- George, amÃ¼sierst du dich?
 - lch bin gerade erst da.
 
 342
 00:39:03,880 --> 00:39:05,871
-Komm, genieß den Abend.
+Komm, genieÃŸ den Abend.
 
 343
 00:39:06,080 --> 00:39:09,311
-Es wird ein wunderschöner Sommer.
+Es wird ein wunderschÃ¶ner Sommer.
 
 344
 00:39:09,520 --> 00:39:12,876
-- Können Sie reiten?
+- KÃ¶nnen Sie reiten?
 - lch habe wieder damit angefangen.
 
 345
@@ -1597,8 +1597,8 @@ wenn ich fragen darf?
 
 348
 00:39:23,560 --> 00:39:28,759
-Wenn sie nicht meine Tochter wäre,
-würde ich sie das auch fragen.
+Wenn sie nicht meine Tochter wÃ¤re,
+wÃ¼rde ich sie das auch fragen.
 
 349
 00:39:43,720 --> 00:39:45,836
@@ -1629,12 +1629,12 @@ Das ist besser so.
 
 355
 00:40:14,520 --> 00:40:17,956
-Es ist so schön,
-ich möchte es nicht verderben.
+Es ist so schÃ¶n,
+ich mÃ¶chte es nicht verderben.
 
 356
 00:40:18,160 --> 00:40:20,435
-Sie können es mir lieber sagen.
+Sie kÃ¶nnen es mir lieber sagen.
 
 357
 00:40:23,400 --> 00:40:29,191
@@ -1663,8 +1663,8 @@ Es macht mir Angst.
 
 362
 00:40:55,960 --> 00:40:59,555
-- Aber es ist ein schönes Gefühl.
-- Es ist schön, bei dir zu sein.
+- Aber es ist ein schÃ¶nes GefÃ¼hl.
+- Es ist schÃ¶n, bei dir zu sein.
 
 363
 00:40:59,760 --> 00:41:04,117
@@ -1674,7 +1674,7 @@ und ich kann dir in die Augen sehen.
 364
 00:41:04,320 --> 00:41:07,630
 Aber was ist
-zum Beispiel nächste Woche?
+zum Beispiel nÃ¤chste Woche?
 
 365
 00:41:07,840 --> 00:41:11,435
@@ -1688,7 +1688,7 @@ Du kannst mich dort besuchen.
 
 367
 00:41:15,400 --> 00:41:17,755
-Es ist da so schön. Du musst kommen.
+Es ist da so schÃ¶n. Du musst kommen.
 
 368
 00:41:17,960 --> 00:41:20,076
@@ -1716,26 +1716,26 @@ Ich hole dich vor der Fabrik ab.
 373
 00:41:37,680 --> 00:41:44,392
 Wir werden es irgendwie arrangieren
-können. Es wird schon gehen.
+kÃ¶nnen. Es wird schon gehen.
 
 374
 00:41:44,600 --> 00:41:49,310
-Wir werden eine wunderschöne Zeit
+Wir werden eine wunderschÃ¶ne Zeit
 verbringen, nur wir beide.
 
 375
 00:41:49,520 --> 00:41:52,956
-Ich werde der glücklichste Mann
+Ich werde der glÃ¼cklichste Mann
 auf Erden sein.
 
 376
 00:41:53,160 --> 00:41:57,119
 Angela, wenn ich dir nur sagen
-könnte, wie sehr ich dich liebe.
+kÃ¶nnte, wie sehr ich dich liebe.
 
 377
 00:41:57,320 --> 00:42:02,474
-- Könnte ich dir nur alles sagen.
+- KÃ¶nnte ich dir nur alles sagen.
 - Sag es Mama.
 
 378
@@ -1770,11 +1770,11 @@ Haben Sie keine Angst.
 385
 00:43:16,560 --> 00:43:20,519
 Es ist mein Beruf, mir die Probleme
-anderer Leute anzuhören.
+anderer Leute anzuhÃ¶ren.
 
 386
 00:43:26,680 --> 00:43:29,319
-Es ist folgendermaßen...
+Es ist folgendermaÃŸen...
 
 387
 00:43:31,760 --> 00:43:35,196
@@ -1800,11 +1800,11 @@ Wir waren nicht...
 
 392
 00:44:06,240 --> 00:44:09,357
-Wir kannten keine Ärzte.
+Wir kannten keine Ã„rzte.
 
 393
 00:44:09,560 --> 00:44:12,199
-Was für einen Beruf übt lhr Mann aus?
+Was fÃ¼r einen Beruf Ã¼bt lhr Mann aus?
 
 394
 00:44:14,600 --> 00:44:16,033
@@ -1817,20 +1817,20 @@ Elektriker verlangen hohe Preise.
 
 396
 00:44:24,320 --> 00:44:28,598
-- Wir können es uns nicht leisten...
+- Wir kÃ¶nnen es uns nicht leisten...
 - Es gibt kostenlose Entbindungen.
 
 397
 00:44:32,600 --> 00:44:34,272
-Ich weiß.
+Ich weiÃŸ.
 
 398
 00:44:39,240 --> 00:44:42,152
-Aber das löst nicht alle Probleme.
+Aber das lÃ¶st nicht alle Probleme.
 
 399
 00:44:42,360 --> 00:44:47,354
-Wieso sind Sie überhaupt
+Wieso sind Sie Ã¼berhaupt
 zu mir gekommen?
 
 400
@@ -1849,7 +1849,7 @@ Monaten vor den Altar getreten sind,
 403
 00:45:01,320 --> 00:45:06,952
 muss lhnen klar gewesen sein, dass
-Sie in diese Lage geraten können.
+Sie in diese Lage geraten kÃ¶nnen.
 
 404
 00:45:07,160 --> 00:45:10,709
@@ -1858,12 +1858,12 @@ der Tatsache ins Auge sehen,
 
 405
 00:45:10,920 --> 00:45:16,313
-wird es für alle Probleme
-ganz von selbst eine Lösung geben.
+wird es fÃ¼r alle Probleme
+ganz von selbst eine LÃ¶sung geben.
 
 406
 00:45:16,520 --> 00:45:21,878
-Arztrechnungen, Kleidungsstücke...
+Arztrechnungen, KleidungsstÃ¼cke...
 Ich kenne das.
 
 407
@@ -1873,7 +1873,7 @@ wir waren auch erst besorgt.
 
 408
 00:45:30,400 --> 00:45:34,154
-- Aber wenn wir nun zurückblicken...
+- Aber wenn wir nun zurÃ¼ckblicken...
 - Es ist nicht dasselbe.
 
 409
@@ -1909,12 +1909,12 @@ das versichere ich lhnen.
 
 416
 00:46:28,680 --> 00:46:32,639
-Wenn ich lhnen während
+Wenn ich lhnen wÃ¤hrend
 der Schwangerschaft beistehen darf,
 
 417
 00:46:32,840 --> 00:46:37,470
-werde ich für lhre Gesundheit und die
+werde ich fÃ¼r lhre Gesundheit und die
 des Kindes alles tun.
 
 418
@@ -1924,16 +1924,16 @@ um sich einen Rat einzuholen,
 
 419
 00:46:42,480 --> 00:46:46,359
-über materielle
+Ã¼ber materielle
 und finanzielle Probleme,
 
 420
 00:46:48,800 --> 00:46:51,633
-an denen ich nichts ändern kann...
+an denen ich nichts Ã¤ndern kann...
 
 421
 00:46:52,760 --> 00:46:55,513
-Nein, ich kann nichts für Sie tun.
+Nein, ich kann nichts fÃ¼r Sie tun.
 
 422
 00:47:12,320 --> 00:47:14,231
@@ -1941,7 +1941,7 @@ Was hat er gesagt?
 
 423
 00:47:14,440 --> 00:47:19,309
-Er sagte, ich würde
+Er sagte, ich wÃ¼rde
 eine gesunde Mutter sein.
 
 424
@@ -2013,8 +2013,8 @@ zu den Nachrichten.
 
 439
 00:48:34,880 --> 00:48:39,715
-Das schöne Wetter war in einigen
-Landesteilen zu schön.
+Das schÃ¶ne Wetter war in einigen
+Landesteilen zu schÃ¶n.
 
 440
 00:48:39,920 --> 00:48:43,435
@@ -2027,13 +2027,13 @@ den hohen Temperaturen.
 
 442
 00:48:45,880 --> 00:48:49,509
-Auch hier hat das schöne Wetter
+Auch hier hat das schÃ¶ne Wetter
 seine Schattenseiten.
 
 443
 00:48:49,720 --> 00:48:53,838
 Laut Polizei ist die Anzahl
-der Todesfälle im Wochenendverkehr
+der TodesfÃ¤lle im Wochenendverkehr
 
 444
 00:48:54,040 --> 00:48:57,999
@@ -2043,11 +2043,11 @@ am selben Wochenende im Vorjahr.
 445
 00:48:58,200 --> 00:49:03,320
 1 4 Personen kamen ums Leben.
-Mindestens fünf sind ertrunken.
+Mindestens fÃ¼nf sind ertrunken.
 
 446
 00:49:03,520 --> 00:49:07,479
-In den Seebädern wurde
+In den SeebÃ¤dern wurde
 ein paar Mal erste Hilfe geleistet.
 
 447
@@ -2056,13 +2056,13 @@ Seien Sie vorsichtig.
 
 448
 00:49:09,320 --> 00:49:13,518
-Das nächste Mal könnte es Sie
+Das nÃ¤chste Mal kÃ¶nnte es Sie
 oder Ihre Lieben treffen.
 
 449
 00:49:13,720 --> 00:49:19,477
 Fahren Sie vorsichtig, baden Sie
-nicht an unbewachten Stränden.
+nicht an unbewachten StrÃ¤nden.
 
 450
 00:49:19,680 --> 00:49:23,355
@@ -2104,7 +2104,7 @@ Urlaub bei uns am See verbringst.
 458
 00:50:36,600 --> 00:50:42,869
 George! Ich habe die Chance,
-dich meinen Eltern vorzuführen.
+dich meinen Eltern vorzufÃ¼hren.
 
 459
 00:50:43,080 --> 00:50:45,469
@@ -2140,11 +2140,11 @@ liegen in der Sonne,
 
 466
 00:51:13,600 --> 00:51:16,717
-reiten durch die Kiefernwälder.
+reiten durch die KiefernwÃ¤lder.
 
 467
 00:51:16,920 --> 00:51:20,879
-Ich mache dir jeden Morgen Frühstück
+Ich mache dir jeden Morgen FrÃ¼hstÃ¼ck
 und du kannst ausschlafen.
 
 468
@@ -2163,7 +2163,7 @@ Ich bringe es dir aufs Zimmer.
 
 471
 00:51:53,400 --> 00:51:58,315
-Werde jetzt nicht wütend. Du musst mir
+Werde jetzt nicht wÃ¼tend. Du musst mir
 noch eine weitere Woche geben.
 
 472
@@ -2183,26 +2183,26 @@ mit der Familie verbringen.
 
 475
 00:52:12,520 --> 00:52:14,795
-- Es ist wichtig für uns beide.
+- Es ist wichtig fÃ¼r uns beide.
 - Warum?
 
 476
 00:52:15,000 --> 00:52:19,312
-Er ließ durchschimmern,
+Er lieÃŸ durchschimmern,
 dass wenn ich hinfahre,
 
 477
 00:52:19,520 --> 00:52:21,636
-ein Bonus für mich drin ist.
+ein Bonus fÃ¼r mich drin ist.
 
 478
 00:52:21,840 --> 00:52:25,799
-Es könnte sich um viel Geld handeln.
+Es kÃ¶nnte sich um viel Geld handeln.
 Vielleicht 300 Dollar.
 
 479
 00:52:26,000 --> 00:52:27,956
-Das könnten wir gebrauchen.
+Das kÃ¶nnten wir gebrauchen.
 
 480
 00:52:28,160 --> 00:52:32,551
@@ -2211,7 +2211,7 @@ Ich warte hier.
 
 481
 00:52:44,000 --> 00:52:46,753
-Ich möchte mit dir darüber reden.
+Ich mÃ¶chte mit dir darÃ¼ber reden.
 
 482
 00:52:46,960 --> 00:52:49,349
@@ -2225,7 +2225,7 @@ vom jungen Eastman.
 
 484
 00:52:54,760 --> 00:52:57,115
-Warum unterstützt du das Ganze?
+Warum unterstÃ¼tzt du das Ganze?
 
 485
 00:52:57,320 --> 00:52:59,788
@@ -2281,7 +2281,7 @@ George, lass mich runter.
 496
 00:54:28,560 --> 00:54:31,472
 Dass ich mich zu Tode friere.
-Das ist der kälteste See.
+Das ist der kÃ¤lteste See.
 
 497
 00:54:31,680 --> 00:54:36,310
@@ -2300,26 +2300,26 @@ Ich entdeckte ihn, als ich 1 4 war.
 500
 00:54:41,400 --> 00:54:44,949
 Niemand wohnt hier, zumindest nicht
-hier auf dieser Hälfte.
+hier auf dieser HÃ¤lfte.
 
 501
 00:54:45,160 --> 00:54:48,709
-Es gibt zwei Seehälften,
+Es gibt zwei SeehÃ¤lften,
 die ein Kanal miteinander verbindet.
 
 502
 00:54:48,920 --> 00:54:54,278
-Auf der anderen Seite ist eine Hütte
+Auf der anderen Seite ist eine HÃ¼tte
 mit ein paar morschen alten Booten.
 
 503
 00:54:56,000 --> 00:54:57,513
-Komm näher.
+Komm nÃ¤her.
 
 504
 00:55:00,160 --> 00:55:04,312
-- Wie heißt dieser See?
-- Seetaucher-See. Nun ist es schön.
+- Wie heiÃŸt dieser See?
+- Seetaucher-See. Nun ist es schÃ¶n.
 
 505
 00:55:04,520 --> 00:55:07,956
@@ -2334,12 +2334,12 @@ das alles mit anderen Augen.
 507
 00:55:12,560 --> 00:55:16,792
 - Unfall?
-- Ein Mann und ein Mädchen ertranken.
+- Ein Mann und ein MÃ¤dchen ertranken.
 
 508
 00:55:17,000 --> 00:55:24,509
-Niemand weiß, was passiert ist. Nach
-fünf Tagen fand man das Mädchen.
+Niemand weiÃŸ, was passiert ist. Nach
+fÃ¼nf Tagen fand man das MÃ¤dchen.
 
 509
 00:55:24,720 --> 00:55:28,918
@@ -2354,7 +2354,7 @@ fünf Tagen fand man das Mädchen.
 511
 00:55:45,720 --> 00:55:51,078
 - Woran denkst du, George?
-- An nichts, überhaupt nichts.
+- An nichts, Ã¼berhaupt nichts.
 
 512
 00:55:53,680 --> 00:55:55,636
@@ -2364,7 +2364,7 @@ fünf Tagen fand man das Mädchen.
 513
 00:55:56,920 --> 00:56:01,311
 Ich dachte immer,
-ich wäre kompliziert.
+ich wÃ¤re kompliziert.
 
 514
 00:56:01,520 --> 00:56:05,798
@@ -2378,8 +2378,8 @@ und sie sind ganz in ordnung.
 
 516
 00:56:12,240 --> 00:56:17,189
-Sie müssen sich erst an dich
-gewöhnen. Es wird schon werden.
+Sie mÃ¼ssen sich erst an dich
+gewÃ¶hnen. Es wird schon werden.
 
 517
 00:56:17,400 --> 00:56:19,356
@@ -2387,8 +2387,8 @@ Und wenn nicht?
 
 518
 00:56:21,840 --> 00:56:28,075
-- Dir folge ich überallhin
-- Wirklich? Würdest du mich heiraten?
+- Dir folge ich Ã¼berallhin
+- Wirklich? WÃ¼rdest du mich heiraten?
 
 519
 00:56:28,280 --> 00:56:31,875
@@ -2397,17 +2397,17 @@ Ich habe es vor.
 
 520
 00:57:25,360 --> 00:57:29,399
-MlSS VlCKERS UND GÄSTE MACHEN
+MlSS VlCKERS UND GÃ„STE MACHEN
 ElNE SPRlTZToUR AUF DEM SEE
 
 521
 00:57:44,520 --> 00:57:47,956
-Ich hatte einen Mühlstein
+Ich hatte einen MÃ¼hlstein
 namens Eastman am Hals.
 
 522
 00:57:48,160 --> 00:57:50,799
-Ich weiß, wie das ist.
+Ich weiÃŸ, wie das ist.
 
 523
 00:57:51,000 --> 00:57:55,073
@@ -2431,16 +2431,16 @@ Ich bin stolz auf deine Fortschritte.
 527
 00:58:07,560 --> 00:58:10,552
 Ich wollte dein Vertrauen
-in mich nicht enttäuschen.
+in mich nicht enttÃ¤uschen.
 
 528
 00:58:10,760 --> 00:58:15,197
-Wir können jemanden, der mit Leuten
-umzugehen weiß, immer gebrauchen.
+Wir kÃ¶nnen jemanden, der mit Leuten
+umzugehen weiÃŸ, immer gebrauchen.
 
 529
 00:58:15,400 --> 00:58:19,598
-Wie wäre es mit einem Posten
+Wie wÃ¤re es mit einem Posten
 bei uns in der Verwaltung,
 
 530
@@ -2468,7 +2468,7 @@ und George ist mein Pilot.
 
 535
 00:58:35,000 --> 00:58:41,633
-Ein Anruf für Sie, George. Spitz
+Ein Anruf fÃ¼r Sie, George. Spitz
 die ohren, Angela. Es ist eine Frau.
 
 536
@@ -2492,7 +2492,7 @@ angelogen. Komm und hol mich ab.
 
 540
 00:59:12,080 --> 00:59:16,631
-- lch komme morgen früh.
+- lch komme morgen frÃ¼h.
 - lch sagte jetzt!
 
 541
@@ -2517,7 +2517,7 @@ Mutter geht es nicht gut.
 545
 00:59:38,680 --> 00:59:42,593
 - Hoffentlich nichts Ernstes.
-- lch weiß nicht.
+- lch weiÃŸ nicht.
 
 546
 00:59:44,000 --> 00:59:48,118
@@ -2532,7 +2532,7 @@ kommen Sie wieder.
 548
 00:59:52,800 --> 00:59:56,839
 - Entschuldigen Sie, ich muss packen.
-- Natürlich. Auf Wiedersehen.
+- NatÃ¼rlich. Auf Wiedersehen.
 
 549
 00:59:57,040 --> 00:59:59,508
@@ -2544,7 +2544,7 @@ George, wie lange wirst du fort sein?
 
 551
 01:00:12,920 --> 01:00:16,276
-Ich weiß es nicht, mein Schatz.
+Ich weiÃŸ es nicht, mein Schatz.
 Ich kann es nicht sagen.
 
 552
@@ -2563,12 +2563,12 @@ Ich verspreche es.
 
 555
 01:00:56,760 --> 01:00:59,320
-Bist du verrückt, hierher zukommen?
+Bist du verrÃ¼ckt, hierher zukommen?
 
 556
 01:00:59,520 --> 01:01:02,717
 Du rufst mich an,
-während die ganze Familie zuhört.
+wÃ¤hrend die ganze Familie zuhÃ¶rt.
 
 557
 01:01:02,920 --> 01:01:07,516
@@ -2577,7 +2577,7 @@ Du wohnst bei Angela Vickers.
 
 558
 01:01:09,760 --> 01:01:12,718
-Ich warte nicht mehr länger auf dich.
+Ich warte nicht mehr lÃ¤nger auf dich.
 
 559
 01:01:12,920 --> 01:01:15,434
@@ -2622,8 +2622,8 @@ MoNTAG, DEN 4. SEPTEMBER
 
 568
 01:02:12,800 --> 01:02:16,315
-GEBURTEN, VERMÄHLUNGEN,
-ToDESFÄLLE
+GEBURTEN, VERMÃ„HLUNGEN,
+ToDESFÃ„LLE
 
 569
 01:02:16,520 --> 01:02:18,954
@@ -2631,7 +2631,7 @@ Heute ist Feiertag.
 
 570
 01:02:19,160 --> 01:02:20,434
-Hör mal, Al.
+HÃ¶r mal, Al.
 
 571
 01:02:21,200 --> 01:02:23,555
@@ -2644,36 +2644,36 @@ kommt es auch nicht an.
 
 573
 01:02:28,920 --> 01:02:33,630
-Es gibt hier in der Nähe
-einen schönen See.
+Es gibt hier in der NÃ¤he
+einen schÃ¶nen See.
 
 574
 01:02:33,840 --> 01:02:37,276
-Für eine Hochzeitsreise
+FÃ¼r eine Hochzeitsreise
 ist das der geeignete ort.
 
 575
 01:02:37,480 --> 01:02:40,836
-Wir könnten hinfahren.
-Es gibt da auch eine Hütte.
+Wir kÃ¶nnten hinfahren.
+Es gibt da auch eine HÃ¼tte.
 
 576
 01:02:41,040 --> 01:02:43,998
-Wir könnten den heutigen Tag
+Wir kÃ¶nnten den heutigen Tag
 dort verbringen
 
 577
 01:02:44,200 --> 01:02:47,636
-und morgen wieder zurückkommen.
+und morgen wieder zurÃ¼ckkommen.
 
 578
 01:02:47,840 --> 01:02:51,799
-- Al, hörst du mir zu?
-- Ja, ich höre dir zu.
+- Al, hÃ¶rst du mir zu?
+- Ja, ich hÃ¶re dir zu.
 
 579
 01:02:53,840 --> 01:02:58,197
-Wir machen uns einen schönen Tag
+Wir machen uns einen schÃ¶nen Tag
 wie alle anderen.
 
 580
@@ -2684,7 +2684,7 @@ und picknicken am See.
 581
 01:03:03,400 --> 01:03:07,791
 - Was meinst du?
-- Das hört sich gut an.
+- Das hÃ¶rt sich gut an.
 
 582
 01:03:08,000 --> 01:03:14,348
@@ -2697,13 +2697,13 @@ Gut, machen wir das Beste daraus.
 
 584
 01:03:45,000 --> 01:03:49,152
-Ich hätte bei der Tankstelle
+Ich hÃ¤tte bei der Tankstelle
 halten sollen. Ja, leer.
 
 585
 01:03:51,760 --> 01:03:55,196
 - Zu dumm.
-- lst es noch weit bis zur Hütte?
+- lst es noch weit bis zur HÃ¼tte?
 
 586
 01:03:55,400 --> 01:03:58,358
@@ -2711,7 +2711,7 @@ Nein, sie liegt hinter der Kurve.
 
 587
 01:04:00,840 --> 01:04:07,279
-Wir können doch nach
+Wir kÃ¶nnen doch nach
 unten zur Anlegestelle gehen.
 
 588
@@ -2721,7 +2721,7 @@ und picknicken.
 
 589
 01:04:11,200 --> 01:04:15,716
-Benzin besorge ich uns später.
+Benzin besorge ich uns spÃ¤ter.
 Den Wagen lassen wir solange hier.
 
 590
@@ -2731,7 +2731,7 @@ Den Wagen lassen wir solange hier.
 
 591
 01:04:22,240 --> 01:04:25,198
-- Es ist wunderschön.
+- Es ist wunderschÃ¶n.
 - Ja.
 
 592
@@ -2749,11 +2749,11 @@ Ist heute viel Betrieb auf dem See?
 
 595
 01:04:56,000 --> 01:04:58,753
-Sie haben ihn ganz für sich allein.
+Sie haben ihn ganz fÃ¼r sich allein.
 
 596
 01:05:00,680 --> 01:05:05,879
-- Wohnen Sie in der Hütte?
+- Wohnen Sie in der HÃ¼tte?
 - Ja, ab heute Abend.
 
 597
@@ -2781,11 +2781,11 @@ Edwards, er wohnt in Westbrook.
 
 602
 01:05:40,680 --> 01:05:42,318
-Ein landläufiger Name.
+Ein landlÃ¤ufiger Name.
 
 603
 01:05:45,200 --> 01:05:48,078
-Ich habe ihn nur zweimal gehört.
+Ich habe ihn nur zweimal gehÃ¶rt.
 
 604
 01:06:04,640 --> 01:06:08,553
@@ -2804,7 +2804,7 @@ Es ist hier so einsam.
 607
 01:07:29,680 --> 01:07:34,037
 Als ob wir die einzigen Menschen
-auf der Welt wären.
+auf der Welt wÃ¤ren.
 
 608
 01:07:34,240 --> 01:07:35,753
@@ -2817,21 +2817,21 @@ wenn wir wieder anlegen.
 
 610
 01:07:40,360 --> 01:07:42,555
-Mir würde das gefallen, dir nicht?
+Mir wÃ¼rde das gefallen, dir nicht?
 
 611
 01:07:45,040 --> 01:07:47,031
-Wir könnten überall hingehen.
+Wir kÃ¶nnten Ã¼berall hingehen.
 
 612
 01:07:47,240 --> 01:07:50,676
-Wir könnten im größten Haus
+Wir kÃ¶nnten im grÃ¶ÃŸten Haus
 der Welt wohnen.
 
 613
 01:07:50,880 --> 01:07:55,874
 Mir ist ein kleines Haus lieber,
-gerade groß genug für uns beide.
+gerade groÃŸ genug fÃ¼r uns beide.
 
 614
 01:08:00,000 --> 01:08:03,276
@@ -2845,16 +2845,16 @@ Was ist denn? Ist dir nicht gut?
 616
 01:08:13,600 --> 01:08:18,355
 Nichts. Ich bin aus der Puste.
-Ich bin das Rudern nicht gewöhnt.
+Ich bin das Rudern nicht gewÃ¶hnt.
 
 617
 01:08:18,560 --> 01:08:23,680
 Mach eine Weile Pause.
-Wir können uns treiben lassen.
+Wir kÃ¶nnen uns treiben lassen.
 
 618
 01:08:25,920 --> 01:08:28,878
-Schließlich rudern wir nirgendwohin.
+SchlieÃŸlich rudern wir nirgendwohin.
 
 619
 01:08:40,440 --> 01:08:43,159
@@ -2867,15 +2867,15 @@ Sternschnuppe leuchte klar und hell
 621
 01:08:46,840 --> 01:08:51,391
 Du leuchtest hell, aber nicht grell
-Erfüll mir meinen Wunsch ganz schnell
+ErfÃ¼ll mir meinen Wunsch ganz schnell
 
 622
 01:08:56,760 --> 01:08:59,069
-Hast du dir etwas gewünscht?
+Hast du dir etwas gewÃ¼nscht?
 
 623
 01:09:01,480 --> 01:09:03,755
-Was hast du dir gewünscht?
+Was hast du dir gewÃ¼nscht?
 
 624
 01:09:04,960 --> 01:09:06,791
@@ -2883,8 +2883,8 @@ Nichts.
 
 625
 01:09:07,000 --> 01:09:10,709
-Fürchtest du, es geht nicht
-in Erfüllung, wenn du es sagst?
+FÃ¼rchtest du, es geht nicht
+in ErfÃ¼llung, wenn du es sagst?
 
 626
 01:09:10,920 --> 01:09:16,631
@@ -2911,22 +2911,22 @@ Ich liebe dich so, George.
 
 631
 01:09:40,520 --> 01:09:46,356
-- Wir sollten zurück. Es dämmert.
-- Der Mann meint, wir wären ersoffen.
+- Wir sollten zurÃ¼ck. Es dÃ¤mmert.
+- Der Mann meint, wir wÃ¤ren ersoffen.
 
 632
 01:09:46,560 --> 01:09:52,112
 Lassen wir uns noch etwas treiben.
-Ich fürchte mich nicht im Dunkeln.
+Ich fÃ¼rchte mich nicht im Dunkeln.
 
 633
 01:10:00,120 --> 01:10:02,953
 Ich sage dir,
-was ich mir gewünscht habe.
+was ich mir gewÃ¼nscht habe.
 
 634
 01:10:07,160 --> 01:10:10,118
-Ich wünschte mir,
+Ich wÃ¼nschte mir,
 dass du mich wieder liebst.
 
 635
@@ -2956,22 +2956,22 @@ statt Unerreichbares zu wollen.
 640
 01:10:38,960 --> 01:10:42,396
 Es sind die kleinen Dinge
-des Lebens, die zählen.
+des Lebens, die zÃ¤hlen.
 
 641
 01:10:42,600 --> 01:10:46,673
-Wir müssen geizen und sparen,
+Wir mÃ¼ssen geizen und sparen,
 aber wir haben uns.
 
 642
 01:10:46,880 --> 01:10:50,634
 - lch habe keine Angst, arm zu sein.
-- Hör auf, Al!
+- HÃ¶r auf, Al!
 
 643
 01:10:52,800 --> 01:10:57,032
 - Warum? Was ist?
-- Hör einfach auf.
+- HÃ¶r einfach auf.
 
 644
 01:11:00,440 --> 01:11:01,919
@@ -2984,18 +2984,18 @@ die Sternschnuppe gesehen hast?
 
 646
 01:11:11,520 --> 01:11:15,399
-Du hast dir gewünscht,
+Du hast dir gewÃ¼nscht,
 nicht hier mit mir zu sein, oder?
 
 647
 01:11:15,600 --> 01:11:19,991
-Du hast dir gewünscht,
+Du hast dir gewÃ¼nscht,
 mich nie mehr wieder zu sehen.
 
 648
 01:11:25,840 --> 01:11:31,676
 Vielleicht hast du dir meinen Tod
-gewünscht. Hast du das?
+gewÃ¼nscht. Hast du das?
 
 649
 01:11:31,880 --> 01:11:35,634
@@ -3004,8 +3004,8 @@ Lass mich in Ruhe.
 
 650
 01:11:37,320 --> 01:11:43,350
-Es ist nicht leicht für dich.
-Ich hätte es nicht sagen sollen.
+Es ist nicht leicht fÃ¼r dich.
+Ich hÃ¤tte es nicht sagen sollen.
 
 651
 01:11:44,160 --> 01:11:46,628
@@ -3017,12 +3017,12 @@ Wer ist da?
 
 653
 01:13:15,320 --> 01:13:17,914
-Ich suche die Straße.
+Ich suche die StraÃŸe.
 
 654
 01:13:19,520 --> 01:13:22,512
 Ich habe mich verirrt.
-Wisst ihr, wo die Straße ist?
+Wisst ihr, wo die StraÃŸe ist?
 
 655
 01:13:22,720 --> 01:13:26,190
@@ -3044,7 +3044,7 @@ Sei ruhig, mein Junge. Du bleibst da.
 
 659
 01:14:27,160 --> 01:14:29,116
-Für Sie. Die Gerichtsmedizin.
+FÃ¼r Sie. Die Gerichtsmedizin.
 
 660
 01:14:30,520 --> 01:14:32,476
@@ -3057,7 +3057,7 @@ Bob, schreiben Sie mit.
 
 662
 01:14:40,840 --> 01:14:42,592
-Ich höre.
+Ich hÃ¶re.
 
 663
 01:14:44,520 --> 01:14:47,273
@@ -3124,7 +3124,7 @@ Das freut mich.
 
 677
 01:16:07,520 --> 01:16:09,875
-Du siehst sehr müde aus.
+Du siehst sehr mÃ¼de aus.
 
 678
 01:16:10,920 --> 01:16:16,199
@@ -3142,12 +3142,12 @@ und Dad werden langsam weich.
 
 681
 01:16:26,800 --> 01:16:29,792
-Du gewinnst sie für dich
+Du gewinnst sie fÃ¼r dich
 mit deinem Charme.
 
 682
 01:16:30,000 --> 01:16:34,152
-Wir können es an Weihnachten
+Wir kÃ¶nnen es an Weihnachten
 bekannt geben.
 
 683
@@ -3162,13 +3162,13 @@ bekannt geben.
 
 685
 01:16:43,040 --> 01:16:46,749
-Alles läuft bestens. Mutter
-möchte eine stattliche Hochzeit.
+Alles lÃ¤uft bestens. Mutter
+mÃ¶chte eine stattliche Hochzeit.
 
 686
 01:16:46,960 --> 01:16:52,910
 Ich habe schon immer davon
-geträumt, wie alle Mädchen.
+getrÃ¤umt, wie alle MÃ¤dchen.
 
 687
 01:16:54,400 --> 01:16:57,915
@@ -3181,7 +3181,7 @@ Ich warte auf der Terrasse auf dich.
 
 689
 01:17:08,840 --> 01:17:13,550
-- Hatte das Mädchen etwas bei sich?
+- Hatte das MÃ¤dchen etwas bei sich?
 - Eine Angestelltenkarte.
 
 690
@@ -3195,7 +3195,7 @@ Alice Tripp oder so.
 692
 01:17:22,520 --> 01:17:25,273
 Der Mann sagte,
-er hieße Gilbert Edwards?
+er hieÃŸe Gilbert Edwards?
 
 693
 01:17:25,480 --> 01:17:26,754
@@ -3213,12 +3213,12 @@ in diesem See nicht finden.
 
 696
 01:17:36,000 --> 01:17:39,276
-Als ich am Spätnachmittag
-zu meiner Hütte gegangen bin,
+Als ich am SpÃ¤tnachmittag
+zu meiner HÃ¼tte gegangen bin,
 
 697
 01:17:39,480 --> 01:17:42,597
-stand dort ein Coupé im Wald.
+stand dort ein CoupÃ© im Wald.
 
 698
 01:17:42,800 --> 01:17:45,030
@@ -3242,11 +3242,11 @@ irgendwo eine andere Frau versteckt?
 702
 01:18:06,520 --> 01:18:10,991
 - Du warst so lange weg.
-- Können wir nicht allein sein?
+- KÃ¶nnen wir nicht allein sein?
 
 703
 01:18:12,520 --> 01:18:15,956
-- Wir könnten das Motorboot nehmen.
+- Wir kÃ¶nnten das Motorboot nehmen.
 - Ja.
 
 704
@@ -3260,12 +3260,12 @@ Schnell.
 
 706
 01:18:31,760 --> 01:18:35,594
-Wie wäre es mit etwas Gesellschaft?
+Wie wÃ¤re es mit etwas Gesellschaft?
 Kommt alle.
 
 707
 01:18:35,800 --> 01:18:40,510
-- Für dich ist kein Platz.
+- FÃ¼r dich ist kein Platz.
 - Das haben wir gleich.
 
 708
@@ -3285,7 +3285,7 @@ dass die Frau ertrunken ist.
 711
 01:19:00,040 --> 01:19:03,476
 Sie hat blaue Flecken,
-was auf einen Kampf weisen könnte.
+was auf einen Kampf weisen kÃ¶nnte.
 
 712
 01:19:03,680 --> 01:19:06,035
@@ -3303,7 +3303,7 @@ ein sichtlich erregter Mann habe...
 
 715
 01:19:27,520 --> 01:19:29,476
-Sie sehen müde aus, George.
+Sie sehen mÃ¼de aus, George.
 
 716
 01:19:30,520 --> 01:19:34,354
@@ -3313,16 +3313,16 @@ Sie sehen müde aus, George.
 717
 01:19:34,560 --> 01:19:39,111
 Vielleicht ist das eine gute ldee.
-Wenn Sie mich entschuldigen würden.
+Wenn Sie mich entschuldigen wÃ¼rden.
 
 718
 01:19:39,320 --> 01:19:43,950
-- Gibt es Neues über den Vorfall?
+- Gibt es Neues Ã¼ber den Vorfall?
 - Die Presse spricht von Mord.
 
 719
 01:19:44,160 --> 01:19:48,676
-- Er lebt und hat sie ertränkt.
+- Er lebt und hat sie ertrÃ¤nkt.
 - Du liest zu viele Krimis.
 
 720
@@ -3332,7 +3332,7 @@ Sie war wohl eine Quasselstrippe.
 721
 01:19:51,400 --> 01:19:55,188
 Er hat sie hochgehoben
-und über Bord geworfen.
+und Ã¼ber Bord geworfen.
 
 722
 01:19:56,240 --> 01:19:59,630
@@ -3341,7 +3341,7 @@ und über Bord geworfen.
 
 723
 01:19:59,840 --> 01:20:04,595
-Mr Vickers würde Sie gern sprechen.
+Mr Vickers wÃ¼rde Sie gern sprechen.
 Er ist im Wohnzimmer, Sir.
 
 724
@@ -3355,13 +3355,13 @@ uns einmal unterhalten sollten.
 
 726
 01:20:23,320 --> 01:20:26,278
-- Möchten Sie etwas trinken?
+- MÃ¶chten Sie etwas trinken?
 - Gerne.
 
 727
 01:20:26,480 --> 01:20:33,352
 Ich mache lhnen einen Doppelten. Ich
-werde jetzt etwas persönlich, George.
+werde jetzt etwas persÃ¶nlich, George.
 
 728
 01:20:36,320 --> 01:20:40,518
@@ -3370,13 +3370,13 @@ und das Gerede von einer Hochzeit.
 
 729
 01:20:41,320 --> 01:20:44,278
-Ich weiß nicht,
-ob ich dafür oder dagegen bin.
+Ich weiÃŸ nicht,
+ob ich dafÃ¼r oder dagegen bin.
 
 730
 01:20:44,480 --> 01:20:50,077
 - lch kenne Sie nicht gut genug.
-- lch weiß, wie Sie sich fühlen.
+- lch weiÃŸ, wie Sie sich fÃ¼hlen.
 
 731
 01:20:50,280 --> 01:20:54,990
@@ -3385,13 +3385,13 @@ an Hochzeit denke? Angela hat alles.
 
 732
 01:20:55,200 --> 01:21:00,149
-Wir wissen eigentlich überhaupt
-nichts über lhre Vergangenheit.
+Wir wissen eigentlich Ã¼berhaupt
+nichts Ã¼ber lhre Vergangenheit.
 
 733
 01:21:00,360 --> 01:21:06,993
 Da gibt es nicht viel zu wissen. Ich
-kann lhnen das alles selber erzählen.
+kann lhnen das alles selber erzÃ¤hlen.
 
 734
 01:21:09,000 --> 01:21:12,436
@@ -3405,7 +3405,7 @@ und ganz dem Glauben gewidmet.
 
 736
 01:21:22,320 --> 01:21:26,757
-Sie haben Gottesdienst auf der Straße
+Sie haben Gottesdienst auf der StraÃŸe
 abgehalten, gesungen.
 
 737
@@ -3415,7 +3415,7 @@ Ich war ein Teil davon,
 738
 01:21:31,080 --> 01:21:35,790
 bis der Staat kam und sagte,
-dass ich zur Schule gehen müsse.
+dass ich zur Schule gehen mÃ¼sse.
 
 739
 01:21:36,560 --> 01:21:41,315
@@ -3444,7 +3444,7 @@ Ich hatte keinerlei Ausbildung.
 744
 01:22:02,320 --> 01:22:06,279
 Dann kam ich hierher,
-um für meinen onkel zu arbeiten.
+um fÃ¼r meinen onkel zu arbeiten.
 
 745
 01:22:08,840 --> 01:22:12,628
@@ -3453,7 +3453,7 @@ Mr Vickers.
 
 746
 01:22:14,760 --> 01:22:19,197
-Viel Anerkennung wird es dafür
+Viel Anerkennung wird es dafÃ¼r
 wohl nicht geben.
 
 747
@@ -3463,12 +3463,12 @@ als alles auf der Welt.
 
 748
 01:22:24,240 --> 01:22:27,198
-Ich würde alles tun,
-damit sie glücklich ist.
+Ich wÃ¼rde alles tun,
+damit sie glÃ¼cklich ist.
 
 749
 01:22:29,320 --> 01:22:34,235
-Auch wenn das heißen würde,
+Auch wenn das heiÃŸen wÃ¼rde,
 dass ich sie nicht mehr sehen darf.
 
 750
@@ -3487,7 +3487,7 @@ Ich bewundere lhre Ehrlichkeit.
 753
 01:22:46,160 --> 01:22:50,950
 Ich habe gelauscht, aber ich bin
-froh, dass ich alles gehört habe.
+froh, dass ich alles gehÃ¶rt habe.
 
 754
 01:22:53,640 --> 01:22:56,552
@@ -3495,8 +3495,8 @@ Beantwortet das all deine Fragen?
 
 755
 01:22:56,760 --> 01:23:00,673
-Ich möchte nur,
-dass ihr beiden nichts überstürzt.
+Ich mÃ¶chte nur,
+dass ihr beiden nichts Ã¼berstÃ¼rzt.
 
 756
 01:23:08,000 --> 01:23:10,673
@@ -3505,7 +3505,7 @@ dass ihr beiden nichts überstürzt.
 
 757
 01:23:10,880 --> 01:23:15,192
-- lch möchte allein mit dir sein.
+- lch mÃ¶chte allein mit dir sein.
 - Dann mal los.
 
 758
@@ -3515,11 +3515,11 @@ MoRD AUF DEM SEETAUCHER-SEE
 759
 01:23:27,000 --> 01:23:30,993
 Ich kann nicht glauben,
-dass Alice so etwas zugestoßen ist.
+dass Alice so etwas zugestoÃŸen ist.
 
 760
 01:23:31,200 --> 01:23:36,638
-- Sie war so ein nettes Mädchen.
+- Sie war so ein nettes MÃ¤dchen.
 - Kannten Sie einen ihrer Freunde?
 
 761
@@ -3534,7 +3534,7 @@ Und wer war das?
 763
 01:23:45,320 --> 01:23:50,155
 Das ist eine Kleinstadt.
-Ein Skandal würde mir nur schaden.
+Ein Skandal wÃ¼rde mir nur schaden.
 
 764
 01:23:50,360 --> 01:23:54,478
@@ -3548,13 +3548,13 @@ ein Eastman gewesen sein.
 
 766
 01:24:01,400 --> 01:24:05,439
-Doch das ist unmöglich...
+Doch das ist unmÃ¶glich...
 Nicht einer der Eastmans!
 
 767
 01:24:06,920 --> 01:24:09,309
 GESELLSCHAFT
-SoMMERVERGNÜGEN
+SoMMERVERGNÃœGEN
 
 768
 01:24:10,680 --> 01:24:13,638
@@ -3590,17 +3590,17 @@ mittlere Statur.
 
 775
 01:25:17,440 --> 01:25:21,353
-- Wie heißen Sie?
+- Wie heiÃŸen Sie?
 - George Eastman.
 
 776
 01:25:33,240 --> 01:25:39,270
-Ich möchte nicht eines Tages
-lhre Körperteile aufsammeln müssen.
+Ich mÃ¶chte nicht eines Tages
+lhre KÃ¶rperteile aufsammeln mÃ¼ssen.
 
 777
 01:25:39,480 --> 01:25:43,234
-- lmmer schön sachte.
+- lmmer schÃ¶n sachte.
 - Jawohl.
 
 778
@@ -3610,7 +3610,7 @@ Er ist so grauenerregend.
 
 779
 01:25:55,320 --> 01:25:58,073
-Und er hat eine schöne Handschrift.
+Und er hat eine schÃ¶ne Handschrift.
 
 780
 01:26:04,920 --> 01:26:06,876
@@ -3618,7 +3618,7 @@ Schatz, was ist?
 
 781
 01:26:09,160 --> 01:26:12,630
-Ich bin müde, sehr müde.
+Ich bin mÃ¼de, sehr mÃ¼de.
 
 782
 01:26:14,840 --> 01:26:17,593
@@ -3632,7 +3632,7 @@ Wir bleiben hier, nur wir beide.
 784
 01:26:27,920 --> 01:26:32,755
 Lass dich von Dad
-nicht verrückt machen. Nur ich zähle.
+nicht verrÃ¼ckt machen. Nur ich zÃ¤hle.
 
 785
 01:26:34,000 --> 01:26:36,434
@@ -3645,21 +3645,21 @@ Die Einzige.
 787
 01:26:44,320 --> 01:26:47,278
 Die Leute werden Dinge sagen,
-das weiß ich.
+das weiÃŸ ich.
 
 788
 01:26:47,480 --> 01:26:51,871
-Dinge über mich. Über mich.
+Dinge Ã¼ber mich. Ãœber mich.
 
 789
 01:26:52,080 --> 01:26:57,518
 - Du wirst mich nicht mehr lieben.
-- Hör auf, so zu reden!
+- HÃ¶r auf, so zu reden!
 
 790
 01:27:20,920 --> 01:27:24,708
 - lch bin eingeschlafen.
-- Du hast geträumt.
+- Du hast getrÃ¤umt.
 
 791
 01:27:24,920 --> 01:27:29,994
@@ -3683,7 +3683,7 @@ Ich werde dich immer lieben.
 
 795
 01:27:52,000 --> 01:27:56,391
-Lass uns fahren, sonst lässt Mutter
+Lass uns fahren, sonst lÃ¤sst Mutter
 noch nach uns suchen.
 
 796
@@ -3694,7 +3694,7 @@ ich komme gleich nach.
 797
 01:28:43,320 --> 01:28:47,518
 Wenn du mich nur eine Minute allein
-lässt, ist es wie ein Lebewohl.
+lÃ¤sst, ist es wie ein Lebewohl.
 
 798
 01:28:49,920 --> 01:28:54,755
@@ -3716,12 +3716,12 @@ Ja.
 
 802
 01:31:00,520 --> 01:31:07,312
-Gehen Sie den Weg zurück und dann
+Gehen Sie den Weg zurÃ¼ck und dann
 erfahren Sie es. Na los, gehen Sie.
 
 803
 01:31:07,520 --> 01:31:10,592
-Und machen Sie ja keine Mätzchen.
+Und machen Sie ja keine MÃ¤tzchen.
 
 804
 01:31:12,600 --> 01:31:14,556
@@ -3743,7 +3743,7 @@ Nein.
 808
 01:31:32,880 --> 01:31:36,634
 Wissen Sie nichts
-über den Mord an Alice Tripp?
+Ã¼ber den Mord an Alice Tripp?
 
 809
 01:31:36,840 --> 01:31:39,559
@@ -3797,7 +3797,7 @@ entfernen.
 819
 01:32:32,520 --> 01:32:36,479
 Sie wussten nichts von seiner
-Beziehung zu diesem Mädchen?
+Beziehung zu diesem MÃ¤dchen?
 
 820
 01:32:38,520 --> 01:32:39,794
@@ -3806,7 +3806,7 @@ Nein.
 821
 01:32:43,240 --> 01:32:46,596
 Niemand von lhnen wusste,
-dass er ein Doppelleben führte?
+dass er ein Doppelleben fÃ¼hrte?
 
 822
 01:32:46,800 --> 01:32:48,074
@@ -3819,13 +3819,13 @@ meine Tochter und mich haben,
 
 824
 01:33:02,920 --> 01:33:05,878
-- würden Sie uns dann entschuldigen?
-- Natürlich.
+- wÃ¼rden Sie uns dann entschuldigen?
+- NatÃ¼rlich.
 
 825
 01:33:08,680 --> 01:33:13,470
-Mr Vickers, ich möchte eine
-unschuldige Person nicht belästigen.
+Mr Vickers, ich mÃ¶chte eine
+unschuldige Person nicht belÃ¤stigen.
 
 826
 01:33:13,680 --> 01:33:18,117
@@ -3839,21 +3839,21 @@ Sie halten ihn aus dem Prozess.
 
 828
 01:33:22,480 --> 01:33:26,109
-Dafür bedarf es aber erst
+DafÃ¼r bedarf es aber erst
 der Zustimmung der Verteidigung.
 
 829
 01:33:26,320 --> 01:33:29,357
 Die Verteidigung wird zustimmen,
-dafür sorge ich.
+dafÃ¼r sorge ich.
 
 830
 01:33:30,680 --> 01:33:32,636
-Ich besorge dem Jungen Anwälte.
+Ich besorge dem Jungen AnwÃ¤lte.
 
 831
 01:33:32,840 --> 01:33:36,992
-Wenn er unschuldig ist, zahle ich für
+Wenn er unschuldig ist, zahle ich fÃ¼r
 seine Verteidigung 1 00.000 Dollar.
 
 832
@@ -3871,8 +3871,8 @@ Danke, Mutter. Danke, Lulu.
 
 835
 01:34:10,520 --> 01:34:13,956
-Der Junge ist müde.
-Ich glaube, es reicht für heute.
+Der Junge ist mÃ¼de.
+Ich glaube, es reicht fÃ¼r heute.
 
 836
 01:34:14,160 --> 01:34:16,116
@@ -3898,22 +3898,22 @@ Sie zu verteidigen,
 
 841
 01:34:29,920 --> 01:34:35,199
-kamen wir überein, Miss Vickers
+kamen wir Ã¼berein, Miss Vickers
 nicht in diese Sache hineinzuziehen.
 
 842
 01:34:36,520 --> 01:34:38,875
-- Natürlich.
+- NatÃ¼rlich.
 - Es ist auch in lhrem lnteresse.
 
 843
 01:34:39,080 --> 01:34:42,038
 Ihr Erscheinen vor Gericht
-wäre irrelevant.
+wÃ¤re irrelevant.
 
 844
 01:34:42,240 --> 01:34:46,677
-Es könnte auch lhnen schaden.
+Es kÃ¶nnte auch lhnen schaden.
 Wir sehen uns bald wieder.
 
 845
@@ -3955,7 +3955,7 @@ George Eastman soll
 
 853
 01:36:22,880 --> 01:36:27,954
-vorsätzlich, in böser Absicht
+vorsÃ¤tzlich, in bÃ¶ser Absicht
 und auf grausame Weise
 
 854
@@ -3976,25 +3976,25 @@ gemacht werden soll,
 857
 01:36:45,920 --> 01:36:50,675
 der das Gesetz missachtet und
-gegen jedes Gebot verstoßen hat,
+gegen jedes Gebot verstoÃŸen hat,
 
 858
 01:36:52,240 --> 01:36:56,677
-dessen Niedertracht zum Mord führte.
+dessen Niedertracht zum Mord fÃ¼hrte.
 
 859
 01:37:01,760 --> 01:37:06,959
-- Welche Gefühle hegte Alice für ihn?
+- Welche GefÃ¼hle hegte Alice fÃ¼r ihn?
 - Wir wussten, dass sie verliebt war.
 
 860
 01:37:07,160 --> 01:37:09,720
-Was für eine Regel war das genau?
+Was fÃ¼r eine Regel war das genau?
 
 861
 01:37:09,920 --> 01:37:14,516
 Die Vorarbeiter sollten nichts
-mit den Mädchen anfangen.
+mit den MÃ¤dchen anfangen.
 
 862
 01:37:14,720 --> 01:37:18,395
@@ -4017,7 +4017,7 @@ verlassen hatte,
 
 866
 01:37:29,000 --> 01:37:31,878
-hat sie in einem Coupé
+hat sie in einem CoupÃ©
 mit einem Mann gesessen.
 
 867
@@ -4031,11 +4031,11 @@ Etwa gegen neun kam er zum Lager.
 
 869
 01:37:40,120 --> 01:37:42,270
-Er war nass und wirkte ängstlich.
+Er war nass und wirkte Ã¤ngstlich.
 
 870
 01:37:42,480 --> 01:37:47,793
-Dieser Mann war mit diesem Mädchen
+Dieser Mann war mit diesem MÃ¤dchen
 am Bushof.
 
 871
@@ -4045,22 +4045,22 @@ Sie hatten Streit.
 872
 01:37:50,160 --> 01:37:53,391
 Sie sagte, sie ginge nur,
-wenn er es versprechen würde.
+wenn er es versprechen wÃ¼rde.
 
 873
 01:37:53,600 --> 01:37:58,594
 Wurde Miss Tripp vor ihrem Tod durch
-Ertrinken noch Gewalt zugefügt?
+Ertrinken noch Gewalt zugefÃ¼gt?
 
 874
 01:37:58,800 --> 01:38:03,476
 Etwas traf sie, wodurch sie das
-Bewusstsein verloren haben könnte.
+Bewusstsein verloren haben kÃ¶nnte.
 
 875
 01:38:03,680 --> 01:38:07,389
 Ich sagte ihm, dass niemand
-sonst auf dem See wäre.
+sonst auf dem See wÃ¤re.
 
 876
 01:38:07,600 --> 01:38:10,194
@@ -4079,21 +4079,21 @@ beobachten wurde?
 
 879
 01:38:19,960 --> 01:38:22,997
-Von niemandem außer der Person,
+Von niemandem auÃŸer der Person,
 die nicht mehr lebt,
 
 880
 01:38:23,200 --> 01:38:25,555
-dem Mädchen, das er ertränkte?
+dem MÃ¤dchen, das er ertrÃ¤nkte?
 
 881
 01:38:25,760 --> 01:38:29,594
 - Die Anklage darf nicht...
-- lch ziehe die Frage zurück.
+- lch ziehe die Frage zurÃ¼ck.
 
 882
 01:38:29,800 --> 01:38:31,950
-Beweisführung abgeschlossen.
+BeweisfÃ¼hrung abgeschlossen.
 
 883
 01:38:34,840 --> 01:38:38,037
@@ -4165,23 +4165,23 @@ einen falschen Namen geben?
 
 897
 01:39:44,400 --> 01:39:48,632
-Wir wollten in der Hütte übernachten
+Wir wollten in der HÃ¼tte Ã¼bernachten
 und waren nicht verheiratet.
 
 898
 01:39:48,840 --> 01:39:52,628
-Ich hielt es für besser, nicht
+Ich hielt es fÃ¼r besser, nicht
 unsere echten Namen zu verwenden.
 
 899
 01:39:52,840 --> 01:39:58,517
-Warum wollten Sie mit dem Mädchen
+Warum wollten Sie mit dem MÃ¤dchen
 auf den See hinausrudern?
 
 900
 01:40:03,520 --> 01:40:08,469
 Ich hatte den Hintergedanken,
-sie zu ertränken.
+sie zu ertrÃ¤nken.
 
 901
 01:40:10,000 --> 01:40:13,436
@@ -4203,7 +4203,7 @@ Ich wusste, dass ich es nicht konnte.
 
 905
 01:40:32,840 --> 01:40:37,834
-- Sie haben es sich anders überlegt.
+- Sie haben es sich anders Ã¼berlegt.
 - Einspruch. Zeugenbeeinflussung.
 
 906
@@ -4222,7 +4222,7 @@ Und was geschah dann?
 909
 01:40:52,160 --> 01:40:56,392
 Dann wollten wir uns
-auf den Weg zur Hütte machen.
+auf den Weg zur HÃ¼tte machen.
 
 910
 01:40:56,600 --> 01:41:00,275
@@ -4231,12 +4231,12 @@ Sie redete von Hochzeit
 911
 01:41:00,480 --> 01:41:04,109
 und wie unser gemeinsames Leben
-sein würde.
+sein wÃ¼rde.
 
 912
 01:41:04,320 --> 01:41:07,312
 Und wie haben Sie
-auf ihre Äußerungen reagiert?
+auf ihre Ã„uÃŸerungen reagiert?
 
 913
 01:41:07,520 --> 01:41:11,593
@@ -4246,11 +4246,11 @@ Sie wusste, dass es hoffnungslos war.
 914
 01:41:14,640 --> 01:41:16,949
 Sie sagte,
-ich wünschte mir ihren Tod.
+ich wÃ¼nschte mir ihren Tod.
 
 915
 01:41:17,160 --> 01:41:19,276
-Wünschten Sie sich ihren Tod?
+WÃ¼nschten Sie sich ihren Tod?
 
 916
 01:41:19,480 --> 01:41:23,109
@@ -4273,7 +4273,7 @@ An eine andere Frau.
 920
 01:41:36,360 --> 01:41:41,639
 Sie dachten, dass diese andere Frau
-für immer verloren wäre.
+fÃ¼r immer verloren wÃ¤re.
 
 921
 01:41:49,160 --> 01:41:51,958
@@ -4288,7 +4288,7 @@ dass ich nicht ihren Tod wolle.
 923
 01:41:55,920 --> 01:41:58,673
 War sie nicht alarmiert
-und beängstigt?
+und beÃ¤ngstigt?
 
 924
 01:42:00,520 --> 01:42:04,513
@@ -4321,7 +4321,7 @@ und ich war wie benebelt.
 930
 01:42:24,160 --> 01:42:26,993
 Ich muss mich beim Fall
-an etwas gestoßen haben.
+an etwas gestoÃŸen haben.
 
 931
 01:42:27,200 --> 01:42:30,670
@@ -4335,7 +4335,7 @@ als sie ins Wasser fiel?
 
 933
 01:42:35,480 --> 01:42:38,916
-Ja, ich hörte sie schreien,
+Ja, ich hÃ¶rte sie schreien,
 aber ich konnte sie nicht sehen,
 
 934
@@ -4358,17 +4358,17 @@ Ich habe sie nicht mehr gesehen.
 
 938
 01:42:58,920 --> 01:43:02,435
-Schwören Sie,
+SchwÃ¶ren Sie,
 dass Sie sie nicht angegriffen haben.
 
 939
 01:43:02,640 --> 01:43:04,073
-Ich schwöre es.
+Ich schwÃ¶re es.
 
 940
 01:43:04,280 --> 01:43:06,874
-- Dass Sie sie nicht gestoßen haben.
-- lch schwöre.
+- Dass Sie sie nicht gestoÃŸen haben.
+- lch schwÃ¶re.
 
 941
 01:43:07,080 --> 01:43:10,390
@@ -4377,11 +4377,11 @@ den Sie nicht beabsichtigt haben.
 
 942
 01:43:10,600 --> 01:43:15,230
-Ich schwöre es, ich schwöre es.
+Ich schwÃ¶re es, ich schwÃ¶re es.
 
 943
 01:43:16,680 --> 01:43:18,636
-Das wäre alles, Euer Ehren.
+Das wÃ¤re alles, Euer Ehren.
 
 944
 01:43:30,160 --> 01:43:35,075
@@ -4396,7 +4396,7 @@ am Bushof zu treffen...
 946
 01:43:39,360 --> 01:43:42,557
 Erinnern Sie sich daran,
-etwas zurückgelassen zu haben?
+etwas zurÃ¼ckgelassen zu haben?
 
 947
 01:43:42,760 --> 01:43:46,548
@@ -4405,22 +4405,22 @@ Nein, daran erinnere ich mich nicht.
 948
 01:43:46,760 --> 01:43:51,788
 Ich spreche von lhrem Herzen!
-Haben Sie das zurückgelassen?
+Haben Sie das zurÃ¼ckgelassen?
 
 949
 01:43:52,000 --> 01:43:57,313
-Und, Eastman? Da draußen
+Und, Eastman? Da drauÃŸen
 auf der Terrasse im Mondschein?
 
 950
 01:43:57,520 --> 01:44:00,114
-Sie ließen die Frau zurück,
+Sie lieÃŸen die Frau zurÃ¼ck,
 die Sie liebten,
 
 951
 01:44:00,320 --> 01:44:04,199
 und somit
-all lhre Hoffnungen und Träume.
+all lhre Hoffnungen und TrÃ¤ume.
 
 952
 01:44:04,400 --> 01:44:06,470
@@ -4428,7 +4428,7 @@ oder, Eastman?
 
 953
 01:44:06,680 --> 01:44:10,639
-Sie ließen alles zurück,
+Sie lieÃŸen alles zurÃ¼ck,
 auch die Frau, die Sie liebten.
 
 954
@@ -4447,7 +4447,7 @@ Ja.
 957
 01:44:21,360 --> 01:44:27,469
 Als Sie allen sagten,
-dass Sie zu lhrer Mutter müssten,
+dass Sie zu lhrer Mutter mÃ¼ssten,
 
 958
 01:44:27,680 --> 01:44:30,478
@@ -4469,23 +4469,23 @@ was haben Sie Alice Tripp gesagt,
 
 962
 01:44:40,720 --> 01:44:43,553
-als Sie so weit von der Hütte entfernt
+als Sie so weit von der HÃ¼tte entfernt
 parkten?
 
 963
 01:44:43,760 --> 01:44:47,435
-- Dass wir kein Benzin mehr hätten.
+- Dass wir kein Benzin mehr hÃ¤tten.
 - Haben Sie da wieder gelogen?
 
 964
 01:44:47,640 --> 01:44:49,312
 - Ja.
-- Lügen.
+- LÃ¼gen.
 
 965
 01:44:49,520 --> 01:44:52,637
 Alles, was Sie taten,
-war eine große Lüge.
+war eine groÃŸe LÃ¼ge.
 
 966
 01:44:52,840 --> 01:44:57,914
@@ -4502,7 +4502,7 @@ Ich habe sie nicht umgebracht.
 
 969
 01:45:05,040 --> 01:45:10,478
-Sie lügen also weiterhin.
+Sie lÃ¼gen also weiterhin.
 Wir werden ja sehen.
 
 970
@@ -4521,12 +4521,12 @@ ein wie an jenem Abend.
 
 973
 01:45:34,320 --> 01:45:38,074
-Als das Mädchen aufstand,
+Als das MÃ¤dchen aufstand,
 um auf Sie zuzukommen,
 
 974
 01:45:38,280 --> 01:45:41,033
-stolperte Sie ungefähr dort?
+stolperte Sie ungefÃ¤hr dort?
 
 975
 01:45:42,600 --> 01:45:45,956
@@ -4539,7 +4539,7 @@ Und dann?
 
 977
 01:45:48,040 --> 01:45:50,759
-Fiel sie seitwärts ins Wasser.
+Fiel sie seitwÃ¤rts ins Wasser.
 
 978
 01:45:50,960 --> 01:45:54,635
@@ -4553,8 +4553,8 @@ Fiel sie seitwärts ins Wasser.
 
 980
 01:45:59,360 --> 01:46:03,319
-Ich hörte einen Schlag, als
-ob der Bootsrand sie getroffen hätte.
+Ich hÃ¶rte einen Schlag, als
+ob der Bootsrand sie getroffen hÃ¤tte.
 
 981
 01:46:03,520 --> 01:46:04,794
@@ -4567,7 +4567,7 @@ Zwischenfall voneinander getrennt?
 
 983
 01:46:12,520 --> 01:46:13,953
-Ich weiß es nicht genau.
+Ich weiÃŸ es nicht genau.
 
 984
 01:46:14,160 --> 01:46:17,630
@@ -4576,11 +4576,11 @@ als einen Meter, oder?
 
 985
 01:46:17,840 --> 01:46:19,637
-Der Abstand war größer.
+Der Abstand war grÃ¶ÃŸer.
 
 986
 01:46:19,840 --> 01:46:23,469
-Wie groß? Von hier bis
+Wie groÃŸ? Von hier bis
 zu den Geschworenen oder was?
 
 987
@@ -4595,7 +4595,7 @@ ein paar Meter voneinander entfernt.
 989
 01:46:32,440 --> 01:46:36,319
 - Warum konnten Sie nicht zu ihr?
-- lch weiß nicht.
+- lch weiÃŸ nicht.
 
 990
 01:46:36,520 --> 01:46:38,590
@@ -4617,13 +4617,13 @@ zu dieser schwachen Frau schwimmen
 
 994
 01:46:58,360 --> 01:47:01,432
-und sie über Wasser halten,
+und sie Ã¼ber Wasser halten,
 bis Sie wieder am Boot waren?
 
 995
 01:47:01,640 --> 01:47:05,155
-Sie lügen, sie war am Ertrinken
-und Sie ließen es zu.
+Sie lÃ¼gen, sie war am Ertrinken
+und Sie lieÃŸen es zu.
 
 996
 01:47:05,360 --> 01:47:11,390
@@ -4642,12 +4642,12 @@ und zugesehen, wie sie ertrank.
 
 999
 01:47:27,640 --> 01:47:29,631
-Das wäre alles, Euer Ehren.
+Das wÃ¤re alles, Euer Ehren.
 
 1000
 01:47:40,000 --> 01:47:43,834
-... über die verfrühte Annahme
-einer Überzeugung
+... Ã¼ber die verfrÃ¼hte Annahme
+einer Ãœberzeugung
 
 1001
 01:47:44,040 --> 01:47:48,113
@@ -4661,7 +4661,7 @@ und der Eheleute zu verstehen,
 1003
 01:47:50,480 --> 01:47:56,555
 wenn man zum ersten Mal auf
-die Probleme der Erwachsenen stößt.
+die Probleme der Erwachsenen stÃ¶ÃŸt.
 
 1004
 01:47:56,760 --> 01:48:00,514
@@ -4675,13 +4675,13 @@ WlRD JEDEN MoMENT ERWARTET
 
 1006
 01:48:04,840 --> 01:48:08,879
-... Probleme, die häufig Produkte
-der behüteten Unreife sind.
+... Probleme, die hÃ¤ufig Produkte
+der behÃ¼teten Unreife sind.
 
 1007
 01:48:09,080 --> 01:48:15,030
-Dann sind die übereilt angenommenen
-Überzeugungen unzureichend...
+Dann sind die Ã¼bereilt angenommenen
+Ãœberzeugungen unzureichend...
 
 1008
 01:48:32,520 --> 01:48:37,469
@@ -4690,11 +4690,11 @@ Dann sind die übereilt angenommenen
 
 1009
 01:48:38,840 --> 01:48:40,876
-Der Angeklagte möge sich erheben.
+Der Angeklagte mÃ¶ge sich erheben.
 
 1010
 01:49:01,520 --> 01:49:04,273
-Der Protokollführer
+Der ProtokollfÃ¼hrer
 liest das Urteil vor.
 
 1011
@@ -4704,7 +4704,7 @@ Der Angeklagte George Eastman
 1012
 01:49:12,040 --> 01:49:15,191
 wird des Mordes
-für schuldig befunden.
+fÃ¼r schuldig befunden.
 
 1013
 01:49:19,320 --> 01:49:21,276
@@ -4733,7 +4733,7 @@ GEoRGE
 1018
 01:50:01,640 --> 01:50:06,031
 Es ist sinnlos. Der Gouverneur
-lässt sich nicht erweichen.
+lÃ¤sst sich nicht erweichen.
 
 1019
 01:50:09,720 --> 01:50:14,350
@@ -4752,8 +4752,8 @@ um deine unsterbliche Seele bangen.
 
 1022
 01:50:21,680 --> 01:50:27,630
-Wenn diese Sünde in deiner Seele ist,
-musst du Frieden mit Gott schließen.
+Wenn diese SÃ¼nde in deiner Seele ist,
+musst du Frieden mit Gott schlieÃŸen.
 
 1023
 01:50:27,840 --> 01:50:31,389
@@ -4762,8 +4762,8 @@ dass ich an all dem Schuld habe.
 
 1024
 01:50:32,680 --> 01:50:36,389
-Ich weiß es nicht,
-wüsste ich es nur.
+Ich weiÃŸ es nicht,
+wÃ¼sste ich es nur.
 
 1025
 01:50:36,600 --> 01:50:40,593
@@ -4772,12 +4772,12 @@ schuldig. Wir teilen unsere Schuld.
 
 1026
 01:50:40,800 --> 01:50:43,394
-Mama, mach dir keine Vorwürfe.
+Mama, mach dir keine VorwÃ¼rfe.
 
 1027
 01:50:43,600 --> 01:50:50,870
 Nur Gott und wir selber
-kennen unsere Sünden.
+kennen unsere SÃ¼nden.
 
 1028
 01:50:51,080 --> 01:50:54,311
@@ -4791,8 +4791,8 @@ vor sich selbst verborgen?
 
 1030
 01:51:00,680 --> 01:51:04,798
-Ich möchte nichts verbergen,
-ich möchte es wissen.
+Ich mÃ¶chte nichts verbergen,
+ich mÃ¶chte es wissen.
 
 1031
 01:51:07,000 --> 01:51:11,437
@@ -4816,7 +4816,7 @@ See waren und das Boot kippte,
 1035
 01:51:25,800 --> 01:51:30,555
 und es einen Moment gab,
-wo Sie sie hätten retten können...
+wo Sie sie hÃ¤tten retten kÃ¶nnen...
 
 1036
 01:51:30,760 --> 01:51:33,035
@@ -4847,7 +4847,7 @@ ein Mord statt, George.
 
 1042
 01:52:12,000 --> 01:52:17,154
-Gott segne dich. Gott möge mir
+Gott segne dich. Gott mÃ¶ge mir
 verzeihen, wenn ich versagt habe.
 
 1043
@@ -4875,7 +4875,7 @@ Viel habe ich wohl nicht gelernt.
 1048
 01:53:41,280 --> 01:53:46,832
 Ich liebe dich, George.
-Ich möchte, dass du das weißt.
+Ich mÃ¶chte, dass du das weiÃŸt.
 
 1049
 01:54:13,520 --> 01:54:16,478
@@ -4883,13 +4883,13 @@ Mehr gibt es wohl nicht zu sagen.
 
 1050
 01:54:17,760 --> 01:54:21,719
-Ich weiß jetzt etwas,
+Ich weiÃŸ jetzt etwas,
 was ich zuvor nicht gewusst habe.
 
 1051
 01:54:23,000 --> 01:54:28,233
-Ich trage für viele Dinge die Schuld,
-für vieles, was man mir vorwirft.
+Ich trage fÃ¼r viele Dinge die Schuld,
+fÃ¼r vieles, was man mir vorwirft.
 
 1052
 01:54:30,080 --> 01:54:35,074
@@ -4911,7 +4911,7 @@ Leb wohl, George.
 
 1056
 01:55:22,560 --> 01:55:28,999
-In unseren schönsten Momenten
+In unseren schÃ¶nsten Momenten
 verabschieden wir uns immer.
 
 1057
@@ -4922,7 +4922,7 @@ sind viele Wohnungen."
 1058
 01:55:50,880 --> 01:55:53,838
 "lch gehe hin,
-euch eine Stätte zu bereiten."
+euch eine StÃ¤tte zu bereiten."
 
 1059
 01:55:54,040 --> 01:55:59,319
@@ -4931,7 +4931,7 @@ damit, wo ich bin, auch ihr seid."
 
 1060
 01:55:59,520 --> 01:56:01,238
-Sie müssen jetzt gehen.
+Sie mÃ¼ssen jetzt gehen.
 
 1061
 01:56:01,440 --> 01:56:07,629
@@ -4960,4 +4960,3 @@ ist es besser als hier.
 01:56:33,080 --> 01:56:35,435
 Auf Wiedersehen. George.
 Wir sehen uns.
-

@@ -664,19 +664,19 @@ Push "French."
 150
 00:13:09,080 --> 00:13:11,330
 - Give me a French word.
-- Soufflé.
+- SoufflÃ©.
 
 151
 00:13:11,910 --> 00:13:15,250
-Soufflé. All right. Push "English."
+SoufflÃ©. All right. Push "English."
 
 152
 00:13:16,080 --> 00:13:19,420
-Instant translation. Soufflé means...
+Instant translation. SoufflÃ© means...
 
 153
 00:13:20,750 --> 00:13:24,220
-..."Soufflé."
+..."SoufflÃ©."
 It's got to mean something else.
 
 154
@@ -1817,7 +1817,7 @@ Non fromage, cheese!
 
 413
 00:36:29,940 --> 00:36:33,440
-Une idée! Enlevez les chaussures
+Une idÃ©e! Enlevez les chaussures
 et dans la fontaine.
 
 414
@@ -1836,7 +1836,7 @@ Yeah, okay. It's fun.
 
 417
 00:36:43,160 --> 00:36:43,990
-Très bien!
+TrÃ¨s bien!
 
 418
 00:36:58,260 --> 00:36:59,260
@@ -2090,11 +2090,11 @@ Order what you want.
 
 476
 00:41:09,300 --> 00:41:10,590
-Garçon.
+GarÃ§on.
 
 477
 00:41:14,550 --> 00:41:18,020
-Nous voulons commander à déjeuner.
+Nous voulons commander Ã  dÃ©jeuner.
 
 478
 00:41:28,150 --> 00:41:33,740
@@ -2110,12 +2110,12 @@ Votre meilleur vin.
 
 481
 00:41:57,800 --> 00:41:59,770
-You want the soufflé?
+You want the soufflÃ©?
 
 482
 00:42:01,020 --> 00:42:05,690
 My femme would like to
-commander the soufflé fromage.
+commander the soufflÃ© fromage.
 
 483
 00:42:06,020 --> 00:42:08,730
@@ -3591,7 +3591,7 @@ Faccio io. Lasci stare.
 
 818
 01:20:14,850 --> 01:20:18,690
-È stata una disgrazia.
+Ãˆ stata una disgrazia.
 Ora rimedio io, piano piano.
 
 819
@@ -3976,4 +3976,3 @@ My jacket is caught.
 907
 01:31:01,750 --> 01:31:04,160
 Yup. The Griswalds are back!
-

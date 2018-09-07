@@ -6917,5 +6917,4 @@ overtime #
 1509
 01:33:51,780 --> 01:33:55,780
 >> Napisy pobrane z http://napisy.org <<
->>>>>>>> nowa wizja napisów <<<<<<<<
-
+>>>>>>>> nowa wizja napisÃ³w <<<<<<<<

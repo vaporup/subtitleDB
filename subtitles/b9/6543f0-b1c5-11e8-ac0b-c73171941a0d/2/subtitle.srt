@@ -3070,7 +3070,7 @@ l won't come back.
 
 708
 01:01:10,495 --> 01:01:13,330
-My fiancé was killed on December 7.
+My fiancÃ© was killed on December 7.
 
 709
 01:01:14,833 --> 01:01:16,243

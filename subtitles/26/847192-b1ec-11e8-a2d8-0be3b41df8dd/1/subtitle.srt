@@ -6152,136 +6152,132 @@ I'm no different.
 Now, where was I?
 
 1273
-01:50:24,659 --> 01:50:32,709
-??
+01:50:32,751 --> 01:50:35,837
+# we layin each other's arms? #
 
 1274
-01:50:32,751 --> 01:50:35,837
- we layin each other's arms?
+01:50:38,173 --> 01:50:42,719
+# But the room
+is just an empty space #
 
 1275
-01:50:38,173 --> 01:50:42,719
- But the room
-is just an empty space 
+01:50:42,802 --> 01:50:45,889
+# I guess we lived it out #
 
 1276
-01:50:42,802 --> 01:50:45,889
- I guess we lived it out 
+01:50:45,972 --> 01:50:49,601
+# Something in the air #
 
 1277
-01:50:45,972 --> 01:50:49,601
- Something in the air 
+01:50:49,684 --> 01:50:55,482
+# we smile too fast then can't
+think ofa thing to say #
 
 1278
-01:50:49,684 --> 01:50:55,482
- we smile too fast then can't
-think ofa thing to say 
+01:50:56,858 --> 01:50:59,652
+# Lived with the best times #
 
 1279
-01:50:56,858 --> 01:50:59,652
- Lived with the best times 
+01:51:01,780 --> 01:51:04,032
+# Left with the worst #
 
 1280
-01:51:01,780 --> 01:51:04,032
- Left with the worst 
+01:51:07,160 --> 01:51:10,413
+# I've danced with you
+too long #
 
 1281
-01:51:07,160 --> 01:51:10,413
- I've danced with you
-too long 
+01:51:13,124 --> 01:51:16,127
+# Nothing left to save #
 
 1282
-01:51:13,124 --> 01:51:16,127
- Nothing left to save 
+01:51:16,211 --> 01:51:22,050
+# There's something
+in the air #
 
 1283
-01:51:16,211 --> 01:51:22,050
- There's something
-in the air 
+01:51:22,133 --> 01:51:26,137
+# Something in my eye #
 
 1284
-01:51:22,133 --> 01:51:26,137
- Something in my eye 
+01:51:26,221 --> 01:51:33,895
+# I've danced with you
+too long, yeah #
 
 1285
-01:51:26,221 --> 01:51:33,895
- I've danced with you
-too long, yeah 
+01:51:33,978 --> 01:51:38,316
+# Something in the air #
 
 1286
-01:51:33,978 --> 01:51:38,316
- Something in the air 
+01:51:38,400 --> 01:51:44,030
+# Something in my eye #
 
 1287
-01:51:38,400 --> 01:51:44,030
- Something in my eye 
+01:51:54,499 --> 01:51:56,918
+# Abracadoo #
 
 1288
-01:51:54,499 --> 01:51:56,918
- Abracadoo 
+01:51:57,001 --> 01:51:59,170
+# I lose you #
 
 1289
-01:51:57,001 --> 01:51:59,170
- I lose you 
+01:52:00,839 --> 01:52:03,800
+# we can't avoid the clash #
 
 1290
-01:52:00,839 --> 01:52:03,800
- we can't avoid the clash 
+01:52:03,842 --> 01:52:06,010
+# The big mistake #
 
 1291
-01:52:03,842 --> 01:52:06,010
- The big mistake 
+01:52:07,637 --> 01:52:10,265
+# Now we're gonna pay and pay #
 
 1292
-01:52:07,637 --> 01:52:10,265
- Now we're gonna pay and pay 
+01:52:11,933 --> 01:52:17,730
+# I guess you know I never
+wanted anyone more than you #
 
 1293
-01:52:11,933 --> 01:52:17,730
- I guess you know I never
-wanted anyone more than you 
+01:52:18,898 --> 01:52:21,985
+# Lived all our best times #
 
 1294
-01:52:18,898 --> 01:52:21,985
- Lived all our best times 
+01:52:24,487 --> 01:52:26,865
+# Left with the worst #
 
 1295
-01:52:24,487 --> 01:52:26,865
- Left with the worst 
+01:52:29,617 --> 01:52:33,413
+# I've danced with you
+too long #
 
 1296
-01:52:29,617 --> 01:52:33,413
- I've danced with you
-too long 
+01:52:35,832 --> 01:52:38,460
+# Say what you will #
 
 1297
-01:52:35,832 --> 01:52:38,460
- Say what you will 
+01:52:38,543 --> 01:52:46,301
+# But there's something
+in the air #
 
 1298
-01:52:38,543 --> 01:52:46,301
- But there's something
-in the air 
+01:52:46,384 --> 01:52:48,928
+# Something in my eye #
 
 1299
-01:52:46,384 --> 01:52:48,928
- Something in my eye 
+01:52:49,012 --> 01:52:56,019
+# I've danced with you
+too long #
 
 1300
-01:52:49,012 --> 01:52:56,019
- I've danced with you
-too long 
+01:52:56,102 --> 01:53:00,648
+# There's something
+I have to say #
 
 1301
-01:52:56,102 --> 01:53:00,648
- There's something
-I have to say 
+01:53:00,732 --> 01:53:05,195
+# There's something
+in the air #
 
 1302
-01:53:00,732 --> 01:53:05,195
- There's something
-in the air 
-
-1303
 01:53:05,278 --> 01:53:10,325
- Danced with you too long? 
+# Danced with you too long? #
