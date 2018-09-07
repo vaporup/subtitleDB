@@ -1,0 +1,9 @@
+---
+filename: "Foul Play (1978).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Foul Play (1978).avi"
+  hash: "c9f4bf4173cc7288"
+  filesize: "747948032"
