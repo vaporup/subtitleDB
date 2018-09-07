@@ -1,0 +1,9 @@
+---
+filename: "Fletch (1985).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Fletch (1985).avi"
+  hash: "83ab32af8c9fc1dc"
+  filesize: "734025728"
