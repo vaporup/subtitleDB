@@ -1,0 +1,9 @@
+---
+filename: "Spies Like Us (1985).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Spies Like Us (1985).avi"
+  hash: "2cdfbf2e014e3d21"
+  filesize: "738023424"
