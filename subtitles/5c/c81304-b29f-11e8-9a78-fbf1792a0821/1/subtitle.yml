@@ -1,0 +1,9 @@
+---
+filename: "Edge.of.Tomorrow.2014.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Edge.of.Tomorrow.2014.720p.BluRay.x264.YIFY.mp4"
+  hash: "b059e92fabfae6e0"
+  filesize: "854390520"
