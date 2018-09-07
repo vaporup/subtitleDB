@@ -1,0 +1,9 @@
+---
+filename: "Gentlemen.Prefer.Blondes.1953.DVDRip.Dualz.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Gentlemen.Prefer.Blondes.1953.DVDRip.Dualz.avi"
+  hash: "85651eb6fab904d2"
+  filesize: "1540376576"
