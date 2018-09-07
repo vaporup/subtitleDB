@@ -1,0 +1,9 @@
+---
+filename: "500.Days.of.Summer.2009.720p.Bluray.x264.anoXmous.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "500.Days.of.Summer.2009.720p.Bluray.x264.anoXmous.mp4"
+  hash: "43946caaa26488ca"
+  filesize: "671469064"
