@@ -1,0 +1,9 @@
+---
+filename: "Vacation (1983).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Vacation (1983).avi"
+  hash: "c079a7038261d0e9"
+  filesize: "734242816"
