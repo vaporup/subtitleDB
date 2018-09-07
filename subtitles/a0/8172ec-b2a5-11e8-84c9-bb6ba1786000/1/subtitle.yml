@@ -1,0 +1,9 @@
+---
+filename: "Nothing But Trouble (1991).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Nothing But Trouble (1991).avi"
+  hash: "78837624f19e4cea"
+  filesize: "729285870"
