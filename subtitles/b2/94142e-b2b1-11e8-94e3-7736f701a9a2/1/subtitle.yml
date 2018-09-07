@@ -1,0 +1,9 @@
+---
+filename: "Vegas Vacation (1997).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Vegas Vacation (1997).avi"
+  hash: "8f4bbd4fbf6539aa"
+  filesize: "733683712"
