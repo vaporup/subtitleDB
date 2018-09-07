@@ -1,0 +1,9 @@
+---
+filename: "Cops and Robbersons (1994).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Cops and Robbersons (1994).avi"
+  hash: "9bb7a2652d00e520"
+  filesize: "732051456"
