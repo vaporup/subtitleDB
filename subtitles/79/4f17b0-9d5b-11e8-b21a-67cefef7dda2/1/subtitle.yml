@@ -2,6 +2,7 @@
 filename: "Commando-2013-Hindi-Hon3y.srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "Commando-2013-Hindi-Hon3y.mp4"

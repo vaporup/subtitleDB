@@ -2,6 +2,7 @@
 filename: "Pirates Of The Caribbean - Dead Man's Chest (2006).srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "Pirates Of The Caribbean - Dead Man's Chest (2006).avi"

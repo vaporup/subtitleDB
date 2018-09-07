@@ -2,6 +2,7 @@
 filename: "The.Man.From.Earth.2007.PROPER.DVDRip.XviD-DOMiNO.srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "The.Man.From.Earth.2007.PROPER.DVDRip.XviD-DOMiNO.avi"

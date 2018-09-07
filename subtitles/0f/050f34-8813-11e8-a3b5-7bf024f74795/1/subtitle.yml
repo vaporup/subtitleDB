@@ -2,6 +2,7 @@
 filename: "The.Neon.Demon.2016.720p.BluRay.x264-[YTS.AG].srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "The.Neon.Demon.2016.720p.BluRay.x264-[YTS.AG].mp4"
