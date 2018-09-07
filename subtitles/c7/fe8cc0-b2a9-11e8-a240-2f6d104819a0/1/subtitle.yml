@@ -1,0 +1,9 @@
+---
+filename: "European Vacation (1985).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "European Vacation (1985).avi"
+  hash: "fb6c79afc0cc7a1a"
+  filesize: "731416576"
