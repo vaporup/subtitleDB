@@ -1,0 +1,9 @@
+---
+filename: "Caddyshack (1980).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Caddyshack (1980).avi"
+  hash: "3110abcd63647641"
+  filesize: "839106560"
