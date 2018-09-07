@@ -1,0 +1,9 @@
+---
+filename: "Written on The Wind, Douglas Sirk, 1956.es.srt"
+language: "es"
+format: "srt"
+
+matches:
+- filename: "Written on The Wind, Douglas Sirk, 1956.avi"
+  hash: "717cca93b8823486"
+  filesize: "1473513472"
