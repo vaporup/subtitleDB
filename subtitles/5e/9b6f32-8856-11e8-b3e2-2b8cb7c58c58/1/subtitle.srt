@@ -190,7 +190,7 @@ Where is your pride?
 
 47
 00:06:29,806 --> 00:06:32,851
-It all works...Yes?
+It all works... Yes?
 
 48
 00:06:36,313 --> 00:06:37,480
@@ -198,7 +198,7 @@ It all works...Yes?
 
 49
 00:06:38,023 --> 00:06:40,817
-<i>...l</i> just can't make children.
+<i>...I</i> just can't make children.
 
 50
 00:06:46,239 --> 00:06:48,825
@@ -234,7 +234,7 @@ This is what gave me my ten children.
 
 58
 00:07:21,066 --> 00:07:23,401
-You have to rub them on...down there.
+You have to rub them on... down there.
 
 59
 00:07:24,110 --> 00:07:26,363
@@ -815,7 +815,7 @@ My son is dancing.
 
 195
 00:22:58,544 --> 00:23:00,671
-Your son is happy-
+Your son is happy--
 
 196
 00:23:30,826 --> 00:23:33,495
@@ -1162,7 +1162,7 @@ Get up.
 
 280
 00:45:08,372 --> 00:45:10,625
-E h' lm alone "A <i>'</i> ll11Qstn
+E h' Im alone "A <i>'</i> Il11Qstn
 
 281
 00:45:12,793 --> 00:45:14,670
@@ -1279,7 +1279,7 @@ Good work!
 
 309
 00:50:16,931 --> 00:50:19,642
-<i>Can you breathe?...Good.</i>
+<i>Can you breathe?... Good.</i>
 
 310
 00:50:25,105 --> 00:50:28,359
@@ -1680,7 +1680,7 @@ Who will buy this woman?
 
 406
 01:08:03,663 --> 01:08:05,039
-No...she's too old.
+No... she's too old.
 
 407
 01:08:06,374 --> 01:08:08,167
@@ -1688,7 +1688,7 @@ She can be useful.
 
 408
 01:08:08,668 --> 01:08:10,378
-<i>She can cook...clean...</i>
+<i>She can cook... clean...</i>
 
 409
 01:08:11,921 --> 01:08:14,007
@@ -2112,7 +2112,7 @@ Spread out.
 
 511
 01:35:42,403 --> 01:35:43,947
-Keep your eyes up-
+Keep your eyes up--
 
 512
 01:36:02,257 --> 01:36:03,466
@@ -2286,7 +2286,7 @@ He's fucked.
 
 552
 01:44:00,985 --> 01:44:02,361
-<i>Help...please...</i>
+<i>Help... please...</i>
 
 553
 01:44:03,195 --> 01:44:04,488
@@ -2561,4 +2561,3 @@ To seek a new beginning.
 618
 02:09:09,909 --> 02:09:11,327
 <i>Come Turtles Run...</i>
-

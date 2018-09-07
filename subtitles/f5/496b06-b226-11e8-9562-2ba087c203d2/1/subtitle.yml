@@ -2,6 +2,7 @@
 filename: "Scarface_1983_Uncut Version_Collectors Edition-Ekolb.srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "Scarface_1983_Uncut Version_Collectors Edition-Ekolb.avi"

@@ -2,6 +2,7 @@
 filename: "Memento [10th Anniversary Edition].2000.BRRip.XviD.AC3-VLiS.srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "Memento [10th Anniversary Edition].2000.BRRip.XviD.AC3-VLiS.avi"

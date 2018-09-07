@@ -2,6 +2,7 @@
 filename: "Lifeforce - Directors Cut Sci-Fi Classic 1985 Eng Subs 720p [H264-mp4].srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "Lifeforce - Directors Cut Sci-Fi Classic 1985 Eng Subs 720p [H264-mp4].mp4"

@@ -92,18 +92,18 @@ and watch <i>The Nutcracker?</i>
 
 23
 00:02:17,095 --> 00:02:19,014
--What time's it on?
--9:00.
+- What time's it on?
+- 9:00.
 
 24
 00:02:19,222 --> 00:02:21,892
--You can watch that.
--Can I stay up until you get home?
+- You can watch that.
+- Can I stay up until you get home?
 
 25
 00:02:22,059 --> 00:02:25,145
--No, darling.
--It'll be a little late for that.
+- No, darling.
+- It'll be a little late for that.
 
 26
 00:02:25,354 --> 00:02:27,606
@@ -120,33 +120,33 @@ We shouldn't be later than 1:00.
 
 29
 00:02:32,653 --> 00:02:35,364
--I'll hold our cab to take you home.
--Thanks, Dr. Harford.
+- I'll hold our cab to take you home.
+- Thanks, Dr. Harford.
 
 30
 00:02:35,572 --> 00:02:37,658
--You be good, baby.
--Good night, Daddy.
+- You be good, baby.
+- Good night, Daddy.
 
 31
 00:02:37,824 --> 00:02:40,577
--Good night, sweetheart.
--See you in the morning.
+- Good night, sweetheart.
+- See you in the morning.
 
 32
 00:02:49,336 --> 00:02:53,131
--Victor, lllona.
--Bill, Alice.
+- Victor, Illona.
+- Bill, Alice.
 
 33
 00:02:53,340 --> 00:02:55,842
--Merry Christmas.
--Thank you for coming.
+- Merry Christmas.
+- Thank you for coming.
 
 34
 00:02:56,259 --> 00:03:00,722
--Thanks so much for coming.
--We wouldn't miss it for the world.
+- Thanks so much for coming.
+- We wouldn't miss it for the world.
 
 35
 00:03:00,931 --> 00:03:03,975
@@ -160,8 +160,8 @@ Do I?
 
 37
 00:03:06,353 --> 00:03:08,105
--Yes, he does.
--He does?
+- Yes, he does.
+- He does?
 
 38
 00:03:08,313 --> 00:03:11,274
@@ -170,8 +170,8 @@ the guy that worked on my arm?
 
 39
 00:03:11,483 --> 00:03:14,945
--You ought to see my serve now.
--He's the top man in New York.
+- You ought to see my serve now.
+- He's the top man in New York.
 
 40
 00:03:15,112 --> 00:03:17,614
@@ -277,8 +277,8 @@ How the hell are you, buddy?
 
 63
 00:05:17,234 --> 00:05:20,612
--How long has it been?
--I don't know. 10 years?
+- How long has it been?
+- I don't know. 10 years?
 
 64
 00:05:20,820 --> 00:05:22,197
@@ -286,8 +286,8 @@ And a couple.
 
 65
 00:05:22,739 --> 00:05:24,616
--Do you have time for a drink?
--Sure.
+- Do you have time for a drink?
+- Sure.
 
 66
 00:05:28,745 --> 00:05:30,872
@@ -359,13 +359,13 @@ for two weeks at the Sonata Cafe.
 
 81
 00:06:15,041 --> 00:06:17,711
--Stop by if you get a chance.
--I'll be there.
+- Stop by if you get a chance.
+- I'll be there.
 
 82
 00:06:18,545 --> 00:06:21,506
--It's great seeing you.
--Good seeing you too, man.
+- It's great seeing you.
+- Good seeing you too, man.
 
 83
 00:07:02,964 --> 00:07:06,426
@@ -557,8 +557,8 @@ in Rockefeller Plaza...
 
 127
 00:10:49,065 --> 00:10:53,278
--And you got something in your eye.
--Just about half of Fifth Avenue.
+- And you got something in your eye.
+- Just about half of Fifth Avenue.
 
 128
 00:10:53,736 --> 00:10:57,240
@@ -962,8 +962,8 @@ Okay. Okay.
 
 222
 00:18:00,579 --> 00:18:04,041
--Good night, Mandy.
--Listen...
+- Good night, Mandy.
+- Listen...
 
 223
 00:18:05,001 --> 00:18:07,253
@@ -971,8 +971,8 @@ Okay. Okay.
 
 224
 00:18:07,962 --> 00:18:10,214
--You saved my ass.
--I'm glad I was here.
+- You saved my ass.
+- I'm glad I was here.
 
 225
 00:18:10,423 --> 00:18:12,883
@@ -1048,8 +1048,8 @@ I must see you again.
 
 242
 00:19:34,715 --> 00:19:37,343
--That's impossible.
--Why?
+- That's impossible.
+- Why?
 
 243
 00:19:38,803 --> 00:19:40,596
@@ -1075,13 +1075,13 @@ to bring me my coffee.
 
 248
 00:20:57,423 --> 00:20:59,008
--Sure.
--Thank you.
+- Sure.
+- Thank you.
 
 249
 00:20:59,675 --> 00:21:02,636
--Good morning, Sarah.
--Good morning, doctor.
+- Good morning, Sarah.
+- Good morning, doctor.
 
 250
 00:21:02,845 --> 00:21:05,848
@@ -1104,18 +1104,18 @@ Hold this for Mommy.
 
 254
 00:21:23,699 --> 00:21:26,118
--Looking forward to Christmas?
--Yeah.
+- Looking forward to Christmas?
+- Yeah.
 
 255
 00:21:26,577 --> 00:21:28,496
--Does this hurt?
--Yeah.
+- Does this hurt?
+- Yeah.
 
 256
 00:21:42,593 --> 00:21:45,054
--Right there?
--Yeah.
+- Right there?
+- Yeah.
 
 257
 00:21:54,855 --> 00:21:56,774
@@ -1430,7 +1430,7 @@ Where I'm coming from?
 
 330
 00:28:08,312 --> 00:28:14,318
-Let's say- Let's say, for example,
+Let's say-- Let's say, for example,
 you have some gorgeous woman...
 
 331
@@ -1884,13 +1884,13 @@ and show my face.
 
 434
 00:38:13,208 --> 00:38:16,002
--Hello, Rosa.
--Good evening, Dr. Harford.
+- Hello, Rosa.
+- Good evening, Dr. Harford.
 
 435
 00:38:17,337 --> 00:38:21,216
--How is Miss Nathanson?
--Not so good. She's in the bedroom.
+- How is Miss Nathanson?
+- Not so good. She's in the bedroom.
 
 436
 00:38:21,382 --> 00:38:22,509
@@ -1918,13 +1918,13 @@ I came as soon as I got the message.
 
 442
 00:38:56,501 --> 00:38:59,462
--Thank you.
--I'm so....
+- Thank you.
+- I'm so....
 
 443
 00:38:59,754 --> 00:39:01,965
--I'm so sorry.
--Thank you.
+- I'm so sorry.
+- Thank you.
 
 444
 00:39:02,173 --> 00:39:03,967
@@ -2106,7 +2106,7 @@ I don't want to go away with Carl.
 
 485
 00:43:08,628 --> 00:43:10,671
-Marion, I don't think you realize-
+Marion, I don't think you realize--
 
 486
 00:43:10,880 --> 00:43:12,173
@@ -2153,13 +2153,13 @@ Please don't despise me.
 
 496
 00:43:58,553 --> 00:44:00,721
--Hello, Rosa.
--Hello, Mr. Thomas.
+- Hello, Rosa.
+- Hello, Mr. Thomas.
 
 497
 00:44:02,390 --> 00:44:05,685
--Is she in the bedroom?
--Yes, she is.
+- Is she in the bedroom?
+- Yes, she is.
 
 498
 00:44:05,893 --> 00:44:07,061
@@ -2187,8 +2187,8 @@ I'm okay.
 
 504
 00:44:38,593 --> 00:44:42,013
--Dr. Harford, good evening.
--Good evening, Carl.
+- Dr. Harford, good evening.
+- Good evening, Carl.
 
 505
 00:44:42,221 --> 00:44:45,099
@@ -2197,8 +2197,8 @@ for coming over here tonight.
 
 506
 00:44:45,308 --> 00:44:48,269
--It's the least I could do.
--It means a lot to us.
+- It's the least I could do.
+- It means a lot to us.
 
 507
 00:44:48,519 --> 00:44:49,645
@@ -2223,8 +2223,8 @@ great comfort these last months.
 
 512
 00:45:12,126 --> 00:45:15,254
--Thank you.
--Thank you.
+- Thank you.
+- Thank you.
 
 513
 00:45:19,842 --> 00:45:22,136
@@ -2256,8 +2256,8 @@ playing for?
 
 519
 00:46:24,949 --> 00:46:27,326
--Looks like the pink team.
--Look at this faggot!
+- Looks like the pink team.
+- Look at this faggot!
 
 520
 00:46:27,535 --> 00:46:29,286
@@ -2269,8 +2269,8 @@ Merry Christmas, Mary!
 
 522
 00:46:31,998 --> 00:46:34,625
--Your butt-brothers are back there!
--Prime cut of meat!
+- Your butt-brothers are back there!
+- Prime cut of meat!
 
 523
 00:46:34,834 --> 00:46:38,337
@@ -2284,13 +2284,13 @@ you're standing so close!
 
 525
 00:46:42,508 --> 00:46:46,679
--I got dumps that are bigger than you!
--Come on, macho man!
+- I got dumps that are bigger than you!
+- Come on, macho man!
 
 526
 00:46:46,887 --> 00:46:50,057
--You want a piece of this, baby?
--Exit only, honey.
+- You want a piece of this, baby?
+- Exit only, honey.
 
 527
 00:46:50,433 --> 00:46:53,853
@@ -2336,8 +2336,8 @@ Would you like to come inside with me?
 
 537
 00:47:51,035 --> 00:47:55,206
--Come inside with you?
--Yeah.
+- Come inside with you?
+- Yeah.
 
 538
 00:47:55,915 --> 00:47:59,543
@@ -2445,8 +2445,8 @@ How about you just leave it up to me?
 
 563
 00:50:41,247 --> 00:50:44,959
--I'm in your hands.
--Okay.
+- I'm in your hands.
+- Okay.
 
 564
 00:50:45,918 --> 00:50:48,504
@@ -2471,8 +2471,8 @@ Prego, prego.
 
 569
 00:51:10,150 --> 00:51:12,444
--Grazie.
-<i>-You're welcome.</i>
+- Grazie.
+<i>- You're welcome.</i>
 
 570
 00:51:13,362 --> 00:51:15,906
@@ -2594,13 +2594,13 @@ No, it's all right.
 
 598
 00:54:37,399 --> 00:54:40,527
--No, really. You don't have to.
--No, I want to.
+- No, really. You don't have to.
+- No, I want to.
 
 599
 00:54:43,071 --> 00:54:45,282
--Really?
--Really.
+- Really?
+- Really.
 
 600
 00:54:46,700 --> 00:54:48,619
@@ -2617,13 +2617,13 @@ or would you like to sit at the bar?
 
 603
 00:55:52,599 --> 00:55:55,435
--I'd like a table.
--Please follow me.
+- I'd like a table.
+- Please follow me.
 
 604
 00:56:03,527 --> 00:56:05,779
--Can I take your coat?
--Thank you.
+- Can I take your coat?
+- Thank you.
 
 605
 00:56:06,905 --> 00:56:08,907
@@ -2631,8 +2631,8 @@ Could I get you anything to drink?
 
 606
 00:56:10,075 --> 00:56:12,452
--I'd like a beer.
--Certainly.
+- I'd like a beer.
+- Certainly.
 
 607
 00:56:23,171 --> 00:56:25,424
@@ -2664,13 +2664,13 @@ I'm Nick Nightingale. Good night.
 
 613
 00:56:55,746 --> 00:56:58,332
--Nick, that was great.
--Thanks.
+- Nick, that was great.
+- Thanks.
 
 614
 00:56:58,665 --> 00:57:02,002
--Nightingale.
--Hey, Bill, you made it.
+- Nightingale.
+- Hey, Bill, you made it.
 
 615
 00:57:02,210 --> 00:57:05,714
@@ -2684,8 +2684,8 @@ The band sucked tonight anyway.
 
 617
 00:57:09,676 --> 00:57:12,846
--What are you drinking?
--A vodka and tonic, please.
+- What are you drinking?
+- A vodka and tonic, please.
 
 618
 00:57:14,389 --> 00:57:15,432
@@ -2697,8 +2697,8 @@ So what brings you out at this hour?
 
 620
 00:57:19,686 --> 00:57:22,856
--I have a patient in the neighborhood.
--You live in the Village?
+- I have a patient in the neighborhood.
+- You live in the Village?
 
 621
 00:57:23,065 --> 00:57:26,026
@@ -2715,8 +2715,8 @@ Nine years.
 
 624
 00:57:30,030 --> 00:57:32,949
--Any kids?
--Yes, we have a 7-year-old daughter.
+- Any kids?
+- Yes, we have a 7-year-old daughter.
 
 625
 00:57:33,158 --> 00:57:34,242
@@ -2741,13 +2741,13 @@ Thank you.
 
 630
 00:57:49,716 --> 00:57:52,177
--So is this your band?
--No, it's a pick-up band.
+- So is this your band?
+- No, it's a pick-up band.
 
 631
 00:57:52,386 --> 00:57:56,390
--Who do you normally play with?
--Anybody, anywhere.
+- Who do you normally play with?
+- Anybody, anywhere.
 
 632
 00:57:56,640 --> 00:57:59,059
@@ -2786,8 +2786,8 @@ an hour or so before.
 
 640
 00:58:20,872 --> 00:58:23,583
--A different place every time?
--So far.
+- A different place every time?
+- So far.
 
 641
 00:58:24,668 --> 00:58:25,919
@@ -2926,8 +2926,8 @@ without taking me with you.
 
 673
 01:00:45,183 --> 01:00:48,895
--Come on, buddy, give me a break.
--Nick, I'll tell you what.
+- Come on, buddy, give me a break.
+- Nick, I'll tell you what.
 
 674
 01:00:49,062 --> 01:00:52,315
@@ -3015,8 +3015,8 @@ I'm Mr. Grenning's doctor.
 
 693
 01:02:29,704 --> 01:02:33,541
-<i>-You are Grenning's doctor?
-</i>-Yes.
+<i>- You are Grenning's doctor?
+</i>- Yes.
 
 694
 01:02:34,793 --> 01:02:35,961
@@ -3112,8 +3112,8 @@ $100 over the rental price...
 
 715
 01:04:00,879 --> 01:04:04,007
--A hundred dollars?
--Yes.
+- A hundred dollars?
+- Yes.
 
 716
 01:04:05,759 --> 01:04:07,427
@@ -3164,8 +3164,8 @@ and a mask.
 
 727
 01:04:54,599 --> 01:04:59,604
--A cloak with a hood and a mask?
--Yes.
+- A cloak with a hood and a mask?
+- Yes.
 
 728
 01:04:59,771 --> 01:05:04,067
@@ -3181,13 +3181,13 @@ Good.
 
 731
 01:05:16,996 --> 01:05:20,750
--Looks like alive, huh?
--Yes.
+- Looks like alive, huh?
+- Yes.
 
 732
 01:05:20,917 --> 01:05:22,919
--It's wonderful.
--Come.
+- It's wonderful.
+- Come.
 
 733
 01:05:24,003 --> 01:05:26,214
@@ -3208,12 +3208,12 @@ like something more colorful?
 
 737
 01:05:35,807 --> 01:05:38,518
--I don't think so.
--Clowns, officers, pirates?
+- I don't think so.
+- Clowns, officers, pirates?
 
 738
 01:05:38,685 --> 01:05:41,354
-No, just the tux, the black cloak-
+No, just the tux, the black cloak--
 
 739
 01:05:41,563 --> 01:05:43,690
@@ -3221,8 +3221,8 @@ With a hood and a mask.
 
 740
 01:05:43,857 --> 01:05:46,067
--Yes.
--Okay.
+- Yes.
+- Okay.
 
 741
 01:05:46,234 --> 01:05:47,777
@@ -3230,13 +3230,13 @@ May I take your coat?
 
 742
 01:05:49,654 --> 01:05:52,949
--You are medicine doctor, yes?
--Yes, I am.
+- You are medicine doctor, yes?
+- Yes, I am.
 
 743
 01:05:53,908 --> 01:05:57,745
--I have some problem with my hair.
--Your hair?
+- I have some problem with my hair.
+- Your hair?
 
 744
 01:05:57,954 --> 01:06:00,039
@@ -3253,8 +3253,8 @@ Look at this. Here.
 
 747
 01:06:06,713 --> 01:06:08,339
--You see?
--Yes.
+- You see?
+- Yes.
 
 748
 01:06:08,506 --> 01:06:09,674
@@ -3280,8 +3280,8 @@ left things a bit late tonight.
 
 753
 01:06:22,854 --> 01:06:24,689
--So if you don't mind-
--Okay, okay.
+- So if you don't mind--
+- Okay, okay.
 
 754
 01:06:24,856 --> 01:06:26,858
@@ -3353,8 +3353,8 @@ Couldn't you see she's a child?
 
 770
 01:07:40,723 --> 01:07:43,518
--You will have to explain to police!
--To the police?!
+- You will have to explain to police!
+- To the police?!
 
 771
 01:07:43,726 --> 01:07:46,604
@@ -3404,8 +3404,8 @@ what color did you say?
 
 781
 01:08:14,924 --> 01:08:16,509
--Black?
--Black.
+- Black?
+- Black.
 
 782
 01:08:17,135 --> 01:08:20,763
@@ -3469,8 +3469,8 @@ plus the meter when I get back.
 
 795
 01:10:45,575 --> 01:10:48,202
--Okay?
--How long you gonna be?
+- Okay?
+- How long you gonna be?
 
 796
 01:10:48,411 --> 01:10:51,831
@@ -3483,8 +3483,8 @@ I'll leave my stuff here in the back.
 
 798
 01:10:56,919 --> 01:11:00,673
--Okay?
--Okay.
+- Okay?
+- Okay.
 
 799
 01:11:12,852 --> 01:11:14,228
@@ -3665,8 +3665,8 @@ and possibly yours.
 
 840
 01:23:23,415 --> 01:23:26,084
--Let me see your face.
--No!
+- Let me see your face.
+- No!
 
 841
 01:23:26,793 --> 01:23:27,920
@@ -3911,8 +3911,8 @@ It's a little after 4.
 
 899
 01:32:32,464 --> 01:32:36,384
--Did you just get home?
--Yes.
+- Did you just get home?
+- Yes.
 
 900
 01:32:37,135 --> 01:32:40,889
@@ -4117,8 +4117,8 @@ Shit!
 
 948
 01:39:37,555 --> 01:39:40,099
--Hi.
--Hi.
+- Hi.
+- Hi.
 
 949
 01:39:40,516 --> 01:39:42,643
@@ -4232,13 +4232,13 @@ has already checked out.
 
 974
 01:41:55,276 --> 01:41:58,154
--He checked out?
--Yes.
+- He checked out?
+- Yes.
 
 975
 01:42:00,906 --> 01:42:04,827
--Did he leave a forwarding address?
--No, I'm afraid not.
+- Did he leave a forwarding address?
+- No, I'm afraid not.
 
 976
 01:42:06,203 --> 01:42:07,997
@@ -4250,8 +4250,8 @@ About 5:00 this morning.
 
 978
 01:42:11,667 --> 01:42:13,919
--5:00?
--Yes.
+- 5:00?
+- Yes.
 
 979
 01:42:14,712 --> 01:42:16,714
@@ -4283,8 +4283,8 @@ Unusual?
 
 986
 01:42:37,234 --> 01:42:40,196
--Hey, you're not Five-O, are you?
--No.
+- Hey, you're not Five-O, are you?
+- No.
 
 987
 01:42:40,738 --> 01:42:42,114
@@ -4300,8 +4300,8 @@ I'm a doctor.
 
 990
 01:42:48,746 --> 01:42:53,084
--Well, Bill...?
--Sure.
+- Well, Bill...?
+- Sure.
 
 991
 01:42:55,419 --> 01:42:58,339
@@ -4430,13 +4430,13 @@ Anytime, Bill. Bye.
 
 1019
 01:45:21,774 --> 01:45:26,070
--Oh, the good doctor!
--Mr. Milich.
+- Oh, the good doctor!
+- Mr. Milich.
 
 1020
 01:45:26,237 --> 01:45:31,200
--Was your outfit a success?
--Yes, it was. Thank you.
+- Was your outfit a success?
+- Yes, it was. Thank you.
 
 1021
 01:45:31,700 --> 01:45:33,077
@@ -4452,8 +4452,8 @@ I think you forgot the mask.
 
 1024
 01:45:45,881 --> 01:45:48,175
--It's not there?
--No, no, no.
+- It's not there?
+- No, no, no.
 
 1025
 01:45:48,342 --> 01:45:50,844
@@ -4504,8 +4504,8 @@ to Dr. Harford?
 
 1036
 01:46:35,264 --> 01:46:38,225
--Hello.
--Hello.
+- Hello.
+- Hello.
 
 1037
 01:46:43,355 --> 01:46:46,984
@@ -4518,8 +4518,8 @@ Goodbye, gentlemen.
 
 1039
 01:46:49,320 --> 01:46:52,573
--Merry Christmas and happy New Year!
--And you too.
+- Merry Christmas and happy New Year!
+- And you too.
 
 1040
 01:46:53,490 --> 01:46:55,784
@@ -4569,8 +4569,8 @@ Come in.
 
 1051
 01:48:05,979 --> 01:48:08,732
--Tuna salad and black coffee.
--Thanks.
+- Tuna salad and black coffee.
+- Thanks.
 
 1052
 01:48:09,775 --> 01:48:12,861
@@ -4593,8 +4593,8 @@ them in. Otherwise, just apologize...
 
 1056
 01:48:26,709 --> 01:48:28,627
--...and make new appointments.
--Sure.
+- ...and make new appointments.
+- Sure.
 
 1057
 01:48:29,044 --> 01:48:33,132
@@ -4603,13 +4603,13 @@ them get my car out in half an hour.
 
 1058
 01:48:33,340 --> 01:48:35,509
--No problem.
--Okay?
+- No problem.
+- Okay?
 
 1059
 01:52:16,772 --> 01:52:19,900
--Hi.
--Hi, Daddy.
+- Hi.
+- Hi, Daddy.
 
 1060
 01:52:20,651 --> 01:52:22,569
@@ -4625,8 +4625,8 @@ Dr. Sanders and Mrs. Shapiro.
 
 1063
 01:52:32,621 --> 01:52:34,373
--Hey, gang.
--Hi, Daddy.
+- Hey, gang.
+- Hi, Daddy.
 
 1064
 01:52:34,539 --> 01:52:35,791
@@ -4638,8 +4638,8 @@ Look, I got all these right.
 
 1066
 01:52:38,126 --> 01:52:40,462
--You got all of those right?
--Yeah.
+- You got all of those right?
+- Yeah.
 
 1067
 01:52:40,629 --> 01:52:42,381
@@ -4776,8 +4776,8 @@ Keep the change. Merry Christmas.
 
 1098
 01:56:18,096 --> 01:56:20,515
--What is it?
--Domino?
+- What is it?
+- Domino?
 
 1099
 01:56:20,891 --> 01:56:22,726
@@ -4818,8 +4818,8 @@ Well, just tell her it's from...
 
 1108
 01:56:58,178 --> 01:57:00,889
--You're Bill?
--Yes.
+- You're Bill?
+- Yes.
 
 1109
 01:57:01,056 --> 01:57:05,101
@@ -4869,8 +4869,8 @@ I have no idea.
 
 1120
 01:58:01,908 --> 01:58:05,203
--You have no idea?
--No.
+- You have no idea?
+- No.
 
 1121
 01:58:09,416 --> 01:58:14,337
@@ -4900,8 +4900,8 @@ that I should tell you.
 
 1127
 01:58:50,957 --> 01:58:53,501
--Really?
--Yeah.
+- Really?
+- Yeah.
 
 1128
 01:58:53,918 --> 01:58:56,713
@@ -4927,8 +4927,8 @@ Let's sit down.
 
 1133
 01:59:33,667 --> 01:59:38,046
--I don't quite know how to say this.
--You don't quite know how?
+- I don't quite know how to say this.
+- You don't quite know how?
 
 1134
 01:59:42,425 --> 01:59:46,221
@@ -4951,8 +4951,8 @@ of a blood test this morning...
 
 1138
 02:00:14,082 --> 02:00:17,001
--HIV-positive?
--Yeah.
+- HIV-positive?
+- Yeah.
 
 1139
 02:00:31,391 --> 02:00:36,271
@@ -4992,8 +4992,8 @@ Okay.
 
 1148
 02:03:13,219 --> 02:03:14,846
--Taxi!
--Off duty.
+- Taxi!
+- Off duty.
 
 1149
 02:05:04,664 --> 02:05:07,709
@@ -5009,8 +5009,8 @@ Thank you.
 
 1152
 02:06:51,104 --> 02:06:52,480
--Good evening.
--Good evening.
+- Good evening.
+- Good evening.
 
 1153
 02:06:52,688 --> 02:06:54,106
@@ -5108,8 +5108,8 @@ Sorry to drag you out here.
 
 1175
 02:11:00,394 --> 02:11:03,147
--Let me have your coat.
--I was out anyway. Thank you.
+- Let me have your coat.
+- I was out anyway. Thank you.
 
 1176
 02:11:03,355 --> 02:11:04,732
@@ -5117,13 +5117,13 @@ How about a drink?
 
 1177
 02:11:05,316 --> 02:11:06,692
--Are you having one?
--Sure.
+- Are you having one?
+- Sure.
 
 1178
 02:11:06,859 --> 02:11:09,028
--Okay.
--What would you like?
+- Okay.
+- What would you like?
 
 1179
 02:11:09,528 --> 02:11:10,780
@@ -5148,8 +5148,8 @@ the other night.
 
 1184
 02:11:20,706 --> 02:11:24,960
--Alice and I had a wonderful time.
--Well, good. Good.
+- Alice and I had a wonderful time.
+- Well, good. Good.
 
 1185
 02:11:25,461 --> 02:11:27,254
@@ -5157,8 +5157,8 @@ It was great seeing you both.
 
 1186
 02:11:27,463 --> 02:11:29,465
--Cheers.
--Cheers.
+- Cheers.
+- Cheers.
 
 1187
 02:11:29,632 --> 02:11:31,008
@@ -5171,18 +5171,18 @@ knocking a few balls around.
 
 1189
 02:11:36,055 --> 02:11:38,808
--Beautiful scotch.
--That's a 25-year-old.
+- Beautiful scotch.
+- That's a 25-year-old.
 
 1190
 02:11:38,974 --> 02:11:41,477
--I'll send you over a case.
--No, please.
+- I'll send you over a case.
+- No, please.
 
 1191
 02:11:41,685 --> 02:11:44,063
--Why not?
--No.
+- Why not?
+- No.
 
 1192
 02:11:46,148 --> 02:11:48,317
@@ -5465,7 +5465,7 @@ ordinary people there.
 
 1256
 02:16:57,793 --> 02:17:01,130
-If I told you their names-
+If I told you their names--
 I'm not gonna tell you their names...
 
 1257
@@ -5985,8 +5985,3 @@ Fuck.
 02:38:52,148 --> 02:38:54,150
 Subtitles by
 SDI Media Group
-
-1380
-02:38:54,316 --> 02:38:56,318
-[ENGLISH]
-

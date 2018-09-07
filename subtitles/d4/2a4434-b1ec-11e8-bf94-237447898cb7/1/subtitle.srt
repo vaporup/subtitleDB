@@ -2506,7 +2506,7 @@ Ah, Let Christy try the wine,
 575
 01:04:12,750 --> 01:04:16,790
 I thought it was James Joyce,
-The wine's A1 ,
+The wine's A1,
 
 576
 01:04:16,870 --> 01:04:21,310
@@ -3205,7 +3205,7 @@ Reminiscences?
 
 733
 01:21:13,270 --> 01:21:15,630
-<i>... of a Mental Defective.</i>
+<i>...of a Mental Defective.</i>
 
 734
 01:21:17,270 --> 01:21:21,590
@@ -3695,7 +3695,7 @@ of which 13 survived,"
 843
 01:31:25,630 --> 01:31:29,190
 <i>"It would not be true to say
-that I am no longer lonely. "</i>
+that I am no longer lonely."</i>
 
 844
 01:31:29,230 --> 01:31:31,230
@@ -3709,7 +3709,7 @@ in many parts of the world,</i>
 846
 01:31:33,750 --> 01:31:38,830
 <i>and this is something we all wish to do
-whether we're crippled or not. "</i>
+whether we're crippled or not."</i>
 
 847
 01:31:39,990 --> 01:31:41,590

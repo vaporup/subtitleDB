@@ -4,7 +4,7 @@
 
 2
 00:02:35,864 --> 00:02:39,409
-[Man Narrating]So where are you?
+[Man Narrating] So where are you?
 You're in some motel room.
 
 3
@@ -37,7 +37,7 @@ It's just an anonymous room.
 
 9
 00:02:58,219 --> 00:03:01,347
--[ Radio Sportscast, Indistinct ]
+- [Radio Sportscast, Indistinct]
 - This guy.
 
 10
@@ -60,13 +60,13 @@ I must have forgot.
 
 14
 00:03:14,360 --> 00:03:16,946
-I guess I 've already
+I guess I've already
 told you about my condition.
 
 15
 00:03:17,030 --> 00:03:21,451
 Oh, well, only every time I see you.
-[ Clicks Tongue ]
+[Clicks Tongue]
 
 16
 00:03:28,249 --> 00:03:31,210
@@ -84,13 +84,13 @@ fun of someone's handicap.
 
 19
 00:03:36,299 --> 00:03:39,302
-- [ Car Alarm Chirps ]
--Just trying to have a little fun.
+- [Car Alarm Chirps]
+- Just trying to have a little fun.
 
 20
 00:03:42,722 --> 00:03:45,475
-- [Engine Starts ]
-- [Radio Newscast, Indistinct ]
+- [Engine Starts]
+- [Radio Newscast, Indistinct]
 
 21
 00:03:45,516 --> 00:03:48,978
@@ -135,7 +135,7 @@ been here for years.
 29
 00:04:33,523 --> 00:04:35,650
 [Door Closes,
-Alarm Chirps ]
+Alarm Chirps]
 
 30
 00:04:35,733 --> 00:04:39,070
@@ -157,11 +157,11 @@ Let's take a look inside.
 
 34
 00:04:54,002 --> 00:04:55,962
-[ Sighs ]
+[Sighs]
 
 35
 00:05:12,103 --> 00:05:14,230
-[ Thinking ]
+[Thinking]
 "Teddy."
 
 36
@@ -189,7 +189,7 @@ Oh, fuck this.
 
 41
 00:05:32,373 --> 00:05:35,126
-- [ Teddy Grunts ]
+- [Teddy Grunts]
 - You're gonna pay for what you did.
 
 42
@@ -199,7 +199,7 @@ and then you pay.
 
 43
 00:05:39,005 --> 00:05:42,592
-[ Panting ]
+[Panting]
 
 44
 00:05:42,633 --> 00:05:45,595
@@ -263,7 +263,7 @@ who you really are.
 56
 00:06:22,673 --> 00:06:24,967
 - No!
-- [ Gunshot ]
+- [Gunshot]
 
 57
 00:06:26,344 --> 00:06:28,387
@@ -282,7 +282,7 @@ which I, of course, read religiously.
 
 60
 00:06:35,520 --> 00:06:37,522
-[ Chuckles, Sighs ]
+[Chuckles, Sighs]
 
 61
 00:06:37,563 --> 00:06:42,568
@@ -319,7 +319,7 @@ if you're gonna make it work.
 
 68
 00:07:52,555 --> 00:07:54,891
-[ Bell Buzzes ]
+[Bell Buzzes]
 
 69
 00:07:56,267 --> 00:07:58,227
@@ -338,7 +338,7 @@ if you're gonna make it work.
 
 72
 00:08:03,566 --> 00:08:06,944
-Burt. I 'm not sure. I think I may have
+Burt. I'm not sure. I think I may have
 asked you to hold my calls.
 
 73
@@ -394,7 +394,7 @@ gonna remember this conversation.
 
 83
 00:08:37,308 --> 00:08:40,394
-[ Laughs ] I don't even know
+[Laughs] I don't even know
 if I've met you before.
 
 84
@@ -465,12 +465,12 @@ what You just did.
 
 98
 00:09:28,693 --> 00:09:30,903
--A couple of days.
+- A couple of days.
 - And you're holding my calls?
 
 99
 00:09:30,987 --> 00:09:34,365
--like you said.
+- like you said.
 - Okay, but this guy's an exception.
 
 100
@@ -485,7 +485,7 @@ he's my friend?
 
 102
 00:09:41,122 --> 00:09:43,541
--I just saw you together, that's all.
+- I just saw you together, that's all.
 - He's not my friend.
 
 103
@@ -572,7 +572,7 @@ things go and how the system works.
 120
 00:10:37,136 --> 00:10:41,932
 You have to be wary of
-other people writing stuff,for you,
+other people writing stuff, for you,
 that it's gonna lead you astray.
 
 121
@@ -598,7 +598,7 @@ of keeping a note.
 
 125
 00:10:57,406 --> 00:10:59,617
-[ Phone Ringing ]
+[Phone Ringing]
 
 126
 00:11:04,497 --> 00:11:06,290
@@ -606,16 +606,16 @@ Who is this?
 
 127
 00:11:13,714 --> 00:11:15,966
-[ Thinking ]
-" Remember Sam my Jankis."
+[Thinking]
+"Remember Sam my Jankis."
 
 128
 00:11:28,604 --> 00:11:31,023
-[ Door Opening ]
+[Door Opening]
 
 129
 00:11:39,657 --> 00:11:42,701
-[ Quiet Chattering ]
+[Quiet Chattering]
 
 130
 00:11:45,079 --> 00:11:48,457
@@ -642,7 +642,7 @@ I'm gonna write this down.
 
 135
 00:12:06,100 --> 00:12:08,144
-[ Thinking ]
+[Thinking]
 "The Discount Inn."
 
 136
@@ -651,7 +651,7 @@ I'm gonna write this down.
 
 137
 00:12:30,875 --> 00:12:33,878
-[ Thinking ]
+[Thinking]
 Discount Inn.
 
 138
@@ -668,7 +668,7 @@ Teddy.
 
 141
 00:12:56,484 --> 00:12:58,736
-"John Edward Gammell. "
+"John Edward Gammell."
 
 142
 00:13:00,571 --> 00:13:03,407
@@ -681,7 +681,7 @@ his name was Teddy.
 
 144
 00:13:13,083 --> 00:13:15,294
-[ Dial Tone ]
+[Dial Tone]
 
 145
 00:13:15,377 --> 00:13:18,255
@@ -693,13 +693,13 @@ his name was Teddy.
 
 147
 00:13:24,929 --> 00:13:27,723
-- [Man On Phone ]
+- [Man On Phone]
 Yeah? Lenny, is that you?
 - Mr. Gammell?
 
 148
 00:13:27,765 --> 00:13:30,601
--John Gammell?
+- John Gammell?
 - Lenny, it's Teddy. Stay there.
 
 149
@@ -799,11 +799,11 @@ Me? Yeah, I got a reason.
 
 170
 00:17:09,445 --> 00:17:11,613
-[ Car Alarm Chirps ]
+[Car Alarm Chirps]
 
 171
 00:17:14,908 --> 00:17:18,704
-[ Thinking ] "Today, 1 :00 p.m.
+[Thinking] "Today, 1:00 p.m.
 Meet Natalie for info.
 
 172
@@ -1071,7 +1071,7 @@ I wasn't helping you for money.
 227
 00:21:12,604 --> 00:21:16,692
 "See, you have this condition."
-[ Laughs ]
+[Laughs]
 
 228
 00:21:16,733 --> 00:21:20,696
@@ -1082,7 +1082,7 @@ You left it at my place.
 229
 00:21:26,284 --> 00:21:29,579
 Yeah.
-[ Chuckles ]
+[Chuckles]
 
 230
 00:21:29,621 --> 00:21:32,416
@@ -1091,7 +1091,7 @@ Yeah.
 
 231
 00:21:32,457 --> 00:21:37,295
-[ Laughs ]
+[Laughs]
 You know what we have in common?
 
 232
@@ -1104,11 +1104,11 @@ You take care, Leonard.
 
 234
 00:21:53,895 --> 00:21:57,899
-[Door Opens, Closes ]
+[Door Opens, Closes]
 
 235
 00:22:14,750 --> 00:22:17,669
-[ Thinking ]
+[Thinking]
 "Remember Sammy Jankis."
 
 236
@@ -1176,7 +1176,7 @@ real challenge lenge.
 
 248
 00:22:56,291 --> 00:22:58,794
-[ Engine Starts ]
+[Engine Starts]
 
 249
 00:23:00,712 --> 00:23:04,132
@@ -1185,7 +1185,7 @@ you split for good.
 
 250
 00:23:04,174 --> 00:23:07,511
-- Well l, things change.
+- Well I, things change.
 - So I see.
 
 251
@@ -1207,12 +1207,12 @@ Come on, I'll buy you lunch.
 254
 00:23:22,692 --> 00:23:26,029
 I'm sick of hearing about the guy.
-What about John G.?
+What about John G?
 
 255
 00:23:26,071 --> 00:23:29,574
 - Who?
--Johnny G., the guy you're looking for.
+- Johnny G., the guy you're looking for.
 
 256
 00:23:29,658 --> 00:23:32,244
@@ -1222,7 +1222,7 @@ left town, am I right?
 
 257
 00:23:32,327 --> 00:23:35,664
--Leonard, look,
+- Leonard, look,
 you have to be very careful.
 - Why?
 
@@ -1389,7 +1389,7 @@ but now you're in 304.
 
 291
 00:25:52,133 --> 00:25:55,553
--But then I rented you
+- But then I rented you
 another room on top ofit.
 - Why?
 
@@ -1486,13 +1486,13 @@ damage to the hippocampus.
 
 311
 00:27:06,458 --> 00:27:10,128
-Nothing conclusive, but Sammy can 't
+Nothing conclusive, but Sammy can't
 remember anything for more than
 a couple of minutes.
 
 312
 00:27:10,211 --> 00:27:12,964
-Can 't work, can 't do shit.
+Can't work, can't do shit.
 The medical bills pile up.
 
 313
@@ -1518,7 +1518,7 @@ any new memories.
 
 317
 00:27:26,686 --> 00:27:29,314
--He can only remember things
+- He can only remember things
 for a couple of minutes.
 - This is Mr. Shelby.
 
@@ -1530,13 +1530,13 @@ was too confusing.
 
 319
 00:27:32,734 --> 00:27:35,403
-He couldn 't remember how it began.
+He couldn't remember how it began.
 He liked commercials.
 
 320
 00:27:35,487 --> 00:27:37,280
 - They were short.
--Sammy.
+- Sammy.
 
 321
 00:27:37,322 --> 00:27:39,282
@@ -1598,7 +1598,7 @@ of recognition.
 333
 00:28:14,818 --> 00:28:17,153
 But he says
-he can 't remember me at all.
+he can't remember me at all.
 
 334
 00:28:17,237 --> 00:28:20,281
@@ -1612,23 +1612,23 @@ I got it. I got it.
 
 336
 00:28:22,867 --> 00:28:27,455
--Now, I can read people,
+- Now, I can read people,
 and I'm thinking: bad actor.
 - This is Mr. Shelby, Sammy.
 
 337
 00:28:27,539 --> 00:28:30,458
-So now I 'm suspicious,
+So now I'm suspicious,
 and I order more tests.
 
 338
 00:28:33,628 --> 00:28:36,840
-[ Thinking ]
+[Thinking]
 Awake.
 
 339
 00:28:36,923 --> 00:28:39,717
-Oh, where am I ?
+Oh, where am I?
 
 340
 00:28:41,761 --> 00:28:44,347
@@ -1644,7 +1644,7 @@ But who is she?
 
 343
 00:28:54,566 --> 00:28:57,277
-[ Moaning ]
+[Moaning]
 
 344
 00:28:59,404 --> 00:29:01,364
@@ -1679,7 +1679,7 @@ about the license plate.
 350
 00:29:28,183 --> 00:29:32,604
 - Yeah, the license plate.
--John G.'s license plate.
+- John G.'s license plate.
 
 351
 00:29:34,981 --> 00:29:37,192
@@ -1688,11 +1688,11 @@ on your thigh.
 
 352
 00:29:48,036 --> 00:29:51,206
-[ Water Running]
+[Water Running]
 
 353
 00:29:54,876 --> 00:29:57,003
-[ Thinking ]
+[Thinking]
 "Natalie."
 
 354
@@ -1705,7 +1705,7 @@ She will help you out of pity."
 
 356
 00:30:05,470 --> 00:30:07,764
-[Footsteps ]
+[Footsteps]
 
 357
 00:30:07,847 --> 00:30:10,850
@@ -1751,7 +1751,7 @@ will you remember me?
 
 365
 00:31:12,662 --> 00:31:15,123
-[Whispering ]
+[Whispering]
 I think you will.
 
 366
@@ -1765,7 +1765,7 @@ I have my shirt back, please?
 
 368
 00:31:34,559 --> 00:31:37,270
-[Engine Starts ]
+[Engine Starts]
 
 369
 00:31:39,314 --> 00:31:43,234
@@ -1806,7 +1806,7 @@ Sammy's response to conditioning.
 
 376
 00:32:03,046 --> 00:32:06,966
--Just pick up any three objects.
+- Just pick up any three objects.
 - That's a test?
 
 377
@@ -1816,7 +1816,7 @@ when I did my C.P.A.?
 
 378
 00:32:09,719 --> 00:32:11,846
-[ Laughs ]
+[Laughs]
 Sorry.
 
 379
@@ -1825,7 +1825,7 @@ Ta-da!
 
 380
 00:32:15,099 --> 00:32:17,685
-- [ Object Buzzes ]
+- [Object Buzzes]
 - Ow! What the fuck?
 
 381
@@ -1861,11 +1861,11 @@ but by instinct.
 
 387
 00:32:44,087 --> 00:32:46,255
-[ Car Alarm Chirps ]
+[Car Alarm Chirps]
 
 388
 00:32:50,343 --> 00:32:53,471
-[ Knocking ]
+[Knocking]
 
 389
 00:32:55,723 --> 00:32:58,434
@@ -1967,7 +1967,7 @@ Such as?
 00:34:04,292 --> 00:34:07,503
 I know what that's gonna
 sound like when I knock on it.
-[ Knocks On Wood ]
+[Knocks On Wood]
 
 409
 00:34:07,587 --> 00:34:10,673
@@ -1990,7 +1990,7 @@ The feel of the world... and her.
 
 413
 00:34:24,604 --> 00:34:27,648
-[ Sighing ]
+[Sighing]
 
 414
 00:34:27,732 --> 00:34:32,069
@@ -2171,7 +2171,7 @@ if I can't... feel time?
 
 454
 00:38:57,251 --> 00:39:00,296
-[ Thinking ]
+[Thinking]
 "She has also lost someone.
 
 455
@@ -2190,7 +2190,7 @@ carrying an electrical charge.
 
 458
 00:39:33,162 --> 00:39:35,289
-- [ Object Buzzes ]
+- [Object Buzzes]
 - Ow! What the fuck?
 
 459
@@ -2213,7 +2213,7 @@ the wrong objects.
 00:39:43,464 --> 00:39:47,510
 All the previous cases
 responded to conditioning.
-Sammy didn 't respond at all.
+Sammy didn't respond at all.
 
 463
 00:39:47,593 --> 00:39:51,180
@@ -2258,16 +2258,16 @@ Acting on instinct.
 
 471
 00:40:19,834 --> 00:40:22,044
-[Man Shouts ]
+[Man Shouts]
 
 472
 00:40:22,128 --> 00:40:24,880
-- [ Thinking ] Awake.
--[ Car Horn Honks ]
+- [Thinking] Awake.
+- [Car Horn Honks]
 
 473
 00:40:24,964 --> 00:40:27,133
-Where am I ?
+Where am I?
 
 474
 00:40:28,801 --> 00:40:30,886
@@ -2275,7 +2275,7 @@ Motel room.
 
 475
 00:40:30,970 --> 00:40:33,430
-[ Groans ]
+[Groans]
 
 476
 00:40:36,934 --> 00:40:39,478
@@ -2298,13 +2298,13 @@ Hey, open up!
 
 480
 00:41:07,590 --> 00:41:10,509
--[Muffled Crying]
--Just a minute.
+- [Muffled Crying]
+- Just a minute.
 
 481
 00:41:10,593 --> 00:41:13,762
--Open the door.
--[ Continues knocking]
+- Open the door.
+- [Continues knocking]
 
 482
 00:41:13,846 --> 00:41:15,890
@@ -2325,16 +2325,16 @@ Hi, Teddy.
 486
 00:41:28,569 --> 00:41:31,197
 - Finished playing with yourself, Lenny?
-- [Door Closes ]
+- [Door Closes]
 
 487
 00:41:31,280 --> 00:41:33,991
-- [ Groans ]
--[Muffled Cries Continue ]
+- [Groans]
+- [Muffled Cries Continue]
 
 488
 00:41:38,495 --> 00:41:42,291
-[ Sighs ]
+[Sighs]
 
 489
 00:41:42,374 --> 00:41:46,420
@@ -2344,7 +2344,7 @@ Amorous neighbors.
 490
 00:41:46,503 --> 00:41:48,964
 - What are you doing here?
-- [ Laughs ]
+- [Laughs]
 
 491
 00:41:49,048 --> 00:41:51,759
@@ -2363,7 +2363,7 @@ telling the same jokes.
 
 494
 00:41:58,891 --> 00:42:02,436
--[Muffled Crying Continues ]
+- [Muffled Crying Continues]
 - What the fuck is that?
 
 495
@@ -2373,7 +2373,7 @@ telling the same jokes.
 
 496
 00:42:09,318 --> 00:42:11,904
-No! Should I ?
+No! Should I?
 Wait a minute.
 
 497
@@ -2398,7 +2398,7 @@ Ask him.
 501
 00:42:26,543 --> 00:42:30,047
 - What's your name? Your name!
-- [ Mutters ]
+- [Mutters]
 
 502
 00:42:30,130 --> 00:42:32,508
@@ -2421,7 +2421,7 @@ help you kill that guy.
 
 506
 00:42:42,226 --> 00:42:44,520
-No,just let me
+No, just let me
 think for a minute.
 
 507
@@ -2430,7 +2430,7 @@ think for a minute.
 
 508
 00:42:49,024 --> 00:42:51,652
--Okay, Natalie.
+- Okay, Natalie.
 - who's Natalie?
 
 509
@@ -2575,7 +2575,7 @@ stolen his car.
 
 537
 00:44:43,931 --> 00:44:46,600
-[ Sighs ]
+[Sighs]
 
 538
 00:44:46,683 --> 00:44:48,769
@@ -2588,7 +2588,7 @@ the fuck that was all about.
 
 540
 00:44:55,442 --> 00:44:58,153
-[ Knocking ]
+[Knocking]
 
 541
 00:44:58,237 --> 00:45:01,323
@@ -2612,7 +2612,7 @@ that got to her.
 
 545
 00:45:13,419 --> 00:45:16,463
--I never said
+- I never said
 that Sammy was faking.
 - Listen. I have an idea.
 
@@ -2635,7 +2635,7 @@ a pen in your pocket, okay?
 00:45:24,805 --> 00:45:27,141
 - You're gonna have
 a pen in your pocket.
--She couldn't understand.
+- She couldn't understand.
 
 550
 00:45:27,182 --> 00:45:30,519
@@ -2657,18 +2657,18 @@ he should just snap out ofit.
 
 553
 00:45:38,152 --> 00:45:40,487
-- Ellen called! [ Crying ]
--Ellen called?
+- Ellen called! [Crying]
+- Ellen called?
 
 554
 00:45:40,529 --> 00:45:44,074
--Ellen can't come today!
+- Ellen can't come today!
 Ellen can't come!
-- Okay. I 'm sorry!
+- Okay. I'm sorry!
 
 555
 00:45:44,158 --> 00:45:47,286
-- I 'm sorry. I 'm trying. I 'm sorry.
+- I'm sorry. I'm trying. I'm sorry.
 - Try harder!
 
 556
@@ -2689,16 +2689,16 @@ I never said that.
 
 559
 00:46:07,222 --> 00:46:10,100
-[ Thinking ]
+[Thinking]
 Hmm, I don't feel drunk.
 
 560
 00:46:44,051 --> 00:46:46,428
-[Door Closes ]
+[Door Closes]
 
 561
 00:46:46,470 --> 00:46:48,472
-[ Clattering]
+[Clattering]
 
 562
 00:46:48,555 --> 00:46:51,058
@@ -2710,7 +2710,7 @@ Hmm, I don't feel drunk.
 
 564
 00:47:00,817 --> 00:47:05,405
-[ Both Grunting ]
+[Both Grunting]
 
 565
 00:47:22,297 --> 00:47:25,300
@@ -2729,7 +2729,7 @@ Okay.
 
 568
 00:47:55,914 --> 00:47:58,542
-[ Thinking ]
+[Thinking]
 "Dodd. Put him onto Teddy...
 
 569
@@ -2755,15 +2755,15 @@ Teddy, Teddy.
 
 574
 00:48:20,814 --> 00:48:23,609
-[ Dial Tone ]
+[Dial Tone]
 
 575
 00:48:25,527 --> 00:48:27,904
-[ Line Ringing ]
+[Line Ringing]
 
 576
 00:48:30,490 --> 00:48:33,410
-[ Teddy's voice On Machine ]
+[Teddy's voice On Machine]
 Yeah, leave your number.
 You know what to do.
 
@@ -2794,7 +2794,7 @@ Whew. Fuck.
 
 582
 00:48:51,219 --> 00:48:54,014
-[ Sighing ]
+[Sighing]
 
 583
 00:48:58,393 --> 00:49:02,064
@@ -2818,7 +2818,7 @@ call me back?
 
 587
 00:49:30,926 --> 00:49:33,637
-[ Thinking ]
+[Thinking]
 Okay, so what am I doing?
 
 588
@@ -2835,24 +2835,24 @@ No. He's chasing me.
 
 591
 00:49:49,986 --> 00:49:53,573
-[Alarm Chirps, Stops ]
+[Alarm Chirps, Stops]
 
 592
 00:49:53,657 --> 00:49:55,826
-[Engine Starts ]
+[Engine Starts]
 
 593
 00:49:58,245 --> 00:50:00,580
-[ Tires Screeching]
+[Tires Screeching]
 
 594
 00:50:02,916 --> 00:50:06,294
-[ Groaning ]
+[Groaning]
 Fuck.
 
 595
 00:50:09,715 --> 00:50:12,008
-[ Thinking ]
+[Thinking]
 "Dodd. White guy.
 
 596
@@ -2867,13 +2867,13 @@ you fucker.
 
 598
 00:50:48,503 --> 00:50:50,630
-[Man On Television ]
+[Man On Television]
 $9995, $98 a month.
 
 599
 00:50:50,714 --> 00:50:54,718
 A '97 Toyota RAV-4,
-$ 1 1,995, $ 1 1 0 a month.
+$11,995, $110 a month.
 
 600
 00:50:54,801 --> 00:50:58,555
@@ -2888,7 +2888,7 @@ $8995, $95 a month.
 
 602
 00:51:33,215 --> 00:51:35,175
-[ Thinking ]
+[Thinking]
 I need a weapon.
 
 603
@@ -2901,7 +2901,7 @@ Hmm, I don't feel drunk.
 
 605
 00:52:36,111 --> 00:52:38,905
-[ Car Alarm Chirps ]
+[Car Alarm Chirps]
 
 606
 00:52:42,200 --> 00:52:44,995
@@ -2909,12 +2909,12 @@ Hmm, I don't feel drunk.
 
 607
 00:52:47,330 --> 00:52:49,457
-[ Thinking ]
+[Thinking]
 Do I know this guy?
 
 608
 00:52:49,541 --> 00:52:52,460
--[Honking Continues ]
+- [Honking Continues]
 - He seems to know me.
 
 609
@@ -2943,21 +2943,21 @@ too hard on yourself.
 
 614
 00:53:31,917 --> 00:53:34,961
-[ Thinking ]
+[Thinking]
 Okay, so what am I doing?
 
 615
 00:53:42,469 --> 00:53:45,680
--[Phone Ringing]
+- [Phone Ringing]
 - Who is this?
 
 616
 00:53:50,352 --> 00:53:52,812
-[ Car Alarm Chirps ]
+[Car Alarm Chirps]
 
 617
 00:54:29,516 --> 00:54:31,935
-[ Car Alarm Chirps ]
+[Car Alarm Chirps]
 
 618
 00:55:04,843 --> 00:55:06,761
@@ -2999,7 +2999,7 @@ J Just let me read, please.
 
 626
 00:56:09,449 --> 00:56:11,826
-[ Thinking ]
+[Thinking]
 Probably tried this before.
 
 627
@@ -3056,7 +3056,7 @@ I can't keep it all in mind at once.
 637
 00:57:15,390 --> 00:57:18,184
 I have to summarize
-the diff,erentsections.
+the different sections.
 And there's pages missing.
 
 638
@@ -3087,7 +3087,7 @@ any ofit up.
 
 643
 00:57:30,530 --> 00:57:32,907
-[Door Squeaks, Shuts ]
+[Door Squeaks, Shuts]
 
 644
 00:58:05,815 --> 00:58:07,984
@@ -3103,7 +3103,7 @@ Everything okay?
 
 647
 00:58:51,569 --> 00:58:54,113
-- [ Muffled Cries ]
+- [Muffled Cries]
 - You okay in there?
 
 648
@@ -3125,7 +3125,7 @@ I'd like you to leave now.
 
 652
 00:59:21,808 --> 00:59:24,811
-[ Car Alarm Chirps ]
+[Car Alarm Chirps]
 
 653
 00:59:31,192 --> 00:59:35,071
@@ -3180,7 +3180,7 @@ Now we're getting somewhere.
 
 664
 01:00:17,655 --> 01:00:19,574
-[ Alarm Chirps ]
+[Alarm Chirps]
 
 665
 01:01:05,787 --> 01:01:07,789
@@ -3192,7 +3192,7 @@ Blonde's fine.
 
 667
 01:01:10,583 --> 01:01:12,794
-[ Chuckles ]
+[Chuckles]
 Well, that's what they say.
 
 668
@@ -3245,7 +3245,7 @@ and that this is your bedroom.
 678
 01:01:54,794 --> 01:01:59,674
 - Should I wear it?
-- No, no, no. Uh,just like
+- No, no, no. Uh, just like
 you took it off or something.
 
 679
@@ -3269,7 +3269,7 @@ Whatever gets you off.
 
 683
 01:02:36,878 --> 01:02:39,505
-[Door Squeaks, Shuts ]
+[Door Squeaks, Shuts]
 
 684
 01:02:41,716 --> 01:02:46,679
@@ -3470,7 +3470,7 @@ went with the memory?
 
 723
 01:05:23,252 --> 01:05:26,213
--Do you even know
+- Do you even know
 why you're here?
 - Unfinished business.
 
@@ -3573,8 +3573,8 @@ when she serves him his drinks.
 
 744
 01:06:33,072 --> 01:06:36,075
--she's gonna use you to protect herself.
--From who?
+- she's gonna use you to protect herself.
+- From who?
 
 745
 01:06:36,117 --> 01:06:39,370
@@ -3737,7 +3737,7 @@ when you sold insurance?
 01:08:25,601 --> 01:08:28,395
 - I didn't sell insurance.
 I investigated it.
--Right. You're an investigator.
+- Right. You're an investigator.
 
 778
 01:08:30,314 --> 01:08:34,944
@@ -3761,7 +3761,7 @@ It's been fun, Lenny.
 
 782
 01:08:55,089 --> 01:08:57,049
-[ Thinking ]
+[Thinking]
 "Do not trust her."
 
 783
@@ -3775,8 +3775,7 @@ I need my own place.
 
 785
 01:09:16,068 --> 01:09:19,655
-[keys Jangling,
-Engine Starts ]
+[keys Jangling, Engine Starts]
 
 786
 01:09:23,951 --> 01:09:26,912
@@ -3805,7 +3804,7 @@ large financ--
 791
 01:09:43,804 --> 01:09:46,974
 - Who is this?
--[Receiver Clicks, Dial Tone ]
+- [Receiver Clicks, Dial Tone]
 
 792
 01:09:57,234 --> 01:09:59,945
@@ -4016,11 +4015,11 @@ I'll be fine.
 
 836
 01:13:03,045 --> 01:13:05,964
-[ Ringing ]
+[Ringing]
 
 837
 01:13:06,006 --> 01:13:08,884
-[Ringing Continues ]
+[Ringing Continues]
 
 838
 01:13:16,558 --> 01:13:21,146
@@ -4088,7 +4087,7 @@ a clue about anything else.
 850
 01:14:06,066 --> 01:14:09,903
 - What happened?
--Jimmy went to meet
+- Jimmy went to meet
 some guy named Teddy.
 
 851
@@ -4130,8 +4129,8 @@ What would you kill for?
 
 858
 01:14:32,092 --> 01:14:34,720
--You'd kill for your wife, wouldn't you?
--That's different.
+- You'd kill for your wife, wouldn't you?
+- That's different.
 
 859
 01:14:34,761 --> 01:14:38,265
@@ -4287,7 +4286,7 @@ I'll see you soon.
 
 890
 01:16:20,784 --> 01:16:24,871
-[ Thinking ]
+[Thinking]
 Stay focused. Find a pen.
 
 891
@@ -4366,11 +4365,11 @@ Dodd beat the shit out of me.
 905
 01:17:26,391 --> 01:17:28,643
 - [knocking At Door]
-- [Man ] Hello?
+- [Man] Hello?
 
 906
 01:17:31,063 --> 01:17:35,484
--It's Burt, from the front desk.
+- It's Burt, from the front desk.
 - [knocking]
 
 907
@@ -4465,8 +4464,8 @@ I was asleep.
 
 925
 01:18:44,678 --> 01:18:47,139
--Something woke me up.
--[ Glass Shatters ]
+- Something woke me up.
+- [Glass Shatters]
 
 926
 01:18:50,308 --> 01:18:54,020
@@ -4476,11 +4475,11 @@ of bed for awhile.
 
 927
 01:18:54,104 --> 01:18:56,523
-[ Clattering ]
+[Clattering]
 
 928
 01:19:04,448 --> 01:19:06,366
-[ Muffled Cries ]
+[Muffled Cries]
 
 929
 01:19:52,204 --> 01:19:56,500
@@ -4545,7 +4544,7 @@ someone in my condition.
 
 941
 01:20:39,167 --> 01:20:44,339
-Leonard,you can stay here for
+Leonard, you can stay here for
 a couple of days if It'll help you.
 
 942
@@ -4586,7 +4585,7 @@ some food, whatever you want, okay?
 
 950
 01:21:36,725 --> 01:21:38,518
-[Door Opens ]
+[Door Opens]
 
 951
 01:21:41,980 --> 01:21:44,149
@@ -4599,11 +4598,11 @@ some food, whatever you want, okay?
 
 953
 01:21:49,863 --> 01:21:52,824
-[ Ringing Continues ]
+[Ringing Continues]
 
 954
 01:22:29,027 --> 01:22:30,945
-[ Ringing ]
+[Ringing]
 
 955
 01:22:33,406 --> 01:22:36,618
@@ -4616,11 +4615,11 @@ some food, whatever you want, okay?
 
 957
 01:22:39,704 --> 01:22:43,291
-My,you really do have a problem.
+My, you really do have a problem.
 
 958
 01:22:43,375 --> 01:22:46,836
--J Just like that cop said.
+- J Just like that cop said.
 - Hmm?
 
 959
@@ -4744,7 +4743,7 @@ My boyfriend told me about you.
 983
 01:24:27,645 --> 01:24:31,566
 - Yeah? Who's your boyfriend?
--Jimmy Grants. Do you know him?
+- Jimmy Grants. Do you know him?
 
 984
 01:24:31,649 --> 01:24:34,194
@@ -4826,7 +4825,7 @@ Your pocket.
 
 1000
 01:25:38,132 --> 01:25:41,052
-[ Clearing Throat]
+[Clearing Throat]
 
 1001
 01:25:46,975 --> 01:25:50,103
@@ -4918,7 +4917,7 @@ to see me at my office.
 1019
 01:27:06,721 --> 01:27:08,681
 I thought she was just
-trying to catch me off,guard,
+trying to catch me off guard,
 
 1020
 01:27:08,723 --> 01:27:11,684
@@ -4953,7 +4952,7 @@ to test him.
 
 1026
 01:27:49,389 --> 01:27:51,891
-[ Si ghs ]
+[Sighs]
 
 1027
 01:27:55,186 --> 01:27:58,773
@@ -4992,7 +4991,7 @@ and never recovered.
 
 1034
 01:29:26,652 --> 01:29:30,865
--Sammy couldn't understand
+- Sammy couldn't understand
 or explain what happened.
 - Oh!
 
@@ -5045,12 +5044,12 @@ somebody, you just pretend to.
 
 1045
 01:29:58,935 --> 01:30:01,646
-You bluff,it to get a pat
+You bluff, it to get a pat
 on the head from the doctors.
 
 1046
 01:30:01,687 --> 01:30:04,398
-You bluff,it
+You bluff, it
 to seem less ofa freak.
 
 1047
@@ -5059,7 +5058,7 @@ What drug dealer?
 
 1048
 01:30:09,821 --> 01:30:12,657
-[ Tires Screeching ]
+[Tires Screeching]
 
 1049
 01:30:35,138 --> 01:30:38,266
@@ -5091,7 +5090,7 @@ before it slipped my mind.
 01:30:50,194 --> 01:30:52,155
 - Then give me the keys.
 I'll move it for you.
--It'll be all right for a minute.
+- It'll be all right for a minute.
 
 1055
 01:30:52,238 --> 01:30:54,532
@@ -5192,7 +5191,7 @@ being some local drug dealer.
 
 1074
 01:31:56,677 --> 01:32:00,431
--Jimmy Grants.
+- Jimmy Grants.
 - Who's Jimmy Grants?
 
 1075
@@ -5242,7 +5241,7 @@ You are full of shit.
 
 1084
 01:32:47,812 --> 01:32:50,481
-[ Thinking ]
+[Thinking]
 "Come by after. Natalie."
 
 1085
@@ -5251,8 +5250,8 @@ You are full of shit.
 
 1086
 01:33:33,399 --> 01:33:36,610
-- [ Knocking On Window ]
-- Hey,Jimmy.
+- [Knocking On Window]
+- Hey, Jimmy.
 
 1087
 01:33:38,195 --> 01:33:41,532
@@ -5322,7 +5321,7 @@ or Lieutenant Gammell?
 
 1101
 01:35:44,447 --> 01:35:46,866
-Don't write Gammell,just Teddy.
+Don't write Gammell, just Teddy.
 
 1102
 01:35:46,949 --> 01:35:49,368
@@ -5359,7 +5358,7 @@ Make him beg.
 
 1109
 01:37:36,850 --> 01:37:38,811
-[Man ]
+[Man]
 Teddy!
 
 1110
@@ -5438,19 +5437,19 @@ Did he tell you what I was bringing?
 
 1125
 01:38:42,207 --> 01:38:46,170
-- Take your fuckin' pants off!.
+- Take your fuckin' pants off!
 - I've got two hundred grand
 stashed in the car!
 
 1126
 01:38:46,211 --> 01:38:48,922
--Just take it!
+- Just take it!
 - You think you can
 bargain with me?
 
 1127
 01:38:49,006 --> 01:38:51,342
--Just take the money and walk away!
+- Just take the money and walk away!
 - I don't want your money!
 
 1128
@@ -5468,7 +5467,7 @@ Sammy.
 
 1131
 01:40:36,697 --> 01:40:38,782
-[ Thinking ] He said "Sammy."
+[Thinking] He said "Sammy."
 How does he know about Sammy?
 
 1132
@@ -5477,7 +5476,7 @@ Oh, fuck.
 
 1133
 01:41:00,804 --> 01:41:04,057
-[ Thinking ]
+[Thinking]
 What have I done?
 
 1134
@@ -5533,7 +5532,7 @@ That shit kills!
 
 1144
 01:41:35,130 --> 01:41:37,508
-Yeah. And I 'm the guy
+Yeah. And I'm the guy
 that helped you find him.
 
 1145
@@ -5609,7 +5608,7 @@ taking a picture of the dump.
 1159
 01:42:19,508 --> 01:42:22,386
 - You're fucking using me.
-- No! You get half!.
+- No! You get half!
 
 1160
 01:42:22,469 --> 01:42:25,097
@@ -5748,7 +5747,7 @@ remember the things you wanna be true.
 
 1188
 01:44:02,569 --> 01:44:04,988
--Like old Jimmy down there.
+- Like old Jimmy down there.
 - He's not the right guy.
 
 1189
@@ -5762,7 +5761,7 @@ Enjoy it while you still remember.
 
 1191
 01:44:09,785 --> 01:44:13,288
-what diff,erence does it make
+what difference does it make
 whether he was your guy or not?
 
 1192
@@ -5907,7 +5906,7 @@ Like your police file.
 1220
 01:45:55,974 --> 01:45:59,311
 It was complete when I gave it to you.
-Who took out the 1 2 pages?
+Who took out the 12 pages?
 
 1221
 01:45:59,394 --> 01:46:02,397
@@ -6010,7 +6009,7 @@ Fuck.
 
 1241
 01:47:14,427 --> 01:47:16,763
-[ Thinking ]
+[Thinking]
 I'm not a killer.
 
 1242
@@ -6064,7 +6063,7 @@ Hey! Hey, that's not your car!
 1253
 01:48:45,810 --> 01:48:48,939
 - It is now.
-- Jesus Christ,you can't take it!
+- Jesus Christ, you can't take it!
 
 1254
 01:48:48,980 --> 01:48:51,316
@@ -6105,7 +6104,7 @@ Lenny!
 
 1262
 01:49:32,482 --> 01:49:35,777
-[ Thinking ] I have to believe
+[Thinking] I have to believe
 in a world outside my own mind.
 
 1263
@@ -6158,7 +6157,7 @@ Now, where was I?
 
 1274
 01:50:32,751 --> 01:50:35,837
- we layin each other's arms ?
+ we layin each other's arms?
 
 1275
 01:50:38,173 --> 01:50:42,719
@@ -6227,7 +6226,7 @@ too long, yeah 
 
 1290
 01:52:00,839 --> 01:52:03,800
- we can 't avoid the clash 
+ we can't avoid the clash 
 
 1291
 01:52:03,842 --> 01:52:06,010
@@ -6235,7 +6234,7 @@ too long, yeah 
 
 1292
 01:52:07,637 --> 01:52:10,265
- Now we 're gonna pay and pay 
+ Now we're gonna pay and pay 
 
 1293
 01:52:11,933 --> 01:52:17,730
@@ -6285,4 +6284,4 @@ in the air 
 
 1303
 01:53:05,278 --> 01:53:10,325
- Danced with you too long ? 
+ Danced with you too long? 

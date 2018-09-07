@@ -2,6 +2,7 @@
 filename: "My Left Foot The Story of Christy Brown (1989).srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "My Left Foot The Story of Christy Brown (1989).avi"

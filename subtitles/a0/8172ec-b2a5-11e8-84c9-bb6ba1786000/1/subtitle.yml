@@ -2,6 +2,7 @@
 filename: "Nothing But Trouble (1991).srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "Nothing But Trouble (1991).avi"

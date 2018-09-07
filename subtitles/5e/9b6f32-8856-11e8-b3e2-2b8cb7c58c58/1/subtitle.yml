@@ -2,6 +2,7 @@
 filename: "Apocalypto.2006.720p.BluRay.x264.VPPV.srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "Apocalypto.2006.720p.BluRay.x264.VPPV.mkv"

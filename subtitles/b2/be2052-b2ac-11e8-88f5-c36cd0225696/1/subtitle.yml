@@ -2,6 +2,7 @@
 filename: "Fletch Lives (1989).srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "Fletch Lives (1989).avi"

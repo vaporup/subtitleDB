@@ -6288,7 +6288,7 @@ I can set you free, mate.
 
 1436
 02:10:01,816 --> 02:10:04,842
-My freedom was forfe!t long ago.
+My freedom was forfe! t long ago.
 
 1437
 02:10:51,899 --> 02:10:53,230
@@ -6967,7 +6967,7 @@ Is that it?
 
 1597
 02:34:42,061 --> 02:34:43,585
-The <i>Black Pearl?.</i>
+The <i>Black Pearl?</i>
 
 1598
 02:34:44,230 --> 02:34:46,323

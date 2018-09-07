@@ -2,6 +2,7 @@
 filename: "Pirates Of The Caribbean - At World's End (2007).srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "Pirates Of The Caribbean - At World's End (2007).avi"
