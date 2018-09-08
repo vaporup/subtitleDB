@@ -1,0 +1,9 @@
+---
+filename: "Very Bad Things (1998) BluRay 720p 750MB Ganool.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Very Bad Things (1998) BluRay 720p 750MB Ganool.mkv"
+  hash: "67f9e88cab8b216b"
+  filesize: "786343632"
