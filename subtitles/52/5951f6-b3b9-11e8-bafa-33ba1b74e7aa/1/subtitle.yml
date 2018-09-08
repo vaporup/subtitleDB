@@ -1,0 +1,9 @@
+---
+filename: "Wong-Fei-Hung-Zhi-Sei-Wang-Zhe-Zhi-Feng_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Wong-Fei-Hung-Zhi-Sei-Wang-Zhe-Zhi-Feng_CD_1.mkv"
+  hash: "6164c90ab5df2e20"
+  filesize: "733075994"
