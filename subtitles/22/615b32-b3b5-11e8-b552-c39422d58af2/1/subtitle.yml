@@ -1,0 +1,9 @@
+---
+filename: "True.Romance.1993.720p.BrRip.x264.BOKUTOX.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "True.Romance.1993.720p.BrRip.x264.BOKUTOX.YIFY.mp4"
+  hash: "90edf08f80c0301b"
+  filesize: "839867401"
