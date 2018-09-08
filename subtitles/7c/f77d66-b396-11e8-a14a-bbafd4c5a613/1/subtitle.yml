@@ -1,0 +1,9 @@
+---
+filename: "Revenge-Of-The-Pink-Panther.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Revenge-Of-The-Pink-Panther.avi"
+  hash: "55623538ef49746e"
+  filesize: "734312448"
