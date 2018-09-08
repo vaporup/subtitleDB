@@ -192,8 +192,8 @@ got in here first.
 
 46
 00:04:18,706 --> 00:04:21,114
--Did you expect a brass band to meet you?
--No.
+- Did you expect a brass band to meet you?
+- No.
 
 47
 00:04:21,209 --> 00:04:22,537
@@ -258,8 +258,8 @@ l can't just walk out.
 
 61
 00:05:07,463 --> 00:05:10,417
--Even if l could, she doesn't like us--
--All right, look.
+- Even if l could, she doesn't like us--
+- All right, look.
 
 62
 00:05:10,508 --> 00:05:13,213
@@ -289,8 +289,8 @@ So many gentlemen are unattended.
 
 68
 00:05:23,271 --> 00:05:24,895
--lt is such a rush, isn't it?
--Yeah.
+- lt is such a rush, isn't it?
+- Yeah.
 
 69
 00:05:24,981 --> 00:05:28,599
@@ -334,8 +334,8 @@ Stop calling me Lorene! My name's Alma!
 
 78
 00:05:52,091 --> 00:05:53,918
--Alma?
--Yes, Alma Burke!
+- Alma?
+- Yes, Alma Burke!
 
 79
 00:05:54,135 --> 00:05:55,297
@@ -360,13 +360,13 @@ l told Mrs. Kipfer l was sick.
 
 84
 00:06:28,794 --> 00:06:31,630
--But l bet she doesn't believe it.
--l bet she doesn't.
+- But l bet she doesn't believe it.
+- l bet she doesn't.
 
 85
 00:06:31,714 --> 00:06:34,419
--What'll you have?
--A Coke, please.
+- What'll you have?
+- A Coke, please.
 
 86
 00:06:34,592 --> 00:06:36,715
@@ -395,8 +395,8 @@ they really got me on the edge.
 
 92
 00:06:48,189 --> 00:06:51,605
--You must hate the Army.
--No, l don't hate the Army.
+- You must hate the Army.
+- No, l don't hate the Army.
 
 93
 00:06:51,901 --> 00:06:53,692
@@ -702,13 +702,13 @@ Get dressed, put your clothes on.
 
 164
 00:10:36,459 --> 00:10:39,210
--Wait for me? l'll get a cab.
--Yeah, sure.
+- Wait for me? l'll get a cab.
+- Yeah, sure.
 
 165
 00:10:39,295 --> 00:10:41,667
--Will you wait?
--You get a cab.
+- Will you wait?
+- You get a cab.
 
 166
 00:10:57,188 --> 00:11:00,438
@@ -797,8 +797,8 @@ neither can this.
 
 186
 00:12:33,451 --> 00:12:35,776
--Shut up!
--Whatever you say, Brownie.
+- Shut up!
+- Whatever you say, Brownie.
 
 187
 00:12:37,121 --> 00:12:38,781
@@ -824,8 +824,8 @@ even when l'm not here.
 
 192
 00:13:34,387 --> 00:13:35,881
--Hi.
--Hi.
+- Hi.
+- Hi.
 
 193
 00:13:36,556 --> 00:13:38,797
@@ -833,8 +833,8 @@ This is Prew, the soldier l told you about.
 
 194
 00:13:38,975 --> 00:13:41,929
--This is Georgette, my roommate.
--Well, welcome, friend.
+- This is Georgette, my roommate.
+- Well, welcome, friend.
 
 195
 00:13:42,020 --> 00:13:44,724
@@ -929,8 +929,8 @@ the one they passed last May.
 
 216
 00:16:43,076 --> 00:16:46,491
--Once commissioned you go to the States.
--An officer?
+- Once commissioned you go to the States.
+- An officer?
 
 217
 00:16:47,205 --> 00:16:50,656
@@ -966,8 +966,8 @@ we'd be apart six months!
 
 224
 00:17:14,023 --> 00:17:16,811
--We're sure to be into a war--
--Tell the truth.
+- We're sure to be into a war--
+- Tell the truth.
 
 225
 00:17:16,901 --> 00:17:20,945
@@ -998,8 +998,8 @@ Neither have l.
 
 231
 00:17:44,345 --> 00:17:47,679
--l wouldn't trade a minute of it.
--Neither would l.
+- l wouldn't trade a minute of it.
+- Neither would l.
 
 232
 00:17:50,268 --> 00:17:54,846
@@ -1130,8 +1130,8 @@ That ain't the real reason.
 
 261
 00:19:38,626 --> 00:19:41,830
--All right, it's not.
--What is the real reason?
+- All right, it's not.
+- What is the real reason?
 
 262
 00:19:44,215 --> 00:19:48,509
@@ -1413,8 +1413,8 @@ You've got service, experience, grade.
 
 326
 00:24:19,365 --> 00:24:21,986
--You'll make an excellent officer.
--Thank you, sir.
+- You'll make an excellent officer.
+- Thank you, sir.
 
 327
 00:24:22,076 --> 00:24:25,741
@@ -1482,8 +1482,8 @@ Why doesn't that officer stop that fight?
 
 342
 00:26:10,977 --> 00:26:13,550
--What's his name, Major?
--Captain Holmes, sir.
+- What's his name, Major?
+- Captain Holmes, sir.
 
 343
 00:26:42,633 --> 00:26:44,673
@@ -1513,8 +1513,8 @@ Sergeant Galovitch started it.
 
 349
 00:26:58,440 --> 00:26:59,852
--Thornhill?
--Yes, sir.
+- Thornhill?
+- Yes, sir.
 
 350
 00:26:59,942 --> 00:27:02,314
@@ -1745,8 +1745,8 @@ This girl...
 
 404
 00:32:09,752 --> 00:32:11,709
--Become what?
--An officer.
+- Become what?
+- An officer.
 
 405
 00:32:12,088 --> 00:32:14,460
@@ -1835,8 +1835,8 @@ we're sitting here discussing the weather.
 
 425
 00:33:25,912 --> 00:33:28,118
--Your friend, huh?
--You heard me.
+- Your friend, huh?
+- You heard me.
 
 426
 00:33:28,206 --> 00:33:30,661
@@ -1948,8 +1948,8 @@ l had to get out, Prew.
 
 452
 00:34:51,164 --> 00:34:54,449
--They gonna send you to the stockade?
--No, they ain't.
+- They gonna send you to the stockade?
+- No, they ain't.
 
 453
 00:34:54,542 --> 00:34:56,001
@@ -2036,8 +2036,8 @@ The wop? Yeah, real tough monkey.
 
 473
 00:39:08,879 --> 00:39:10,872
--You killed him.
--Did l?
+- You killed him.
+- Did l?
 
 474
 00:39:11,549 --> 00:39:13,257
@@ -2252,8 +2252,8 @@ no man will earn his stripes by boxing.
 
 522
 00:43:55,708 --> 00:43:57,867
--Get rid of those.
--Yes, sir.
+- Get rid of those.
+- Yes, sir.
 
 523
 00:43:58,502 --> 00:43:59,914
@@ -2261,8 +2261,8 @@ Dismissed.
 
 524
 00:44:05,927 --> 00:44:08,215
--About Sergeant Galovitch.
--Yes, sir.
+- About Sergeant Galovitch.
+- Yes, sir.
 
 525
 00:44:08,304 --> 00:44:11,139
@@ -2292,8 +2292,8 @@ Just a minute.
 
 531
 00:44:26,155 --> 00:44:29,109
--lt's for you, Sergeant.
--Thank you, sir.
+- lt's for you, Sergeant.
+- Thank you, sir.
 
 532
 00:44:31,619 --> 00:44:32,948
@@ -2353,8 +2353,8 @@ Why?
 
 545
 00:45:24,172 --> 00:45:26,709
--But it was the plan--
--l know.
+- But it was the plan--
+- l know.
 
 546
 00:45:26,882 --> 00:45:28,341
@@ -2476,8 +2476,8 @@ Good-bye, Sergeant.
 
 574
 00:47:03,438 --> 00:47:05,976
--Thanks.
--lt ain't good-bye, it's<i>....</i>
+- Thanks.
+- lt ain't good-bye, it's<i>....</i>
 
 575
 00:47:07,024 --> 00:47:09,776
@@ -2526,8 +2526,8 @@ To the memory of Robert E. Lee Prewitt...
 
 586
 00:48:13,843 --> 00:48:16,417
--Everything all right, Top?
--Great.
+- Everything all right, Top?
+- Great.
 
 587
 00:48:16,596 --> 00:48:20,131
@@ -2593,8 +2593,8 @@ Get out of here. Hurry up! Go!
 
 601
 00:50:07,833 --> 00:50:09,243
--Quiet down!
--At ease!
+- Quiet down!
+- At ease!
 
 602
 00:50:09,542 --> 00:50:13,492
@@ -2649,13 +2649,13 @@ without a signed order.
 
 613
 00:51:08,643 --> 00:51:11,514
--The Captain ain't here, jerk!
--Sorry. No order, no ammo.
+- The Captain ain't here, jerk!
+- Sorry. No order, no ammo.
 
 614
 00:51:11,604 --> 00:51:13,478
--What's the matter?
--l got my orders!
+- What's the matter?
+- l got my orders!
 
 615
 00:51:13,565 --> 00:51:16,138
@@ -2667,13 +2667,13 @@ You blind? Give me the key!
 
 617
 00:51:22,407 --> 00:51:25,028
--l got to obey orders, Top.
--l'll see you get a medal!
+- l got to obey orders, Top.
+- l'll see you get a medal!
 
 618
 00:51:25,118 --> 00:51:27,656
--Bust it down, boys!
--l warned you!
+- Bust it down, boys!
+- l warned you!
 
 619
 00:51:51,019 --> 00:51:52,928

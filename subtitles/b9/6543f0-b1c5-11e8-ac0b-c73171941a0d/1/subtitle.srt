@@ -20,8 +20,8 @@ Transferred over from Fort Shafter.
 
 6
 00:01:50,369 --> 00:01:52,196
--You quit the Bugle Corps?
--Yup.
+- You quit the Bugle Corps?
+- Yup.
 
 7
 00:01:52,329 --> 00:01:53,658
@@ -57,8 +57,8 @@ What do you think you're doing?
 
 15
 00:02:32,286 --> 00:02:36,498
--What's your name?
--Prewitt. Transfer from Fort Shafter.
+- What's your name?
+- Prewitt. Transfer from Fort Shafter.
 
 16
 00:02:37,625 --> 00:02:38,739
@@ -88,8 +88,8 @@ You put him in the sick book?
 
 22
 00:03:02,441 --> 00:03:05,063
--Didn't have time.
--You're the company clerk, Ma<i>zz</i>ioli.
+- Didn't have time.
+- You're the company clerk, Ma<i>zz</i>ioli.
 
 23
 00:03:05,152 --> 00:03:08,735
@@ -107,8 +107,8 @@ they got over at Shafter.
 
 26
 00:03:19,709 --> 00:03:23,327
--You're the best bugler on this island.
--That's true.
+- You're the best bugler on this island.
+- That's true.
 
 27
 00:03:25,423 --> 00:03:26,833
@@ -129,8 +129,8 @@ At ease.
 
 31
 00:03:41,397 --> 00:03:43,271
--'Morning, sir.
--'Morning, men.
+- 'Morning, sir.
+- 'Morning, men.
 
 32
 00:03:43,357 --> 00:03:45,813
@@ -201,8 +201,8 @@ lt was a personal matter.
 
 47
 00:04:34,283 --> 00:04:37,284
--Something you wanted to ask, Sergeant?
--Why, yes, sir.
+- Something you wanted to ask, Sergeant?
+- Why, yes, sir.
 
 48
 00:04:37,495 --> 00:04:39,783
@@ -271,8 +271,8 @@ maybe an extra one for good measure.
 
 62
 00:05:18,411 --> 00:05:20,699
--Know why you're assigned to G Company?
--No, sir.
+- Know why you're assigned to G Company?
+- No, sir.
 
 63
 00:05:21,080 --> 00:05:24,828
@@ -320,8 +320,8 @@ with Dixie Wells?
 
 73
 00:05:51,861 --> 00:05:54,482
--You mean that fellow that got hurt?
--Yes, sir.
+- You mean that fellow that got hurt?
+- Yes, sir.
 
 74
 00:05:54,572 --> 00:05:56,363
@@ -386,8 +386,8 @@ Company fund report's due tomorrow.
 
 87
 00:06:43,454 --> 00:06:46,123
--You make it out. ls that all?
--No, sir.
+- You make it out. ls that all?
+- No, sir.
 
 88
 00:06:46,207 --> 00:06:48,246
@@ -400,8 +400,8 @@ sign my name.
 
 90
 00:06:51,045 --> 00:06:53,251
--l won't be back.
--Yes, sir.
+- l won't be back.
+- Yes, sir.
 
 91
 00:06:55,174 --> 00:06:59,635
@@ -454,8 +454,8 @@ the Royal Hawaiian Hotel.
 
 102
 00:07:53,858 --> 00:07:56,859
--Who's that?
--She's Captain Holmes' wife.
+- Who's that?
+- She's Captain Holmes' wife.
 
 103
 00:07:58,112 --> 00:08:02,323
@@ -568,8 +568,8 @@ at Fort Bliss, l heard plenty about this lady.
 
 127
 00:09:31,497 --> 00:09:33,240
--You did?
--Okay, not me.
+- You did?
+- Okay, not me.
 
 128
 00:09:33,332 --> 00:09:36,867
@@ -582,8 +582,8 @@ l'm not telling you. You're telling me.
 
 130
 00:09:45,094 --> 00:09:47,252
--Good morning, Sergeant.
--'Morning, ma'am.
+- Good morning, Sergeant.
+- 'Morning, ma'am.
 
 131
 00:09:47,346 --> 00:09:48,509
@@ -664,8 +664,8 @@ Karen?
 
 149
 00:11:01,170 --> 00:11:03,743
--Sorry l'm late.
--lt doesn't matter.
+- Sorry l'm late.
+- lt doesn't matter.
 
 150
 00:11:03,964 --> 00:11:07,748
@@ -700,8 +700,8 @@ and more with your company...
 
 157
 00:11:24,693 --> 00:11:29,237
--...maybe you'd get that promotion.
--The company takes care of itself.
+- ...maybe you'd get that promotion.
+- The company takes care of itself.
 
 158
 00:11:29,323 --> 00:11:32,194
@@ -863,8 +863,8 @@ We're playing pool. Take off.
 
 193
 00:13:55,344 --> 00:13:57,052
--You want busted head, Maggio?
--No.
+- You want busted head, Maggio?
+- No.
 
 194
 00:13:57,138 --> 00:13:59,463
@@ -1211,8 +1211,8 @@ l'll try phoning him at the club.
 
 272
 00:21:08,652 --> 00:21:11,060
--Maybe he's there.
--Don't do that.
+- Maybe he's there.
+- Don't do that.
 
 273
 00:21:12,198 --> 00:21:15,152
@@ -1382,8 +1382,8 @@ l don't know.
 
 312
 00:24:23,556 --> 00:24:25,429
--Speed it up.
--l'm speeding.
+- Speed it up.
+- l'm speeding.
 
 313
 00:24:25,516 --> 00:24:26,891
@@ -1464,8 +1464,8 @@ Hello, Stark.
 
 331
 00:25:45,387 --> 00:25:48,009
--You want some company?
--No, thanks. All tied up.
+- You want some company?
+- No, thanks. All tied up.
 
 332
 00:25:48,390 --> 00:25:52,091
@@ -1517,8 +1517,8 @@ Hello.
 
 343
 00:26:23,300 --> 00:26:27,084
--l didn't think you were coming.
--Why not? l ain't late.
+- l didn't think you were coming.
+- Why not? l ain't late.
 
 344
 00:26:28,556 --> 00:26:30,180
@@ -1531,8 +1531,8 @@ l must have been over-anxious.
 
 346
 00:26:33,394 --> 00:26:37,261
--You weren't, though, were you?
--l stopped along the way for a few drinks.
+- You weren't, though, were you?
+- l stopped along the way for a few drinks.
 
 347
 00:26:37,356 --> 00:26:39,396
@@ -1656,8 +1656,8 @@ she figures he's drunk.
 
 374
 00:28:47,903 --> 00:28:50,525
--You know why?
--Because he is.
+- You know why?
+- Because he is.
 
 375
 00:28:50,739 --> 00:28:54,108
@@ -1732,8 +1732,8 @@ This is Billie, Jean and Nancy.
 
 391
 00:30:03,604 --> 00:30:05,229
--Nice meeting you.
--Hi, there.
+- Nice meeting you.
+- Hi, there.
 
 392
 00:30:13,322 --> 00:30:16,240
@@ -1749,8 +1749,8 @@ Hello, there.
 
 395
 00:30:22,748 --> 00:30:25,583
--Would you like to dance, honey?
--Hey!
+- Would you like to dance, honey?
+- Hey!
 
 396
 00:30:29,630 --> 00:30:31,373
@@ -1809,8 +1809,8 @@ What do you mean?
 
 409
 00:31:16,468 --> 00:31:19,042
--Well, l--
--l'm a 30-year man, in for the whole ride.
+- Well, l--
+- l'm a 30-year man, in for the whole ride.
 
 410
 00:31:20,473 --> 00:31:23,473
@@ -1863,8 +1863,8 @@ You must be in a hurry for trouble, wop.
 
 421
 00:31:52,338 --> 00:31:55,541
--Wait right here for me, will you?
--Yeah, sure.
+- Wait right here for me, will you?
+- Yeah, sure.
 
 422
 00:31:56,842 --> 00:31:57,874
@@ -1872,13 +1872,13 @@ l will not have this.
 
 423
 00:31:57,968 --> 00:32:02,013
--Mussolini's telling me how to play.
--Busting my eardrums with his noise!
+- Mussolini's telling me how to play.
+- Busting my eardrums with his noise!
 
 424
 00:32:02,098 --> 00:32:03,592
--Let's not be cruel.
--Break it up.
+- Let's not be cruel.
+- Break it up.
 
 425
 00:32:03,682 --> 00:32:05,556
@@ -1890,8 +1890,8 @@ Only my friends call me ''wop''!
 
 427
 00:32:08,812 --> 00:32:10,770
--You know who that guy is?
--What do l care?
+- You know who that guy is?
+- What do l care?
 
 428
 00:32:10,856 --> 00:32:11,888
@@ -1978,18 +1978,18 @@ Yeah, but we got mountains.
 
 447
 00:33:10,207 --> 00:33:12,994
--Know anything about mountain climbing?
--A little bit.
+- Know anything about mountain climbing?
+- A little bit.
 
 448
 00:33:13,127 --> 00:33:15,250
--You a mountain climber?
--No.
+- You a mountain climber?
+- No.
 
 449
 00:33:15,379 --> 00:33:18,084
--Know about flying a plane?
--l've had a few lessons.
+- Know about flying a plane?
+- l've had a few lessons.
 
 450
 00:33:18,174 --> 00:33:19,798
@@ -2010,8 +2010,8 @@ to have gotten lousy, hasn't it?
 
 454
 00:33:29,477 --> 00:33:31,386
--l noticed that.
--Listen, fella.
+- l noticed that.
+- Listen, fella.
 
 455
 00:33:31,479 --> 00:33:33,222
@@ -2075,8 +2075,8 @@ l'll go ask her.
 
 469
 00:35:21,797 --> 00:35:23,790
--Then you're not mad?
--No, l'm not mad.
+- Then you're not mad?
+- No, l'm not mad.
 
 470
 00:35:23,883 --> 00:35:28,212
@@ -2122,8 +2122,8 @@ l wouldn't know.
 
 480
 00:36:30,741 --> 00:36:34,075
--Can't you give me a rough estimate?
--Not without an adding machine.
+- Can't you give me a rough estimate?
+- Not without an adding machine.
 
 481
 00:36:34,161 --> 00:36:36,035
@@ -2771,8 +2771,8 @@ to Kole Kole Pass and back.
 
 631
 00:47:25,980 --> 00:47:28,186
--Then bring him to me.
--Yes, sir.
+- Then bring him to me.
+- Yes, sir.
 
 632
 00:47:28,274 --> 00:47:29,982
@@ -2936,8 +2936,8 @@ You'll never make it.
 
 669
 00:50:22,907 --> 00:50:24,816
--Hi, Sarge.
--Hi, Top.
+- Hi, Sarge.
+- Hi, Top.
 
 670
 00:50:37,213 --> 00:50:39,252
@@ -3050,8 +3050,8 @@ a month already.
 
 695
 00:51:55,249 --> 00:51:57,040
--l can't see why you--
--Can't you, Pete?
+- l can't see why you--
+- Can't you, Pete?
 
 696
 00:51:57,459 --> 00:52:00,663
@@ -3060,8 +3060,8 @@ Maybe l want to teach him a lesson.
 
 697
 00:52:00,754 --> 00:52:02,877
--Maybe you like it.
--Maybe l do.
+- Maybe you like it.
+- Maybe l do.
 
 698
 00:52:03,174 --> 00:52:06,459
@@ -3185,8 +3185,8 @@ l never saw anyone so stubborn.
 
 724
 00:53:50,114 --> 00:53:53,447
--How long since they let you go into town?
--Six weeks.
+- How long since they let you go into town?
+- Six weeks.
 
 725
 00:53:53,534 --> 00:53:54,697

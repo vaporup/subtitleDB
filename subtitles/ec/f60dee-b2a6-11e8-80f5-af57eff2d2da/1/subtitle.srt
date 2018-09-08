@@ -89,13 +89,13 @@ begun that oil-shale analysis for Roger.
 
 20
 00:04:00,205 --> 00:04:02,799
--Shall l continue?
--What oil-shale analysis?
+- Shall l continue?
+- What oil-shale analysis?
 
 21
 00:04:02,965 --> 00:04:06,275
--You are here.
--Roger. Come on in.
+- You are here.
+- Roger. Come on in.
 
 22
 00:04:06,605 --> 00:04:10,598
@@ -129,8 +129,8 @@ In fact, take the rest of the day off.
 
 28
 00:04:31,085 --> 00:04:33,474
--I'm going to my club.
--What?
+- I'm going to my club.
+- What?
 
 29
 00:04:33,685 --> 00:04:37,439
@@ -139,18 +139,18 @@ A car will be at your apartment at 7:30.
 
 30
 00:04:37,605 --> 00:04:41,962
--You promised Kaplan you'd cover for him.
--How will l get through this? You go.
+- You promised Kaplan you'd cover for him.
+- How will l get through this? You go.
 
 31
 00:04:42,125 --> 00:04:44,685
--You gave him your word.
--I was drunk.
+- You gave him your word.
+- I was drunk.
 
 32
 00:04:44,845 --> 00:04:47,234
--Get Moynihan to cover.
--You're committed.
+- Get Moynihan to cover.
+- You're committed.
 
 33
 00:04:47,405 --> 00:04:51,080
@@ -226,8 +226,8 @@ Just pretend you don't see.
 
 48
 00:05:44,525 --> 00:05:47,244
--Thanks, Patrick.
--Hi, Nick.
+- Thanks, Patrick.
+- Hi, Nick.
 
 49
 00:05:48,045 --> 00:05:50,275
@@ -236,8 +236,8 @@ How's the spastic colon?
 
 50
 00:05:50,445 --> 00:05:53,278
--What you doing?
--Oh, writing my resignation.
+- What you doing?
+- Oh, writing my resignation.
 
 51
 00:05:53,445 --> 00:05:56,118
@@ -256,8 +256,8 @@ I'm here with some of the gang.
 
 54
 00:06:02,245 --> 00:06:06,921
--No, l can't tonight.
--Come on. Come on, one drink, all right?
+- No, l can't tonight.
+- Come on. Come on, one drink, all right?
 
 55
 00:06:07,085 --> 00:06:08,996
@@ -270,8 +270,8 @@ from Cornell, back from Brazil.
 
 57
 00:06:12,965 --> 00:06:17,197
--I've got an early morning. I can't--
--Before you bail, just have a look.
+- I've got an early morning. I can't--
+- Before you bail, just have a look.
 
 58
 00:06:25,485 --> 00:06:27,396
@@ -279,13 +279,13 @@ Well, maybe for a minute.
 
 59
 00:06:28,485 --> 00:06:30,874
--You know everybody, don't you?
--Hi, Ellen.
+- You know everybody, don't you?
+- Hi, Ellen.
 
 60
 00:06:31,045 --> 00:06:33,320
--Hi, Nick.
--Oh, Alice Monroe.
+- Hi, Nick.
+- Oh, Alice Monroe.
 
 61
 00:06:33,485 --> 00:06:36,204
@@ -294,18 +294,18 @@ This is Alice.
 
 62
 00:06:36,365 --> 00:06:38,003
--Hi, Nick.
--Nice to meet you.
+- Hi, Nick.
+- Nice to meet you.
 
 63
 00:06:38,165 --> 00:06:41,043
--Where have you been hiding?
--Where have you been?
+- Where have you been hiding?
+- Where have you been?
 
 64
 00:06:41,205 --> 00:06:43,594
--You got a haircut. Looks good.
--Like this?
+- You got a haircut. Looks good.
+- Like this?
 
 65
 00:06:43,765 --> 00:06:45,721
@@ -351,8 +351,8 @@ It just wasn't for me.
 
 74
 00:07:12,925 --> 00:07:17,237
--It'll be lndiana/UNLV. Maybe Arkansas.
--Carolina.
+- It'll be lndiana/UNLV. Maybe Arkansas.
+- Carolina.
 
 75
 00:07:17,405 --> 00:07:19,839
@@ -361,8 +361,8 @@ Raise money?
 
 76
 00:07:20,005 --> 00:07:22,280
--Your firm represented someone?
--No, l quit.
+- Your firm represented someone?
+- No, l quit.
 
 77
 00:07:22,445 --> 00:07:26,438
@@ -371,8 +371,8 @@ for a public television station.
 
 78
 00:07:26,605 --> 00:07:30,280
--Next thing you know, l'm in the jungle.
--I think it's gonna be UNLV.
+- Next thing you know, l'm in the jungle.
+- I think it's gonna be UNLV.
 
 79
 00:07:30,445 --> 00:07:32,515
@@ -398,23 +398,23 @@ I think Seton Hall will go all the way.
 
 84
 00:07:55,525 --> 00:07:58,756
--I hate TV.
--Me too.
+- I hate TV.
+- Me too.
 
 85
 00:07:59,045 --> 00:08:02,720
--I like music.
--I love jazz.
+- I like music.
+- I love jazz.
 
 86
 00:08:03,365 --> 00:08:07,643
--I hate weight lifters.
--Narcissists.
+- I hate weight lifters.
+- Narcissists.
 
 87
 00:08:08,165 --> 00:08:14,274
--Love skiing.
--Love the ocean and the woods.
+- Love skiing.
+- Love the ocean and the woods.
 
 88
 00:08:15,285 --> 00:08:17,560
@@ -430,13 +430,13 @@ Nick.
 
 91
 00:08:33,005 --> 00:08:36,634
--What are we doing?
--I hope it's foreplay.
+- What are we doing?
+- I hope it's foreplay.
 
 92
 00:08:39,925 --> 00:08:43,713
--We should get back.
--Yeah. Yeah. We should get back.
+- We should get back.
+- Yeah. Yeah. We should get back.
 
 93
 00:08:45,885 --> 00:08:48,558
@@ -453,23 +453,23 @@ You couldn't afford it.
 
 96
 00:09:17,565 --> 00:09:19,317
--Ciao.
--Nice to have you back.
+- Ciao.
+- Nice to have you back.
 
 97
 00:09:19,485 --> 00:09:21,794
--Thanks, George.
--See you soon.
+- Thanks, George.
+- See you soon.
 
 98
 00:09:21,965 --> 00:09:25,196
--Making an early night, Nick?
--I thought we were having dinner.
+- Making an early night, Nick?
+- I thought we were having dinner.
 
 99
 00:09:25,365 --> 00:09:29,074
--I promised l'd meet somebody.
--Really? Maybe l'd better drop you.
+- I promised l'd meet somebody.
+- Really? Maybe l'd better drop you.
 
 100
 00:09:29,245 --> 00:09:33,363
@@ -492,8 +492,8 @@ You're kidding.
 
 104
 00:09:44,165 --> 00:09:47,077
--I thought you were putting them on.
--No.
+- I thought you were putting them on.
+- No.
 
 105
 00:09:47,245 --> 00:09:50,123
@@ -514,8 +514,8 @@ You're right.
 
 109
 00:09:59,045 --> 00:10:02,799
--Am l gonna regret meeting you?
--You already do.
+- Am l gonna regret meeting you?
+- You already do.
 
 110
 00:10:08,925 --> 00:10:11,200
@@ -596,8 +596,8 @@ of the force in our magnetic field. . .
 
 126
 00:11:30,405 --> 00:11:33,636
--. . .may temporarily convert the. . . .
--Fifteen minutes in. . .
+- . . .may temporarily convert the. . . .
+- Fifteen minutes in. . .
 
 127
 00:11:33,805 --> 00:11:39,323
@@ -619,8 +619,8 @@ Yes. Just down the hall there.
 
 131
 00:12:07,485 --> 00:12:09,919
--Oh, shoot!
--Thank you.
+- Oh, shoot!
+- Thank you.
 
 132
 00:12:24,205 --> 00:12:25,797
@@ -719,8 +719,8 @@ in Santa Mira. We need you in California.
 
 152
 00:14:49,405 --> 00:14:51,236
--Read this.
--What is it?
+- Read this.
+- What is it?
 
 153
 00:14:51,405 --> 00:14:54,636
@@ -921,8 +921,8 @@ Jesus, what have they done to me?
 
 196
 00:18:54,045 --> 00:18:56,240
--Maybe he's dead.
--No, he's breathing.
+- Maybe he's dead.
+- No, he's breathing.
 
 197
 00:18:56,405 --> 00:18:59,044
@@ -951,8 +951,8 @@ up his ass for years.
 
 202
 00:19:13,485 --> 00:19:16,955
--What?
--Keep your mouths shut. All of you.
+- What?
+- Keep your mouths shut. All of you.
 
 203
 00:19:17,125 --> 00:19:19,844
@@ -965,8 +965,8 @@ Why can't l see myself?
 
 205
 00:19:22,205 --> 00:19:24,958
--Let's get him to the trailer fast.
--No!
+- Let's get him to the trailer fast.
+- No!
 
 206
 00:19:26,525 --> 00:19:28,436
@@ -1021,8 +1021,8 @@ Stop doing that!
 
 217
 00:20:08,445 --> 00:20:11,084
--I want to call my lawyer.
--Now, listen to me.
+- I want to call my lawyer.
+- Now, listen to me.
 
 218
 00:20:12,045 --> 00:20:15,833
@@ -1036,8 +1036,8 @@ you're gonna have to trust us.
 
 220
 00:20:19,805 --> 00:20:23,241
--We're a team of scientists--
--I don't believe you!
+- We're a team of scientists--
+- I don't believe you!
 
 221
 00:20:29,085 --> 00:20:31,394
@@ -1075,8 +1075,8 @@ I think you can understand that.
 
 228
 00:20:58,565 --> 00:21:01,796
--Harvey?
--Yeah.
+- Harvey?
+- Yeah.
 
 229
 00:21:07,325 --> 00:21:09,077
@@ -1089,8 +1089,8 @@ It's going! Take cover!
 
 231
 00:21:22,925 --> 00:21:25,075
--It's gonna blow!
--Don't look at it!
+- It's gonna blow!
+- Don't look at it!
 
 232
 00:21:25,245 --> 00:21:27,395
@@ -1202,8 +1202,8 @@ Excuse me. Is this a cab?
 
 256
 00:24:34,445 --> 00:24:39,883
--Did you say something?
--Yes. Sacramento and Powell.
+- Did you say something?
+- Yes. Sacramento and Powell.
 
 257
 00:24:51,245 --> 00:24:54,396
@@ -1211,8 +1211,8 @@ Hey, could you pull over here?
 
 258
 00:25:17,325 --> 00:25:23,116
--Oh, God.
--Oh, l'm sorry. Oh, God.
+- Oh, God.
+- Oh, l'm sorry. Oh, God.
 
 259
 00:25:26,525 --> 00:25:28,356
@@ -1248,8 +1248,8 @@ that made him apprehensive.
 
 266
 00:26:37,485 --> 00:26:41,444
--The explosion might have frightened him.
--Anything could happen to him.
+- The explosion might have frightened him.
+- Anything could happen to him.
 
 267
 00:26:41,605 --> 00:26:43,516
@@ -1266,8 +1266,8 @@ I don't think you want to do that.
 
 270
 00:26:56,845 --> 00:27:00,121
--What do you mean?
--Show him the data. Give him anything. . .
+- What do you mean?
+- Show him the data. Give him anything. . .
 
 271
 00:27:00,285 --> 00:27:05,723
@@ -1375,8 +1375,8 @@ and no risk of contamination. "
 
 293
 00:28:24,965 --> 00:28:27,354
--No inJuries were reported.
--Bullshit.
+- No inJuries were reported.
+- Bullshit.
 
 294
 00:28:27,525 --> 00:28:31,438
@@ -1399,8 +1399,8 @@ Oh, Jesus.
 
 298
 00:28:58,045 --> 00:29:01,117
--What happened?
--Where have you been?
+- What happened?
+- Where have you been?
 
 299
 00:29:01,285 --> 00:29:04,277
@@ -1427,8 +1427,8 @@ I was as transparent as ever.
 
 304
 00:29:15,005 --> 00:29:18,202
--Oh, shit.
--Nick. Nick.
+- Oh, shit.
+- Nick. Nick.
 
 305
 00:29:18,365 --> 00:29:20,083
@@ -1436,8 +1436,8 @@ I'm here.
 
 306
 00:29:21,605 --> 00:29:23,960
--Sort of.
--So, what happened out there?
+- Sort of.
+- So, what happened out there?
 
 307
 00:29:25,325 --> 00:29:29,159
@@ -1456,8 +1456,8 @@ all my appointments for Monday.
 
 310
 00:29:39,685 --> 00:29:42,279
--Thanks, Cathy. Bye.
--Bye.
+- Thanks, Cathy. Bye.
+- Bye.
 
 311
 00:29:43,885 --> 00:29:45,955
@@ -1526,13 +1526,13 @@ but l know he wants to talk to you.
 
 325
 00:30:35,765 --> 00:30:39,394
--He does?
--Are you in trouble with the government?
+- He does?
+- Are you in trouble with the government?
 
 326
 00:30:39,565 --> 00:30:42,557
--Why would l be?
--That's what Mr. Cebron asked...
+- Why would l be?
+- That's what Mr. Cebron asked...
 
 327
 00:30:42,725 --> 00:30:45,797
@@ -1545,8 +1545,8 @@ Robin, they're paging my flight.
 
 329
 00:30:51,405 --> 00:30:54,522
--Tell him l'll call him when l get to Dallas.
--Dallas?
+- Tell him l'll call him when l get to Dallas.
+- Dallas?
 
 330
 00:30:56,085 --> 00:31:00,601
@@ -1577,33 +1577,33 @@ Zebra Team standing by.
 
 336
 00:31:55,725 --> 00:31:57,078
--Alpha?
--Ready.
+- Alpha?
+- Ready.
 
 337
 00:31:57,245 --> 00:31:58,473
--Delta?
--In place.
+- Delta?
+- In place.
 
 338
 00:31:59,405 --> 00:32:00,963
--Baker Team?
--Set up.
+- Baker Team?
+- Set up.
 
 339
 00:32:01,125 --> 00:32:03,719
--You've got a green light.
--Let's take this asshole.
+- You've got a green light.
+- Let's take this asshole.
 
 340
 00:32:45,965 --> 00:32:49,275
--This is Jenkins. I'm at the front door.
--Shit.
+- This is Jenkins. I'm at the front door.
+- Shit.
 
 341
 00:32:49,445 --> 00:32:51,879
--Give me the status on the roof.
--No movement yet.
+- Give me the status on the roof.
+- No movement yet.
 
 342
 00:32:54,285 --> 00:32:56,719
@@ -1611,8 +1611,8 @@ Come on, come on, come on.
 
 343
 00:33:07,885 --> 00:33:10,035
--Is it all right to open up?
--Yes, ma'am.
+- Is it all right to open up?
+- Yes, ma'am.
 
 344
 00:33:10,205 --> 00:33:12,594
@@ -1650,13 +1650,13 @@ Mr. McCaren, you all right, sir?
 
 352
 00:34:05,325 --> 00:34:08,840
--What happened?
--I think something hit me.
+- What happened?
+- I think something hit me.
 
 353
 00:34:09,005 --> 00:34:12,122
--What was it? You sure you're okay?
--My back.
+- What was it? You sure you're okay?
+- My back.
 
 354
 00:34:13,445 --> 00:34:15,037
@@ -1790,8 +1790,8 @@ l was inside when it happened.
 
 382
 00:37:04,565 --> 00:37:08,240
--I beg your pardon?
--Give me a dollar. They could be watching.
+- I beg your pardon?
+- Give me a dollar. They could be watching.
 
 383
 00:37:08,925 --> 00:37:11,564
@@ -1800,13 +1800,13 @@ mean anything to you?
 
 384
 00:37:16,965 --> 00:37:21,243
--Where's the professor?
--In the park, taking a stroll.
+- Where's the professor?
+- In the park, taking a stroll.
 
 385
 00:37:29,725 --> 00:37:32,159
--Come on, will you? We're gonna lose him.
--Relax.
+- Come on, will you? We're gonna lose him.
+- Relax.
 
 386
 00:37:32,565 --> 00:37:37,639
@@ -1820,8 +1820,8 @@ show me the rest.
 
 388
 00:37:39,645 --> 00:37:42,443
--Trust me. It's all the same.
--Oh, dear God.
+- Trust me. It's all the same.
+- Oh, dear God.
 
 389
 00:37:42,605 --> 00:37:44,994
@@ -1845,8 +1845,8 @@ invisibility. This was a random reaction.
 
 393
 00:37:56,805 --> 00:37:58,921
--Don't say this.
--What are you doing here?
+- Don't say this.
+- What are you doing here?
 
 394
 00:37:59,085 --> 00:38:01,201
@@ -1865,8 +1865,8 @@ That's not good enough!
 
 397
 00:38:08,405 --> 00:38:11,158
--You gotta help me now!
--It's gonna take time.
+- You gotta help me now!
+- It's gonna take time.
 
 398
 00:38:11,325 --> 00:38:15,398
@@ -1879,8 +1879,8 @@ It's him.
 
 400
 00:38:21,285 --> 00:38:22,798
--You gotta turn me back.
--No!
+- You gotta turn me back.
+- No!
 
 401
 00:38:24,845 --> 00:38:26,836
@@ -1916,8 +1916,8 @@ Mr. Halloway's out sick.
 
 408
 00:39:28,285 --> 00:39:30,753
--I hope it's nothing serious.
--No, it's the flu.
+- I hope it's nothing serious.
+- No, it's the flu.
 
 409
 00:39:30,925 --> 00:39:33,120
@@ -1931,13 +1931,13 @@ Yeah. It's Alice Monroe.
 
 411
 00:39:38,445 --> 00:39:39,434
--Sure.
--Thanks.
+- Sure.
+- Thanks.
 
 412
 00:39:39,605 --> 00:39:41,323
--Bye.
--Bye.
+- Bye.
+- Bye.
 
 413
 00:39:43,405 --> 00:39:48,115
@@ -1951,13 +1951,13 @@ of theoretical physics, a member. . .
 
 415
 00:39:54,125 --> 00:39:57,640
--. . .of the National Academy of Science!
--Shut up!
+- . . .of the National Academy of Science!
+- Shut up!
 
 416
 00:39:57,805 --> 00:40:02,117
--I'll ask again. Where is he?
--I've already told you, l don't know.
+- I'll ask again. Where is he?
+- I've already told you, l don't know.
 
 417
 00:40:02,285 --> 00:40:04,674
@@ -2009,8 +2009,8 @@ I want to find him too. . .
 
 427
 00:40:39,885 --> 00:40:43,764
--Take off your jacket.
--Why? What are you gonna do?
+- Take off your jacket.
+- Why? What are you gonna do?
 
 428
 00:40:43,925 --> 00:40:47,395
@@ -2024,13 +2024,13 @@ I said, make a fist.
 
 430
 00:40:50,405 --> 00:40:53,363
--Let me know when he's ready.
--Why are you doing this to me?
+- Let me know when he's ready.
+- Why are you doing this to me?
 
 431
 00:40:53,525 --> 00:40:57,962
--All l know is that he exists.
--And that's already too much.
+- All l know is that he exists.
+- And that's already too much.
 
 432
 00:40:58,805 --> 00:41:02,161
@@ -2097,8 +2097,8 @@ Welcome, Nick.
 
 445
 00:42:18,885 --> 00:42:21,843
--Oh, Nick. Hi.
--Hello, Nick.
+- Oh, Nick. Hi.
+- Hello, Nick.
 
 446
 00:42:22,005 --> 00:42:24,644
@@ -2115,8 +2115,8 @@ Hi, Nick.
 
 449
 00:42:30,885 --> 00:42:34,116
--Nick, you charmer.
--Right this way.
+- Nick, you charmer.
+- Right this way.
 
 450
 00:43:25,845 --> 00:43:27,403
@@ -2134,8 +2134,8 @@ my condition and use it to my advantage.
 
 453
 00:44:15,805 --> 00:44:17,955
--Who's up?
--Vinny's up. Sit down and deal.
+- Who's up?
+- Vinny's up. Sit down and deal.
 
 454
 00:44:18,125 --> 00:44:20,685
@@ -2187,8 +2187,8 @@ with surveillance reports.
 
 464
 00:45:35,285 --> 00:45:37,924
--Comments?
--Okay, phone calls. . . .
+- Comments?
+- Okay, phone calls. . . .
 
 465
 00:46:31,021 --> 00:46:32,420
@@ -2244,8 +2244,8 @@ A circus attraction.
 
 476
 00:47:26,781 --> 00:47:29,454
--Now, l told you. It all comes back to me.
--Bullshit.
+- Now, l told you. It all comes back to me.
+- Bullshit.
 
 477
 00:47:31,021 --> 00:47:33,535
@@ -2283,8 +2283,8 @@ Listen to what we're offering you.
 
 484
 00:48:01,061 --> 00:48:05,976
--In exchange for what?
--For your services to your country.
+- In exchange for what?
+- For your services to your country.
 
 485
 00:48:06,661 --> 00:48:11,530
@@ -2365,8 +2365,8 @@ I'll kill him. I swear to God.
 
 501
 00:49:33,301 --> 00:49:36,850
--Back off.
--Do what he says.
+- Back off.
+- Do what he says.
 
 502
 00:49:39,141 --> 00:49:40,540
@@ -2402,8 +2402,8 @@ Yeah, we can go to Frontierland.
 
 509
 00:50:17,261 --> 00:50:20,059
--See you, Dave.
--Oh, Nick--
+- See you, Dave.
+- Oh, Nick--
 
 510
 00:50:29,181 --> 00:50:30,580
@@ -2502,8 +2502,8 @@ go underground.
 
 530
 00:52:52,701 --> 00:52:53,895
--Morning.
--Morning.
+- Morning.
+- Morning.
 
 531
 00:52:54,061 --> 00:52:57,497
@@ -2546,13 +2546,13 @@ to get away.
 
 539
 00:53:31,101 --> 00:53:33,899
--Recharge the batteries.
--If you can get here.
+- Recharge the batteries.
+- If you can get here.
 
 540
 00:53:34,061 --> 00:53:37,417
--We got here, didn't we?
--Yeah, we did, but that traffic. . . .
+- We got here, didn't we?
+- Yeah, we did, but that traffic. . . .
 
 541
 00:53:37,781 --> 00:53:39,339
@@ -2570,8 +2570,8 @@ What are you doing here?
 
 544
 00:53:49,661 --> 00:53:53,176
--Just forget it. We're here, all right?
--That's what l said.
+- Just forget it. We're here, all right?
+- That's what l said.
 
 545
 00:53:53,341 --> 00:53:57,971
@@ -2603,13 +2603,13 @@ It smells like somebody had a fire.
 
 551
 00:54:22,701 --> 00:54:26,057
--Subletting to someone?
--What the hell is going on?
+- Subletting to someone?
+- What the hell is going on?
 
 552
 00:54:26,221 --> 00:54:31,011
--I haven't been here since January.
--I think we should have a look around.
+- I haven't been here since January.
+- I think we should have a look around.
 
 553
 00:54:32,381 --> 00:54:34,531
@@ -2626,8 +2626,8 @@ wearing my clothes!
 
 556
 00:54:59,341 --> 00:55:02,014
--This is certainly peculiar.
--What?
+- This is certainly peculiar.
+- What?
 
 557
 00:55:02,181 --> 00:55:06,094
@@ -2727,8 +2727,8 @@ to shack up with somebody's wife.
 
 577
 00:56:13,341 --> 00:56:17,573
--If that's all it was, he'd have called me.
--Why don't we just change the subject?
+- If that's all it was, he'd have called me.
+- Why don't we just change the subject?
 
 578
 00:56:17,741 --> 00:56:21,416
@@ -2827,18 +2827,18 @@ Losing weight, Richard?
 
 598
 00:57:41,901 --> 00:57:46,179
--So much for my good friends.
--Ellen, you wanna get the lights, please?
+- So much for my good friends.
+- Ellen, you wanna get the lights, please?
 
 599
 00:57:48,221 --> 00:57:50,940
--Night.
--Good night, you two.
+- Night.
+- Good night, you two.
 
 600
 00:57:52,381 --> 00:57:57,409
--Well, l'm not really that tired, are you?
--Yeah. I'm exhausted.
+- Well, l'm not really that tired, are you?
+- Yeah. I'm exhausted.
 
 601
 00:57:57,581 --> 00:58:01,494
@@ -2869,8 +2869,8 @@ Yes.
 
 607
 00:58:31,421 --> 00:58:35,812
--What is it?
--I was saving this till l sold my novel.
+- What is it?
+- I was saving this till l sold my novel.
 
 608
 00:58:36,341 --> 00:58:38,536
@@ -2901,8 +2901,8 @@ l meet. You don't seem. . .
 
 614
 00:59:00,141 --> 00:59:02,780
--. . .caught up in the bullshit.
--Not yet anyway.
+- . . .caught up in the bullshit.
+- Not yet anyway.
 
 615
 00:59:04,901 --> 00:59:06,459
@@ -2939,8 +2939,8 @@ I'm sure it's what's best for her.
 
 623
 00:59:39,421 --> 00:59:41,173
--And you.
--I need you!
+- And you.
+- I need you!
 
 624
 00:59:41,341 --> 00:59:42,456
@@ -2970,13 +2970,13 @@ that we were. . . .
 
 630
 01:00:00,861 --> 01:00:03,250
--This is awkward.
--Just forget it happened.
+- This is awkward.
+- Just forget it happened.
 
 631
 01:00:03,421 --> 01:00:06,970
--Don't tell anybody l cried, okay?
--Okay.
+- Don't tell anybody l cried, okay?
+- Okay.
 
 632
 01:00:07,541 --> 01:00:09,099
@@ -3010,8 +3010,8 @@ Yeah. Got it.
 
 639
 01:00:45,701 --> 01:00:47,419
--Wait a minute, George.
--What?
+- Wait a minute, George.
+- What?
 
 640
 01:00:47,581 --> 01:00:51,051
@@ -3034,8 +3034,8 @@ Wait a minute. No, George. . . .
 
 644
 01:01:01,661 --> 01:01:03,140
--Oh, l'm sorry.
--God.
+- Oh, l'm sorry.
+- God.
 
 645
 01:01:03,301 --> 01:01:05,053
@@ -3072,8 +3072,8 @@ Hello?
 
 653
 01:01:42,101 --> 01:01:44,171
--Alice?
--Yes.
+- Alice?
+- Yes.
 
 654
 01:01:44,341 --> 01:01:45,979
@@ -3136,8 +3136,8 @@ It's me, Nick.
 
 668
 01:03:13,821 --> 01:03:17,496
--Were you in an accident?
--Yeah.
+- Were you in an accident?
+- Yeah.
 
 669
 01:03:18,101 --> 01:03:20,854
@@ -3178,8 +3178,8 @@ into another fiasco. . .
 
 677
 01:04:03,981 --> 01:04:06,859
--. . .Iike you did in lran.
--I'm getting the job done.
+- . . .Iike you did in lran.
+- I'm getting the job done.
 
 678
 01:04:07,021 --> 01:04:09,740
@@ -3193,8 +3193,8 @@ in Washington two days ago.
 
 680
 01:04:13,981 --> 01:04:16,370
--Where the hell is he?
--Wachs is sequestered.
+- Where the hell is he?
+- Wachs is sequestered.
 
 681
 01:04:16,541 --> 01:04:20,853
@@ -3211,18 +3211,18 @@ All right. When do l get him?
 
 684
 01:04:26,021 --> 01:04:27,454
--When l'm convinced.
--No.
+- When l'm convinced.
+- No.
 
 685
 01:04:27,621 --> 01:04:32,570
--When do l get the invisible man?
--He may be here still, but l doubt it.
+- When do l get the invisible man?
+- He may be here still, but l doubt it.
 
 686
 01:04:32,741 --> 01:04:36,450
--I'll get him soon. Very soon.
--I hope so. It's my ass on the line.
+- I'll get him soon. Very soon.
+- I hope so. It's my ass on the line.
 
 687
 01:04:36,621 --> 01:04:40,694
@@ -3350,8 +3350,8 @@ shares of a stock called Allied Resources.
 
 714
 01:06:42,301 --> 01:06:46,817
--Having seconds?
--Yeah. I suddenly got hungry again.
+- Having seconds?
+- Yeah. I suddenly got hungry again.
 
 715
 01:06:47,301 --> 01:06:50,452
@@ -3405,8 +3405,8 @@ You mean last night, in this room?
 
 726
 01:07:29,581 --> 01:07:33,938
--Nothing would have happened, you know.
--Oh, hey, l know that.
+- Nothing would have happened, you know.
+- Oh, hey, l know that.
 
 727
 01:07:34,301 --> 01:07:36,371
@@ -3432,8 +3432,8 @@ This has been a terrific weekend.
 
 732
 01:07:57,821 --> 01:08:01,416
--I'm glad at least you got laid.
--Well, it was only Ellen.
+- I'm glad at least you got laid.
+- Well, it was only Ellen.
 
 733
 01:08:03,101 --> 01:08:05,456
@@ -3505,8 +3505,8 @@ No, he's not dead. He's on a binge.
 
 748
 01:08:55,261 --> 01:08:57,900
--This is ridiculous.
--No, it is not.
+- This is ridiculous.
+- No, it is not.
 
 749
 01:08:58,061 --> 01:09:00,495
@@ -3630,8 +3630,8 @@ hang around ladies' locker rooms.
 
 776
 01:10:55,421 --> 01:10:59,300
--Go naked anytime you want.
--Almost have to now.
+- Go naked anytime you want.
+- Almost have to now.
 
 777
 01:10:59,461 --> 01:11:04,012
@@ -3702,8 +3702,8 @@ are on the corner of the couch.
 
 792
 01:12:32,861 --> 01:12:35,978
--Where are we going?
--Far away. Fast.
+- Where are we going?
+- Far away. Fast.
 
 793
 01:13:04,981 --> 01:13:07,051
@@ -3716,8 +3716,8 @@ of train number seven....
 
 795
 01:13:29,301 --> 01:13:31,974
--Nick?
--I'm here.
+- Nick?
+- I'm here.
 
 796
 01:13:37,341 --> 01:13:40,731
@@ -3810,8 +3810,8 @@ like him a lot. . .
 
 816
 01:15:19,901 --> 01:15:22,938
--Are you a Catholic?
--No.
+- Are you a Catholic?
+- No.
 
 817
 01:15:23,101 --> 01:15:25,331
@@ -3896,8 +3896,8 @@ Nick?
 
 836
 01:17:35,381 --> 01:17:37,611
--You asleep?
--No.
+- You asleep?
+- No.
 
 837
 01:17:39,301 --> 01:17:42,259
@@ -3948,8 +3948,8 @@ Run!
 
 848
 01:19:01,341 --> 01:19:03,730
--Run!
--Halloway!
+- Run!
+- Halloway!
 
 849
 01:19:05,141 --> 01:19:06,620
@@ -4107,13 +4107,13 @@ Let's go.
 
 883
 01:21:58,901 --> 01:22:02,610
--I presume you've seen this.
--He's outside. We're five seconds away.
+- I presume you've seen this.
+- He's outside. We're five seconds away.
 
 884
 01:22:02,781 --> 01:22:05,932
--You murdered Wachs?
--He's holding me against my will.
+- You murdered Wachs?
+- He's holding me against my will.
 
 885
 01:22:06,101 --> 01:22:10,572
@@ -4127,8 +4127,8 @@ You don't know what you're doing.
 
 887
 01:22:13,821 --> 01:22:18,576
--I'm pulling the plug. Let her go!
--As soon as we make the switch.
+- I'm pulling the plug. Let her go!
+- As soon as we make the switch.
 
 888
 01:22:35,701 --> 01:22:38,010
@@ -4136,8 +4136,8 @@ Just like we agreed, Nick.
 
 889
 01:22:39,061 --> 01:22:41,939
--Get the cab, Tyler.
--Yes, sir.
+- Get the cab, Tyler.
+- Yes, sir.
 
 890
 01:22:52,741 --> 01:22:55,096
@@ -4200,8 +4200,8 @@ I called Jenkins with this.
 
 904
 01:24:08,061 --> 01:24:10,450
--You told George you were invisible?
--Of course not.
+- You told George you were invisible?
+- Of course not.
 
 905
 01:24:10,621 --> 01:24:14,136
@@ -4218,8 +4218,8 @@ I got him.
 
 908
 01:24:43,581 --> 01:24:46,141
--Are you all right?
--Yes.
+- Are you all right?
+- Yes.
 
 909
 01:24:46,781 --> 01:24:49,420
@@ -4240,8 +4240,8 @@ back toward Market.
 
 913
 01:25:16,381 --> 01:25:18,611
--Market Street.
--It's over!
+- Market Street.
+- It's over!
 
 914
 01:25:18,781 --> 01:25:22,456
@@ -4250,8 +4250,8 @@ l'm shutting you down!
 
 915
 01:25:34,861 --> 01:25:37,329
--He's heading south.
--Left on Fifth.
+- He's heading south.
+- Left on Fifth.
 
 916
 01:25:37,501 --> 01:25:41,130
@@ -4397,8 +4397,8 @@ Just give me your hand.
 
 948
 01:29:41,781 --> 01:29:44,500
--No! No! No!
--Give me your hand.
+- No! No! No!
+- Give me your hand.
 
 949
 01:29:45,981 --> 01:29:48,449
@@ -4424,8 +4424,8 @@ Clean it up. It never happened.
 
 954
 01:30:35,301 --> 01:30:37,974
--What did you lose, a contact lens?
--Nick!
+- What did you lose, a contact lens?
+- Nick!
 
 955
 01:30:38,141 --> 01:30:40,860
@@ -4434,8 +4434,8 @@ Let's just get out of here.
 
 956
 01:30:41,021 --> 01:30:43,455
--Look sad.
--Okay.
+- Look sad.
+- Okay.
 
 957
 01:30:46,221 --> 01:30:48,860

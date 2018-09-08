@@ -35,13 +35,13 @@ Okay, let's go get those numbers up.
 
 9
 00:01:20,081 --> 00:01:22,000
--Hi, Nick.
--Hey, Gary.
+- Hi, Nick.
+- Hey, Gary.
 
 10
 00:01:22,834 --> 00:01:25,253
--Solid presentation there.
--Thank you.
+- Solid presentation there.
+- Thank you.
 
 11
 00:01:25,336 --> 00:01:28,172
@@ -57,13 +57,13 @@ Great. It went great.
 
 14
 00:01:32,385 --> 00:01:35,054
--How's the wife?
--She's fine, thank you.
+- How's the wife?
+- She's fine, thank you.
 
 15
 00:01:35,138 --> 00:01:37,515
--Kids?
--Kids?
+- Kids?
+- Kids?
 
 16
 00:01:39,225 --> 00:01:40,310
@@ -88,8 +88,8 @@ as they've ever been.
 
 21
 00:01:56,743 --> 00:01:58,953
--it's not about numbers anymore.
--I've done everything the company
+- it's not about numbers anymore.
+- I've done everything the company
 
 22
 00:01:59,037 --> 00:02:00,288
@@ -185,8 +185,8 @@ And one of those cherry Slurpees, too.
 
 42
 00:04:44,118 --> 00:04:46,287
--This guy. I don't know.
--I got it. I got it.
+- This guy. I don't know.
+- I got it. I got it.
 
 43
 00:04:46,370 --> 00:04:50,124
@@ -281,8 +281,8 @@ Yeah, I'm sorry about the mess.
 
 64
 00:08:54,368 --> 00:08:57,371
--I'll have it cleaned up by tomorrow.
--Great.
+- I'll have it cleaned up by tomorrow.
+- Great.
 
 65
 00:08:59,165 --> 00:09:03,252
@@ -317,8 +317,8 @@ before I hit Texas, right?
 
 72
 00:11:57,009 --> 00:11:59,762
--Here, let me help you.
--Thank you.
+- Here, let me help you.
+- Thank you.
 
 73
 00:12:00,804 --> 00:12:03,349
@@ -348,13 +348,13 @@ Yeah. Just a little spring cleaning.
 
 79
 00:12:19,615 --> 00:12:24,036
--You a photographer?
--Yeah. Photography teacher.
+- You a photographer?
+- Yeah. Photography teacher.
 
 80
 00:12:24,119 --> 00:12:26,747
--Really? Where do you teach?
--New York.
+- Really? Where do you teach?
+- New York.
 
 81
 00:12:27,456 --> 00:12:31,961
@@ -384,8 +384,8 @@ Would you mind watching my stuff?
 
 87
 00:12:45,766 --> 00:12:49,436
--I just need to run to the store real quick.
--Sure, yeah.
+- I just need to run to the store real quick.
+- Sure, yeah.
 
 88
 00:12:49,520 --> 00:12:53,941
@@ -509,13 +509,13 @@ And don't touch anything.
 
 117
 00:14:28,410 --> 00:14:31,789
--Where are you going?
--I don't know, the liquor store.
+- Where are you going?
+- I don't know, the liquor store.
 
 118
 00:14:32,456 --> 00:14:35,918
--What about the mini-mart?
--Yeah, I can go to the mini-mart.
+- What about the mini-mart?
+- Yeah, I can go to the mini-mart.
 
 119
 00:14:36,001 --> 00:14:38,337
@@ -536,13 +536,13 @@ Oh, shit.
 
 123
 00:14:51,767 --> 00:14:55,229
--What are you looking for?
--My car keys.
+- What are you looking for?
+- My car keys.
 
 124
 00:14:55,813 --> 00:14:59,483
--You want to borrow my bike?
--No, I'll find them.
+- You want to borrow my bike?
+- No, I'll find them.
 
 125
 00:15:27,010 --> 00:15:28,178
@@ -558,8 +558,8 @@ It didn't go through, Mr. Halsey.
 
 128
 00:15:33,225 --> 00:15:34,309
--Really?
--Nope.
+- Really?
+- Nope.
 
 129
 00:15:35,227 --> 00:15:36,478
@@ -568,13 +568,13 @@ with the machine.
 
 130
 00:15:36,562 --> 00:15:39,189
--Can you just call it in?
--I can't call it in, man.
+- Can you just call it in?
+- I can't call it in, man.
 
 131
 00:15:41,358 --> 00:15:43,360
--How much is it?
--$37.50.
+- How much is it?
+- $37.50.
 
 132
 00:15:48,198 --> 00:15:50,033
@@ -724,13 +724,13 @@ Where'd you get that?
 
 165
 00:18:13,844 --> 00:18:15,012
--That?
--Yeah.
+- That?
+- Yeah.
 
 166
 00:18:15,095 --> 00:18:18,098
--In the pile.
--I told you not to touch anything.
+- In the pile.
+- I told you not to touch anything.
 
 167
 00:18:19,016 --> 00:18:20,058
@@ -829,8 +829,8 @@ Code 4 for now.
 
 190
 00:21:27,871 --> 00:21:29,873
--Afternoon.
--Hi.
+- Afternoon.
+- Hi.
 
 191
 00:21:29,956 --> 00:21:31,374
@@ -926,8 +926,8 @@ Hey, stop talking into that thing.
 
 212
 00:22:28,265 --> 00:22:30,350
--Stand by.
--Just listen to me.
+- Stand by.
+- Just listen to me.
 
 213
 00:22:30,433 --> 00:22:32,519
@@ -1056,8 +1056,8 @@ This is my house.
 
 242
 00:24:00,065 --> 00:24:02,525
--What's your point?
--My point?
+- What's your point?
+- My point?
 
 243
 00:24:05,362 --> 00:24:09,950
@@ -1088,8 +1088,8 @@ I know, Nick. We still go to meetings.
 
 249
 00:24:40,897 --> 00:24:42,649
--Hey, Frank.
--Yeah?
+- Hey, Frank.
+- Yeah?
 
 250
 00:24:44,109 --> 00:24:46,111
@@ -1215,8 +1215,8 @@ I got to make signs?
 
 278
 00:27:55,258 --> 00:27:58,178
--That was a joke.
--Don't make an ass out of me, Nick.
+- That was a joke.
+- Don't make an ass out of me, Nick.
 
 279
 00:27:58,261 --> 00:27:59,512
@@ -1246,13 +1246,13 @@ That's nice.
 
 285
 00:29:21,386 --> 00:29:23,137
--Hey, Kenny.
--Hey.
+- Hey, Kenny.
+- Hey.
 
 286
 00:29:24,180 --> 00:29:28,101
--I'm sorry about yesterday.
--It's cool, man.
+- I'm sorry about yesterday.
+- It's cool, man.
 
 287
 00:29:29,269 --> 00:29:30,520
@@ -1374,8 +1374,8 @@ Now we got a deal?
 
 315
 00:30:57,523 --> 00:30:59,025
--Deal.
--Okay.
+- Deal.
+- Okay.
 
 316
 00:31:00,610 --> 00:31:04,113
@@ -1445,8 +1445,8 @@ Okay. Okay, Well, when will you know?
 
 332
 00:32:09,220 --> 00:32:11,514
--Can I help you?
--How much?
+- Can I help you?
+- How much?
 
 333
 00:32:12,056 --> 00:32:16,936
@@ -1467,8 +1467,8 @@ How much for this?
 
 337
 00:32:41,210 --> 00:32:43,546
--You want to buy that?
--How much is it?
+- You want to buy that?
+- How much is it?
 
 338
 00:32:45,590 --> 00:32:47,049
@@ -1506,8 +1506,8 @@ There's your take.
 
 346
 00:33:18,831 --> 00:33:22,418
--Can we work on baseball now?
--I'm beat.
+- Can we work on baseball now?
+- I'm beat.
 
 347
 00:33:23,002 --> 00:33:27,924
@@ -1529,13 +1529,13 @@ Okay.
 
 351
 00:33:43,606 --> 00:33:45,525
--Thank you.
--Sure.
+- Thank you.
+- Sure.
 
 352
 00:33:46,943 --> 00:33:49,987
--Where do you want this?
--I guess, just...
+- Where do you want this?
+- I guess, just...
 
 353
 00:33:50,071 --> 00:33:52,990
@@ -1572,8 +1572,8 @@ you're gonna feel great.
 
 361
 00:34:22,436 --> 00:34:25,523
--Yeah, I think so.
--Yeah.
+- Yeah, I think so.
+- Yeah.
 
 362
 00:34:26,732 --> 00:34:30,403
@@ -1594,8 +1594,8 @@ Right. No, I understand.
 
 366
 00:34:41,122 --> 00:34:44,166
--But thank you for the offer.
--Sure.
+- But thank you for the offer.
+- Sure.
 
 367
 00:34:45,418 --> 00:34:47,044
@@ -1611,8 +1611,8 @@ Hey.
 
 370
 00:35:19,118 --> 00:35:20,995
--Hey.
--Hi.
+- Hey.
+- Hi.
 
 371
 00:35:21,078 --> 00:35:22,955
@@ -1625,8 +1625,8 @@ something to eat with.
 
 373
 00:35:26,042 --> 00:35:28,628
--Here.
--Well, thank you.
+- Here.
+- Well, thank you.
 
 374
 00:35:28,711 --> 00:35:30,171
@@ -1639,13 +1639,13 @@ Can I make you a plate?
 
 376
 00:35:36,636 --> 00:35:37,637
--Yeah, sure.
--Why not?
+- Yeah, sure.
+- Why not?
 
 377
 00:35:37,720 --> 00:35:39,555
--Right. Thank you.
--Great.
+- Right. Thank you.
+- Great.
 
 378
 00:35:39,639 --> 00:35:40,681
@@ -1653,8 +1653,8 @@ No.
 
 379
 00:35:41,932 --> 00:35:45,019
--Do you mind if I look through?
--Go ahead.
+- Do you mind if I look through?
+- Go ahead.
 
 380
 00:35:47,647 --> 00:35:49,106
@@ -1678,8 +1678,8 @@ I don't. They were my father's.
 
 385
 00:36:00,576 --> 00:36:02,995
--He was a DJ.
--Yeah?
+- He was a DJ.
+- Yeah?
 
 386
 00:36:03,079 --> 00:36:08,959
@@ -1688,8 +1688,8 @@ on KZOV.
 
 387
 00:36:10,211 --> 00:36:11,587
--Wow.
--Please, sit here if you want.
+- Wow.
+- Please, sit here if you want.
 
 388
 00:36:11,671 --> 00:36:13,839
@@ -1755,8 +1755,8 @@ Okay.
 
 403
 00:37:03,347 --> 00:37:06,767
--So what do you do for work?
--Well,
+- So what do you do for work?
+- Well,
 
 404
 00:37:09,103 --> 00:37:13,274
@@ -1769,8 +1769,8 @@ at a very large corporation.
 
 406
 00:37:18,529 --> 00:37:21,574
--Sorry.
--Don't be.
+- Sorry.
+- Don't be.
 
 407
 00:37:21,657 --> 00:37:23,784
@@ -1787,8 +1787,8 @@ the Caribbean, Japan twice.
 
 410
 00:37:28,831 --> 00:37:31,834
--Wow.
--Yeah. So...
+- Wow.
+- Yeah. So...
 
 411
 00:37:36,380 --> 00:37:37,757
@@ -1813,8 +1813,8 @@ naming a child after yourself.
 
 416
 00:37:53,981 --> 00:37:56,692
--Do you have kids?
--No.
+- Do you have kids?
+- No.
 
 417
 00:37:57,943 --> 00:37:59,361
@@ -1830,8 +1830,8 @@ The gold one here...
 
 420
 00:38:07,411 --> 00:38:09,455
--Asagi.
--Asagi.
+- Asagi.
+- Asagi.
 
 421
 00:38:09,538 --> 00:38:11,248
@@ -2033,18 +2033,18 @@ Are you listening to me? Pour some wine.
 
 469
 00:42:35,637 --> 00:42:38,891
--Come on, pour it.
--Come on, bring it.
+- Come on, pour it.
+- Come on, bring it.
 
 470
 00:42:38,974 --> 00:42:40,976
--That's it.
--Put it in! Put it in!
+- That's it.
+- Put it in! Put it in!
 
 471
 00:42:41,060 --> 00:42:43,520
--Put it in!
--Bark for me.
+- Put it in!
+- Bark for me.
 
 472
 00:42:43,604 --> 00:42:45,439
@@ -2085,8 +2085,8 @@ I'm interested in that rotisserie over here.
 
 481
 00:44:18,907 --> 00:44:21,994
--The rotisserie?
--Yeah, the rotisserie.
+- The rotisserie?
+- Yeah, the rotisserie.
 
 482
 00:44:22,077 --> 00:44:23,328
@@ -2148,8 +2148,8 @@ He wants $10, but I'll take $7.
 
 495
 00:45:09,166 --> 00:45:11,126
--$7 is good.
--Thank you.
+- $7 is good.
+- Thank you.
 
 496
 00:45:16,924 --> 00:45:17,966
@@ -2196,8 +2196,8 @@ Yeah, I'm sure.
 
 506
 00:45:54,336 --> 00:45:58,090
--Why don't you want to play football?
--My mom won't let me.
+- Why don't you want to play football?
+- My mom won't let me.
 
 507
 00:45:58,173 --> 00:46:00,717
@@ -2236,13 +2236,13 @@ a little bit on your own?
 
 515
 00:46:25,826 --> 00:46:29,788
--How do I do that?
--Just throw it up in the air and catch it.
+- How do I do that?
+- Just throw it up in the air and catch it.
 
 516
 00:46:40,882 --> 00:46:43,343
--Hey.
--Hey.
+- Hey.
+- Hey.
 
 517
 00:46:45,721 --> 00:46:49,433
@@ -2250,8 +2250,8 @@ I found this. Used to be my mom's.
 
 518
 00:46:49,516 --> 00:46:51,893
--Wow.
--I don't Know if it still works.
+- Wow.
+- I don't Know if it still works.
 
 519
 00:46:51,977 --> 00:46:53,603
@@ -2263,8 +2263,8 @@ Oh, God, it's beautiful.
 
 521
 00:46:56,106 --> 00:46:58,442
--Is there film in it?
--I don't know.
+- Is there film in it?
+- I don't know.
 
 522
 00:46:58,525 --> 00:46:59,943
@@ -2272,28 +2272,28 @@ Smile.
 
 523
 00:47:01,820 --> 00:47:03,613
--Yup.
--Yeah.
+- Yup.
+- Yeah.
 
 524
 00:47:03,697 --> 00:47:06,241
--Wow.
--Keep it.
+- Wow.
+- Keep it.
 
 525
 00:47:10,495 --> 00:47:14,458
--No, I couldn't take it. That's sweet, but...
--No, please.
+- No, I couldn't take it. That's sweet, but...
+- No, please.
 
 526
 00:47:16,001 --> 00:47:19,004
--Really?
--Yeah. Yeah, I want you to have it.
+- Really?
+- Yeah. Yeah, I want you to have it.
 
 527
 00:47:19,087 --> 00:47:22,841
--Can I pay you for it?
--No. No. No. No, my gift to you.
+- Can I pay you for it?
+- No. No. No. No, my gift to you.
 
 528
 00:47:22,924 --> 00:47:24,718
@@ -2313,8 +2313,8 @@ Okay, that's good.
 
 532
 00:47:38,523 --> 00:47:43,362
--See? Wasn't that helpful?
--I guess.
+- See? Wasn't that helpful?
+- I guess.
 
 533
 00:47:43,445 --> 00:47:45,364
@@ -2322,8 +2322,8 @@ Let's do some grounders.
 
 534
 00:47:45,447 --> 00:47:48,033
--What's a grounder?
--I'll show you. Throw it to me.
+- What's a grounder?
+- I'll show you. Throw it to me.
 
 535
 00:47:48,116 --> 00:47:50,452
@@ -2379,8 +2379,8 @@ explaining how products work.
 
 547
 00:48:28,240 --> 00:48:31,326
--You actually interested in that stuff?
--Yeah.
+- You actually interested in that stuff?
+- Yeah.
 
 548
 00:48:32,369 --> 00:48:34,538
@@ -2389,8 +2389,8 @@ you'll know more than me.
 
 549
 00:48:37,082 --> 00:48:39,209
--What?
--Nothing.
+- What?
+- Nothing.
 
 550
 00:48:39,751 --> 00:48:41,169
@@ -2423,8 +2423,8 @@ Why not?
 
 557
 00:49:04,276 --> 00:49:07,696
--They make you change in the locker room.
--So?
+- They make you change in the locker room.
+- So?
 
 558
 00:49:08,572 --> 00:49:10,282
@@ -2510,8 +2510,8 @@ Is that what you're doing?
 
 577
 00:50:09,216 --> 00:50:11,801
--What?
--Are you fighting back?
+- What?
+- Are you fighting back?
 
 578
 00:50:14,012 --> 00:50:15,847
@@ -2649,8 +2649,8 @@ Just a minute. Can I help you?
 
 610
 00:54:38,818 --> 00:54:40,904
--Delilah?
--Yeah.
+- Delilah?
+- Yeah.
 
 611
 00:54:42,030 --> 00:54:43,364
@@ -2666,8 +2666,8 @@ Nicholas. Wow.
 
 614
 00:54:50,705 --> 00:54:53,124
--God, hey.
--Hi.
+- God, hey.
+- Hi.
 
 615
 00:54:53,208 --> 00:54:54,626
@@ -2689,13 +2689,13 @@ and your mom gave me your address.
 
 619
 00:55:04,677 --> 00:55:06,596
--Okay.
--Yeah.
+- Okay.
+- Yeah.
 
 620
 00:55:07,639 --> 00:55:10,058
--What a nice surprise.
--Yeah.
+- What a nice surprise.
+- Yeah.
 
 621
 00:55:12,894 --> 00:55:16,231
@@ -2727,13 +2727,13 @@ and you and I are gonna catch up, okay?
 
 627
 00:55:34,666 --> 00:55:35,667
--Great.
--Sound good?
+- Great.
+- Sound good?
 
 628
 00:55:35,750 --> 00:55:37,669
--Yeah.
--Okay. it's gonna be great.
+- Yeah.
+- Okay. it's gonna be great.
 
 629
 00:55:37,752 --> 00:55:41,297
@@ -2751,13 +2751,13 @@ I got to do a IV commercial with Brad Pitt.
 
 632
 00:55:50,098 --> 00:55:52,851
--Really?
--It was fun.
+- Really?
+- It was fun.
 
 633
 00:55:52,934 --> 00:55:54,102
--Yeah.
--It was for Japan,
+- Yeah.
+- It was for Japan,
 
 634
 00:55:54,185 --> 00:55:57,355
@@ -2780,8 +2780,8 @@ is why you could never see it in the US.
 
 638
 00:56:07,198 --> 00:56:11,202
--Sure.
--And these Japanese tourists pull up
+- Sure.
+- And these Japanese tourists pull up
 
 639
 00:56:11,286 --> 00:56:15,373
@@ -2838,13 +2838,13 @@ So what about you?
 
 651
 00:56:57,248 --> 00:57:01,502
--Are you married, or...
--Yes. Yes, I am.
+- Are you married, or...
+- Yes. Yes, I am.
 
 652
 00:57:02,170 --> 00:57:05,673
--And you have kids?
--No. We're...
+- And you have kids?
+- No. We're...
 
 653
 00:57:07,508 --> 00:57:10,470
@@ -2894,8 +2894,8 @@ Hi.
 
 664
 00:57:53,721 --> 00:57:55,890
--Wow, it was great to see you.
--Yeah. You, too.
+- Wow, it was great to see you.
+- Yeah. You, too.
 
 665
 00:58:07,402 --> 00:58:09,570
@@ -3037,23 +3037,23 @@ Yeah. Yeah.
 
 697
 01:00:30,128 --> 01:00:31,379
--What's up, man?
--Hey.
+- What's up, man?
+- Hey.
 
 698
 01:00:31,462 --> 01:00:32,964
--How you doing?
--Good.
+- How you doing?
+- Good.
 
 699
 01:00:33,047 --> 01:00:34,132
--That's all?
--That's it.
+- That's all?
+- That's it.
 
 700
 01:00:34,215 --> 01:00:36,259
--$6.50, man.
--Yeah, I don't have $6.50.
+- $6.50, man.
+- Yeah, I don't have $6.50.
 
 701
 01:00:36,342 --> 01:00:38,010
@@ -3066,13 +3066,13 @@ You know that.
 
 703
 01:00:39,887 --> 01:00:41,097
--Really?
--Yeah.
+- Really?
+- Yeah.
 
 704
 01:00:41,180 --> 01:00:42,807
--On a six-pack?
--You're here all the time.
+- On a six-pack?
+- You're here all the time.
 
 705
 01:00:42,890 --> 01:00:45,518
@@ -3086,18 +3086,18 @@ I'll lose my job. I can't do that.
 
 707
 01:00:48,271 --> 01:00:50,356
--Can you just give me one beer?
--No, not even one
+- Can you just give me one beer?
+- No, not even one
 
 708
 01:00:50,439 --> 01:00:52,859
--'cause it's a whole case right here.
--You being serious right now?
+- 'cause it's a whole case right here.
+- You being serious right now?
 
 709
 01:00:52,942 --> 01:00:55,611
--I'm being serious right now.
--Really? For real?
+- I'm being serious right now.
+- Really? For real?
 
 710
 01:00:55,695 --> 01:00:57,613
@@ -3213,8 +3213,8 @@ I just don't hide in my house, okay?
 
 736
 01:04:28,574 --> 01:04:30,868
--What does that mean?
--What?
+- What does that mean?
+- What?
 
 737
 01:04:32,745 --> 01:04:34,080
@@ -3250,13 +3250,13 @@ What's his name?
 
 745
 01:05:03,192 --> 01:05:06,612
--Who?
--Your husband. John? Jeff?
+- Who?
+- Your husband. John? Jeff?
 
 746
 01:05:06,695 --> 01:05:08,197
--Jack.
--Jack.
+- Jack.
+- Jack.
 
 747
 01:05:10,491 --> 01:05:14,245
@@ -3273,8 +3273,8 @@ who moved him up to the big leagues.
 
 750
 01:05:20,084 --> 01:05:22,253
--How many years?
--Two.
+- How many years?
+- Two.
 
 751
 01:05:22,336 --> 01:05:24,171
@@ -3357,8 +3357,8 @@ figuring out what bullshit to sell 'em.
 
 769
 01:06:29,570 --> 01:06:31,572
--Hey.
--God, what?
+- Hey.
+- God, what?
 
 770
 01:06:35,993 --> 01:06:38,162
@@ -3387,13 +3387,13 @@ Fuck you! Fuck you!
 
 776
 01:08:27,688 --> 01:08:29,690
--Hey.
--Hey.
+- Hey.
+- Hey.
 
 777
 01:08:30,774 --> 01:08:34,069
--How long have you been here?
--A couple of hours.
+- How long have you been here?
+- A couple of hours.
 
 778
 01:08:36,405 --> 01:08:39,408
@@ -3401,8 +3401,8 @@ Where did the tables come from?
 
 779
 01:08:39,491 --> 01:08:40,993
--The tables?
--Yeah.
+- The tables?
+- Yeah.
 
 780
 01:08:41,076 --> 01:08:43,162
@@ -3423,8 +3423,8 @@ I'm making it easy for the customer.
 
 784
 01:08:56,634 --> 01:08:59,470
--Nice work, Kenny.
--Thanks.
+- Nice work, Kenny.
+- Thanks.
 
 785
 01:09:01,764 --> 01:09:03,390
@@ -3432,8 +3432,8 @@ Really nice work.
 
 786
 01:09:22,618 --> 01:09:26,163
--Hey, how's it going?
--Hey. Good. Good.
+- Hey, how's it going?
+- Hey. Good. Good.
 
 787
 01:09:26,246 --> 01:09:29,500
@@ -3455,8 +3455,8 @@ you know, everything I can.
 
 791
 01:09:41,261 --> 01:09:43,931
--I'm proud of you, bud.
--Thanks.
+- I'm proud of you, bud.
+- Thanks.
 
 792
 01:09:45,265 --> 01:09:47,351
@@ -3481,8 +3481,8 @@ Okay. Yeah, I'll be there.
 
 797
 01:10:03,784 --> 01:10:06,453
--Thanks for stopping by.
--No problem.
+- Thanks for stopping by.
+- No problem.
 
 798
 01:10:22,344 --> 01:10:24,930
@@ -3490,13 +3490,13 @@ Excuse me. How much for the chair?
 
 799
 01:10:25,013 --> 01:10:27,141
--The chair?
--Yeah.
+- The chair?
+- Yeah.
 
 800
 01:10:27,224 --> 01:10:31,812
--$2 and I'll throw in the macramé.
--All right.
+- $2 and I'll throw in the macramé.
+- All right.
 
 801
 01:10:32,771 --> 01:10:34,398
@@ -3542,8 +3542,8 @@ I've never been fishing in all my life.
 
 811
 01:10:59,757 --> 01:11:02,009
--That looks really good on him.
--Yeah, isn't it cute?
+- That looks really good on him.
+- Yeah, isn't it cute?
 
 812
 01:11:02,092 --> 01:11:04,428
@@ -3551,8 +3551,8 @@ Really cute. Old school.
 
 813
 01:11:04,511 --> 01:11:07,181
--I'm not sure.
--Your girlfriend is.
+- I'm not sure.
+- Your girlfriend is.
 
 814
 01:11:08,974 --> 01:11:11,101
@@ -3564,28 +3564,28 @@ I'm not gonna do $125.
 
 816
 01:11:13,562 --> 01:11:15,147
--I'm not asking you to.
--Okay.
+- I'm not asking you to.
+- Okay.
 
 817
 01:11:15,230 --> 01:11:17,524
--I'm asking $25.
--I'll do $15.
+- I'm asking $25.
+- I'll do $15.
 
 818
 01:11:17,608 --> 01:11:19,818
--What about $22?
--$20.
+- What about $22?
+- $20.
 
 819
 01:11:21,445 --> 01:11:23,363
--$217
--Okay.
+- $217
+- Okay.
 
 820
 01:11:23,447 --> 01:11:27,242
--How much is this?
--$10.
+- How much is this?
+- $10.
 
 821
 01:11:27,659 --> 01:11:30,662
@@ -3675,8 +3675,8 @@ Who's deal? Sherry, your deal?
 
 841
 01:12:46,613 --> 01:12:49,283
--All right.
--Right here. Here we go.
+- All right.
+- Right here. Here we go.
 
 842
 01:12:49,366 --> 01:12:50,617
@@ -3697,18 +3697,18 @@ You can cook burritos.
 
 846
 01:12:58,125 --> 01:13:00,210
--Who's in first?
--I'm in for $10.
+- Who's in first?
+- I'm in for $10.
 
 847
 01:13:00,294 --> 01:13:02,296
--$10'?
--I'm in for $15.
+- $10'?
+- I'm in for $15.
 
 848
 01:13:02,379 --> 01:13:05,924
--$15'?
--I'm in for $15 as well.
+- $15'?
+- I'm in for $15 as well.
 
 849
 01:13:06,008 --> 01:13:07,926
@@ -3716,8 +3716,8 @@ Okay, that's already too rich for my blood.
 
 850
 01:13:08,010 --> 01:13:10,220
--I don't have that kind of money.
--You want to borrow a chip?
+- I don't have that kind of money.
+- You want to borrow a chip?
 
 851
 01:13:10,304 --> 01:13:13,724
@@ -3730,18 +3730,18 @@ Okay?
 
 853
 01:13:16,476 --> 01:13:17,853
--Yours sticks.
--Yeah.
+- Yours sticks.
+- Yeah.
 
 854
 01:13:17,936 --> 01:13:20,147
--That's good luck.
--The high-level players can do this.
+- That's good luck.
+- The high-level players can do this.
 
 855
 01:13:20,480 --> 01:13:22,816
--How we looking?
--Take a look.
+- How we looking?
+- Take a look.
 
 856
 01:13:23,901 --> 01:13:25,068
@@ -3753,8 +3753,8 @@ I can't hardly even find this stuff anymore.
 
 858
 01:13:27,154 --> 01:13:29,489
--How much for these?
--I'm sorry. They're not for sale.
+- How much for these?
+- I'm sorry. They're not for sale.
 
 859
 01:13:30,282 --> 01:13:32,075
@@ -3762,8 +3762,8 @@ Come on, man. What do you want for 'em?
 
 860
 01:13:32,159 --> 01:13:35,078
--No, no, I really can't.
--Seriously?
+- No, no, I really can't.
+- Seriously?
 
 861
 01:13:36,663 --> 01:13:38,457
@@ -3771,8 +3771,8 @@ I think you'll be happy with either.
 
 862
 01:13:38,540 --> 01:13:40,667
--What do you think, green or blue?
--Go with blue.
+- What do you think, green or blue?
+- Go with blue.
 
 863
 01:13:43,170 --> 01:13:44,922
@@ -3919,8 +3919,8 @@ Of course.
 
 897
 01:16:55,195 --> 01:16:58,365
--Lively.
--He likes it.
+- Lively.
+- He likes it.
 
 898
 01:16:59,574 --> 01:17:02,119
@@ -3928,8 +3928,8 @@ Maybe. Or really doesn't like it.
 
 899
 01:17:03,453 --> 01:17:05,831
--Are you ready for him?
--Yes.
+- Are you ready for him?
+- Yes.
 
 900
 01:17:06,790 --> 01:17:08,041
@@ -3965,13 +3965,13 @@ No, I pick colors to make people buy things.
 
 907
 01:17:36,069 --> 01:17:39,322
--I like yellow.
--That makes people anxious.
+- I like yellow.
+- That makes people anxious.
 
 908
 01:17:40,574 --> 01:17:43,368
--Yeah.
--That's not good.
+- Yeah.
+- That's not good.
 
 909
 01:17:43,743 --> 01:17:45,245
@@ -3979,8 +3979,8 @@ How about blue?
 
 910
 01:17:46,204 --> 01:17:50,750
--Blue is soothing. Color of communication.
--That's good.
+- Blue is soothing. Color of communication.
+- That's good.
 
 911
 01:17:50,834 --> 01:17:54,254
@@ -4115,8 +4115,8 @@ Hey, can you drop me off somewhere?
 
 942
 01:20:03,967 --> 01:20:06,094
--Yeah, sure.
--Okay, thanks.
+- Yeah, sure.
+- Okay, thanks.
 
 943
 01:20:06,761 --> 01:20:07,846
@@ -4137,13 +4137,13 @@ I'll buzz you in.
 
 947
 01:20:27,824 --> 01:20:30,327
--Glad you had the time.
--Yeah, I know.
+- Glad you had the time.
+- Yeah, I know.
 
 948
 01:20:31,911 --> 01:20:34,164
--Just ate at that place over on 60th.
--Yeah?
+- Just ate at that place over on 60th.
+- Yeah?
 
 949
 01:20:35,165 --> 01:20:36,583
@@ -4151,23 +4151,23 @@ And the sale?
 
 950
 01:20:36,666 --> 01:20:39,169
--Great.
--Good. So listen,
+- Great.
+- Good. So listen,
 
 951
 01:20:39,252 --> 01:20:41,004
--I've got to check up on a statement.
--Okay.
+- I've got to check up on a statement.
+- Okay.
 
 952
 01:20:41,087 --> 01:20:43,840
--You good? Want anything to drink?
--No, I'm good. Yeah.
+- You good? Want anything to drink?
+- No, I'm good. Yeah.
 
 953
 01:20:43,923 --> 01:20:47,677
--I'm glad you're here.
--Good to be here. Thanks.
+- I'm glad you're here.
+- Good to be here. Thanks.
 
 954
 01:21:15,622 --> 01:21:19,000
@@ -4224,13 +4224,13 @@ We always joked about this, you know?
 
 967
 01:22:25,984 --> 01:22:28,445
--Yeah? What?
--Yeah, the 13th step.
+- Yeah? What?
+- Yeah, the 13th step.
 
 968
 01:22:28,528 --> 01:22:30,780
--Come on, man.
--First you teach them the 12 steps.
+- Come on, man.
+- First you teach them the 12 steps.
 
 969
 01:22:30,864 --> 01:22:32,907
@@ -4246,8 +4246,8 @@ She came to me for help.
 
 972
 01:22:41,416 --> 01:22:44,544
--Look, I'm sorry. I...
--Shut up, Frank!
+- Look, I'm sorry. I...
+- Shut up, Frank!
 
 973
 01:22:46,296 --> 01:22:50,800
@@ -4264,8 +4264,8 @@ Okay. Okay. No. No. No.
 
 976
 01:23:07,442 --> 01:23:10,153
--I got it.
--You all right? Stay there.
+- I got it.
+- You all right? Stay there.
 
 977
 01:23:19,621 --> 01:23:21,289
@@ -4335,8 +4335,8 @@ You know what? Stop the car.
 
 992
 01:24:10,713 --> 01:24:13,925
--Let me just take you home.
--No, just pull over.
+- Let me just take you home.
+- No, just pull over.
 
 993
 01:24:27,772 --> 01:24:29,816
@@ -4388,8 +4388,8 @@ Tell my wife I'm sorry.
 
 1004
 01:28:36,729 --> 01:28:38,523
--Hey.
--Hey.
+- Hey.
+- Hey.
 
 1005
 01:28:38,898 --> 01:28:40,149
@@ -4405,8 +4405,8 @@ Here.
 
 1008
 01:28:48,491 --> 01:28:50,576
--What's this?
--The money we made.
+- What's this?
+- The money we made.
 
 1009
 01:28:53,704 --> 01:28:56,707
@@ -4423,8 +4423,8 @@ There's your take.
 
 1012
 01:29:09,762 --> 01:29:12,098
--This is too much.
--Take it.
+- This is too much.
+- Take it.
 
 1013
 01:29:12,807 --> 01:29:15,017

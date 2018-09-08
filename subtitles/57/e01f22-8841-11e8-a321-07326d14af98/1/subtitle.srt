@@ -238,8 +238,8 @@ A troiana Cassandra,
 
 53
 00:05:47,560 --> 00:05:50,552
--lançou uma maldição sobre Ulysses.
--Amaldiçôo os gregos.
+- lançou uma maldição sobre Ulysses.
+- Amaldiçôo os gregos.
 
 54
 00:05:52,065 --> 00:05:54,033
@@ -268,8 +268,8 @@ Penélope.
 
 60
 00:06:13,620 --> 00:06:16,555
--Penélope.
--Rainha.
+- Penélope.
+- Rainha.
 
 61
 00:06:16,690 --> 00:06:19,682
@@ -286,8 +286,8 @@ Cante outra música.
 
 64
 00:06:26,132 --> 00:06:29,124
--relembrar memórias antigas.
--Não para nós.
+- relembrar memórias antigas.
+- Não para nós.
 
 65
 00:06:29,636 --> 00:06:31,627
@@ -332,8 +332,8 @@ Você trabalha demais no tapete.
 
 74
 00:07:00,667 --> 00:07:04,660
--Mas nunca termina.
--A memória de Ulysses me impede.
+- Mas nunca termina.
+- A memória de Ulysses me impede.
 
 75
 00:07:05,171 --> 00:07:08,163
@@ -346,13 +346,13 @@ Minhas mãos estão lentas.
 
 77
 00:07:12,412 --> 00:07:15,404
--Se sorrisse para pelo menos um de nós.
--Não há ninguém
+- Se sorrisse para pelo menos um de nós.
+- Não há ninguém
 
 78
 00:07:16,683 --> 00:07:18,674
--que se compare a meu pai!
--Nós também somos homens.
+- que se compare a meu pai!
+- Nós também somos homens.
 
 79
 00:07:19,586 --> 00:07:21,713
@@ -392,8 +392,8 @@ Acabaram com minha paz.
 
 87
 00:07:47,680 --> 00:07:49,705
--Me fizeram prometer...
--Não!
+- Me fizeram prometer...
+- Não!
 
 88
 00:07:50,717 --> 00:07:53,208
@@ -401,8 +401,8 @@ Não é promessa, é o destino de Ítaca.
 
 89
 00:07:53,720 --> 00:07:56,211
--Está muito tempo sem um rei.
--É verdade.
+- Está muito tempo sem um rei.
+- É verdade.
 
 90
 00:07:56,523 --> 00:07:58,514
@@ -414,8 +414,8 @@ Continuamos a ter um rei de brumas?
 
 92
 00:08:04,764 --> 00:08:08,222
--Uma sombra?
--O povo está cansado, Penélope.
+- Uma sombra?
+- O povo está cansado, Penélope.
 
 93
 00:08:08,768 --> 00:08:10,759
@@ -479,13 +479,13 @@ Voltem para seus quartos e fiquem lá.
 
 107
 00:09:12,332 --> 00:09:15,324
--Vou acabar com isso.
--Acha que pode dar ordens?
+- Vou acabar com isso.
+- Acha que pode dar ordens?
 
 108
 00:09:15,835 --> 00:09:17,803
--Sou filho de Ulysses!
--Você não passa de um tolo.
+- Sou filho de Ulysses!
+- Você não passa de um tolo.
 
 109
 00:09:18,538 --> 00:09:22,531
@@ -539,8 +539,8 @@ Espero que nunca descubram.
 
 120
 00:10:17,063 --> 00:10:20,396
--Mãe.
--Fale, Telêmaco? O que aconteceu?
+- Mãe.
+- Fale, Telêmaco? O que aconteceu?
 
 121
 00:10:21,267 --> 00:10:23,258
@@ -548,8 +548,8 @@ Preciso ir, mãe.
 
 122
 00:10:23,903 --> 00:10:27,498
--Para onde você quer ir?
--Fora daqui. Não aguento os insultos.
+- Para onde você quer ir?
+- Fora daqui. Não aguento os insultos.
 
 123
 00:10:27,907 --> 00:10:29,898
@@ -557,8 +557,8 @@ Preciso procurar meu pai.
 
 124
 00:10:30,777 --> 00:10:33,746
--Você também quer me deixar.
--Precisamos ter certeza.
+- Você também quer me deixar.
+- Precisamos ter certeza.
 
 125
 00:10:34,747 --> 00:10:37,739
@@ -676,8 +676,8 @@ Nausica, o que está fazendo?
 
 152
 00:12:39,372 --> 00:12:42,364
--Há um homem morto aqui.
--Onde?
+- Há um homem morto aqui.
+- Onde?
 
 153
 00:12:42,775 --> 00:12:44,265
@@ -690,8 +690,8 @@ Está morto.
 
 155
 00:12:58,091 --> 00:13:01,060
--Está vivo!
--É verdade!
+- Está vivo!
+- É verdade!
 
 156
 00:13:14,107 --> 00:13:16,098
@@ -729,8 +729,8 @@ Quem é você?
 
 164
 00:13:49,609 --> 00:13:52,134
--Qual o seu nome?
--Não sei.
+- Qual o seu nome?
+- Não sei.
 
 165
 00:13:54,413 --> 00:13:56,404
@@ -791,8 +791,8 @@ Curei seu corpo, mas a mente...
 
 178
 00:14:55,741 --> 00:14:58,209
--Não sou um deus.
--Você o sangrou?
+- Não sou um deus.
+- Você o sangrou?
 
 179
 00:14:58,744 --> 00:15:01,338
@@ -859,8 +859,8 @@ outros reis além de mim.
 
 193
 00:16:00,306 --> 00:16:04,299
--Não há nada que se lembre?
--Eu não lembro de nada.
+- Não há nada que se lembre?
+- Eu não lembro de nada.
 
 194
 00:16:05,411 --> 00:16:06,400
@@ -890,8 +890,8 @@ Quem lutará com Draco?
 
 200
 00:16:51,357 --> 00:16:55,350
--Vá, você pode.
--Não posso com esse matador.
+- Vá, você pode.
+- Não posso com esse matador.
 
 201
 00:16:56,362 --> 00:16:58,387
@@ -925,8 +925,8 @@ ele era um soldado.
 
 208
 00:18:10,469 --> 00:18:13,461
--Não é tão fácil.
--Pensei que estivesse brincando.
+- Não é tão fácil.
+- Pensei que estivesse brincando.
 
 209
 00:18:25,084 --> 00:18:26,073
@@ -1012,8 +1012,8 @@ curar qualquer ferida.
 
 228
 00:21:08,681 --> 00:21:10,649
--Restaura a juventude.
--Juventude?
+- Restaura a juventude.
+- Juventude?
 
 229
 00:21:11,684 --> 00:21:14,676
@@ -1113,13 +1113,13 @@ Joga!
 
 252
 00:22:54,019 --> 00:22:56,988
--O que apostam?
--O dote da rainha.
+- O que apostam?
+- O dote da rainha.
 
 253
 00:22:57,790 --> 00:23:00,782
--Dote? Ela vai casar com um de vocês?
--Claro.
+- Dote? Ela vai casar com um de vocês?
+- Claro.
 
 254
 00:23:01,794 --> 00:23:03,785
@@ -1171,8 +1171,8 @@ ou eles nos matarão.
 
 265
 00:23:48,373 --> 00:23:50,841
--Tem tanto medo da morte?
--Sou um velho.
+- Tem tanto medo da morte?
+- Sou um velho.
 
 266
 00:23:51,877 --> 00:23:55,472
@@ -1190,8 +1190,8 @@ Outro, é como mosca no mel.
 
 269
 00:24:14,433 --> 00:24:15,900
--Você o conhece?
--Não vejo bem.
+- Você o conhece?
+- Não vejo bem.
 
 270
 00:24:16,401 --> 00:24:18,392
@@ -1203,8 +1203,8 @@ Antinomus da Cefalônia.
 
 272
 00:24:21,607 --> 00:24:26,510
--É longe.
--Já tem muita competição aqui.
+- É longe.
+- Já tem muita competição aqui.
 
 273
 00:24:27,312 --> 00:24:29,303
@@ -1213,8 +1213,8 @@ prepare minha cama.
 
 274
 00:24:29,915 --> 00:24:32,406
--Por que veio?
--Para ver Penélope.
+- Por que veio?
+- Para ver Penélope.
 
 275
 00:24:32,918 --> 00:24:36,911
@@ -1227,8 +1227,8 @@ Eu fico contente. Serei o primeiro.
 
 277
 00:24:48,467 --> 00:24:51,436
--Espere!
--Afaste-se.
+- Espere!
+- Afaste-se.
 
 278
 00:24:54,439 --> 00:24:58,432
@@ -1289,8 +1289,8 @@ Vim para cumprir seu destino.
 
 291
 00:25:45,991 --> 00:25:50,485
--Como ousa falar assim?
--Entendo toda a sua solidão.
+- Como ousa falar assim?
+- Entendo toda a sua solidão.
 
 292
 00:25:51,163 --> 00:25:54,155
@@ -1378,8 +1378,8 @@ Me deixe, peço que me deixe!
 
 311
 00:27:16,615 --> 00:27:19,607
--Escute, Telêmaco.
--Já ouvi bastante.
+- Escute, Telêmaco.
+- Já ouvi bastante.
 
 312
 00:27:20,118 --> 00:27:24,077
@@ -1388,8 +1388,8 @@ Minha mãe aceitou o casamento.
 
 313
 00:27:25,123 --> 00:27:28,115
--Minha mãe também traiu Ulysses.
--Não fale assim.
+- Minha mãe também traiu Ulysses.
+- Não fale assim.
 
 314
 00:27:29,127 --> 00:27:32,096
@@ -1430,8 +1430,8 @@ Você vai usar nos jogos de hoje?
 
 322
 00:28:07,199 --> 00:28:10,168
--Não sei.
--Outra vitória agradaria à noiva.
+- Não sei.
+- Outra vitória agradaria à noiva.
 
 323
 00:28:11,203 --> 00:28:16,163
@@ -1469,8 +1469,8 @@ Essas coisas não se curam rapidamente.
 
 331
 00:28:47,239 --> 00:28:49,230
--Me deixe!
--Como quiser.
+- Me deixe!
+- Como quiser.
 
 332
 00:28:50,342 --> 00:28:55,302
@@ -1557,8 +1557,8 @@ Clésia, Aten, venham.
 
 351
 00:30:11,323 --> 00:30:13,291
--Venham comigo.
--Vão, acompanhem.
+- Venham comigo.
+- Vão, acompanhem.
 
 352
 00:30:21,366 --> 00:30:22,333
@@ -1636,8 +1636,8 @@ Joguem toda a carga ao mar!
 
 369
 00:32:26,491 --> 00:32:30,450
--O ouro? Está louco?
--Sim, o ouro, a prata...
+- O ouro? Está louco?
+- Sim, o ouro, a prata...
 
 370
 00:32:31,329 --> 00:32:33,854
@@ -1707,8 +1707,8 @@ Venham, rápido.
 
 385
 00:35:11,689 --> 00:35:14,658
--É enorme.
--Um pé de gigante.
+- É enorme.
+- Um pé de gigante.
 
 386
 00:35:20,098 --> 00:35:21,395
@@ -1790,8 +1790,8 @@ Está pronto!
 
 405
 00:37:25,056 --> 00:37:27,524
--Depressa com a ovelha.
--Tudo bem.
+- Depressa com a ovelha.
+- Tudo bem.
 
 406
 00:37:27,992 --> 00:37:30,984
@@ -1840,8 +1840,8 @@ Quase pronto.
 
 417
 00:38:04,896 --> 00:38:07,387
--Vire.
--Mal posso esperar.
+- Vire.
+- Mal posso esperar.
 
 418
 00:38:07,699 --> 00:38:09,394
@@ -1886,8 +1886,8 @@ Quem são vocês?
 
 428
 00:38:58,316 --> 00:39:01,308
--São ladrões...
--Não são?
+- São ladrões...
+- Não são?
 
 429
 00:39:03,621 --> 00:39:06,954
@@ -1950,8 +1950,8 @@ saboroso até mesmo um grego.
 
 443
 00:40:12,023 --> 00:40:15,015
--O que é?
--Vinho!
+- O que é?
+- Vinho!
 
 444
 00:40:18,062 --> 00:40:19,051
@@ -1959,8 +1959,8 @@ Vinho?
 
 445
 00:40:19,430 --> 00:40:23,196
--Parece sangue.
--E é.
+- Parece sangue.
+- E é.
 
 446
 00:40:24,068 --> 00:40:26,059
@@ -1968,8 +1968,8 @@ Sangue da terra.
 
 447
 00:40:27,071 --> 00:40:30,063
--Por que me oferece?
--Se gostar...
+- Por que me oferece?
+- Se gostar...
 
 448
 00:40:31,576 --> 00:40:35,569
@@ -1989,8 +1989,8 @@ Muito bom! Como faz o vinho?
 
 452
 00:41:05,443 --> 00:41:07,240
--Uvas.
--Uvas?
+- Uvas.
+- Uvas?
 
 453
 00:41:07,612 --> 00:41:10,604
@@ -2003,7 +2003,7 @@ Dê-me mais. Gostei.
 455
 00:41:14,118 --> 00:41:17,110
 Não há mais.
--Não há mais? Quero mais.
+- Não há mais? Quero mais.
 
 456
 00:41:18,122 --> 00:41:20,090
@@ -2049,8 +2049,8 @@ O que faremos? Estamos presos.
 
 466
 00:42:16,814 --> 00:42:18,782
--Ele nos matará.
--Disse que estávamos demorando.
+- Ele nos matará.
+- Disse que estávamos demorando.
 
 467
 00:42:19,684 --> 00:42:21,174
@@ -2058,8 +2058,8 @@ Nunca sairemos.
 
 468
 00:42:26,691 --> 00:42:30,194
--O que está tentando?
--Não importa, traga aqui.
+- O que está tentando?
+- Não importa, traga aqui.
 
 469
 00:42:30,194 --> 00:42:32,185
@@ -2087,8 +2087,8 @@ Vou tentar nos tirar daqui.
 
 475
 00:43:05,730 --> 00:43:09,257
--Vamos matá-lo?
--Não, ele precisa tirar a pedra.
+- Vamos matá-lo?
+- Não, ele precisa tirar a pedra.
 
 476
 00:43:10,268 --> 00:43:14,261
@@ -2169,8 +2169,8 @@ Mais. Mais. Mais...
 
 495
 00:45:34,445 --> 00:45:36,413
--Mais vinho.
--Mais vinho!
+- Mais vinho.
+- Mais vinho!
 
 496
 00:45:40,785 --> 00:45:43,754
@@ -2309,8 +2309,8 @@ os gregos fizeram na sua caverna.
 
 529
 00:49:56,740 --> 00:49:59,732
--Você sabe onde estamos?
--Silêncio, deixe-me gabar.
+- Você sabe onde estamos?
+- Silêncio, deixe-me gabar.
 
 530
 00:50:00,744 --> 00:50:04,737
@@ -2361,8 +2361,8 @@ Leve vinho para os homens lá em cima.
 
 541
 00:51:19,823 --> 00:51:23,315
--Coma. Vamos, estão com sede.
--Tudo bem, já vou.
+- Coma. Vamos, estão com sede.
+- Tudo bem, já vou.
 
 542
 00:51:29,266 --> 00:51:31,257
@@ -2378,8 +2378,8 @@ Não há vento, mas há corrente.
 
 545
 00:51:57,861 --> 00:52:02,298
--Ficou feliz, não?
--Não te deu prazer também?
+- Ficou feliz, não?
+- Não te deu prazer também?
 
 546
 00:52:02,933 --> 00:52:05,902
@@ -2430,8 +2430,8 @@ Que cheiro estranho.
 
 557
 00:52:44,975 --> 00:52:47,944
--Sim, é verdade.
--Fragrância seca.
+- Sim, é verdade.
+- Fragrância seca.
 
 558
 00:52:48,946 --> 00:52:50,937
@@ -2451,8 +2451,8 @@ Olhe!
 
 562
 00:53:12,002 --> 00:53:14,470
--A pedra das sereias.
--Sereias.
+- A pedra das sereias.
+- Sereias.
 
 563
 00:53:15,005 --> 00:53:16,973
@@ -2464,8 +2464,8 @@ Temos que fugir! Elas nos matarão!
 
 565
 00:53:20,978 --> 00:53:22,969
--Vamos.
--Talvez seja tarde.
+- Vamos.
+- Talvez seja tarde.
 
 566
 00:53:23,981 --> 00:53:26,973
@@ -2498,8 +2498,8 @@ Cleitus.
 
 573
 00:53:50,040 --> 00:53:52,008
--Que foi?
--Me amarre.
+- Que foi?
+- Me amarre.
 
 574
 00:53:52,743 --> 00:53:55,007
@@ -2507,23 +2507,23 @@ Não obedeça às minhas ordens.
 
 575
 00:53:56,046 --> 00:53:58,037
--Que vai fazer?
--Quero ouvir a música.
+- Que vai fazer?
+- Quero ouvir a música.
 
 576
 00:53:58,549 --> 00:54:00,517
--Está louco!
--Amarre-me!
+- Está louco!
+- Amarre-me!
 
 577
 00:54:01,051 --> 00:54:03,019
--Se assim deseja.
--Bem forte.
+- Se assim deseja.
+- Bem forte.
 
 578
 00:54:03,520 --> 00:54:07,012
--Ponha cera no ouvido.
--Me dê.
+- Ponha cera no ouvido.
+- Me dê.
 
 579
 00:54:08,025 --> 00:54:10,016
@@ -2539,13 +2539,13 @@ Abaixe os olhos e a cabeça.
 
 582
 00:54:19,069 --> 00:54:21,060
--Que foi?
--Ele ordenou.
+- Que foi?
+- Ele ordenou.
 
 583
 00:54:22,072 --> 00:54:24,063
--Por que?
--Quero ouví-las.
+- Por que?
+- Quero ouví-las.
 
 584
 00:54:24,775 --> 00:54:26,766
@@ -2614,8 +2614,8 @@ Está em casa, em Ítaca.
 
 600
 00:55:23,967 --> 00:55:25,935
--Finalmente.
--Parem de remar!
+- Finalmente.
+- Parem de remar!
 
 601
 00:55:26,970 --> 00:55:28,938
@@ -2623,8 +2623,8 @@ Estamos em casa, em Ítaca.
 
 602
 00:55:29,940 --> 00:55:31,931
--Mudem os remos!
--Pai.
+- Mudem os remos!
+- Pai.
 
 603
 00:55:32,909 --> 00:55:34,900
@@ -2632,8 +2632,8 @@ Sou seu filho Telêmaco.
 
 604
 00:55:36,146 --> 00:55:39,138
--Telêmaco.
--Sou seu filho Telêmaco.
+- Telêmaco.
+- Sou seu filho Telêmaco.
 
 605
 00:55:40,150 --> 00:55:42,141
@@ -2646,8 +2646,8 @@ não conheço meu pai.
 
 607
 00:55:47,958 --> 00:55:51,951
--Telêmaco.
--Venha para seu filho, seu lar.
+- Telêmaco.
+- Venha para seu filho, seu lar.
 
 608
 00:55:53,163 --> 00:55:55,154
@@ -2655,8 +2655,8 @@ Seu reino, sua esposa.
 
 609
 00:55:55,599 --> 00:55:58,568
--Desamarre-me!
--Pai, não me deixe!
+- Desamarre-me!
+- Pai, não me deixe!
 
 610
 00:55:59,803 --> 00:56:01,202
@@ -2680,8 +2680,8 @@ Não me deixe.
 
 615
 00:56:59,229 --> 00:57:02,255
--O perigo passou.
--O perigo passou.
+- O perigo passou.
+- O perigo passou.
 
 616
 00:57:02,766 --> 00:57:04,757
@@ -2721,8 +2721,8 @@ Existe vento, mas a vela não enche.
 
 625
 00:57:51,314 --> 00:57:53,305
--Deve ser a corrente.
--Não há corrente.
+- Deve ser a corrente.
+- Não há corrente.
 
 626
 00:57:54,317 --> 00:57:57,309
@@ -2771,8 +2771,8 @@ Sumiram, Ulysses.
 
 637
 00:59:39,422 --> 00:59:41,413
--Quem é você?
--Circe.
+- Quem é você?
+- Circe.
 
 638
 00:59:43,693 --> 00:59:45,661
@@ -2941,8 +2941,8 @@ dormia em uma cama macia.
 
 676
 01:03:22,712 --> 01:03:25,704
--Onde estão meus homens?
--Seguros, não tema.
+- Onde estão meus homens?
+- Seguros, não tema.
 
 677
 01:03:26,716 --> 01:03:28,707
@@ -3030,8 +3030,8 @@ Para que ficasse só.
 
 697
 01:04:31,781 --> 01:04:36,775
--Como eu estou só.
--Devolva-os, demônio, bruxa, deusa...
+- Como eu estou só.
+- Devolva-os, demônio, bruxa, deusa...
 
 698
 01:04:43,793 --> 01:04:47,786
@@ -3047,13 +3047,13 @@ Ulysses.
 
 701
 01:05:18,828 --> 01:05:21,854
--Onde esteve, Ulysses?
--Como está?
+- Onde esteve, Ulysses?
+- Como está?
 
 702
 01:05:22,865 --> 01:05:25,857
--Está bem?
--Claro, comemos.
+- Está bem?
+- Claro, comemos.
 
 703
 01:05:26,869 --> 01:05:29,861
@@ -3083,8 +3083,8 @@ só por um dia maravilhoso.
 
 709
 01:05:55,898 --> 01:05:58,890
--Preciso ir.
--Eu sei.
+- Preciso ir.
+- Eu sei.
 
 710
 01:05:59,402 --> 01:06:00,892
@@ -3157,8 +3157,8 @@ de piche no navio, partiremos.
 
 726
 01:07:39,035 --> 01:07:41,503
--Poderíamos ir agora.
--Já perdemos tempo.
+- Poderíamos ir agora.
+- Já perdemos tempo.
 
 727
 01:07:42,038 --> 01:07:44,006
@@ -3240,8 +3240,8 @@ Hoje à noite haverá uma tempestade.
 
 746
 01:08:56,813 --> 01:09:00,116
--Não vê que mente?
--Ela é traidora.
+- Não vê que mente?
+- Ela é traidora.
 
 747
 01:09:00,116 --> 01:09:01,583
@@ -3340,8 +3340,8 @@ Eram apenas pequenos homens.
 
 770
 01:11:01,270 --> 01:11:06,264
--Por isso os amava.
--Nunca estarão mortos para você.
+- Por isso os amava.
+- Nunca estarão mortos para você.
 
 771
 01:11:08,277 --> 01:11:11,246
@@ -3400,8 +3400,8 @@ o Olimpo receberá um novo deus.
 
 784
 01:12:16,245 --> 01:12:19,237
--Ulysses.
--lmortal?
+- Ulysses.
+- lmortal?
 
 785
 01:12:20,149 --> 01:12:25,143
@@ -3489,8 +3489,8 @@ Não ficarei triste em fechar os olhos...
 
 804
 01:13:44,233 --> 01:13:47,202
--quando for a hora.
--Deixe-me mostrar sua felicidade.
+- quando for a hora.
+- Deixe-me mostrar sua felicidade.
 
 805
 01:14:06,455 --> 01:14:10,448
@@ -3623,8 +3623,8 @@ Ulysses.
 
 836
 01:16:03,372 --> 01:16:06,364
--Mãe!
--Vá embora. Eu não a chamei!
+- Mãe!
+- Vá embora. Eu não a chamei!
 
 837
 01:16:08,644 --> 01:16:11,613
@@ -3632,8 +3632,8 @@ Mãe, está morta.
 
 838
 01:16:13,649 --> 01:16:16,413
--Morri esperando por você.
--Vá embora!
+- Morri esperando por você.
+- Vá embora!
 
 839
 01:16:17,019 --> 01:16:20,011
@@ -3641,8 +3641,8 @@ Ficou fora muito tempo, filho.
 
 840
 01:16:23,626 --> 01:16:25,617
--Eu sei.
--Volte para Ítaca.
+- Eu sei.
+- Volte para Ítaca.
 
 841
 01:16:26,629 --> 01:16:28,620
@@ -3690,8 +3690,8 @@ O mar o aguarda.
 
 851
 01:17:13,709 --> 01:17:15,700
--Lá está.
--Onde?
+- Lá está.
+- Onde?
 
 852
 01:17:16,078 --> 01:17:18,046
@@ -3828,8 +3828,8 @@ Para isso tudo arriscará.
 
 884
 01:19:25,874 --> 01:19:29,833
--Não tenho inveja do vencedor.
--Pode não querer ser rei de Ítaca.
+- Não tenho inveja do vencedor.
+- Pode não querer ser rei de Ítaca.
 
 885
 01:19:30,879 --> 01:19:33,871
@@ -3837,8 +3837,8 @@ O novo rei deve ter sono leve.
 
 886
 01:19:34,716 --> 01:19:37,708
--Como assim?
--Haverá tigres em cada coluna.
+- Como assim?
+- Haverá tigres em cada coluna.
 
 887
 01:19:38,787 --> 01:19:41,756
@@ -3856,18 +3856,18 @@ sendo devorado por animais.
 
 890
 01:19:49,765 --> 01:19:52,734
--Não me preocupo com Ulysses.
--De quem fala?
+- Não me preocupo com Ulysses.
+- De quem fala?
 
 891
 01:19:53,502 --> 01:19:56,494
--Telêmaco.
--Telêmaco é um garoto.
+- Telêmaco.
+- Telêmaco é um garoto.
 
 892
 01:19:57,206 --> 01:20:00,539
--Você viu seus olhos?
--Como assim?
+- Você viu seus olhos?
+- Como assim?
 
 893
 01:20:02,911 --> 01:20:04,879
@@ -3916,8 +3916,8 @@ Trarei felicidade para você.
 
 904
 01:20:49,958 --> 01:20:53,917
--Você?
--Tem dúvidas que vencerei amanhã?
+- Você?
+- Tem dúvidas que vencerei amanhã?
 
 905
 01:20:55,964 --> 01:21:01,960
@@ -3951,8 +3951,8 @@ O que quiser.
 
 912
 01:21:26,995 --> 01:21:30,988
--É só pedir.
--Salve meu filho.
+- É só pedir.
+- Salve meu filho.
 
 913
 01:21:32,034 --> 01:21:33,001
@@ -4040,8 +4040,8 @@ cheio de tristeza, falava de você.
 
 933
 01:23:00,722 --> 01:23:04,089
--O que dizia?
--Ela é escura,
+- O que dizia?
+- Ela é escura,
 
 934
 01:23:05,127 --> 01:23:07,095
@@ -4331,8 +4331,8 @@ Telêmaco.
 
 1002
 01:28:52,841 --> 01:28:56,834
--Meu filho.
--Pai.
+- Meu filho.
+- Pai.
 
 1003
 01:29:02,550 --> 01:29:04,711
@@ -4352,8 +4352,8 @@ Estou ansioso para contar a todos!
 
 1007
 01:29:15,563 --> 01:29:18,555
--Eu os farei tremer de medo.
--Não diga a ninguém.
+- Eu os farei tremer de medo.
+- Não diga a ninguém.
 
 1008
 01:29:19,200 --> 01:29:21,168
@@ -4382,8 +4382,8 @@ Também deram outros conselhos.
 
 1014
 01:29:42,590 --> 01:29:44,581
--Diremos que você voltou.
--Não!
+- Diremos que você voltou.
+- Não!
 
 1015
 01:29:45,593 --> 01:29:47,584
@@ -4416,8 +4416,8 @@ Vá ou vou soltar os cachorros. Vá!
 
 1022
 01:30:27,669 --> 01:30:30,661
--Deixe-me falar com os nobres.
--Não.
+- Deixe-me falar com os nobres.
+- Não.
 
 1023
 01:30:32,373 --> 01:30:34,341
@@ -4472,8 +4472,8 @@ Fala como se já fosse senhor da casa.
 
 1035
 01:31:19,721 --> 01:31:24,681
--Somos ambos hóspedes.
--Saia, seu imundo!
+- Somos ambos hóspedes.
+- Saia, seu imundo!
 
 1036
 01:31:26,728 --> 01:31:29,697
@@ -4540,8 +4540,8 @@ Para que servem os machados?
 
 1051
 01:32:30,491 --> 01:32:33,483
--Onde está a rainha?
--Tenha paciência, Antinomus.
+- Onde está a rainha?
+- Tenha paciência, Antinomus.
 
 1052
 01:32:34,796 --> 01:32:36,764
@@ -4554,8 +4554,8 @@ não há espaço para paciência.
 
 1054
 01:32:40,635 --> 01:32:43,103
--Bom, Antinomus...
--Você se expressou por todos nós.
+- Bom, Antinomus...
+- Você se expressou por todos nós.
 
 1055
 01:32:43,838 --> 01:32:45,806
@@ -4667,7 +4667,7 @@ nunca teve? Dê-me o arco.
 1080
 01:35:13,988 --> 01:35:15,979
 - Vamos, Antinomus.
--Você consegue.
+- Você consegue.
 
 1081
 01:35:17,992 --> 01:35:18,981
@@ -4675,8 +4675,8 @@ Vamos.
 
 1082
 01:35:22,997 --> 01:35:26,524
--Deixe-o tentar, ele conseguirá.
--Conseguirá, vamos lá...
+- Deixe-o tentar, ele conseguirá.
+- Conseguirá, vamos lá...
 
 1083
 01:35:27,035 --> 01:35:29,003
@@ -4688,18 +4688,18 @@ Dobra!
 
 1085
 01:35:33,041 --> 01:35:36,602
--Não dobra, a força é sobrehumana.
--É um truque!
+- Não dobra, a força é sobrehumana.
+- É um truque!
 
 1086
 01:35:37,145 --> 01:35:39,909
--lsso é um truque.
--O tapete de Penélope.
+- lsso é um truque.
+- O tapete de Penélope.
 
 1087
 01:35:40,081 --> 01:35:41,810
--Sim.
--O tapete.
+- Sim.
+- O tapete.
 
 1088
 01:35:41,916 --> 01:35:43,406
@@ -4758,8 +4758,8 @@ Vamos, essa farsa já vai longe demais.
 
 1101
 01:36:42,110 --> 01:36:44,078
--lncrível!
--lmpossível!
+- lncrível!
+- lmpossível!
 
 1102
 01:36:55,123 --> 01:36:57,091
@@ -4767,13 +4767,13 @@ Vamos, essa farsa já vai longe demais.
 
 1103
 01:37:01,129 --> 01:37:04,121
--Ulysses.
--Leve minha rainha para segurança.
+- Ulysses.
+- Leve minha rainha para segurança.
 
 1104
 01:37:09,137 --> 01:37:12,129
--Pai!
--A outra porta.
+- Pai!
+- A outra porta.
 
 1105
 01:37:13,741 --> 01:37:14,730
@@ -4858,8 +4858,8 @@ purificarem o quarto com fogo.
 
 1124
 01:39:49,030 --> 01:39:52,329
--Que a vingança dos mortos não nos atinja.
--Sim, pai.
+- Que a vingança dos mortos não nos atinja.
+- Sim, pai.
 
 1125
 01:40:13,154 --> 01:40:16,123
@@ -4907,8 +4907,8 @@ sem imaginar
 
 1135
 01:40:51,392 --> 01:40:54,384
--tanta solidão.
--Eu estava sozinha.
+- tanta solidão.
+- Eu estava sozinha.
 
 1136
 01:40:54,695 --> 01:40:56,322
@@ -4921,8 +4921,8 @@ anos tranqüilos pela frente.
 
 1138
 01:41:02,036 --> 01:41:05,733
--Sim, juntos.
--Penélope...
+- Sim, juntos.
+- Penélope...
 
 1139
 01:41:06,741 --> 01:41:07,742

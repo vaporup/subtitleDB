@@ -895,7 +895,7 @@ But my leg is very sore.
 202
 00:27:09,311 --> 00:27:12,906
 - Perhaps I should call an ambulance.
--Well, let's have a look. Do you mind?
+- Well, let's have a look. Do you mind?
 
 203
 00:27:12,981 --> 00:27:15,449

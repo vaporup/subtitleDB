@@ -587,8 +587,8 @@ No! No! Don't kill me!
 
 144
 00:28:54,960 --> 00:28:59,158
--Kenji, aren't you going home?
--Yes.
+- Kenji, aren't you going home?
+- Yes.
 
 145
 00:29:27,120 --> 00:29:29,270
@@ -831,8 +831,8 @@ Get Noi on the phone...Noi! Noi!
 
 204
 00:44:52,320 --> 00:44:54,959
--Hallo.
--What's a fucking Hello!
+- Hallo.
+- What's a fucking Hello!
 
 205
 00:44:55,040 --> 00:45:00,273
@@ -845,7 +845,7 @@ All right.
 207
 00:45:02,480 --> 00:45:04,675
 Sorry. I'm sorry.
--Who're you? Can you hear me?
+- Who're you? Can you hear me?
 
 208
 00:45:04,760 --> 00:45:07,194
@@ -1725,8 +1725,8 @@ Thank you.
 
 426
 01:29:24,624 --> 01:29:29,493
--Thank you.
--You need it.
+- Thank you.
+- You need it.
 
 427
 01:29:42,064 --> 01:29:44,419
@@ -1872,4 +1872,3 @@ Kenji?
 462
 01:42:58,864 --> 01:43:02,095
 Noi, someone's here to see you.
-

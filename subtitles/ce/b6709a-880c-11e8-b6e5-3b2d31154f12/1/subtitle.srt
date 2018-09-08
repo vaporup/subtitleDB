@@ -4,8 +4,8 @@ Will!
 
 2
 00:02:22,447 --> 00:02:25,359
--Why is this happening?
--I don't know.
+- Why is this happening?
+- I don't know.
 
 3
 00:02:26,607 --> 00:02:28,677
@@ -33,8 +33,8 @@ it's been too long.
 
 8
 00:02:44,127 --> 00:02:47,563
--Cutler Beckett?
--It's Lord now, actually.
+- Cutler Beckett?
+- It's Lord now, actually.
 
 9
 00:02:49,207 --> 00:02:54,281
@@ -52,13 +52,13 @@ of one William Turner.
 
 12
 00:03:07,727 --> 00:03:12,118
--This warrant is for Elizabeth Swann.
--Oh, is it? That's annoying. My mistake.
+- This warrant is for Elizabeth Swann.
+- Oh, is it? That's annoying. My mistake.
 
 13
 00:03:12,207 --> 00:03:14,516
--Arrest her.
--On what charges?
+- Arrest her.
+- On what charges?
 
 14
 00:03:14,607 --> 00:03:18,122
@@ -71,8 +71,8 @@ for a Mr. James Norrington.
 
 16
 00:03:22,247 --> 00:03:24,317
--Is he present?
--What are the charges?
+- Is he present?
+- What are the charges?
 
 17
 00:03:24,407 --> 00:03:27,956
@@ -195,8 +195,8 @@ I didn't think so.
 
 44
 00:06:45,447 --> 00:06:49,201
--Not quite according to plan.
--Complications arose, ensued,
+- Not quite according to plan.
+- Complications arose, ensued,
 
 45
 00:06:49,287 --> 00:06:51,243
@@ -204,8 +204,8 @@ were overcome.
 
 46
 00:06:52,607 --> 00:06:55,917
--You got what you went in for, then?
--Mm-hm.
+- You got what you went in for, then?
+- Mm-hm.
 
 47
 00:06:58,167 --> 00:07:01,204
@@ -229,8 +229,8 @@ around the Atlantic.
 
 51
 00:07:11,247 --> 00:07:13,841
--And the hurricane.
--<i>(all)</i> Aye.
+- And the hurricane.
+- <i>(all)</i> Aye.
 
 52
 00:07:13,927 --> 00:07:19,445
@@ -239,8 +239,8 @@ since we did a speck of honest pirating.
 
 53
 00:07:20,607 --> 00:07:23,405
--Shiny.
--Aye, shiny.
+- Shiny.
+- Aye, shiny.
 
 54
 00:07:24,487 --> 00:07:26,398
@@ -257,8 +257,8 @@ your best interests as captain?
 
 57
 00:07:34,007 --> 00:07:36,885
--What did the bird say?
--Do not blame the bird.
+- What did the bird say?
+- Do not blame the bird.
 
 58
 00:07:36,967 --> 00:07:40,198
@@ -267,13 +267,13 @@ that piece of cloth there.
 
 59
 00:07:48,007 --> 00:07:51,443
--You know that don't do no good.
--<i>(Jack)</i> It does me.
+- You know that don't do no good.
+- <i>(Jack)</i> It does me.
 
 60
 00:07:53,327 --> 00:07:56,524
--It's a key.
--No. Much more better.
+- It's a key.
+- No. Much more better.
 
 61
 00:07:57,647 --> 00:08:00,366
@@ -503,13 +503,13 @@ face the hangman's noose.
 
 112
 00:11:17,047 --> 00:11:21,598
--So you get Jack and the <i>Black Pearl</i>.
--The <i>Black Pearl</i>?
+- So you get Jack and the <i>Black Pearl</i>.
+- The <i>Black Pearl</i>?
 
 113
 00:11:21,687 --> 00:11:25,726
--The property you want that he possesses.
--A ship? Hardly.
+- The property you want that he possesses.
+- A ship? Hardly.
 
 114
 00:11:25,807 --> 00:11:29,720
@@ -698,8 +698,8 @@ from the depths for you.
 
 157
 00:15:18,447 --> 00:15:20,278
--Technically...
--Jack.
+- Technically...
+- Jack.
 
 158
 00:15:20,367 --> 00:15:22,676
@@ -782,18 +782,18 @@ the devil himself and itself is upon us!
 
 175
 00:16:28,647 --> 00:16:31,878
--Do we have a heading?
--Argh! Run! Land.
+- Do we have a heading?
+- Argh! Run! Land.
 
 176
 00:16:36,807 --> 00:16:40,356
--Which port?
--I didn't say "port", I said "land". Any land.
+- Which port?
+- I didn't say "port", I said "land". Any land.
 
 177
 00:16:46,487 --> 00:16:49,559
--Jack's hat! Bring her about!
--<i>(Jack)</i> No, no!
+- Jack's hat! Bring her about!
+- <i>(Jack)</i> No, no!
 
 178
 00:16:49,647 --> 00:16:51,842
@@ -810,8 +810,8 @@ the lot of you!
 
 181
 00:17:06,807 --> 00:17:08,399
--Jack?
--Shh.
+- Jack?
+- Shh.
 
 182
 00:17:08,487 --> 00:17:13,720
@@ -836,8 +836,8 @@ Nothing.
 
 187
 00:18:25,847 --> 00:18:29,920
--Here, now, you can't be here.
--I think you'll find he can.
+- Here, now, you can't be here.
+- I think you'll find he can.
 
 188
 00:18:30,007 --> 00:18:31,406
@@ -919,8 +919,8 @@ to marry you.
 
 205
 00:19:21,367 --> 00:19:24,564
--Properly?
--Eagerly, if you'll still have me.
+- Properly?
+- Eagerly, if you'll still have me.
 
 206
 00:19:25,607 --> 00:19:29,486
@@ -929,8 +929,8 @@ I'd have you already.
 
 207
 00:19:35,687 --> 00:19:40,044
--I'll wait for you.
--Keep a weather eye on the horizon.
+- I'll wait for you.
+- Keep a weather eye on the horizon.
 
 208
 00:19:49,127 --> 00:19:51,197
@@ -996,13 +996,13 @@ My brother will take you ashore.
 
 222
 00:20:50,407 --> 00:20:53,240
--What's wrong? The beach is there.
--<i>C'est trop dangereux.</i>
+- What's wrong? The beach is there.
+- <i>C'est trop dangereux.</i>
 
 223
 00:20:53,327 --> 00:20:56,637
--What?
--<i>C'est trop dangereux, je vous l'avais dit.</i>
+- What?
+- <i>C'est trop dangereux, je vous l'avais dit.</i>
 
 224
 00:20:58,047 --> 00:21:00,003
@@ -1030,8 +1030,8 @@ Anybody?
 
 230
 00:21:46,367 --> 00:21:48,881
--Ah. A familiar face.
--<i>(squawks)</i>
+- Ah. A familiar face.
+- <i>(squawks)</i>
 
 231
 00:21:48,967 --> 00:21:50,685
@@ -1039,8 +1039,8 @@ Don't eat me.
 
 232
 00:21:50,767 --> 00:21:53,645
--I'm not going to eat you.
--Don't eat me.
+- I'm not going to eat you.
+- Don't eat me.
 
 233
 00:21:53,727 --> 00:21:56,195
@@ -1097,8 +1097,8 @@ Will Turner.
 
 246
 00:24:15,367 --> 00:24:18,882
--Tell them to let me down!
--<i>(cannibals' language)</i>
+- Tell them to let me down!
+- <i>(cannibals' language)</i>
 
 247
 00:24:19,647 --> 00:24:21,558
@@ -1107,7 +1107,7 @@ Will Turner.
 248
 00:24:27,367 --> 00:24:31,076
 ...eunuchy. Snip, snip.
--<i>(cannibals murmur)</i>
+- <i>(cannibals murmur)</i>
 
 249
 00:24:31,167 --> 00:24:33,317
@@ -1166,8 +1166,8 @@ Come a little closer.
 
 262
 00:25:14,447 --> 00:25:18,645
--We don't bite.
--Go on. We won't bite you.
+- We don't bite.
+- Go on. We won't bite you.
 
 263
 00:25:21,047 --> 00:25:23,515
@@ -1175,8 +1175,8 @@ Come quickly.
 
 264
 00:25:23,607 --> 00:25:26,758
--Tell me what's happening.
--Our name still has some standing.
+- Tell me what's happening.
+- Our name still has some standing.
 
 265
 00:25:26,847 --> 00:25:30,044
@@ -1193,8 +1193,8 @@ We cannot count on William Turner.
 
 268
 00:25:34,327 --> 00:25:37,364
--Come!
--He's better than you give him credit for.
+- Come!
+- He's better than you give him credit for.
 
 269
 00:25:37,447 --> 00:25:40,723
@@ -1222,8 +1222,8 @@ for Will if he returns.
 
 274
 00:25:55,087 --> 00:25:59,956
--A fair trial for Will ends in a hanging.
--Then there is nothing left for you here.
+- A fair trial for Will ends in a hanging.
+- Then there is nothing left for you here.
 
 275
 00:26:03,847 --> 00:26:05,758
@@ -1263,8 +1263,8 @@ It's a letter to the king.
 
 284
 00:26:30,847 --> 00:26:33,077
--It's from you.
--No...
+- It's from you.
+- No...
 
 285
 00:26:36,327 --> 00:26:38,443
@@ -1276,8 +1276,8 @@ What are you doing?
 
 287
 00:26:44,007 --> 00:26:46,396
--Where is she?
--Who?
+- Where is she?
+- Who?
 
 288
 00:26:46,487 --> 00:26:48,364
@@ -1308,8 +1308,8 @@ to some sort of understanding.
 
 294
 00:27:21,487 --> 00:27:24,559
--I'm here to negotiate.
--I'm listening.
+- I'm here to negotiate.
+- I'm listening.
 
 295
 00:27:27,007 --> 00:27:29,202
@@ -1336,8 +1336,8 @@ owned by Jack Sparrow.
 
 300
 00:27:44,687 --> 00:27:48,236
--It will do you no good.
--Do explain.
+- It will do you no good.
+- Do explain.
 
 301
 00:27:48,327 --> 00:27:52,923
@@ -1413,8 +1413,8 @@ to ensure Jack Sparrow's freedom.
 
 317
 00:28:44,447 --> 00:28:46,881
--These aren't going to Jack.
--Oh, really?
+- These aren't going to Jack.
+- Oh, really?
 
 318
 00:28:46,967 --> 00:28:49,606
@@ -1462,8 +1462,8 @@ We gotta take care of our immortal souls.
 
 328
 00:29:40,767 --> 00:29:44,396
--You know you can't read.
--It's the Bible. You get credit for trying.
+- You know you can't read.
+- It's the Bible. You get credit for trying.
 
 329
 00:29:44,487 --> 00:29:49,720
@@ -1516,8 +1516,8 @@ Come on!
 
 341
 00:30:36,687 --> 00:30:40,760
--It's ours for the taking.
--Tide's coming in. That should help.
+- It's ours for the taking.
+- Tide's coming in. That should help.
 
 342
 00:30:40,847 --> 00:30:43,520
@@ -1679,8 +1679,8 @@ Oh, dear.
 
 378
 00:35:17,127 --> 00:35:19,687
--Hurry!
--Come on!
+- Hurry!
+- Come on!
 
 379
 00:35:23,287 --> 00:35:25,596
@@ -1688,8 +1688,8 @@ Come on! Is that all you got?
 
 380
 00:35:32,927 --> 00:35:35,361
--Wait. Stop.
--Eh?
+- Wait. Stop.
+- Eh?
 
 381
 00:35:35,847 --> 00:35:38,077
@@ -1701,13 +1701,13 @@ Shh.
 
 383
 00:35:49,647 --> 00:35:51,956
--<i>(Marty)</i> What are they doing?
--Stop.
+- <i>(Marty)</i> What are they doing?
+- Stop.
 
 384
 00:35:58,407 --> 00:36:00,875
--Snake!
--<i>(screaming)</i>
+- Snake!
+- <i>(screaming)</i>
 
 385
 00:36:16,807 --> 00:36:18,559
@@ -1756,8 +1756,8 @@ Come on!
 
 396
 00:38:00,687 --> 00:38:05,442
--Lift the cage! Hurry!
--Come on, lads. Lift it like a lady's skirt.
+- Lift the cage! Hurry!
+- Come on, lads. Lift it like a lady's skirt.
 
 397
 00:38:22,447 --> 00:38:24,324
@@ -1822,8 +1822,8 @@ Give it back!
 
 412
 00:41:11,247 --> 00:41:14,444
--Don't bite it!
--<i>(Pintel)</i> Haul loose the mooring line!
+- Don't bite it!
+- <i>(Pintel)</i> Haul loose the mooring line!
 
 413
 00:41:14,927 --> 00:41:16,963
@@ -1832,8 +1832,8 @@ He won't give it back.
 
 414
 00:41:17,047 --> 00:41:20,357
--How'd you get it back last time?
--Excellent! Our work's half done.
+- How'd you get it back last time?
+- Excellent! Our work's half done.
 
 415
 00:41:20,447 --> 00:41:22,836
@@ -1842,18 +1842,18 @@ knowing you'd be coming back.
 
 416
 00:41:22,927 --> 00:41:25,725
--Make ready to sail, boys!
--What about Jack?
+- Make ready to sail, boys!
+- What about Jack?
 
 417
 00:41:25,807 --> 00:41:29,038
--I won't leave without him.
--<i>(Jack)</i> Oi!
+- I won't leave without him.
+- <i>(Jack)</i> Oi!
 
 418
 00:41:36,807 --> 00:41:39,685
--Time to go.
--Cast off those lines!
+- Time to go.
+- Cast off those lines!
 
 419
 00:41:44,887 --> 00:41:47,685
@@ -1861,8 +1861,8 @@ Aaargh!
 
 420
 00:41:48,087 --> 00:41:50,965
--Make ready to cast off!
--Oi!
+- Make ready to cast off!
+- Oi!
 
 421
 00:41:54,367 --> 00:41:56,642
@@ -1934,8 +1934,8 @@ I must trade it for her freedom.
 
 436
 00:43:29,087 --> 00:43:31,647
--Mr. Gibbs.
--Captain.
+- Mr. Gibbs.
+- Captain.
 
 437
 00:43:31,727 --> 00:43:34,639
@@ -1977,8 +1977,8 @@ to find this.
 
 446
 00:44:00,727 --> 00:44:03,116
--You want me to find this?
--No.
+- You want me to find this?
+- No.
 
 447
 00:44:04,207 --> 00:44:06,562
@@ -2197,23 +2197,23 @@ Before.
 
 495
 00:48:09,087 --> 00:48:11,920
--I'll watch your back.
--It's me front I'm worried about.
+- I'll watch your back.
+- It's me front I'm worried about.
 
 496
 00:48:12,007 --> 00:48:14,396
--Mind the boat.
--Mind the boat.
+- Mind the boat.
+- Mind the boat.
 
 497
 00:48:15,207 --> 00:48:17,675
--Mind the boat.
--Mind the boat.
+- Mind the boat.
+- Mind the boat.
 
 498
 00:48:17,767 --> 00:48:19,758
--Mind the boat.
--<i>(squawks)</i>
+- Mind the boat.
+- <i>(squawks)</i>
 
 499
 00:48:19,847 --> 00:48:21,917
@@ -2263,13 +2263,13 @@ for help and we're not leaving without it.
 
 510
 00:49:11,004 --> 00:49:14,519
--I thought I knew you.
--Not so well as I had hoped.
+- I thought I knew you.
+- Not so well as I had hoped.
 
 511
 00:49:14,604 --> 00:49:16,674
--Come.
--Come.
+- Come.
+- Come.
 
 512
 00:49:20,244 --> 00:49:24,556
@@ -2277,8 +2277,8 @@ What service may I do you?
 
 513
 00:49:25,244 --> 00:49:29,032
--You know I demand payment.
--I brought payment. <i>(whistles)</i>
+- You know I demand payment.
+- I brought payment. <i>(whistles)</i>
 
 514
 00:49:32,484 --> 00:49:34,395
@@ -2346,8 +2346,8 @@ you seek, don't it?
 
 529
 00:50:28,684 --> 00:50:31,482
--What is inside?
--Gold?
+- What is inside?
+- Gold?
 
 530
 00:50:31,564 --> 00:50:35,477
@@ -2389,8 +2389,8 @@ What indeed?
 
 539
 00:51:00,924 --> 00:51:02,835
--The sea.
--Sums.
+- The sea.
+- Sums.
 
 540
 00:51:02,924 --> 00:51:05,802
@@ -2493,8 +2493,8 @@ he keep with him at all times.
 
 563
 00:52:16,644 --> 00:52:20,193
--You knew this.
--I did not. I didn't know where the key was.
+- You knew this.
+- I did not. I didn't know where the key was.
 
 564
 00:52:20,284 --> 00:52:24,323
@@ -2516,8 +2516,8 @@ Let me see your hand.
 
 568
 00:52:46,284 --> 00:52:49,674
--<i>(Ragetti moans)</i> The black spot!
--<i>(Pintel)</i> Black spot!
+- <i>(Ragetti moans)</i> The black spot!
+- <i>(Pintel)</i> Black spot!
 
 569
 00:52:50,084 --> 00:52:53,042
@@ -2565,8 +2565,8 @@ Dirt.
 
 579
 00:53:32,644 --> 00:53:36,159
--This is a jar of dirt.
--Yes.
+- This is a jar of dirt.
+- Yes.
 
 580
 00:53:38,404 --> 00:53:41,157
@@ -2578,8 +2578,8 @@ If you don't want it, give it back.
 
 582
 00:53:44,524 --> 00:53:47,561
--No.
--Then it helps.
+- No.
+- Then it helps.
 
 583
 00:53:49,684 --> 00:53:54,519
@@ -2596,8 +2596,8 @@ That's the <i>Flying Dutchman</i>?
 
 586
 00:54:20,324 --> 00:54:22,997
--She doesn't look like much.
--Neither do you.
+- She doesn't look like much.
+- Neither do you.
 
 587
 00:54:23,084 --> 00:54:25,314
@@ -2605,8 +2605,8 @@ Do not underestimate her.
 
 588
 00:54:26,724 --> 00:54:30,956
--Must have run afoul of the reef.
--So, what's your plan, then?
+- Must have run afoul of the reef.
+- So, what's your plan, then?
 
 589
 00:54:31,044 --> 00:54:34,354
@@ -2641,8 +2641,8 @@ Jack Sparrow sent you to settle his debt.
 
 596
 00:54:55,444 --> 00:54:59,198
--It might save your life.
--<i>(Ragetti)</i> Bon voyage!
+- It might save your life.
+- <i>(Ragetti)</i> Bon voyage!
 
 597
 00:55:03,004 --> 00:55:05,472
@@ -2658,8 +2658,8 @@ Sailor.
 
 600
 00:55:46,564 --> 00:55:49,032
--Hoisting the jib, Captain's orders.
--Sailor!
+- Hoisting the jib, Captain's orders.
+- Sailor!
 
 601
 00:55:49,124 --> 00:55:51,399
@@ -2886,8 +2886,8 @@ One soul to serve on your ship.
 
 654
 01:00:41,564 --> 01:00:44,681
--One soul is not equal to another.
--Aha!
+- One soul is not equal to another.
+- Aha!
 
 655
 01:00:44,764 --> 01:00:51,033
@@ -3018,13 +3018,13 @@ Three days.
 
 684
 01:02:35,564 --> 01:02:37,634
--Three days.
--<i>(whimpers)</i>
+- Three days.
+- <i>(whimpers)</i>
 
 685
 01:02:44,924 --> 01:02:47,722
--Er, Mr. Gibbs.
--Aye.
+- Er, Mr. Gibbs.
+- Aye.
 
 686
 01:02:47,804 --> 01:02:50,318
@@ -3117,18 +3117,18 @@ Look, there! There it is!
 
 706
 01:04:23,684 --> 01:04:26,152
--There's the sign!
--That's seaweed.
+- There's the sign!
+- That's seaweed.
 
 707
 01:04:26,244 --> 01:04:29,202
--Seaweed can be a sign.
--Looks like entrails.
+- Seaweed can be a sign.
+- Looks like entrails.
 
 708
 01:04:29,284 --> 01:04:34,153
--That would be a bad sign.
--<i>(deep voice)</i> What's that over there?
+- That would be a bad sign.
+- <i>(deep voice)</i> What's that over there?
 
 709
 01:04:51,724 --> 01:04:54,796
@@ -3167,18 +3167,18 @@ if I live or die.
 
 717
 01:05:13,044 --> 01:05:15,956
--Perfect. Next!
--I know what I want. I know what I want...
+- Perfect. Next!
+- I know what I want. I know what I want...
 
 718
 01:05:16,044 --> 01:05:20,003
--Me have one arm and a bum leg.
--It's the crow's nest for you.
+- Me have one arm and a bum leg.
+- It's the crow's nest for you.
 
 719
 01:05:20,084 --> 01:05:22,154
--I know what I want.
--<i>(Gibbs)</i> Next!
+- I know what I want.
+- <i>(Gibbs)</i> Next!
 
 720
 01:05:22,244 --> 01:05:27,637
@@ -3196,8 +3196,8 @@ Thanks very much.
 
 723
 01:05:32,684 --> 01:05:37,633
--<i>(Jack)</i> How we going?
--Including those four, that gives us... four.
+- <i>(Jack)</i> How we going?
+- Including those four, that gives us... four.
 
 724
 01:05:40,964 --> 01:05:43,034
@@ -3231,8 +3231,8 @@ and my life.
 
 731
 01:06:06,484 --> 01:06:11,114
--Commodore?
--No, not any more. Weren't you listening?
+- Commodore?
+- No, not any more. Weren't you listening?
 
 732
 01:06:14,004 --> 01:06:16,472
@@ -3289,8 +3289,8 @@ Sorry. Old habits and all that.
 
 745
 01:06:58,684 --> 01:07:02,074
--Easy, sailor!
--That's our captain you're threatening.
+- Easy, sailor!
+- That's our captain you're threatening.
 
 746
 01:07:06,804 --> 01:07:08,442
@@ -3298,13 +3298,13 @@ Sorry. Old habits and all that.
 
 747
 01:07:14,724 --> 01:07:16,635
--Time to go.
--Aye!
+- Time to go.
+- Aye!
 
 748
 01:07:59,444 --> 01:08:02,402
--Thanks, mate.
--Aargh!
+- Thanks, mate.
+- Aargh!
 
 749
 01:08:06,844 --> 01:08:08,675
@@ -3358,8 +3358,8 @@ Heave!
 
 761
 01:09:38,924 --> 01:09:42,234
--Heave!
--Heave!
+- Heave!
+- Heave!
 
 762
 01:09:45,004 --> 01:09:48,838
@@ -3375,8 +3375,8 @@ Set to it!
 
 765
 01:09:58,884 --> 01:10:01,682
--Step aside.
--Hey! Mind yourself!
+- Step aside.
+- Hey! Mind yourself!
 
 766
 01:10:02,084 --> 01:10:04,393
@@ -3397,13 +3397,13 @@ to stay on 'em!
 
 770
 01:10:27,924 --> 01:10:32,793
--No!
--Impeding me in my duties?
+- No!
+- Impeding me in my duties?
 
 771
 01:10:32,884 --> 01:10:36,559
--You'll share the punishment.
--I'll take it all.
+- You'll share the punishment.
+- I'll take it all.
 
 772
 01:10:36,644 --> 01:10:38,919
@@ -3453,8 +3453,8 @@ No.
 
 783
 01:11:35,724 --> 01:11:37,635
--Bosun!
--No!
+- Bosun!
+- No!
 
 784
 01:12:09,444 --> 01:12:11,355
@@ -3470,8 +3470,8 @@ No.
 
 787
 01:12:23,404 --> 01:12:26,237
--Will.
--I don't need your help.
+- Will.
+- I don't need your help.
 
 788
 01:12:27,924 --> 01:12:33,999
@@ -3555,13 +3555,13 @@ So the captain has the key?
 
 806
 01:13:50,604 --> 01:13:53,277
--Where is the key?
--Hidden.
+- Where is the key?
+- Hidden.
 
 807
 01:13:53,644 --> 01:13:56,317
--Where is the chest?
--Hidden.
+- Where is the chest?
+- Hidden.
 
 808
 01:13:59,364 --> 01:14:01,116
@@ -3601,8 +3601,8 @@ It should be a dress or nothing.
 
 816
 01:14:23,284 --> 01:14:26,242
--I happen to have no dress in my cabin.
--Jack.
+- I happen to have no dress in my cabin.
+- Jack.
 
 817
 01:14:28,364 --> 01:14:31,481
@@ -3642,8 +3642,8 @@ The captain of the <i>Flying Dutchman</i>?
 
 825
 01:14:56,284 --> 01:14:59,515
--You look awful. What are you doing here?
--You hired me.
+- You look awful. What are you doing here?
+- You hired me.
 
 826
 01:14:59,604 --> 01:15:01,754
@@ -3651,8 +3651,8 @@ I can't help it if your standards are lax.
 
 827
 01:15:01,844 --> 01:15:04,597
--You smell funny.
--Jack!
+- You smell funny.
+- Jack!
 
 828
 01:15:05,004 --> 01:15:07,677
@@ -3674,13 +3674,13 @@ a way to save Will most.
 
 832
 01:15:23,124 --> 01:15:26,833
--And you'd have a way of doing that?
--Well...
+- And you'd have a way of doing that?
+- Well...
 
 833
 01:15:26,924 --> 01:15:30,041
--there is a chest.
--Oh, dear.
+- there is a chest.
+- Oh, dear.
 
 834
 01:15:30,124 --> 01:15:32,354
@@ -3750,8 +3750,8 @@ Oh, Jack.
 
 849
 01:16:30,724 --> 01:16:34,319
--Are you telling the truth?
--Every word, love.
+- Are you telling the truth?
+- Every word, love.
 
 850
 01:16:34,404 --> 01:16:36,759
@@ -3764,18 +3764,18 @@ is it not?
 
 852
 01:16:42,404 --> 01:16:47,159
--To save Will.
--By finding the chest of Davy Jones.
+- To save Will.
+- By finding the chest of Davy Jones.
 
 853
 01:17:01,613 --> 01:17:03,843
--Mr. Gibbs!
--Cap'n.
+- Mr. Gibbs!
+- Cap'n.
 
 854
 01:17:03,933 --> 01:17:06,083
--We have our heading.
--Finally!
+- We have our heading.
+- Finally!
 
 855
 01:17:06,173 --> 01:17:10,564
@@ -3784,8 +3784,8 @@ Weigh anchor and crowd that canvas!
 
 856
 01:17:10,653 --> 01:17:13,804
--Miss Swann.
--<i>(Gibb shouts orders to crew)</i>
+- Miss Swann.
+- <i>(Gibb shouts orders to crew)</i>
 
 857
 01:17:14,733 --> 01:17:18,009
@@ -3808,8 +3808,8 @@ in the whereabouts of your daughter.
 
 861
 01:17:36,173 --> 01:17:39,529
--You have news of her?
--Most recently seen on Tortuga,
+- You have news of her?
+- Most recently seen on Tortuga,
 
 862
 01:17:39,613 --> 01:17:43,401
@@ -3897,8 +3897,8 @@ Wondering how it's played?
 
 881
 01:19:10,293 --> 01:19:12,090
--I understand.
--Liar!
+- I understand.
+- Liar!
 
 882
 01:19:12,173 --> 01:19:17,531
@@ -3907,8 +3907,8 @@ includes all the dice, not just your own.
 
 883
 01:19:17,893 --> 01:19:20,805
--What are they wagering?
--Oh, the only thing we have.
+- What are they wagering?
+- Oh, the only thing we have.
 
 884
 01:19:20,893 --> 01:19:23,168
@@ -3916,8 +3916,8 @@ Years of service.
 
 885
 01:19:25,213 --> 01:19:29,252
--So any crew member can be challenged?
--Aye. Anyone.
+- So any crew member can be challenged?
+- Aye. Anyone.
 
 886
 01:19:32,013 --> 01:19:34,652
@@ -3933,8 +3933,8 @@ I accept, mate.
 
 889
 01:20:07,413 --> 01:20:12,726
--The stakes?
--My soul. An eternity of servitude.
+- The stakes?
+- My soul. An eternity of servitude.
 
 890
 01:20:12,813 --> 01:20:14,929
@@ -3950,8 +3950,8 @@ I want this.
 
 893
 01:20:33,453 --> 01:20:38,163
--How do you know of the key?
--That's not part of the game, is it?
+- How do you know of the key?
+- That's not part of the game, is it?
 
 894
 01:20:41,213 --> 01:20:43,727
@@ -3959,8 +3959,8 @@ You can still walk away.
 
 895
 01:21:07,413 --> 01:21:10,371
--What's this?
--I'm in. Matching his wager.
+- What's this?
+- I'm in. Matching his wager.
 
 896
 01:21:10,453 --> 01:21:13,251
@@ -4122,8 +4122,8 @@ Now go.
 
 934
 01:26:20,493 --> 01:26:23,053
--They'll know you helped me.
--<i>(laughs)</i>
+- They'll know you helped me.
+- <i>(laughs)</i>
 
 935
 01:26:24,373 --> 01:26:26,284
@@ -4153,8 +4153,8 @@ I promise.
 
 941
 01:27:02,493 --> 01:27:04,529
--<i>(Gibbs)</i> Beckett?
--<i>(Elizabeth)</i> Yes, they're signed.
+- <i>(Gibbs)</i> Beckett?
+- <i>(Elizabeth)</i> Yes, they're signed.
 
 942
 01:27:04,613 --> 01:27:07,047
@@ -4181,8 +4181,8 @@ Of course.
 
 947
 01:27:18,773 --> 01:27:22,368
--He wants the chest.
--Yes, he did say something about a chest.
+- He wants the chest.
+- Yes, he did say something about a chest.
 
 948
 01:27:22,453 --> 01:27:25,923
@@ -4191,8 +4191,8 @@ they controls the sea.
 
 949
 01:27:26,013 --> 01:27:29,608
--A truly discomfiting notion, love.
--And bad.
+- A truly discomfiting notion, love.
+- And bad.
 
 950
 01:27:29,693 --> 01:27:33,208
@@ -4215,8 +4215,8 @@ as to how you came by these?
 
 954
 01:27:41,773 --> 01:27:43,604
--Persuasion.
--Friendly?
+- Persuasion.
+- Friendly?
 
 955
 01:27:43,693 --> 01:27:45,251
@@ -4243,8 +4243,8 @@ for such a low price.
 
 960
 01:27:58,053 --> 01:28:00,442
--Jack, the letters, give them back.
--No.
+- Jack, the letters, give them back.
+- No.
 
 961
 01:28:00,533 --> 01:28:02,763
@@ -4270,8 +4270,8 @@ to look like that while thinking about me.
 
 966
 01:28:34,933 --> 01:28:37,003
--I don't know what you mean.
--I think you do.
+- I don't know what you mean.
+- I think you do.
 
 967
 01:28:37,093 --> 01:28:40,005
@@ -4317,8 +4317,8 @@ bringing some omen of ill-fate.
 
 976
 01:29:37,213 --> 01:29:40,489
--That's foolish.
--Oh, yes. Exceedingly foolish.
+- That's foolish.
+- Oh, yes. Exceedingly foolish.
 
 977
 01:29:40,573 --> 01:29:46,330
@@ -4340,18 +4340,18 @@ may have jumped ship there.
 
 981
 01:29:55,213 --> 01:29:57,966
--Why do you ask?
--Captain! A ship's been spotted.
+- Why do you ask?
+- Captain! A ship's been spotted.
 
 982
 01:29:58,053 --> 01:30:00,772
--Colors?
--She isn't flying any.
+- Colors?
+- She isn't flying any.
 
 983
 01:30:00,853 --> 01:30:02,764
--Pirates.
--Or worse.
+- Pirates.
+- Or worse.
 
 984
 01:30:13,773 --> 01:30:17,209
@@ -4414,8 +4414,8 @@ Hard to port then hard to starboard.
 
 998
 01:31:26,893 --> 01:31:30,249
--Free the rudder!
--Hard to port!
+- Free the rudder!
+- Hard to port!
 
 999
 01:31:34,453 --> 01:31:37,126
@@ -4423,8 +4423,8 @@ Hard to port then hard to starboard.
 
 1000
 01:31:37,213 --> 01:31:40,569
--Kraken!
--Kraken!
+- Kraken!
+- Kraken!
 
 1001
 01:31:53,493 --> 01:31:56,326
@@ -4469,8 +4469,8 @@ You need time alone with your thoughts.
 
 1011
 01:34:18,413 --> 01:34:20,847
--Brig!
--What of the survivors?
+- Brig!
+- What of the survivors?
 
 1012
 01:34:26,133 --> 01:34:29,364
@@ -4577,8 +4577,8 @@ You will come over to my side. I know it.
 
 1036
 01:36:29,653 --> 01:36:34,727
--You seem very certain.
--One word, love. Curiosity.
+- You seem very certain.
+- One word, love. Curiosity.
 
 1037
 01:36:34,813 --> 01:36:36,371
@@ -4620,8 +4620,8 @@ when you have a chance to show it.
 
 1046
 01:37:02,453 --> 01:37:05,604
--To do the right thing.
--I love those moments.
+- To do the right thing.
+- I love those moments.
 
 1047
 01:37:06,093 --> 01:37:08,288
@@ -4651,8 +4651,8 @@ Oh, I have faith in you.
 
 1053
 01:37:24,973 --> 01:37:27,771
--Want to know why?
--Do tell, dearie.
+- Want to know why?
+- Do tell, dearie.
 
 1054
 01:37:29,493 --> 01:37:32,371
@@ -4703,13 +4703,13 @@ I want my jar of dirt.
 
 1065
 01:38:21,133 --> 01:38:23,931
--You're pulling too fast.
--You're pulling too slow.
+- You're pulling too fast.
+- You're pulling too slow.
 
 1066
 01:38:24,013 --> 01:38:28,928
--We don't want the kraken to catch us.
--I'm saving me strength for when it comes.
+- We don't want the kraken to catch us.
+- I'm saving me strength for when it comes.
 
 1067
 01:38:29,013 --> 01:38:33,245
@@ -4718,8 +4718,8 @@ I always heard it said "krayken".
 
 1068
 01:38:33,333 --> 01:38:34,891
--With a long <i>a</i>?
--Uh-huh.
+- With a long <i>a</i>?
+- Uh-huh.
 
 1069
 01:38:34,973 --> 01:38:38,682
@@ -4760,13 +4760,13 @@ You're sitting on it.
 
 1077
 01:39:42,173 --> 01:39:43,811
--Beg pardon?
--Move.
+- Beg pardon?
+- Move.
 
 1078
 01:39:51,213 --> 01:39:53,886
--"Guard the boat!" "Mind the tide!"
--I could join the circus.
+- "Guard the boat!" "Mind the tide!"
+- I could join the circus.
 
 1079
 01:39:53,973 --> 01:39:55,531
@@ -4788,8 +4788,8 @@ what awaits you should you fail!
 
 1083
 01:40:11,133 --> 01:40:14,011
--Down, then!
--Down!
+- Down, then!
+- Down!
 
 1084
 01:40:35,533 --> 01:40:36,886
@@ -4840,8 +4840,8 @@ Not so easy, is it?
 
 1095
 01:41:51,933 --> 01:41:54,447
--But I do owe you thanks, Jack.
--You do?
+- But I do owe you thanks, Jack.
+- You do?
 
 1096
 01:41:54,533 --> 01:41:58,526
@@ -4850,8 +4850,8 @@ to square your debt with Jones...
 
 1097
 01:41:58,613 --> 01:42:00,569
--What?
--<i>(imitates Elizabeth)</i> What?
+- What?
+- <i>(imitates Elizabeth)</i> What?
 
 1098
 01:42:01,133 --> 01:42:03,693
@@ -4953,8 +4953,8 @@ Hyah!
 
 1121
 01:43:24,973 --> 01:43:27,965
--Guard the chest!
--No!
+- Guard the chest!
+- No!
 
 1122
 01:43:28,053 --> 01:43:32,729
@@ -4977,8 +4977,8 @@ rum-soaked pirates!
 
 1126
 01:43:48,093 --> 01:43:53,042
--How'd this go all screwy?
--Well, each wants the chest for hisself.
+- How'd this go all screwy?
+- Well, each wants the chest for hisself.
 
 1127
 01:43:53,133 --> 01:43:56,170
@@ -5002,8 +5002,8 @@ twice-cursed pirate father. <i>(belches)</i>
 
 1131
 01:44:06,373 --> 01:44:08,250
--Sad.
--<i>(Elizabeth)</i> This is madness!
+- Sad.
+- <i>(Elizabeth)</i> This is madness!
 
 1132
 01:44:08,333 --> 01:44:11,962
@@ -5062,8 +5062,8 @@ while I kill the man who ruined my life.
 
 1145
 01:46:50,693 --> 01:46:54,572
--Be my guest.
--Let us examine that claim for a moment.
+- Be my guest.
+- Let us examine that claim for a moment.
 
 1146
 01:46:54,973 --> 01:47:00,206
@@ -5130,8 +5130,8 @@ Come on, run!
 
 1161
 01:49:50,013 --> 01:49:51,890
--<i>(Elizabeth)</i> Sword!
--Sword! Sword!
+- <i>(Elizabeth)</i> Sword!
+- Sword! Sword!
 
 1162
 01:49:54,733 --> 01:49:57,167
@@ -5201,8 +5201,8 @@ on using him to hit something with.
 
 1178
 01:53:42,853 --> 01:53:45,413
--We're not getting out of this.
--Not with the chest.
+- We're not getting out of this.
+- Not with the chest.
 
 1179
 01:53:45,493 --> 01:53:47,370
@@ -5210,13 +5210,13 @@ Into the boat.
 
 1180
 01:53:47,453 --> 01:53:50,286
--You're mad!
--Don't wait for me.
+- You're mad!
+- Don't wait for me.
 
 1181
 01:53:56,213 --> 01:53:59,808
--I say we respect his final wish.
--Aye!
+- I say we respect his final wish.
+- Aye!
 
 1182
 01:54:06,173 --> 01:54:08,733
@@ -5233,8 +5233,8 @@ from your cold, dead hands.
 
 1185
 01:54:20,413 --> 01:54:22,131
--Here you go!
--Oof!
+- Here you go!
+- Oof!
 
 1186
 01:54:24,333 --> 01:54:26,449
@@ -5258,18 +5258,18 @@ Hey!
 
 1191
 01:54:52,493 --> 01:54:55,849
--What happened to the chest?
--Norrington took it to draw them off.
+- What happened to the chest?
+- Norrington took it to draw them off.
 
 1192
 01:54:56,253 --> 01:54:59,370
--You're pulling too hard!
--You ain't pulling hard enough!
+- You're pulling too hard!
+- You ain't pulling hard enough!
 
 1193
 01:54:59,773 --> 01:55:02,685
--Where's the commodore?
--Fell behind.
+- Where's the commodore?
+- Fell behind.
 
 1194
 01:55:02,773 --> 01:55:04,843
@@ -5328,8 +5328,8 @@ Enough!
 
 1207
 01:56:08,653 --> 01:56:11,292
--Hard to starboard.
--Hard to starboard!
+- Hard to starboard.
+- Hard to starboard!
 
 1208
 01:56:11,373 --> 01:56:14,410
@@ -5350,8 +5350,8 @@ She's on us! She's on us!
 
 1212
 01:56:40,973 --> 01:56:44,886
--Let them taste the triple guns.
--Aye, Captain.
+- Let them taste the triple guns.
+- Aye, Captain.
 
 1213
 01:56:56,133 --> 01:56:58,089
@@ -5372,18 +5372,18 @@ Come on, girl!
 
 1217
 01:57:23,333 --> 01:57:25,642
--She's falling behind!
--Aye. We've got her!
+- She's falling behind!
+- Aye. We've got her!
 
 1218
 01:57:25,733 --> 01:57:29,282
--We're the faster?
--Against the wind, the <i>Dutchman</i> beats us.
+- We're the faster?
+- Against the wind, the <i>Dutchman</i> beats us.
 
 1219
 01:57:29,373 --> 01:57:31,728
--But with the wind...
--We rob her advantage.
+- But with the wind...
+- We rob her advantage.
 
 1220
 01:57:31,813 --> 01:57:33,565
@@ -5452,13 +5452,13 @@ Get away from the rail!
 
 1235
 01:58:35,373 --> 01:58:38,285
--What is it?
--The kraken.
+- What is it?
+- The kraken.
 
 1236
 01:58:38,653 --> 01:58:40,803
--To arms!
--Load guns! Defend the mast!
+- To arms!
+- Load guns! Defend the mast!
 
 1237
 01:58:40,893 --> 01:58:45,171
@@ -5479,8 +5479,8 @@ Steady! Steady.
 
 1241
 01:59:28,453 --> 01:59:31,763
--Will!
--Hold. Hold.
+- Will!
+- Hold. Hold.
 
 1242
 01:59:31,853 --> 01:59:34,731
@@ -5488,8 +5488,8 @@ I think we've held fire long enough.
 
 1243
 01:59:35,893 --> 01:59:38,168
--Will!
--Fire!
+- Will!
+- Fire!
 
 1244
 01:59:42,013 --> 01:59:43,366
@@ -5501,8 +5501,8 @@ Oh!
 
 1246
 01:59:57,453 --> 02:00:00,843
--It'll be back. We have to get off the ship.
--There's no boats.
+- It'll be back. We have to get off the ship.
+- There's no boats.
 
 1247
 02:00:08,733 --> 02:00:13,124
@@ -5511,8 +5511,8 @@ onto the net in the cargo hold!
 
 1248
 02:00:15,373 --> 02:00:19,651
--Whatever you do, don't miss.
--As soon as you're clear.
+- Whatever you do, don't miss.
+- As soon as you're clear.
 
 1249
 02:00:33,253 --> 02:00:37,212
@@ -5525,8 +5525,8 @@ Hurry up!
 
 1251
 02:00:40,293 --> 02:00:43,729
--There's only six kegs of powder!
--Then load the rum.
+- There's only six kegs of powder!
+- Then load the rum.
 
 1252
 02:00:52,253 --> 02:00:54,972
@@ -5550,13 +5550,13 @@ Not good.
 
 1257
 02:01:44,093 --> 02:01:46,687
--Haul away!
--Heave!
+- Haul away!
+- Heave!
 
 1258
 02:01:46,773 --> 02:01:50,925
--Heave like you're being paid for it!
--Put your backs into it!
+- Heave like you're being paid for it!
+- Put your backs into it!
 
 1259
 02:01:58,493 --> 02:02:00,768
@@ -5572,18 +5572,18 @@ Aargh!
 
 1262
 02:02:32,253 --> 02:02:35,370
--I got you! I got you!
--Don't let me go!
+- I got you! I got you!
+- Don't let me go!
 
 1263
 02:02:35,453 --> 02:02:38,013
--I won't let you go!
--Shoot me!
+- I won't let you go!
+- Shoot me!
 
 1264
 02:02:43,093 --> 02:02:46,005
--Clear?
--Higher! Higher!
+- Clear?
+- Higher! Higher!
 
 1265
 02:03:02,173 --> 02:03:04,209
@@ -5641,8 +5641,8 @@ We have to head for land.
 
 1278
 02:05:24,253 --> 02:05:27,211
--It's a lot of open water.
--It's a lot of water.
+- It's a lot of open water.
+- It's a lot of water.
 
 1279
 02:05:27,293 --> 02:05:31,730
@@ -5872,8 +5872,8 @@ To Jack Sparrow.
 
 1333
 02:13:21,653 --> 02:13:26,443
--Never another like Captain Jack.
--He was a gentleman of fortune, he was.
+- Never another like Captain Jack.
+- He was a gentleman of fortune, he was.
 
 1334
 02:13:27,013 --> 02:13:29,004
@@ -5886,8 +5886,8 @@ to bring him back...
 
 1336
 02:13:54,093 --> 02:13:56,323
--Elizabeth.
--Would you do it?
+- Elizabeth.
+- Would you do it?
 
 1337
 02:13:56,413 --> 02:13:57,641
