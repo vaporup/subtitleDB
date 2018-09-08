@@ -1,0 +1,9 @@
+---
+filename: "Spring_Summer_Fall_Winter_and_Spring_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Spring_Summer_Fall_Winter_and_Spring_CD_1.avi"
+  hash: "83f216173440d798"
+  filesize: "733900800"
