@@ -1,0 +1,9 @@
+---
+filename: "Blow Out [1981] Criterion 720p BRRip H264 AC3 - CODY.ro.srt"
+language: "ro"
+format: "srt"
+
+matches:
+- filename: "Blow Out [1981] Criterion 720p BRRip H264 AC3 - CODY.mp4"
+  hash: "af3a330fe47ce185"
+  filesize: "1597672552"
