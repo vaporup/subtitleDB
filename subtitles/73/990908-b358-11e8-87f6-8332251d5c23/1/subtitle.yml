@@ -1,0 +1,12 @@
+---
+filename: "Upstream.Color.2013.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Upstream.Color.2013.720p.BluRay.x264.YIFY.mp4"
+  hash: "91c959360ec87971"
+  filesize: "789437618"
+- filename: "Upstream.Color.2013.1080p.BluRay.x264.YIFY.mp4"
+  hash: "2d1f792d3f1d9890"
+  filesize: "1540709991"
