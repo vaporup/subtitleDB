@@ -1,0 +1,9 @@
+---
+filename: "The Pink Panther Strikes Again.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Pink Panther Strikes Again.avi"
+  hash: "40f201f2433bc1d5"
+  filesize: "733796352"
