@@ -1,0 +1,9 @@
+---
+filename: "Knock Off dvd rip Xvid.Rets.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Knock Off dvd rip Xvid.Rets.avi"
+  hash: "c75314716e3fddb3"
+  filesize: "734007296"
