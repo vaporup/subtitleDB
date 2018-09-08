@@ -1,0 +1,9 @@
+---
+filename: "Wall.Street.REMASTERED.1987.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Wall.Street.REMASTERED.1987.720p.BrRip.x264.YIFY.mp4"
+  hash: "556bbcc38a63c604"
+  filesize: "892565632"
