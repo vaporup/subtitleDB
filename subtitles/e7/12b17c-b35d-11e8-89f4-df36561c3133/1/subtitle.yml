@@ -1,0 +1,9 @@
+---
+filename: "It's A Wonderful Life 1947 Colorized BRrip 720p x264 [Herakler].srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "It's A Wonderful Life 1947 Colorized BRrip 720p x264 [Herakler].mkv"
+  hash: "b779a5782b8f3cc8"
+  filesize: "733684381"
