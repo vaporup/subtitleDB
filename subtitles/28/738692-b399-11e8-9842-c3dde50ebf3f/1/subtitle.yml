@@ -1,0 +1,9 @@
+---
+filename: "Sixty.Million.Dollar.Man.(1995).DVDRip.AC3.XviD-MDCOrient.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Sixty.Million.Dollar.Man.(1995).DVDRip.AC3.XviD-MDCOrient.avi"
+  hash: "393be4f2b86f8187"
+  filesize: "1566015488"
