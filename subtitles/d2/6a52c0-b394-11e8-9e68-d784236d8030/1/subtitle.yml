@@ -1,0 +1,9 @@
+---
+filename: "05 Armitage III Dual-Matrix (Dual Audio).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "05 Armitage III Dual-Matrix (Dual Audio).avi"
+  hash: "398a6924aa8a5c29"
+  filesize: "877346834"
