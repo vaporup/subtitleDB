@@ -1,0 +1,9 @@
+---
+filename: "The-Treasure-of-the-Sierra-Madre_WunSeeDee.pt.srt"
+language: "pt"
+format: "srt"
+
+matches:
+- filename: "The-Treasure-of-the-Sierra-Madre_WunSeeDee.avi"
+  hash: "dede5b5fcd8a18a4"
+  filesize: "735332352"

@@ -1,0 +1,10 @@
+---
+filename: "The-Treasure-of-the-Sierra-Madre_WunSeeDee.en-CC.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "The-Treasure-of-the-Sierra-Madre_WunSeeDee.avi"
+  hash: "dede5b5fcd8a18a4"
+  filesize: "735332352"
