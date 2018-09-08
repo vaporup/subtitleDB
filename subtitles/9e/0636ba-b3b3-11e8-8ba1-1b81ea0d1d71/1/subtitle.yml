@@ -1,0 +1,9 @@
+---
+filename: "As.Good.as.It.Gets.1997.BluRay.720p.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "As.Good.as.It.Gets.1997.BluRay.720p.x264.YIFY.mp4"
+  hash: "285fa035cf5d8e81"
+  filesize: "892934391"
