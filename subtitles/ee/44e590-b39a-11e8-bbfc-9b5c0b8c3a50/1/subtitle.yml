@@ -1,0 +1,9 @@
+---
+filename: "The-Hobbit-The-Desolation-of-Smaug_MAXSPEED.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Hobbit-The-Desolation-of-Smaug_MAXSPEED.avi"
+  hash: "850b4823cd9bbb04"
+  filesize: "2050887110"
