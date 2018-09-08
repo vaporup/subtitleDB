@@ -1,0 +1,9 @@
+---
+filename: "once.upon.a.time.in.china.I.1991.dvdrip.xvid.ac3.6ch.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "once.upon.a.time.in.china.I.1991.dvdrip.xvid.ac3.6ch.avi"
+  hash: "c0db1e951bd840dd"
+  filesize: "2345289728"
