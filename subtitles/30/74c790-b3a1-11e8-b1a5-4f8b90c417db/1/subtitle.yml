@@ -1,0 +1,9 @@
+---
+filename: "Artificial.Intelligence.2001.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Artificial.Intelligence.2001.720p.BrRip.x264.YIFY.mp4"
+  hash: "f2b384cfd88b5f9b"
+  filesize: "997157114"
