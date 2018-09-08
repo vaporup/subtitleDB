@@ -1,0 +1,9 @@
+---
+filename: "its.kind.of.a.funny.story.2010.dvdrip.xvid-amiable.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "its.kind.of.a.funny.story.2010.dvdrip.xvid-amiable.avi"
+  hash: "2cdec3711c68ac5e"
+  filesize: "733982720"
