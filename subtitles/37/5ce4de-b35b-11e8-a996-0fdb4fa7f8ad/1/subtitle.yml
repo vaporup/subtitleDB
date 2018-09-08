@@ -1,0 +1,9 @@
+---
+filename: "Bloodsport.1988.DVDRip.XviD-RETRO.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Bloodsport.1988.DVDRip.XviD-RETRO.avi"
+  hash: "b7f447e173c5c95d"
+  filesize: "732606464"
