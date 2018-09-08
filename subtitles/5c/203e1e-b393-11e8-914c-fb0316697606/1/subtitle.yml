@@ -1,0 +1,9 @@
+---
+filename: "A-Shot-In-The-Dark.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "A-Shot-In-The-Dark.avi"
+  hash: "7ed7e950af4d71d2"
+  filesize: "733931520"
