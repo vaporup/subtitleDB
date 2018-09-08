@@ -1,0 +1,10 @@
+---
+filename: "Who-Framed-Roger-Rabbit_Stealthmaster.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Who-Framed-Roger-Rabbit_Stealthmaster.avi"
+  hash: "5b24e83a285531cc"
+  filesize: "735932416"
