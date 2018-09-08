@@ -1,0 +1,9 @@
+---
+filename: "Broken.Flowers.2005.720p.BluRay.x264.AAC.mkv-Zen_Bud.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Broken.Flowers.2005.720p.BluRay.x264.AAC.mkv-Zen_Bud.mkv"
+  hash: "5de2e6477a751dd9"
+  filesize: "1521174322"
