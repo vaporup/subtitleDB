@@ -1,0 +1,9 @@
+---
+filename: "Blade.Runner.Final.Cut.1997.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Blade.Runner.Final.Cut.1997.720p.BluRay.x264.YIFY.mp4"
+  hash: "7cfce7bcec61ea57"
+  filesize: "736529943"
