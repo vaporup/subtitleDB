@@ -1,0 +1,9 @@
+---
+filename: "The Return Of The Pink Panther.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Return Of The Pink Panther.avi"
+  hash: "88d36774f5affa94"
+  filesize: "736575488"
