@@ -100,7 +100,7 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
 
             if "matches" in subtitle:
               for match in subtitle["matches"]:
-                directory = "/tmp/index/by-hash-filesize/" + match["hash"][0:2] + "/" + match["hash"][2:-1] + "-" + match["filesize"]
+                directory = "/tmp/index/by-hash-filesize/" + match["hash"][0:2] + "/" + match["hash"][2:] + "-" + match["filesize"]
                 sub = os.path.join(uuid_prefix_foldername , uuid_foldername)
                 if not os.path.exists(directory):
                   os.makedirs(directory)
