@@ -1,0 +1,9 @@
+---
+filename: "Uncertainty [2009] DVDrip Xvid KaOsUSC (Kingdom-Release).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Uncertainty [2009] DVDrip Xvid KaOsUSC (Kingdom-Release).avi"
+  hash: "c13ccf3e93225d8e"
+  filesize: "736065536"
