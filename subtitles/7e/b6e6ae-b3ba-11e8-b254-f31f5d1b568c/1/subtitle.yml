@@ -1,0 +1,9 @@
+---
+filename: "Dances.with.Wolves.DC.1990.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Dances.with.Wolves.DC.1990.720p.BluRay.x264.YIFY.mp4"
+  hash: "e1e1e1e171af744a"
+  filesize: "1618594375"
