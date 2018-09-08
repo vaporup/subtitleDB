@@ -1,0 +1,9 @@
+---
+filename: "Trail Of The Pink Panther.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Trail Of The Pink Panther.avi"
+  hash: "6bcf85a028ccac7d"
+  filesize: "733941760"
