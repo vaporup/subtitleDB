@@ -1,0 +1,9 @@
+---
+filename: "rsb-streetfighter.xvid.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "rsb-streetfighter.xvid.avi"
+  hash: "164da4ead14a9e8b"
+  filesize: "3588947048"
