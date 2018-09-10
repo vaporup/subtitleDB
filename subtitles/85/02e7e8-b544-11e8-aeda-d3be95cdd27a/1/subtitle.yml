@@ -1,0 +1,9 @@
+---
+filename: "The.Girl.Next.Door.UNRATED.2004.720p.BrRip.x264.BOKUTOX.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Girl.Next.Door.UNRATED.2004.720p.BrRip.x264.BOKUTOX.YIFY.mp4"
+  hash: "2b715d0b8b6ece78"
+  filesize: "787168429"
