@@ -1,0 +1,10 @@
+---
+filename: "Once-Upon-A-Time-In-The-West_1968_WunSeeDee.en.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Once-Upon-A-Time-In-The-West_1968_WunSeeDee.avi"
+  hash: "80e938ca434900aa"
+  filesize: "735760384"
