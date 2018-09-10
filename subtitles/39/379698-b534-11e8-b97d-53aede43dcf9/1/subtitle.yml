@@ -1,0 +1,9 @@
+---
+filename: "The.NeverEnding.Story.1984.720p.BluRay.x264.AAC-ETRG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.NeverEnding.Story.1984.720p.BluRay.x264.AAC-ETRG.mp4"
+  hash: "4517ba436b597487"
+  filesize: "740170541"
