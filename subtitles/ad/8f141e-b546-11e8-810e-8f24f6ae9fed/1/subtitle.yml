@@ -1,0 +1,10 @@
+---
+filename: "The-Man-Who-Shot-Liberty-Valance_1962_WunSeeDee.en-CC.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "The-Man-Who-Shot-Liberty-Valance_1962_WunSeeDee.avi"
+  hash: "6c1219e9d55667ba"
+  filesize: "735270912"
