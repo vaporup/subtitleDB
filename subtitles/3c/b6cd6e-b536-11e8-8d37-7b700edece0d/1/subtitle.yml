@@ -1,0 +1,9 @@
+---
+filename: "The.Iceman.Cometh.(1989).SCE.DVDRip.AC3.XviD-MDCOrient.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Iceman.Cometh.(1989).SCE.DVDRip.AC3.XviD-MDCOrient.avi"
+  hash: "2210e59285d49530"
+  filesize: "1566076928"
