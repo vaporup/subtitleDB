@@ -1,0 +1,9 @@
+---
+filename: "Nocturnal Animals 2016 1080p BluRay x264 DTS-JYK.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Nocturnal Animals 2016 1080p BluRay x264 DTS-JYK.mkv"
+  hash: "99dfb8f1e0251e1a"
+  filesize: "3141573893"
