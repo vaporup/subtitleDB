@@ -1,0 +1,9 @@
+---
+filename: "John.Wick.Chapter.2.2017.720p.BluRay.x264.VPPV.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "John.Wick.Chapter.2.2017.720p.BluRay.x264.VPPV.mkv"
+  hash: "e1e6b60adc6c8782"
+  filesize: "1095741741"
