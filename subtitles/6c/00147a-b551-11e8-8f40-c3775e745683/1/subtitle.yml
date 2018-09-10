@@ -1,0 +1,9 @@
+---
+filename: "The Day After Tomorrow_2004_DVDRIP_Subzero.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Day After Tomorrow_2004_DVDRIP_Subzero.avi"
+  hash: "7e1a6255bc372be2"
+  filesize: "840994542"
