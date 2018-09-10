@@ -1,0 +1,5730 @@
+1
+00:00:37,787 --> 00:00:41,790
+VOL AU-DESSUS D'UN NlD DE COUCOU
+
+2
+00:02:17,053 --> 00:02:18,554
+Bonjour, Miss Ratched.
+
+3
+00:02:19,848 --> 00:02:21,056
+M. Washington.
+
+4
+00:02:32,277 --> 00:02:33,735
+Bonjour, Bancini.
+
+5
+00:02:43,079 --> 00:02:44,538
+Comment te sens-tu ?
+
+6
+00:02:45,498 --> 00:02:46,582
+Re... posé.
+
+7
+00:03:03,308 --> 00:03:04,308
+Médicaments !
+
+8
+00:03:32,462 --> 00:03:33,837
+Suivant !
+
+9
+00:03:59,614 --> 00:04:00,822
+Grand Chef !
+
+10
+00:04:10,500 --> 00:04:13,168
+AlIez, mon vieux, on y va !
+
+11
+00:04:34,482 --> 00:04:37,734
+VoiIà ses papiers. Signez-moi ça.
+
+12
+00:05:40,089 --> 00:05:41,923
+M. McMurphy est Ià.
+
+13
+00:05:59,233 --> 00:06:00,776
+AlIez-y. Je note.
+
+14
+00:06:01,235 --> 00:06:02,986
+Une paire de chaussettes.
+
+15
+00:06:05,573 --> 00:06:06,782
+Un t-shirt.
+
+16
+00:06:12,622 --> 00:06:13,455
+Salut !
+
+17
+00:06:17,794 --> 00:06:22,631
+Putain, t'es une vraie montagne !
+T'étais fait pour le rugby.
+
+18
+00:06:22,799 --> 00:06:24,508
+Comment tu t'appelles ?
+
+19
+00:06:24,801 --> 00:06:26,301
+Il t'en-t'entend pas.
+
+20
+00:06:26,469 --> 00:06:29,262
+C'est un s... sourd... m... muet, l'lndien.
+
+21
+00:06:31,933 --> 00:06:33,475
+C'est pas vrai ?!
+
+22
+00:06:35,311 --> 00:06:37,521
+Il n'en sort pas une, hein ?
+
+23
+00:06:51,828 --> 00:06:53,161
+Trèfle. VaIet.
+
+24
+00:06:58,251 --> 00:06:59,668
+Tu t'appelles ?
+
+25
+00:06:59,836 --> 00:07:01,378
+B-B-Billy... B-B-Bibbit.
+
+26
+00:07:01,546 --> 00:07:02,879
+Moi, c'est Murphy.
+
+27
+00:07:05,591 --> 00:07:07,968
+Ça, c'est les cartes de Cheswick !
+
+28
+00:07:09,303 --> 00:07:11,304
+Ça, c'est son as de pique.
+
+29
+00:07:11,806 --> 00:07:13,181
+A toi, Bill.
+
+30
+00:07:14,183 --> 00:07:15,684
+Un beau dix.
+
+31
+00:07:17,437 --> 00:07:18,478
+Mets-en une.
+
+32
+00:07:18,646 --> 00:07:19,980
+Une seconde.
+
+33
+00:07:24,735 --> 00:07:26,236
+Je fais le pli.
+
+34
+00:07:26,404 --> 00:07:28,155
+- Je gagne.
+- Vous avez surcoupé ?
+
+35
+00:07:28,322 --> 00:07:28,989
+PinochIe ?
+
+36
+00:07:29,157 --> 00:07:31,199
+Vous prenez pique ?
+
+37
+00:07:33,536 --> 00:07:35,078
+Quelle est la mise ?
+
+38
+00:07:35,746 --> 00:07:38,081
+Cinq... cinq... cinquante.
+
+39
+00:07:43,129 --> 00:07:45,922
+Tu aimes voir
+les cartes des autres ?
+
+40
+00:07:47,550 --> 00:07:49,468
+Tu l'as déjà vue, celle-Ià ?
+
+41
+00:07:57,560 --> 00:07:58,894
+A toi, Martini.
+
+42
+00:08:02,106 --> 00:08:03,231
+Ça vient, ce trèfle ?
+
+43
+00:08:08,154 --> 00:08:09,738
+C'est à qui de jouer ?
+
+44
+00:08:09,906 --> 00:08:11,072
+Il a coupé.
+
+45
+00:08:11,240 --> 00:08:12,407
+Où allez-vous ?
+
+46
+00:08:12,575 --> 00:08:16,786
+Tu ne viens pas jouer ?
+
+47
+00:08:18,581 --> 00:08:20,081
+Je veux jouer, moi.
+
+48
+00:08:22,376 --> 00:08:24,878
+Je veux en gagner...
+
+49
+00:08:25,671 --> 00:08:27,422
+Reprenez-vous.
+
+50
+00:08:33,429 --> 00:08:34,596
+M. McMurphy, docteur.
+
+51
+00:08:34,764 --> 00:08:36,556
+Faites-le entrer.
+
+52
+00:08:43,105 --> 00:08:44,439
+Je suis le Dr Spivey.
+
+53
+00:08:44,607 --> 00:08:47,442
+Je suis vraiment enchanté.
+
+54
+00:08:47,610 --> 00:08:49,945
+Prenez une chaise, et bavardons.
+
+55
+00:09:00,498 --> 00:09:02,749
+R.P. McMurphy.
+
+56
+00:09:02,959 --> 00:09:04,125
+Sacré poisson !
+
+57
+00:09:05,294 --> 00:09:06,294
+Epatant, hein ?
+
+58
+00:09:07,296 --> 00:09:09,214
+Dans les 40 livres, non ?
+
+59
+00:09:09,382 --> 00:09:10,966
+Non, 32.
+
+60
+00:09:11,133 --> 00:09:13,969
+Il m'a falIu toute ma vigueur
+pour le tenir en I'air,
+
+61
+00:09:14,262 --> 00:09:15,720
+le temps de la photo.
+
+62
+00:09:15,888 --> 00:09:19,933
+Le tenir en l'air !
+C'est pas la chaîne qui l'a allégé !
+
+63
+00:09:20,476 --> 00:09:23,603
+- Sans la chaîne, hein ?
+- Oui, sans.
+
+64
+00:09:23,813 --> 00:09:25,772
+Cette photo, c'est ma fierté.
+
+65
+00:09:25,940 --> 00:09:29,025
+C'est mon premier saumon royal !
+
+66
+00:09:29,485 --> 00:09:31,027
+BelIe pièce !
+
+67
+00:09:37,618 --> 00:09:40,078
+Randall Patrick McMurphy.
+
+68
+00:09:40,246 --> 00:09:41,955
+38 ans.
+
+69
+00:09:50,590 --> 00:09:52,507
+Selon vous,
+
+70
+00:09:53,259 --> 00:09:54,843
+pourquoi êtes-vous ici ?
+
+71
+00:09:59,223 --> 00:10:02,309
+J'en sais rien. C'est là-dedans, non ?
+
+72
+00:10:03,603 --> 00:10:04,603
+Je peux fumer ?
+
+73
+00:10:04,770 --> 00:10:05,812
+AlIez-y.
+
+74
+00:10:06,981 --> 00:10:08,440
+C'est que...
+
+75
+00:10:09,525 --> 00:10:11,401
+il y a plusieurs choses, là.
+
+76
+00:10:13,946 --> 00:10:16,072
+Attitude beIliqueuse.
+
+77
+00:10:17,325 --> 00:10:20,201
+Enfreint les consignes de silence.
+
+78
+00:10:20,369 --> 00:10:22,370
+Refus du travail.
+
+79
+00:10:22,538 --> 00:10:24,205
+Paresse.
+
+80
+00:10:26,083 --> 00:10:28,668
+Je mâche du chewing-gum en cIasse.
+
+81
+00:10:32,048 --> 00:10:36,843
+En réalité, vous êtes ici
+pour qu'on vous évalue.
+
+82
+00:10:37,386 --> 00:10:40,263
+Pour savoir si oui ou non,
+vous êtes malade.
+
+83
+00:10:40,431 --> 00:10:42,265
+C'est ça, la vraie raison.
+
+84
+00:10:42,683 --> 00:10:45,226
+Pourquoi pensez-vous
+qu'ils pensent ça ?
+
+85
+00:10:48,314 --> 00:10:51,399
+A mon avis, c'est parce que...
+
+86
+00:10:52,610 --> 00:10:54,903
+je me bats et je baise trop.
+
+87
+00:10:55,237 --> 00:10:56,488
+Au pénitencier ?
+
+88
+00:10:56,739 --> 00:10:58,281
+Non, non. Vous voulez dire...
+
+89
+00:10:58,449 --> 00:10:59,240
+Pourquoi
+
+90
+00:10:59,408 --> 00:11:01,951
+nous êtes-vous envoyé
+par Ia Ferme d'Etat ?
+
+91
+00:11:05,122 --> 00:11:06,790
+Alors là, aucune idée !
+
+92
+00:11:08,918 --> 00:11:10,251
+Je vois ici...
+
+93
+00:11:11,462 --> 00:11:13,088
+J'y suis pour rien !
+
+94
+00:11:13,673 --> 00:11:16,216
+Un, deux, trois,
+
+95
+00:11:17,635 --> 00:11:18,635
+quatre...
+
+96
+00:11:19,762 --> 00:11:23,682
+Au moins cinq arrestations
+pour agression.
+
+97
+00:11:25,559 --> 00:11:27,018
+Qu'avez-vous à dire ?
+
+98
+00:11:27,728 --> 00:11:29,229
+Cinq combats.
+
+99
+00:11:29,522 --> 00:11:32,440
+Marciano en a fait 40,
+et il est milliardaire !
+
+100
+00:11:33,526 --> 00:11:34,192
+C'est vrai.
+
+101
+00:11:34,360 --> 00:11:35,610
+Et comment !
+
+102
+00:11:38,072 --> 00:11:41,366
+Il est aussi vrai
+qu'on vous a écroué pour viol.
+
+103
+00:11:41,534 --> 00:11:43,493
+Vrai ou faux, cette fois ?
+
+104
+00:11:43,661 --> 00:11:45,662
+Absolument vrai. Mais...
+
+105
+00:11:47,164 --> 00:11:50,417
+elle avait 1 5 ans... allant sur ses 35
+
+106
+00:11:50,584 --> 00:11:53,628
+et elle disait en avoir 1 8 !
+
+107
+00:11:53,796 --> 00:11:56,923
+ElIe demandait que ça,
+vous voyez le genre ?
+
+108
+00:11:57,091 --> 00:11:59,634
+Ma braguette a faiIli y rester.
+
+109
+00:12:00,136 --> 00:12:02,887
+De vous à moi,
+
+110
+00:12:05,182 --> 00:12:09,102
+elle avait peut-être 1 5 ans,
+mais quand on a une fente rouge
+
+111
+00:12:09,270 --> 00:12:13,064
+devant soi, y a rien de cinglé à...
+Vous êtes bien de mon avis.
+
+112
+00:12:13,232 --> 00:12:14,649
+Je vous entends.
+
+113
+00:12:14,817 --> 00:12:18,778
+Aucun homme normal n'y résisterait.
+On m'a mis en taule, et d'une,
+
+114
+00:12:19,071 --> 00:12:23,825
+et maintenant, on dit que je suis fou,
+parce que je ne suis pas de bois !
+
+115
+00:12:23,993 --> 00:12:26,077
+Ça tient pas debout.
+
+116
+00:12:26,245 --> 00:12:28,496
+Si c'est ça être dingue,
+
+117
+00:12:28,664 --> 00:12:31,958
+je suis cingIé, siphonné,
+déboussolé, maboul !
+
+118
+00:12:32,168 --> 00:12:35,587
+Ni plus ni moins.
+Et puis, c'est tout !
+
+119
+00:12:35,755 --> 00:12:37,839
+Très franchement, McMurphy,
+
+120
+00:12:38,632 --> 00:12:39,674
+ce que je vois là,
+
+121
+00:12:43,179 --> 00:12:44,679
+c'est que...
+
+122
+00:12:45,514 --> 00:12:48,433
+on pense... eux, pensent
+
+123
+00:12:49,393 --> 00:12:51,686
+que vous simuIez pour échapper
+
+124
+00:12:51,854 --> 00:12:53,104
+au travail.
+
+125
+00:12:54,440 --> 00:12:58,401
+- Qu'en dites-vous ?
+- J'ai l'air de ça ?
+
+126
+00:13:01,781 --> 00:13:05,116
+Soyons francs.
+
+127
+00:13:06,744 --> 00:13:07,869
+Dites-moi,
+
+128
+00:13:08,245 --> 00:13:11,706
+vous croyez-vous dérangé...
+réellement ?
+
+129
+00:13:13,000 --> 00:13:14,501
+Pas du tout.
+
+130
+00:13:15,002 --> 00:13:17,420
+Je suis un bijou de la science !
+
+131
+00:13:22,885 --> 00:13:26,095
+Vous resterez ici
+le temps qu'on vous observe.
+
+132
+00:13:26,931 --> 00:13:28,890
+Nous vous étudierons.
+
+133
+00:13:29,308 --> 00:13:33,478
+Nous prendrons les décisions
+qui s'imposent.
+
+134
+00:13:33,646 --> 00:13:36,147
+Et vous traiterons en conséquence.
+
+135
+00:13:36,732 --> 00:13:38,858
+Ecoutez-moi bien.
+
+136
+00:13:39,193 --> 00:13:42,320
+Je suis ici pour coopérer à 1 00 % .
+
+137
+00:13:42,655 --> 00:13:46,950
+A 1 00 % . Je vous emboîterai le pas.
+
+138
+00:13:47,409 --> 00:13:51,037
+Parce que je crois utile
+d'aller au fin fond de...
+
+139
+00:13:51,205 --> 00:13:53,122
+R.P. McMurphy.
+
+140
+00:14:07,721 --> 00:14:08,930
+La faux !
+
+141
+00:14:14,270 --> 00:14:15,854
+Je suis si fatigué.
+
+142
+00:14:16,021 --> 00:14:17,021
+Assieds-toi.
+
+143
+00:14:17,189 --> 00:14:18,314
+Fatigué...
+
+144
+00:14:22,444 --> 00:14:23,319
+Ça va mieux ?
+
+145
+00:14:34,331 --> 00:14:36,040
+M. ElIsworth...
+
+146
+00:14:36,959 --> 00:14:38,751
+Vous vous épuisez.
+
+147
+00:14:42,965 --> 00:14:45,091
+Messieurs... commençons.
+
+148
+00:14:48,053 --> 00:14:49,637
+Vendredi, à la réunion,
+
+149
+00:14:49,805 --> 00:14:53,641
+nous en étions au problème
+de M. Harding avec sa femme.
+
+150
+00:14:55,269 --> 00:14:58,479
+Il a déclaré que sa femme
+le mettait maI à l'aise
+
+151
+00:14:58,647 --> 00:15:01,691
+parce qu'elle aguichait les hommes.
+
+152
+00:15:02,401 --> 00:15:04,235
+Est-ce exact, M. Harding ?
+
+153
+00:15:06,363 --> 00:15:07,614
+C'est exact.
+
+154
+00:15:09,909 --> 00:15:11,284
+Il pense lui avoir donné
+
+155
+00:15:11,452 --> 00:15:14,162
+motif de chercher
+l'hommage sexueI ailIeurs,
+
+156
+00:15:14,330 --> 00:15:16,748
+mais il ignore pourquoi.
+
+157
+00:15:19,585 --> 00:15:22,253
+M. Harding s'est entendu
+dire à sa femme :
+
+158
+00:15:22,588 --> 00:15:23,838
+"Je te hais."
+
+159
+00:15:24,006 --> 00:15:26,007
+"Je ne veux plus te revoir."
+
+160
+00:15:26,467 --> 00:15:28,176
+"Tu m'as trahi."
+
+161
+00:15:29,678 --> 00:15:32,972
+Quelqu'un veut-il reprendre le sujet ?
+
+162
+00:15:49,865 --> 00:15:52,659
+M. Scanlon, voulez-vous commencer ?
+
+163
+00:15:56,372 --> 00:15:57,705
+Vous êtes sûr ?
+
+164
+00:16:03,671 --> 00:16:04,921
+BiIly... et vous ?
+
+165
+00:16:08,384 --> 00:16:10,218
+Non, madame.
+
+166
+00:16:10,427 --> 00:16:13,638
+J'aimerais noter
+que vous avez ouvert Ia réunion...
+
+167
+00:16:15,557 --> 00:16:17,058
+au moins une fois.
+
+168
+00:16:30,739 --> 00:16:31,739
+M. Martini ?
+
+169
+00:16:34,201 --> 00:16:35,660
+Etes-vous avec nous ?
+
+170
+00:16:40,249 --> 00:16:42,083
+Voulez-vous commencer ?
+
+171
+00:16:52,594 --> 00:16:53,928
+M. Cheswick ?
+
+172
+00:17:03,856 --> 00:17:04,856
+Moi ?
+
+173
+00:17:11,572 --> 00:17:15,283
+Aucun homme ici,
+n'a d'opinion à ce sujet ?
+
+174
+00:17:20,164 --> 00:17:21,330
+Très bien.
+
+175
+00:17:22,541 --> 00:17:23,750
+M. Harding,
+
+176
+00:17:24,418 --> 00:17:28,755
+vous avez dit que vous soupçonniez
+votre femme de vous tromper.
+
+177
+00:17:30,799 --> 00:17:32,842
+Oui, très fort. Je Ia soupçonne.
+
+178
+00:17:33,010 --> 00:17:34,260
+Je Ia soupçonne.
+
+179
+00:17:34,970 --> 00:17:38,931
+Pouvez-vous nous dire
+pourquoi vous Ia soupçonnez ?
+
+180
+00:17:43,812 --> 00:17:45,313
+Je ne puis que...
+
+181
+00:17:45,939 --> 00:17:48,149
+spéculer sur Ies motivations.
+
+182
+00:17:50,319 --> 00:17:53,988
+Vos spéculations
+ne vous ont-elles pas montré
+
+183
+00:17:54,406 --> 00:17:57,450
+que vous êtes exaspéré
+par votre femme,
+
+184
+00:17:57,785 --> 00:18:01,120
+car elle n'a pas
+votre niveau intellectuel ?
+
+185
+00:18:03,332 --> 00:18:06,834
+Peut-être.
+Mais la seule chose sur laqueIle
+
+186
+00:18:07,002 --> 00:18:08,544
+je puisse spéculer,
+
+187
+00:18:08,712 --> 00:18:11,881
+c'est l'existence même de ma vie,
+
+188
+00:18:12,382 --> 00:18:15,009
+avec ou sans ma femme,
+
+189
+00:18:15,177 --> 00:18:17,595
+en termes de rapports humains,
+
+190
+00:18:17,763 --> 00:18:22,892
+de juxtaposition d'une personne
+et d'une autre, de forme, de contenu...
+
+191
+00:18:23,185 --> 00:18:24,685
+Arrête tes conneries
+
+192
+00:18:24,853 --> 00:18:26,479
+et viens-en au fait !
+
+193
+00:18:26,980 --> 00:18:28,481
+Je suis au fait !
+
+194
+00:18:28,649 --> 00:18:31,275
+J'y suis !
+Ce ne sont pas des conneries !
+
+195
+00:18:31,443 --> 00:18:33,778
+Je ne parle pas que de ma femme,
+
+196
+00:18:33,946 --> 00:18:37,406
+mais de ma vie !
+Vous ne comprenez rien. Je ne parle pas
+
+197
+00:18:37,574 --> 00:18:40,034
+que d'une personne,
+mais de tout le monde !
+
+198
+00:18:40,202 --> 00:18:44,705
+Je parle de forme !
+De contenu ! De relation !
+
+199
+00:18:44,915 --> 00:18:48,960
+De Dieu, du diable, de l'enfer
+et du paradis ! Vous comprenez ?
+
+200
+00:18:49,128 --> 00:18:50,336
+Enfin ?
+
+201
+00:18:50,879 --> 00:18:53,047
+Con comme toi, c'est pas croyabIe !
+
+202
+00:18:55,509 --> 00:18:57,927
+J'ai le sentiment d'être spécial
+
+203
+00:18:58,095 --> 00:18:59,303
+quand j'entends ça.
+
+204
+00:18:59,471 --> 00:19:00,388
+Pourquoi ?
+
+205
+00:19:00,556 --> 00:19:02,265
+Ça veut dire quoi "spécial" ?
+
+206
+00:19:02,432 --> 00:19:04,308
+SpéciaI ?
+
+207
+00:19:06,228 --> 00:19:07,812
+Ecoutez...
+
+208
+00:19:08,230 --> 00:19:10,064
+vous refusez d'apprendre.
+
+209
+00:19:10,232 --> 00:19:13,734
+Vous n'écoutez personne.
+Lui, il est intelligent !
+
+210
+00:19:13,902 --> 00:19:16,821
+"Spécial" !
+Qu'est-ce que vous insinuez ?
+
+211
+00:19:18,657 --> 00:19:20,449
+Que je suis une tante ?
+
+212
+00:19:20,617 --> 00:19:23,536
+Une folle tordue ! C'est ça ?
+
+213
+00:19:24,371 --> 00:19:27,165
+C'est ça, pour vous,
+la communication ?
+
+214
+00:19:27,332 --> 00:19:29,125
+C'est ça ? Oui, c'est ça ?
+
+215
+00:19:30,627 --> 00:19:34,046
+Ils sont tous ligués contre vous !
+
+216
+00:19:34,214 --> 00:19:35,339
+Est-ce nouveau ?
+
+217
+00:19:36,925 --> 00:19:39,760
+Quelquefois, ils se liguent
+contre moi, mais...
+
+218
+00:19:39,928 --> 00:19:41,596
+Cheswick, s'il vous plaît !
+
+219
+00:19:41,763 --> 00:19:43,681
+Calmez-vous.
+
+220
+00:19:43,849 --> 00:19:45,474
+Ne vous mettez pas de mon côté.
+
+221
+00:19:45,809 --> 00:19:47,476
+Mais je ne veux... que vous aider.
+
+222
+00:19:47,644 --> 00:19:48,811
+Je comprends.
+
+223
+00:19:50,814 --> 00:19:51,814
+Je ne veux que...
+
+224
+00:19:52,316 --> 00:19:54,734
+- Je vous en prie !
+- Je veux vous aider.
+
+225
+00:19:58,238 --> 00:19:59,447
+Voyez-vous,
+
+226
+00:19:59,990 --> 00:20:01,616
+vous avez fait
+
+227
+00:20:01,825 --> 00:20:03,618
+des allusions, tous les deux...
+
+228
+00:20:04,077 --> 00:20:06,162
+AlIusions.
+
+229
+00:20:06,330 --> 00:20:08,247
+Pas illusions. Allusions.
+
+230
+00:20:08,415 --> 00:20:11,292
+Au probIème que j'ai avec ma femme.
+
+231
+00:20:11,460 --> 00:20:14,629
+Même si eIles sont vraies,
+moi je le sais, mais pas vous !
+
+232
+00:20:14,796 --> 00:20:16,964
+Si c'est toute votre aide,
+je m'en passe !
+
+233
+00:20:17,132 --> 00:20:20,343
+Pour moi,
+t'es qu'un trou du cul morbide !
+
+234
+00:20:20,510 --> 00:20:21,636
+SpéciaI !
+
+235
+00:20:21,929 --> 00:20:23,262
+Tu te sens spécial ?
+
+236
+00:20:23,430 --> 00:20:24,430
+Tu parles de ta femme
+
+237
+00:20:24,598 --> 00:20:27,433
+depuis toujours.
+C'est la rengaine, et blablabIa.
+
+238
+00:20:27,601 --> 00:20:30,770
+Je ne parle pas d'elle,
+quand comprendrez-vous, connard ?
+
+239
+00:20:31,271 --> 00:20:32,730
+Rends-Iui sa liberté !
+
+240
+00:20:34,650 --> 00:20:36,442
+Je ne veux pas entendre ça !
+
+241
+00:20:36,610 --> 00:20:37,693
+Je suis fatigué.
+
+242
+00:20:45,619 --> 00:20:46,994
+Des âneries, tout ça.
+
+243
+00:20:47,162 --> 00:20:48,663
+Et je suis fatigué.
+
+244
+00:20:50,457 --> 00:20:51,999
+On est tous fatigués.
+
+245
+00:20:52,167 --> 00:20:53,793
+Fatigué... des âneries.
+
+246
+00:20:54,002 --> 00:20:55,503
+Tu n'es pas fatigué.
+
+247
+00:21:26,868 --> 00:21:28,953
+Promenade !
+
+248
+00:21:58,233 --> 00:22:00,401
+T'as jamais joué à ça, Grand Chef ?
+
+249
+00:22:04,906 --> 00:22:08,826
+Je vais te montrer.
+C'est un vieux jeu indien.
+
+250
+00:22:09,995 --> 00:22:13,414
+Ça s'appeIle :
+"La balIe au panier !"
+
+251
+00:22:16,376 --> 00:22:18,044
+Tu restes là.
+
+252
+00:22:19,629 --> 00:22:21,797
+C'est ta place. Bouge pas.
+
+253
+00:22:21,965 --> 00:22:26,344
+Pas bouger. Ça, c'est ta pIace.
+Compris ? Là. Pas bouger.
+
+254
+00:22:26,845 --> 00:22:28,262
+Prends Ie ballon.
+
+255
+00:22:29,181 --> 00:22:31,098
+Tiens. Prends-le.
+
+256
+00:22:32,100 --> 00:22:33,934
+VoiIà. Tiens-le bien.
+
+257
+00:22:34,478 --> 00:22:38,939
+Pas trop fort. Tu vas le dégonfIer.
+Ça doit aller là-haut.
+
+258
+00:22:39,858 --> 00:22:41,025
+Très bien.
+
+259
+00:22:41,443 --> 00:22:43,069
+Lève les bras.
+
+260
+00:22:43,570 --> 00:22:46,072
+En I'air, le balIon, Grand Chef ! Lève !
+
+261
+00:22:46,239 --> 00:22:47,239
+McMurphy ?
+
+262
+00:22:47,407 --> 00:22:49,116
+Pourquoi tu lui parles ?
+
+263
+00:22:49,284 --> 00:22:50,701
+Il est sourdingue.
+
+264
+00:22:51,203 --> 00:22:54,705
+C'est pas à lui que je parle,
+c'est à moi. Ça m'aide à penser.
+
+265
+00:22:54,873 --> 00:22:56,457
+Lui, ça l'aide à rien.
+
+266
+00:22:58,001 --> 00:23:00,378
+Ça ne le gêne pas non plus, hein ?
+
+267
+00:23:00,629 --> 00:23:02,671
+Ça te gêne, Grand Chef ?
+
+268
+00:23:03,215 --> 00:23:04,840
+Tu vois ? Ça Ie gêne pas.
+
+269
+00:23:07,886 --> 00:23:12,640
+Bon, alors, lève les mains bien haut.
+
+270
+00:23:13,141 --> 00:23:17,561
+AlIez, lève ! En l'air, vu ? En I'air !
+
+271
+00:23:18,271 --> 00:23:21,148
+Lève les mains ! Voilà ! C'est ça !
+
+272
+00:23:21,316 --> 00:23:24,151
+Encore ! Jusqu'en haut !
+
+273
+00:23:24,486 --> 00:23:26,987
+Ça, c'est un bon petit gars, hein ?
+
+274
+00:23:27,447 --> 00:23:28,989
+Bon, maintenant...
+
+275
+00:23:29,908 --> 00:23:33,160
+tu sautes, et tu le mets dans le panier.
+
+276
+00:23:33,912 --> 00:23:35,496
+Saute et fous-Ie dedans.
+
+277
+00:23:36,498 --> 00:23:40,042
+Saute, et fourre ton gros truc là-dedans.
+
+278
+00:23:42,003 --> 00:23:43,587
+Baisse les bras.
+
+279
+00:23:44,214 --> 00:23:46,924
+Reste Ià, je reviens.
+
+280
+00:23:51,847 --> 00:23:53,806
+Bancini, écoute voir.
+
+281
+00:23:54,474 --> 00:23:56,976
+Tu as l'air en forme. Mets-toi là.
+
+282
+00:23:57,352 --> 00:23:58,978
+Bouge pas.
+
+283
+00:23:59,396 --> 00:24:03,566
+Baisse-toi un peu.
+Et... relève-toi. Relève-toi, allez !
+
+284
+00:24:03,775 --> 00:24:05,734
+Ça y est ! Tu y es !
+
+285
+00:24:09,239 --> 00:24:10,948
+La passe,
+
+286
+00:24:11,533 --> 00:24:12,783
+je suis démarqué !
+
+287
+00:24:12,951 --> 00:24:13,909
+Bouge pas.
+
+288
+00:24:14,744 --> 00:24:16,662
+Donne-moi Ie ballon !
+
+289
+00:24:18,039 --> 00:24:19,331
+Tiens Ie coup, toi.
+
+290
+00:24:19,708 --> 00:24:22,710
+On prend, on saute, et panier.
+
+291
+00:24:23,044 --> 00:24:25,212
+C'est vu ? Vas-y !
+
+292
+00:24:26,047 --> 00:24:28,132
+Tiens, prends Ie ballon.
+
+293
+00:24:28,300 --> 00:24:33,721
+Saute, et panier !
+
+294
+00:24:33,889 --> 00:24:35,222
+Pas toi, Bancini.
+
+295
+00:24:35,891 --> 00:24:37,558
+Bancini, où tu vas ?
+
+296
+00:24:37,726 --> 00:24:40,978
+Où ? Non ! En attaque !
+Pas en défense !
+
+297
+00:24:41,146 --> 00:24:45,900
+Là-bas, reviens !
+Mais où tu vas, merde ?
+
+298
+00:24:46,234 --> 00:24:48,486
+Général, faites-Iui faire
+son demi-tour !
+
+299
+00:24:48,653 --> 00:24:51,071
+Là-bas ! Sur le Grand Chef !
+
+300
+00:24:52,407 --> 00:24:55,159
+En attaque ! La passe !
+
+301
+00:24:57,162 --> 00:24:58,537
+Dans le panier !
+
+302
+00:25:19,768 --> 00:25:20,768
+Bon.
+
+303
+00:25:22,646 --> 00:25:24,146
+Les mises !
+
+304
+00:25:24,731 --> 00:25:25,898
+Qu'est-ce que c'est ?
+
+305
+00:25:26,066 --> 00:25:27,274
+Les mises !
+
+306
+00:25:27,526 --> 00:25:29,401
+C'est 1 0 cents, Martini.
+
+307
+00:25:30,570 --> 00:25:31,779
+Je mise 5 cents.
+
+308
+00:25:32,739 --> 00:25:35,157
+Pas moins de 1 0.
+
+309
+00:25:37,661 --> 00:25:38,827
+Bon, 1 0 cents.
+
+310
+00:25:43,875 --> 00:25:46,293
+Ça, c'est pas 1 0 cents.
+
+311
+00:25:48,338 --> 00:25:50,464
+VoiIà 1 0 cents.
+
+312
+00:25:50,799 --> 00:25:55,511
+Si tu la coupes, tu n'as pas
+2 fois 5 cents, tu as de la merde !
+
+313
+00:25:56,137 --> 00:25:57,429
+Essaie de fumer ça.
+
+314
+00:25:57,597 --> 00:25:58,639
+Tu piges ?
+
+315
+00:26:00,350 --> 00:26:02,643
+Non, tu ne piges pas. Je donne !
+
+316
+00:26:02,811 --> 00:26:05,604
+Dame, pour Chester,
+Roi pour Tabulations...
+
+317
+00:26:05,939 --> 00:26:09,108
+dix, à BiIly, pour se palucher.
+Un trois, au donneur.
+
+318
+00:26:10,151 --> 00:26:11,485
+Sers-moi !
+
+319
+00:26:12,153 --> 00:26:15,489
+Je ne peux pas te servir,
+c'est pas ton tour. Compris ?
+
+320
+00:26:15,657 --> 00:26:18,450
+Tu vois les autres, là ?
+C'est eux qui comptent.
+
+321
+00:26:18,660 --> 00:26:20,911
+Eux, comptent pour de vrai.
+
+322
+00:26:22,414 --> 00:26:24,623
+Alors, Ches, carte ou pas carte ?
+
+323
+00:26:31,756 --> 00:26:32,798
+Sers-moi.
+
+324
+00:26:35,885 --> 00:26:37,678
+Taber, tu es baisé. Donne-moi ça.
+
+325
+00:26:37,846 --> 00:26:39,305
+Vingt-trois ?
+
+326
+00:26:40,932 --> 00:26:41,849
+Ta gueule !
+
+327
+00:26:42,017 --> 00:26:42,808
+Taber.
+
+328
+00:26:42,976 --> 00:26:43,851
+Donne-moi 1 0 cents.
+
+329
+00:26:44,019 --> 00:26:44,893
+C'est à moi.
+
+330
+00:26:45,061 --> 00:26:46,812
+Ce n'est pas à toi !
+
+331
+00:26:47,689 --> 00:26:48,397
+Carte.
+
+332
+00:26:48,857 --> 00:26:49,732
+As.
+
+333
+00:26:58,158 --> 00:26:59,116
+Carte !
+
+334
+00:27:00,535 --> 00:27:04,038
+Tu n'as pas misé,
+je peux pas te servir. Oh, bon Dieu !
+
+335
+00:27:04,539 --> 00:27:05,706
+Je mets 1 0 cents.
+
+336
+00:27:05,874 --> 00:27:09,585
+Alors, tiens. 20 pour voir.
+Prends ton argent.
+
+337
+00:27:11,087 --> 00:27:14,423
+Pas d'accord. Ça fait dix, onze...
+
+338
+00:27:14,716 --> 00:27:15,924
+douze, treize.
+
+339
+00:27:17,010 --> 00:27:19,678
+Ça, c'est une dame, tu piges ?
+
+340
+00:27:19,846 --> 00:27:22,389
+On ne compte pas ça et ça !
+
+341
+00:27:23,308 --> 00:27:24,016
+Carte !
+
+342
+00:27:24,309 --> 00:27:25,768
+C'est 1 0 pour voir !
+
+343
+00:27:26,061 --> 00:27:27,978
+Je veux une autre carte !
+
+344
+00:27:28,146 --> 00:27:29,772
+Scanlon, qui engage ?
+
+345
+00:27:32,400 --> 00:27:33,734
+Médicaments !
+
+346
+00:27:34,069 --> 00:27:36,070
+Ce n'est pas une dame !
+
+347
+00:27:39,157 --> 00:27:40,574
+Sers-moi !
+
+348
+00:27:43,244 --> 00:27:47,206
+Bordel de Dieu, vous tapez le carton
+ou vous vous tapez une queue ?
+
+349
+00:27:47,374 --> 00:27:48,290
+Jouez !
+
+350
+00:27:48,625 --> 00:27:50,876
+Je ne m'entends pIus penser.
+
+351
+00:28:01,429 --> 00:28:02,554
+Je voulais juste...
+
+352
+00:28:02,722 --> 00:28:03,806
+Dehors !
+
+353
+00:28:04,307 --> 00:28:06,350
+Ce box est interdit aux patients.
+
+354
+00:28:06,518 --> 00:28:09,228
+Je voulais juste baisser...
+
+355
+00:28:09,396 --> 00:28:13,232
+Quand vous serez ressorti,
+nous aborderons votre problème.
+
+356
+00:28:13,566 --> 00:28:17,194
+Les malades ne sont pas admis
+dans le box des infirmières.
+
+357
+00:28:21,116 --> 00:28:22,866
+Laisse-moi ta place.
+
+358
+00:28:23,868 --> 00:28:25,285
+Excusez-moi.
+
+359
+00:28:26,121 --> 00:28:27,621
+Serait-iI possible...
+
+360
+00:28:27,789 --> 00:28:31,625
+de baisser cette musique
+pour qu'on puisse parler ?
+
+361
+00:28:33,169 --> 00:28:35,170
+La musique est pour tout Ie monde.
+
+362
+00:28:36,297 --> 00:28:39,049
+Oui, mais peut-on
+la mettre en sourdine...
+
+363
+00:28:39,384 --> 00:28:42,803
+pour qu'on ne soit pas
+obligé de hurler ?
+
+364
+00:28:43,471 --> 00:28:47,891
+Vous semblez avoir oublié
+qu'il y a beaucoup de vieillards, ici...
+
+365
+00:28:48,059 --> 00:28:51,145
+qui n'entendraient rien
+si on Ia baissait.
+
+366
+00:28:51,312 --> 00:28:53,814
+Cette musique,
+c'est tout ce qu'ils ont.
+
+367
+00:28:55,316 --> 00:28:57,109
+Vous saIissez ma gIace.
+
+368
+00:28:59,988 --> 00:29:02,156
+Excusez-moi. Désolé.
+
+369
+00:29:03,700 --> 00:29:06,243
+M. McMurphy ? Votre médicament.
+
+370
+00:29:07,746 --> 00:29:09,163
+C'est quoi, cette saloperie ?
+
+371
+00:29:09,330 --> 00:29:10,956
+C'est pour vous soigner.
+
+372
+00:29:11,124 --> 00:29:14,585
+Oui, mais j'aime pas
+avaler des trucs sans savoir.
+
+373
+00:29:15,587 --> 00:29:17,171
+Ne vous alarmez pas.
+
+374
+00:29:17,756 --> 00:29:19,840
+Je ne m'aIarme pas, Miss Pilbow.
+
+375
+00:29:20,008 --> 00:29:24,344
+Mais je ne veux pas
+du marchand de sable pour Popaul !
+
+376
+00:29:25,513 --> 00:29:26,847
+Vous comprenez ?
+
+377
+00:29:27,807 --> 00:29:29,683
+Laissez, Miss Pilbow.
+
+378
+00:29:29,851 --> 00:29:33,020
+S'il ne veut pas
+son médicament par voie oraIe...
+
+379
+00:29:33,855 --> 00:29:37,024
+nous le lui administrerons
+par une autre voie.
+
+380
+00:29:39,235 --> 00:29:42,279
+Mais je ne pense pas
+que ça vous tente.
+
+381
+00:29:44,532 --> 00:29:46,158
+Toi, ça te tenterait, hein ?
+
+382
+00:29:46,326 --> 00:29:47,701
+AlIez, envoyez !
+
+383
+00:29:48,453 --> 00:29:49,453
+Bien.
+
+384
+00:29:56,795 --> 00:29:58,128
+Très, très bien.
+
+385
+00:29:59,714 --> 00:30:00,964
+Miam-miam !
+
+386
+00:30:05,595 --> 00:30:06,887
+M. Harding...
+
+387
+00:30:23,530 --> 00:30:26,907
+Dites donc, le baiseur,
+fallait l'envoyer se faire foutre !
+
+388
+00:30:37,919 --> 00:30:39,753
+D'ac. Très drôle.
+
+389
+00:30:40,213 --> 00:30:41,421
+Mais ce n'est pas malin.
+
+390
+00:30:41,589 --> 00:30:43,257
+ElIe aurait pu le voir.
+
+391
+00:30:47,428 --> 00:30:50,931
+Vous croyez qu'elle épie
+tous les va-et-vient ?
+
+392
+00:30:51,266 --> 00:30:52,724
+Vous la prenez pour qui...
+
+393
+00:30:52,892 --> 00:30:53,725
+Superman ?
+
+394
+00:30:53,893 --> 00:30:55,769
+Pardon, c'est vous, Superman !
+
+395
+00:30:57,021 --> 00:30:58,480
+Vous voulez parier ?
+
+396
+00:30:59,148 --> 00:31:00,607
+Parier quoi ?
+
+397
+00:31:01,442 --> 00:31:02,609
+Une semaine.
+
+398
+00:31:02,777 --> 00:31:07,114
+Dans 8 jours, je l'aurai teIlement
+fait chier qu'eIle sera dingue !
+
+399
+00:31:07,574 --> 00:31:10,784
+Ça te la coupe, hein ?
+Vous pariez ? Dans une semaine.
+
+400
+00:31:11,035 --> 00:31:14,997
+Pas plus. Vous pariez ?
+Vous pariez ? Un dolIar. Un dollar, hein ?
+
+401
+00:31:16,416 --> 00:31:17,541
+Je marche.
+
+402
+00:31:18,960 --> 00:31:21,587
+Taber marche.
+
+403
+00:31:23,548 --> 00:31:26,842
+La dernière fois,
+nous avons parlé de M. Harding
+
+404
+00:31:27,010 --> 00:31:31,054
+et de sa femme,
+et nous avons beaucoup progressé.
+
+405
+00:31:32,307 --> 00:31:34,433
+Qui veut ouvrir Ia réunion ?
+
+406
+00:31:39,939 --> 00:31:41,064
+M. McMurphy ?
+
+407
+00:31:42,817 --> 00:31:45,986
+J'ai réfléchi à votre suggestion...
+
+408
+00:31:47,030 --> 00:31:49,907
+de dire ce qu'on a sur le cœur.
+
+409
+00:31:52,827 --> 00:31:55,996
+Eh bien, j'aimerais dire
+ce que j'ai sur le cœur.
+
+410
+00:31:56,497 --> 00:31:59,458
+A la bonne heure ! On vous écoute !
+
+411
+00:32:01,085 --> 00:32:02,753
+Aujourd'hui, vous l'ignorez
+
+412
+00:32:02,921 --> 00:32:06,506
+peut-être... peu importe...
+c'est la Coupe du Monde.
+
+413
+00:32:07,884 --> 00:32:08,550
+Je voudrais
+
+414
+00:32:08,718 --> 00:32:12,429
+suggérer de changer
+les horaires de travaiI, ce soir...
+
+415
+00:32:12,764 --> 00:32:15,390
+pour que nous regardions le match.
+
+416
+00:32:18,061 --> 00:32:20,687
+M. McMurphy,
+vous nous demandez...
+
+417
+00:32:21,314 --> 00:32:25,484
+de changer un emploi du temps
+minutieusement établi.
+
+418
+00:32:27,487 --> 00:32:31,323
+Un petit changement, ça ne fait
+pas de mal ? Ça varie un peu ?
+
+419
+00:32:32,033 --> 00:32:33,200
+Ce n'est pas...
+
+420
+00:32:33,368 --> 00:32:35,035
+toujours vrai.
+
+421
+00:32:35,328 --> 00:32:39,665
+Certains malades ont été longs,
+très longs à s'y faire.
+
+422
+00:32:40,708 --> 00:32:43,543
+Changer les perturberait.
+
+423
+00:32:44,170 --> 00:32:48,465
+Merde, à la fin ! On y reviendra,
+aux horaires... après la Coupe...
+
+424
+00:32:48,633 --> 00:32:50,092
+la Coupe du Monde !
+
+425
+00:32:52,053 --> 00:32:54,888
+Ce n'est pas ainsi
+qu'il faut procéder.
+
+426
+00:32:55,723 --> 00:32:57,557
+Que diriez-vous...
+
+427
+00:32:57,725 --> 00:33:00,894
+de voter, et de laisser
+la majorité décider ?
+
+428
+00:33:01,521 --> 00:33:03,563
+Parfait. Mettons-la aux voix.
+
+429
+00:33:05,400 --> 00:33:08,402
+Ceux qui sont pour, levez la main.
+
+430
+00:33:12,907 --> 00:33:14,074
+AlIez, les mecs !
+
+431
+00:33:15,702 --> 00:33:17,244
+Levez la main.
+
+432
+00:33:20,373 --> 00:33:21,456
+Qu'est-ce que vous avez ?
+
+433
+00:33:21,624 --> 00:33:23,667
+Ça vous dit rien, la Coupe ?
+
+434
+00:33:24,752 --> 00:33:26,837
+AlIez, quoi !
+Ça vous fera du bien...
+
+435
+00:33:27,005 --> 00:33:30,048
+un peu d'exercice : bras en l'air !
+
+436
+00:33:31,259 --> 00:33:33,260
+Très bien. Allez !
+
+437
+00:33:42,687 --> 00:33:44,187
+C'est trop con !
+
+438
+00:33:44,897 --> 00:33:48,734
+Jamais je n'ai loupé une Coupe.
+Même en tauIe.
+
+439
+00:33:48,901 --> 00:33:51,862
+En taule, on faisait des émeutes !
+
+440
+00:33:52,030 --> 00:33:54,906
+AlIez, quoi !
+Soyez de bons Américains !
+
+441
+00:33:59,787 --> 00:34:00,579
+Eh bien...
+
+442
+00:34:00,747 --> 00:34:02,622
+je ne compte que 3 voix...
+
+443
+00:34:02,957 --> 00:34:05,959
+et c'est trop peu
+pour changer nos règles.
+
+444
+00:34:06,252 --> 00:34:07,377
+Je suis désolée.
+
+445
+00:34:12,633 --> 00:34:13,675
+A moi !
+
+446
+00:34:15,470 --> 00:34:18,680
+Il faut que je passe au départ
+pour me refaire.
+
+447
+00:34:19,891 --> 00:34:21,641
+Puis, Mediterranean Ave. Un 1 0 !
+
+448
+00:34:21,809 --> 00:34:23,810
+Parfait. Double cinq.
+
+449
+00:34:28,024 --> 00:34:29,775
+Qu'est-ce que vous faites ?
+
+450
+00:34:30,443 --> 00:34:33,653
+Vous n'avez pas d'hôtel, ici !
+Pour la 3ème fois...
+
+451
+00:34:34,113 --> 00:34:38,158
+vous n'avez pas d'hôtel à Boardwalk !
+Il faut donner 1 000 $
+
+452
+00:34:38,743 --> 00:34:42,829
+et 4 maisons pour avoir un hôtel.
+
+453
+00:34:42,997 --> 00:34:44,289
+Vous n'avez pas d'hôtel !
+
+454
+00:34:45,625 --> 00:34:46,750
+Joue, Harding !
+
+455
+00:34:46,918 --> 00:34:48,335
+Mais enfin, je joue, moi !
+
+456
+00:34:48,503 --> 00:34:51,046
+Joue et arrête tes saIades !
+
+457
+00:34:51,214 --> 00:34:52,339
+Tes salades !
+
+458
+00:34:52,590 --> 00:34:53,590
+AlIez, joue !
+
+459
+00:34:53,758 --> 00:34:55,592
+Ne me touchez pas !
+
+460
+00:34:57,220 --> 00:34:58,303
+Joue !
+
+461
+00:35:01,682 --> 00:35:02,808
+Je vous ignore !
+
+462
+00:35:03,559 --> 00:35:05,018
+Ne me touchez pas, saIaud !
+
+463
+00:35:05,353 --> 00:35:07,354
+Ne me touchez pas, compris ?
+
+464
+00:35:08,397 --> 00:35:09,439
+Joue, joue !
+
+465
+00:35:09,607 --> 00:35:11,191
+Il y a des limites !
+
+466
+00:35:11,692 --> 00:35:12,984
+Joue !
+
+467
+00:35:13,653 --> 00:35:17,739
+Osez me toucher !
+Osez encore une fois ! Encore !
+
+468
+00:35:19,033 --> 00:35:20,909
+Joue, Harding.
+
+469
+00:35:42,390 --> 00:35:45,559
+Il est chouette,
+ton emploi du temps !
+
+470
+00:35:46,894 --> 00:35:48,937
+Pauvre cinglé !
+
+471
+00:35:49,355 --> 00:35:50,564
+Je ne vous comprends pas.
+
+472
+00:35:50,857 --> 00:35:53,358
+Non ? AIors, reste trempé !
+
+473
+00:35:53,734 --> 00:35:55,944
+Moi, je vais en viIle
+voir la Coupe.
+
+474
+00:35:57,029 --> 00:35:58,488
+Qui vient avec moi ?
+
+475
+00:35:58,739 --> 00:36:00,407
+Moi. Je viens avec toi.
+
+476
+00:36:01,534 --> 00:36:03,451
+D'accord. II y en a d'autres ?
+
+477
+00:36:03,619 --> 00:36:04,327
+Où ?
+
+478
+00:36:04,579 --> 00:36:06,621
+Dans n'importe quel bar.
+
+479
+00:36:06,789 --> 00:36:08,957
+Mais tu ne peux pas...
+
+480
+00:36:09,876 --> 00:36:11,251
+sortir d'ici.
+
+481
+00:36:12,712 --> 00:36:14,963
+Qu'est-ce qu'on parie ?
+
+482
+00:36:16,090 --> 00:36:17,591
+On se dégonfle ?
+
+483
+00:36:18,509 --> 00:36:19,843
+S'il montre à Miss Ratched...
+
+484
+00:36:20,011 --> 00:36:23,263
+son gros machin,
+elle lui ouvrira peut-être !
+
+485
+00:36:26,601 --> 00:36:28,143
+Je ferai peut-être ça...
+
+486
+00:36:28,603 --> 00:36:31,771
+ou je prendrai ta tête dure,
+pour abattre le mur.
+
+487
+00:36:32,398 --> 00:36:33,690
+Tu vois, Sefelt.
+
+488
+00:36:37,028 --> 00:36:39,362
+ElIe s'écraserait
+comme une aubergine !
+
+489
+00:36:41,449 --> 00:36:43,909
+J'en ai rien à foutre
+de la tête de Sefelt !
+
+490
+00:36:44,368 --> 00:36:45,869
+Je vais arracher ce bordel, là...
+
+491
+00:36:46,037 --> 00:36:48,121
+le balancer dehors,
+et Cheswick et moi...
+
+492
+00:36:48,289 --> 00:36:52,250
+on sortira, on ira dans un bar,
+on se rincera la dalIe...
+
+493
+00:36:52,752 --> 00:36:56,922
+et on regardera le match.
+VoiIà I'enjeu. Qui parie ?
+
+494
+00:36:59,800 --> 00:37:01,301
+Tu comptes soulever ça ?
+
+495
+00:37:02,803 --> 00:37:04,679
+Parfaitement.
+
+496
+00:37:06,682 --> 00:37:07,766
+Un dolIar.
+
+497
+00:37:08,893 --> 00:37:10,810
+Taber, un dollar.
+
+498
+00:37:11,812 --> 00:37:12,979
+Moi, 1 0 cents.
+
+499
+00:37:13,147 --> 00:37:17,234
+Tu ne peux pas soulever ça.
+
+500
+00:37:19,654 --> 00:37:22,656
+Qui est-ce qui parie ? Hardent ?
+
+501
+00:37:25,576 --> 00:37:27,744
+Je mets 25 dolIars.
+
+502
+00:37:32,833 --> 00:37:36,253
+Personne ne pourra
+jamais soulever ça.
+
+503
+00:37:37,213 --> 00:37:40,382
+Sors de là,
+tu bouffes mon oxygène.
+
+504
+00:37:59,360 --> 00:38:00,360
+Ça vous refroidit ?
+
+505
+00:38:04,031 --> 00:38:06,199
+Non, je m'échauffe.
+
+506
+00:38:09,328 --> 00:38:11,037
+C'est la bonne !
+
+507
+00:39:04,342 --> 00:39:08,428
+J'aurai essayé. Bon Dieu,
+j'aurai au moins essayé !
+
+508
+00:39:33,329 --> 00:39:36,664
+Avez-vous dit vos sentiments
+à cette jeune filIe ?
+
+509
+00:39:47,009 --> 00:39:48,968
+Je suis aIlé chez eIle...
+
+510
+00:39:49,929 --> 00:39:52,764
+un dimanche après-midi...
+
+511
+00:39:54,809 --> 00:39:57,310
+avec des fIeurs.
+
+512
+00:40:03,609 --> 00:40:05,360
+Je Iui ai dit :
+
+513
+00:40:09,198 --> 00:40:11,116
+Ce-Ce-CeIia, veux-tu m'ép...
+
+514
+00:40:15,371 --> 00:40:17,247
+m'ép-m'épouser ?
+
+515
+00:40:39,103 --> 00:40:40,854
+Pourquoi vouliez-vous I'épouser ?
+
+516
+00:40:44,191 --> 00:40:47,235
+J'étais a-amoureux d'elIe.
+
+517
+00:40:49,572 --> 00:40:52,157
+Vous n'en avez jamais parIé
+à votre mère.
+
+518
+00:41:01,542 --> 00:41:04,919
+BiIly ? Pourquoi ?
+
+519
+00:41:19,810 --> 00:41:22,061
+Votre 1 er suicide date-t-iI de là ?
+
+520
+00:41:31,906 --> 00:41:32,947
+Seigneur !
+
+521
+00:41:34,575 --> 00:41:35,742
+M. Cheswick ?
+
+522
+00:41:36,577 --> 00:41:40,538
+Miss Ratched, je voudrais
+vous poser une question.
+
+523
+00:41:41,165 --> 00:41:42,081
+AlIez-y.
+
+524
+00:41:46,378 --> 00:41:47,504
+Ecoutez...
+
+525
+00:41:48,797 --> 00:41:51,257
+si BiIly ne veut pas en parler...
+
+526
+00:41:53,886 --> 00:41:55,345
+pourquoi vous Ie forcez ?
+
+527
+00:41:56,180 --> 00:41:58,348
+On ne peut pas changer de sujet ?
+
+528
+00:42:00,518 --> 00:42:03,228
+Le sujet de cette réunion...
+
+529
+00:42:03,896 --> 00:42:04,938
+c'est la thérapie.
+
+530
+00:42:09,276 --> 00:42:11,861
+Je ne comprends pas...
+
+531
+00:42:12,029 --> 00:42:13,196
+parce que...
+
+532
+00:42:14,490 --> 00:42:16,616
+M. McMurphy a parlé...
+
+533
+00:42:16,784 --> 00:42:19,827
+de la Coupe du Monde...
+
+534
+00:42:21,121 --> 00:42:22,539
+de base-ball.
+
+535
+00:42:23,290 --> 00:42:24,374
+Voyez-vous...
+
+536
+00:42:24,542 --> 00:42:26,084
+je n'y suis jamais allé...
+
+537
+00:42:27,211 --> 00:42:29,379
+et j'aimerais bien voir un match.
+
+538
+00:42:31,715 --> 00:42:34,175
+Ce serait une bonne thérapie
+aussi, n'est-ce pas ?
+
+539
+00:42:35,219 --> 00:42:37,262
+Nous avons régIé cette question.
+
+540
+00:42:40,641 --> 00:42:43,101
+Eh bien, je ne crois pas,
+parce que...
+
+541
+00:42:43,269 --> 00:42:45,937
+c'était hier, et aujourd'hui...
+
+542
+00:42:46,313 --> 00:42:49,232
+il y a un autre match...
+
+543
+00:42:49,400 --> 00:42:50,275
+n'est-ce pas, Mac ?
+
+544
+00:42:50,442 --> 00:42:53,778
+Très juste.
+Et on veut revoter, hein, vieux ?
+
+545
+00:42:57,616 --> 00:43:00,618
+Un nouveau vote
+vous satisfera-t-il ?
+
+546
+00:43:01,245 --> 00:43:03,538
+Oui. Ça me satisfera.
+
+547
+00:43:06,250 --> 00:43:08,001
+Vote de groupe.
+
+548
+00:43:08,502 --> 00:43:11,671
+Pour la modification
+des horaires, levez la main !
+
+549
+00:43:16,635 --> 00:43:18,177
+Mains en l'air !
+
+550
+00:43:18,887 --> 00:43:22,223
+AlIez, les fous, soyez pas mous !
+
+551
+00:43:30,357 --> 00:43:31,899
+Ça y est. Voilà.
+
+552
+00:43:32,610 --> 00:43:34,611
+Je ne compte que 9 voix.
+
+553
+00:43:35,821 --> 00:43:38,740
+ElIe n'en compte que 9 !
+Que 9 ! C'est un raz-de-marée !
+
+554
+00:43:40,576 --> 00:43:44,287
+Il y a 1 8 patients dans ce paviIlon...
+
+555
+00:43:44,455 --> 00:43:46,873
+et il vous faut Ia majorité.
+
+556
+00:43:48,876 --> 00:43:50,960
+Messieurs, baissez vos mains.
+
+557
+00:43:56,717 --> 00:43:58,718
+Vous voulez me faire croire
+que vous comptez...
+
+558
+00:43:58,886 --> 00:44:00,261
+ceux-ci ?
+
+559
+00:44:00,721 --> 00:44:03,723
+Ces pauvres cons ne savent
+même pas de quoi on parle !
+
+560
+00:44:04,892 --> 00:44:07,602
+Je ne partage pas votre avis.
+
+561
+00:44:08,062 --> 00:44:11,731
+Ces hommes font partie
+du pavillon, tout comme vous.
+
+562
+00:44:14,234 --> 00:44:16,569
+Il me faut une voix de pIus, d'accord ?
+
+563
+00:44:18,822 --> 00:44:20,073
+C'est cela.
+
+564
+00:44:23,577 --> 00:44:25,286
+Tu veux voir Ia Coupe du Monde ?
+
+565
+00:44:25,913 --> 00:44:29,248
+Entre, c'est ton heure de gloire.
+Tu veux voir Ie match ?
+
+566
+00:44:29,541 --> 00:44:32,251
+Tu veux ?
+Tu n'as qu'à lever cette main !
+
+567
+00:44:33,170 --> 00:44:34,879
+Qu'est-ce que tu dis ?
+
+568
+00:44:35,756 --> 00:44:36,881
+Excuse-moi.
+
+569
+00:44:37,591 --> 00:44:39,175
+Bancini, vieux bidet, et toi ?
+
+570
+00:44:39,343 --> 00:44:42,136
+Tu veux voir Ie match ?
+
+571
+00:44:42,304 --> 00:44:44,430
+Tu veux ?
+La Coupe du Monde de base-ball !
+
+572
+00:44:46,100 --> 00:44:50,019
+Fatigué ? AIlez, lève Ia main !
+
+573
+00:44:50,187 --> 00:44:52,438
+Fatigué... si fatigué.
+
+574
+00:44:54,525 --> 00:44:55,733
+Et toi, vieux ?
+
+575
+00:44:55,901 --> 00:44:59,112
+Il ne faut plus qu'une voix.
+Une seule ! C'est tout !
+
+576
+00:44:59,905 --> 00:45:02,782
+Lève la main,
+et tes copains verront le match.
+
+577
+00:45:10,624 --> 00:45:14,752
+Général, souvenez-vous,
+l'hymne nationaI...
+
+578
+00:45:17,506 --> 00:45:19,340
+Levez la main, général !
+
+579
+00:45:21,844 --> 00:45:23,553
+Levez la main !
+
+580
+00:45:25,514 --> 00:45:28,641
+Et vous, hein ?
+Vous voulez voir le match ?
+
+581
+00:45:28,892 --> 00:45:31,769
+Vous voulez ? Une voix !
+
+582
+00:45:33,063 --> 00:45:34,313
+Fin de réunion.
+
+583
+00:45:34,565 --> 00:45:35,940
+Bon Dieu, n'y a-t-il pas...
+
+584
+00:45:36,108 --> 00:45:38,067
+un seul de vos enfoirés qui sache...
+
+585
+00:45:38,235 --> 00:45:39,193
+de quoi je parIe ?
+
+586
+00:45:41,405 --> 00:45:42,739
+Fin de réunion.
+
+587
+00:45:42,906 --> 00:45:45,074
+Une seconde ! Juste une, hein ?
+
+588
+00:45:45,325 --> 00:45:47,326
+Vous reprendrez demain.
+
+589
+00:45:48,078 --> 00:45:48,911
+Toi, Chef ?
+
+590
+00:45:50,664 --> 00:45:53,833
+Tu es notre dernière chance.
+Alors ? Lève la main.
+
+591
+00:45:54,460 --> 00:45:57,587
+C'est tout ce qu'on te demande.
+Lève la main une fois.
+
+592
+00:45:58,213 --> 00:46:00,506
+Montre-Iui que tu peux le faire.
+
+593
+00:46:00,674 --> 00:46:04,677
+Montre-Iui, à elIe !
+Lève la main. Comme tous les autres.
+
+594
+00:46:04,970 --> 00:46:06,721
+Lève-la, tu veux ?
+
+595
+00:46:11,894 --> 00:46:15,021
+Il y en a bien un
+qui n'est pas complètement maboul !
+
+596
+00:46:18,525 --> 00:46:20,109
+Le Grand Chef !
+
+597
+00:46:22,946 --> 00:46:24,113
+Miss Ratched, regardez !
+
+598
+00:46:25,073 --> 00:46:28,576
+Le Grand Chef a levé Ia main !
+Regardez ! ll a voté !
+
+599
+00:46:28,869 --> 00:46:31,746
+S'il vous plaît,
+branchez la télé !
+
+600
+00:46:36,960 --> 00:46:40,755
+Le Chef a voté !
+Alors, allumez la télé !
+
+601
+00:46:40,923 --> 00:46:41,881
+M. McMurphy...
+
+602
+00:46:42,049 --> 00:46:44,467
+les débats étaient clos
+ainsi que le vote.
+
+603
+00:46:44,635 --> 00:46:48,221
+On avait 1 0 voix contre 8.
+Le Chef a levé la main !
+
+604
+00:46:48,388 --> 00:46:52,058
+Non. A la fin des débats,
+c'était 9 contre 9.
+
+605
+00:46:54,561 --> 00:46:58,189
+Vous n'allez pas me sortir ça,
+maintenant ! Pas maintenant !
+
+606
+00:46:58,357 --> 00:47:02,109
+Arrêtez de me faire chier.
+On était 1 0 contre 9 !
+
+607
+00:47:02,277 --> 00:47:05,905
+Alors, la télé...
+branchée ! lllico !
+
+608
+00:47:39,731 --> 00:47:40,940
+Koufax.
+
+609
+00:47:41,733 --> 00:47:44,527
+Koufax tape et sert bien !
+
+610
+00:47:44,945 --> 00:47:48,573
+Il passe le milieu !
+Richardson bloque, se rabat...
+
+611
+00:47:48,740 --> 00:47:51,951
+balIe au centre !
+Davis intercepte !
+
+612
+00:47:52,119 --> 00:47:53,870
+Richardson au sol, se replie...
+
+613
+00:47:54,037 --> 00:47:55,997
+glisse... se reIève...
+il n'a rien !
+
+614
+00:47:56,164 --> 00:47:58,374
+Martini, regarde Richardson !
+
+615
+00:47:58,542 --> 00:48:01,294
+Koufax pagaille.
+Pagaille méchamment.
+
+616
+00:48:54,264 --> 00:48:55,890
+Vous vous plaisez ici ?
+
+617
+00:49:00,270 --> 00:49:02,730
+Il y a cette salope d'infirmière.
+
+618
+00:49:03,649 --> 00:49:05,024
+Que voulez-vous dire ?
+
+619
+00:49:14,743 --> 00:49:15,701
+ElIe...
+
+620
+00:49:15,869 --> 00:49:17,912
+elle est pas franche.
+
+621
+00:49:20,374 --> 00:49:24,377
+Miss Ratched est une
+de nos meiIleures infirmières.
+
+622
+00:49:27,381 --> 00:49:30,633
+Je n'aime pas
+saboter les réunions...
+
+623
+00:49:30,801 --> 00:49:33,552
+mais ce n'est qu'une conne,
+pas vrai, toubib ?
+
+624
+00:49:34,179 --> 00:49:35,388
+C'est-à-dire ?
+
+625
+00:49:37,265 --> 00:49:40,643
+ElIe aime jouer à l'écarté,
+vous me suivez ?
+
+626
+00:49:45,983 --> 00:49:49,777
+J'ai étudié votre comportement
+
+627
+00:49:49,945 --> 00:49:51,654
+depuis 4 semaines...
+
+628
+00:49:51,822 --> 00:49:55,157
+et je n'ai trouvé
+aucun signe de débiIité mentale.
+
+629
+00:49:55,325 --> 00:49:59,412
+Pas le moindre.
+Vous essayez de nous abuser.
+
+630
+00:50:01,248 --> 00:50:03,124
+Que voulez-vous que je fasse ?
+
+631
+00:50:06,169 --> 00:50:09,463
+Ça, peut-être ? C'est dingue ?
+Enfin... assez pour vous ?
+
+632
+00:50:09,631 --> 00:50:13,259
+Vous voulez que je chie par terre ?
+Oh, bon Dieu !
+
+633
+00:50:14,261 --> 00:50:17,888
+Connaissez-vous :
+"Pierre qui rouIe n'amasse pas mousse" ?
+
+634
+00:50:22,227 --> 00:50:24,395
+Ça vous dit quoi ?
+
+635
+00:50:29,443 --> 00:50:33,112
+C'est pareiI que :
+"Lave ton linge sale en familIe."
+
+636
+00:50:34,156 --> 00:50:36,157
+Je ne vous ai pas saisi.
+
+637
+00:50:38,910 --> 00:50:40,745
+Je suis pIus futé que lui !
+
+638
+00:50:43,331 --> 00:50:46,167
+Ça veut simpIement dire...
+
+639
+00:50:46,877 --> 00:50:50,463
+qu'il ne peut rien pousser
+sur un machin qui bouge.
+
+640
+00:50:51,006 --> 00:50:53,299
+Qu'avez-vous ressenti, hier ?
+
+641
+00:50:59,639 --> 00:51:01,974
+Une envie de tuer.
+
+642
+00:51:11,401 --> 00:51:13,903
+Vous avez d'autres questions ?
+
+643
+00:51:16,156 --> 00:51:18,866
+Moi, je n'en ai plus,
+mais vous, peut-être ?
+
+644
+00:51:19,034 --> 00:51:20,576
+Une question, McMurphy ?
+
+645
+00:51:21,912 --> 00:51:24,163
+Vous avez son adresse ?
+
+646
+00:51:55,153 --> 00:51:57,279
+Grand Chef, viens.
+
+647
+00:52:00,200 --> 00:52:03,035
+On va leur montrer qui est dingue !
+
+648
+00:52:04,371 --> 00:52:07,123
+Attends. Reste là.
+
+649
+00:52:08,959 --> 00:52:11,001
+Mets tes mains là.
+
+650
+00:52:12,462 --> 00:52:14,130
+Sur la clôture.
+
+651
+00:52:14,506 --> 00:52:16,841
+Tu tiens bon ?
+
+652
+00:52:36,695 --> 00:52:38,112
+AlIez, pousse !
+
+653
+00:53:46,640 --> 00:53:49,433
+Attends ! Arrête !
+
+654
+00:53:50,560 --> 00:53:51,685
+Facile, hein ?
+
+655
+00:54:30,183 --> 00:54:31,100
+Les copains...
+
+656
+00:54:32,852 --> 00:54:34,520
+ça, c'est Candy.
+
+657
+00:54:34,771 --> 00:54:37,022
+Candy, Ies copains.
+
+658
+00:54:52,080 --> 00:54:53,872
+Vous êtes tous dingos ?
+
+659
+00:55:47,552 --> 00:55:50,054
+Montez, ne restez pas là !
+
+660
+00:55:50,221 --> 00:55:52,014
+Tout le monde à bord !
+
+661
+00:55:55,435 --> 00:55:58,604
+Bon sang,
+qu'est-ce que vous faites Ià ?
+
+662
+00:55:59,439 --> 00:56:00,814
+Sur ce bateau ?
+
+663
+00:56:01,274 --> 00:56:02,941
+On va à la pêche.
+
+664
+00:56:03,276 --> 00:56:05,527
+Pas question.
+
+665
+00:56:05,695 --> 00:56:07,780
+Pas avec ce bateau.
+Vous n'irez pas...
+
+666
+00:56:07,947 --> 00:56:09,031
+avec ce bateau.
+
+667
+00:56:09,199 --> 00:56:12,326
+Si, avec celui-là.
+Demandez au Cap. Déblock.
+
+668
+00:56:13,745 --> 00:56:15,120
+Au Cap. Déblock.
+
+669
+00:56:15,372 --> 00:56:16,789
+Qui êtes-vous ?
+
+670
+00:56:18,500 --> 00:56:20,000
+Nous sommes de...
+
+671
+00:56:20,794 --> 00:56:22,503
+l'hôpital psychiatrique.
+
+672
+00:56:24,297 --> 00:56:25,923
+Dr Cheswick.
+
+673
+00:56:26,257 --> 00:56:28,300
+Dr Taber. Dr Fredrickson.
+
+674
+00:56:29,302 --> 00:56:30,844
+Dr Scanlon...
+
+675
+00:56:31,054 --> 00:56:32,638
+le grand Pr Scanlon.
+
+676
+00:56:32,972 --> 00:56:35,516
+M. Harding, Dr Bibbit...
+
+677
+00:56:35,683 --> 00:56:37,476
+Dr Martini.
+
+678
+00:56:38,061 --> 00:56:40,104
+Et Dr Sefelt.
+
+679
+00:56:41,731 --> 00:56:42,981
+Et vous ? Qui êtes-vous ?
+
+680
+00:56:44,234 --> 00:56:46,485
+Dr McMurphy. R.P. McMurphy.
+
+681
+00:56:51,908 --> 00:56:54,910
+Attendez ! Vous ne comprenez pas.
+
+682
+00:56:55,078 --> 00:56:57,037
+On a loué ce bateau. Pour pêcher.
+
+683
+00:56:57,205 --> 00:56:59,581
+C'est tout !
+
+684
+00:57:05,255 --> 00:57:06,130
+Arrête !
+
+685
+00:57:07,590 --> 00:57:09,341
+Ils vont te recoIler en cabane.
+
+686
+00:57:09,968 --> 00:57:12,344
+Impossible. On est des dingues.
+
+687
+00:57:13,221 --> 00:57:15,097
+On ira chez les sinoques !
+
+688
+00:57:17,267 --> 00:57:18,016
+Von Sefelt...
+
+689
+00:57:18,726 --> 00:57:20,477
+l'amarre de poupe !
+
+690
+00:57:21,062 --> 00:57:22,729
+Tabès, à l'avant !
+
+691
+00:57:22,897 --> 00:57:24,022
+Celle-ci ?
+
+692
+00:57:26,776 --> 00:57:29,361
+Celle-là ! A tes pieds !
+
+693
+00:57:36,411 --> 00:57:37,828
+Remonte !
+
+694
+00:58:26,044 --> 00:58:26,960
+Cheswick !
+
+695
+00:58:28,963 --> 00:58:30,172
+Viens ici.
+
+696
+00:58:37,263 --> 00:58:39,389
+A vos ordres, Cap. !
+Je veux dire, Mac.
+
+697
+00:58:39,557 --> 00:58:42,643
+Tu as déjà conduit
+un de ces machins ?
+
+698
+00:58:42,810 --> 00:58:44,061
+Conduit ?
+
+699
+00:58:47,607 --> 00:58:49,316
+C'est très amusant.
+
+700
+00:58:49,776 --> 00:58:51,652
+Prends Ia barre en mains.
+
+701
+00:58:53,655 --> 00:58:56,949
+Prends Ia barre !
+Comme ça, tu tomberas pas.
+
+702
+00:58:57,116 --> 00:58:59,117
+Garde le cap, droit devant.
+
+703
+00:58:59,285 --> 00:59:00,619
+Le cap ?
+
+704
+00:59:00,787 --> 00:59:04,164
+Gouverne droit.
+Droit comme une flèche.
+
+705
+00:59:04,582 --> 00:59:06,124
+Oui, tout droit.
+
+706
+00:59:07,126 --> 00:59:09,711
+Mais... ça reste pas droit. Mac !
+
+707
+00:59:13,633 --> 00:59:15,008
+Tout droit !
+
+708
+00:59:25,520 --> 00:59:27,229
+VoiIà I'appât.
+
+709
+00:59:29,566 --> 00:59:30,983
+Des petits poissons.
+
+710
+00:59:31,150 --> 00:59:32,734
+Des poissons morts.
+
+711
+00:59:32,902 --> 00:59:37,197
+Ça oui ! Et on fait quoi
+avec ces petits poissons ?
+
+712
+00:59:39,617 --> 00:59:40,993
+On en prend des gros.
+
+713
+00:59:41,160 --> 00:59:43,745
+Bravo ! Très bien, M. Martini.
+
+714
+00:59:46,332 --> 00:59:47,791
+Les hameçons.
+
+715
+00:59:51,087 --> 00:59:53,255
+Tous à vos hameçons...
+
+716
+00:59:53,423 --> 00:59:55,424
+et aux petits poissons !
+
+717
+00:59:55,967 --> 00:59:57,092
+Tabès...
+
+718
+00:59:59,679 --> 01:00:03,640
+tu as ton poisson.
+Et voiIà pour toi, Martini.
+
+719
+01:00:04,517 --> 01:00:07,519
+Parfait. A chacun sa bébête.
+
+720
+01:00:08,104 --> 01:00:11,315
+Pourquoi tu ris, Martini ?
+Tu n'es plus un idiot.
+
+721
+01:00:12,066 --> 01:00:14,693
+Tu n'es plus un timbré,
+tu es un pêcheur !
+
+722
+01:00:16,863 --> 01:00:21,199
+Bon, prenez l'hameçon
+par Ie bas. Ça y est ?
+
+723
+01:00:23,202 --> 01:00:26,079
+Vous le prenez et vous le...
+
+724
+01:00:27,332 --> 01:00:28,373
+poussez à fond...
+
+725
+01:00:29,667 --> 01:00:30,751
+comme ça.
+
+726
+01:00:31,377 --> 01:00:33,420
+Passez-le dans les yeux.
+
+727
+01:00:34,255 --> 01:00:35,255
+Dans son œil ?
+
+728
+01:00:35,715 --> 01:00:38,175
+T'en fais donc pas. Il est mort.
+
+729
+01:00:38,343 --> 01:00:40,802
+Passe-le dans son œil !
+
+730
+01:00:41,804 --> 01:00:46,391
+Parfait. Fais glisser. C'est ça.
+
+731
+01:00:46,726 --> 01:00:49,603
+Maintenant, tire dessus...
+
+732
+01:00:49,937 --> 01:00:52,731
+et laisses-en dépasser un bout.
+
+733
+01:00:53,399 --> 01:00:54,608
+Là, bravo !
+
+734
+01:00:54,776 --> 01:00:58,487
+Très bien, M. Fredrickson.
+ExcelIent travail sur l'œil.
+
+735
+01:01:00,365 --> 01:01:03,867
+Le coquin n'y verra
+que du feu, hein, l'ami ?
+
+736
+01:01:08,331 --> 01:01:12,876
+V... vous a-avez de beaux cheveux.
+
+737
+01:01:14,379 --> 01:01:15,420
+Merci.
+
+738
+01:01:19,467 --> 01:01:20,676
+Et aussi...
+
+739
+01:01:24,055 --> 01:01:25,931
+de beaux yeux.
+
+740
+01:01:31,604 --> 01:01:32,896
+Eh bien... BiIly !
+
+741
+01:01:33,189 --> 01:01:34,648
+T'aimes pas pêcher ?
+
+742
+01:01:40,238 --> 01:01:41,655
+Si, si.
+
+743
+01:01:43,199 --> 01:01:46,118
+Suivez-moi :
+je vais vous donner à chacun...
+
+744
+01:01:46,285 --> 01:01:47,786
+une gaule !
+
+745
+01:01:59,924 --> 01:02:05,595
+"Je suis Popeye... le marin."
+
+746
+01:02:09,434 --> 01:02:14,646
+Regardez le bout. S'iI s'enfonce,
+appelez-moi. Compris ?
+
+747
+01:02:15,648 --> 01:02:17,899
+Faites de bonnes prises !
+
+748
+01:02:18,484 --> 01:02:20,819
+Ne m'appeIez que si vous en avez...
+
+749
+01:02:20,987 --> 01:02:23,029
+une trop grosse pour vous !
+
+750
+01:02:26,951 --> 01:02:28,660
+Pêchez dur.
+
+751
+01:02:30,663 --> 01:02:31,580
+Entre là.
+
+752
+01:03:18,377 --> 01:03:20,962
+Où ils sont tous ?
+Bon Dieu, je t'avais dit...
+
+753
+01:03:21,130 --> 01:03:23,507
+de barrer droit !
+
+754
+01:03:28,888 --> 01:03:29,721
+Poisson !
+
+755
+01:03:29,889 --> 01:03:31,389
+Mac, aide-moi !
+
+756
+01:03:33,810 --> 01:03:38,355
+Attends. Je la tiens.
+Cheswick, retourne Ià-bas.
+
+757
+01:03:39,816 --> 01:03:41,399
+Je Ia tiens !
+
+758
+01:03:42,068 --> 01:03:43,568
+Tabès, je te le sors.
+
+759
+01:03:44,737 --> 01:03:47,864
+Le fumier, il file de ce côté !
+
+760
+01:03:55,748 --> 01:03:58,500
+Harding, c'est moi le capitaine.
+
+761
+01:03:58,668 --> 01:03:59,584
+Oh, ta gueule !
+
+762
+01:03:59,752 --> 01:04:02,587
+Il m'a dit d'aller droit
+comme une fIèche.
+
+763
+01:04:02,755 --> 01:04:05,006
+Toi, tu marches pas droit...
+
+764
+01:04:05,174 --> 01:04:08,218
+En tout cas, pas à la voile
+et à la vapeur ! Lâche ça !
+
+765
+01:04:08,594 --> 01:04:09,553
+C'est ma mission.
+
+766
+01:04:09,720 --> 01:04:11,304
+La paix !
+
+767
+01:04:15,726 --> 01:04:17,727
+Ah, petit fumier !
+
+768
+01:04:22,775 --> 01:04:26,194
+C'est ça ! Amène-Ie vers toi !
+
+769
+01:04:26,946 --> 01:04:29,197
+Jouez bien, les enfants.
+
+770
+01:04:30,283 --> 01:04:31,616
+Tas d'enflés !
+
+771
+01:05:31,177 --> 01:05:32,802
+Je Ie crois dangereux.
+
+772
+01:05:33,179 --> 01:05:36,139
+Pas fou, mais dangereux.
+
+773
+01:05:37,016 --> 01:05:39,351
+Pour vous, il n'est pas fou ?
+
+774
+01:05:42,772 --> 01:05:43,688
+Dr Songee ?
+
+775
+01:05:45,358 --> 01:05:47,525
+Il n'est pas psychotique à l'extrême.
+
+776
+01:05:48,569 --> 01:05:50,320
+Mais c'est un malade.
+
+777
+01:05:51,405 --> 01:05:52,489
+Dangereux ?
+
+778
+01:05:52,657 --> 01:05:53,907
+Absolument.
+
+779
+01:05:57,078 --> 01:05:59,371
+John, que comptez-vous en faire ?
+
+780
+01:06:02,959 --> 01:06:05,377
+Nous avons joué notre carte.
+
+781
+01:06:06,212 --> 01:06:08,546
+Je Ie renverrais bien à la Ferme d'Etat
+
+782
+01:06:08,714 --> 01:06:10,131
+très franchement.
+
+783
+01:06:11,842 --> 01:06:16,221
+Y a-t-il un membre
+de votre personnel qui pourrait...
+
+784
+01:06:17,014 --> 01:06:19,557
+s'en rapprocher ?
+Peut-être Ie comprendre...
+
+785
+01:06:19,725 --> 01:06:21,559
+l'aider à résoudre ses problèmes ?
+
+786
+01:06:22,645 --> 01:06:25,397
+La personne dont il est le pIus proche,
+
+787
+01:06:25,564 --> 01:06:28,274
+c'est ceIle qu'il déteste le plus.
+
+788
+01:06:28,818 --> 01:06:29,734
+C'est vous, Mildred.
+
+789
+01:06:31,153 --> 01:06:31,987
+Messieurs...
+
+790
+01:06:32,154 --> 01:06:35,782
+que nous le renvoyions
+à Pendleton...
+
+791
+01:06:35,950 --> 01:06:37,993
+ou le mettions aux Agités...
+
+792
+01:06:38,160 --> 01:06:42,664
+c'est toujours une façon
+de se décharger sur les autres.
+
+793
+01:06:43,666 --> 01:06:45,750
+Or, nous n'aimons pas cela.
+
+794
+01:06:47,712 --> 01:06:50,380
+Je souhaite le garder.
+
+795
+01:06:51,549 --> 01:06:53,299
+Nous pouvons l'aider.
+
+796
+01:06:59,473 --> 01:07:01,933
+Chef, viens voir.
+
+797
+01:07:04,895 --> 01:07:06,938
+VoiIà ta pIace.
+
+798
+01:07:08,441 --> 01:07:10,567
+Tu te rappelles, hein ?
+
+799
+01:07:11,277 --> 01:07:14,112
+Tu lèves les mains,
+et puis... panier.
+
+800
+01:07:15,531 --> 01:07:18,491
+Eh ! Une petite partie, Ies givrés ?
+
+801
+01:07:19,493 --> 01:07:21,369
+AlIez, jouez !
+
+802
+01:07:21,537 --> 01:07:22,704
+Activez-vous un peu !
+
+803
+01:07:22,872 --> 01:07:25,457
+Mac ! Temps mort. Tu as 6 hommes...
+
+804
+01:07:25,624 --> 01:07:26,458
+sur le terrain.
+
+805
+01:07:28,377 --> 01:07:30,170
+Harding, sors.
+
+806
+01:07:31,797 --> 01:07:33,006
+Pourquoi moi ?
+
+807
+01:07:33,382 --> 01:07:35,467
+Je te ferai rentrer plus tard.
+
+808
+01:07:35,760 --> 01:07:37,302
+Non, je n'ai pas confiance.
+
+809
+01:07:40,639 --> 01:07:41,973
+Moi, je sors.
+
+810
+01:07:42,308 --> 01:07:43,266
+Merci, BilIy.
+
+811
+01:07:43,434 --> 01:07:45,268
+Je te reprends tout de suite.
+
+812
+01:07:48,064 --> 01:07:50,106
+On joue ! Harding, replie-toi.
+
+813
+01:07:50,274 --> 01:07:52,650
+Martini, passe, je suis démarqué !
+
+814
+01:07:52,818 --> 01:07:55,487
+Mais non, pas dans la clôture !
+
+815
+01:07:55,821 --> 01:07:59,282
+Dieu de Dieu, iI n'y a personne !
+
+816
+01:07:59,492 --> 01:08:01,576
+C'est du basket !
+AlIez, reviens en jeu !
+
+817
+01:08:01,744 --> 01:08:04,412
+Eh, la défense, ça roupiIle ?
+
+818
+01:08:05,873 --> 01:08:07,248
+Je suis démarqué !
+
+819
+01:08:07,750 --> 01:08:11,086
+Harding, passe... la passe !
+Je suis démarqué !
+
+820
+01:08:11,253 --> 01:08:13,755
+Passe ! Arrête de dribbIer !
+
+821
+01:08:15,132 --> 01:08:16,424
+Ici, Harding !
+
+822
+01:08:19,762 --> 01:08:21,137
+J'étais démarqué.
+
+823
+01:08:26,769 --> 01:08:27,519
+Tu étais marqué.
+
+824
+01:08:27,686 --> 01:08:30,063
+Pas du tout ! Amenez-vous !
+
+825
+01:08:31,357 --> 01:08:32,357
+A moi... à moi !
+
+826
+01:08:35,069 --> 01:08:37,779
+Chef, mets-le !
+
+827
+01:09:07,768 --> 01:09:09,978
+Merde avec ça !
+Vous êtes dingues !
+
+828
+01:09:14,942 --> 01:09:17,610
+Chef... mets le panier !
+
+829
+01:09:27,079 --> 01:09:28,663
+Ah, quel club !
+
+830
+01:09:57,067 --> 01:09:59,277
+McMurphy, écarte-toi.
+
+831
+01:10:12,499 --> 01:10:15,710
+Je te retrouverai dehors,
+t'en fais pas !
+
+832
+01:10:16,712 --> 01:10:20,256
+D'ici à ce que tu sortes,
+tu seras trop vieux...
+
+833
+01:10:20,424 --> 01:10:21,132
+pour bander.
+
+834
+01:10:21,300 --> 01:10:25,094
+68 jours, mon pote... 68.
+
+835
+01:10:25,346 --> 01:10:27,972
+Qu'est-ce que tu déconnes
+avec tes 68 jours ?
+
+836
+01:10:28,140 --> 01:10:30,391
+Tu te crois en taule !
+
+837
+01:10:31,143 --> 01:10:32,977
+Tu sais plus où ça se passe.
+
+838
+01:10:34,021 --> 01:10:36,564
+Et où ça se passe, pour moi ?
+
+839
+01:10:36,732 --> 01:10:39,442
+Avec nous, mon vieux,
+et tu vas y rester...
+
+840
+01:10:39,610 --> 01:10:42,153
+jusqu'à ce que nous, on te lâche.
+
+841
+01:10:50,412 --> 01:10:53,456
+Voulez-vous parler, M. McMurphy ?
+
+842
+01:10:59,255 --> 01:11:03,091
+Je voudrais savoir pourquoi
+on ne m'a pas dit que vous...
+
+843
+01:11:06,011 --> 01:11:10,473
+et les docteurs, vous pourriez
+me garder tant que ça vous plairait.
+
+844
+01:11:11,892 --> 01:11:13,559
+J'aimerais bien le savoir.
+
+845
+01:11:14,019 --> 01:11:16,562
+C'est un bon départ.
+
+846
+01:11:17,147 --> 01:11:18,147
+Qui veut...
+
+847
+01:11:18,315 --> 01:11:19,607
+répondre à M. McMurphy ?
+
+848
+01:11:22,194 --> 01:11:23,403
+Répondre quoi ?
+
+849
+01:11:23,988 --> 01:11:26,572
+Tu m'as entendu. Tu m'as Iaissé...
+
+850
+01:11:26,740 --> 01:11:28,533
+me bagarrer avec Miss Ratched...
+
+851
+01:11:28,701 --> 01:11:31,786
+sans me prévenir du danger !
+
+852
+01:11:32,705 --> 01:11:34,205
+Mac, une seconde.
+
+853
+01:11:34,623 --> 01:11:36,082
+Je ne savais pas...
+
+854
+01:11:37,668 --> 01:11:39,210
+Non, écoute-moi !
+
+855
+01:11:41,213 --> 01:11:43,214
+Je suis volontaire, ici,
+et pas interné.
+
+856
+01:11:46,051 --> 01:11:48,553
+Je n'ai pas à rester ici.
+Je sors quand je veux.
+
+857
+01:11:50,764 --> 01:11:53,016
+Tu peux retourner chez toi
+quand tu veux ?
+
+858
+01:11:53,225 --> 01:11:54,100
+Oui.
+
+859
+01:11:54,268 --> 01:11:55,685
+Tu me baratines.
+
+860
+01:11:55,853 --> 01:11:57,603
+Il me baratine.
+
+861
+01:11:58,063 --> 01:12:00,106
+Non, il vous dit la vérité.
+
+862
+01:12:02,318 --> 01:12:05,445
+Et même, ils sont très peu
+à être... internés.
+
+863
+01:12:06,488 --> 01:12:09,407
+Il y a M. Bromden, M. Taber,
+
+864
+01:12:10,576 --> 01:12:13,244
+quelques chroniques... et vous.
+
+865
+01:12:21,754 --> 01:12:23,588
+Tu es volontaire ?
+
+866
+01:12:28,594 --> 01:12:29,761
+Scanlon ?
+
+867
+01:12:34,099 --> 01:12:36,309
+BiIly, tu dois bien être interné !
+
+868
+01:12:43,692 --> 01:12:46,944
+Mais tu n'es qu'un gosse !
+Tu devrais être en décapotable...
+
+869
+01:12:47,112 --> 01:12:51,741
+en train de draguer et de fourrer !
+Qu'est-ce que tu fais ici ?
+
+870
+01:12:52,910 --> 01:12:54,786
+Et vous trouvez ça drôle !
+
+871
+01:12:56,246 --> 01:12:59,832
+Vous ne savez que râler,
+que dire que vous n'en pouvez plus...
+
+872
+01:13:00,000 --> 01:13:03,294
+mais vous n'avez pas
+les couilles d'en sortir !
+
+873
+01:13:03,712 --> 01:13:07,090
+Vous vous croyez dingues, ou quoi ?
+
+874
+01:13:09,093 --> 01:13:11,302
+Vous ne l'êtes pas !
+
+875
+01:13:11,595 --> 01:13:14,847
+Pas plus dingue
+que Ie premier connard venu...
+
+876
+01:13:15,015 --> 01:13:16,265
+et c'est tout !
+
+877
+01:13:18,811 --> 01:13:20,228
+J'en reviens pas !
+
+878
+01:13:24,942 --> 01:13:28,694
+VoiIà des remarques
+très pertinentes, RandalI.
+
+879
+01:13:30,406 --> 01:13:33,199
+Le groupe va vouIoir les commenter.
+
+880
+01:13:36,787 --> 01:13:37,620
+M. Scanlon ?
+
+881
+01:13:40,040 --> 01:13:44,752
+Pourquoi le dortoir est-iI fermé
+pendant la journée et les week-ends ?
+
+882
+01:13:50,926 --> 01:13:54,262
+Moi, je voudrais savoir...
+pour nos cigarettes.
+
+883
+01:13:55,889 --> 01:13:58,766
+Puis-je avoir mes cigarettes,
+je vous prie ?
+
+884
+01:13:59,017 --> 01:14:01,853
+Asseyez-vous,
+et attendez votre tour.
+
+885
+01:14:05,357 --> 01:14:06,607
+AlIez, assis.
+
+886
+01:14:14,700 --> 01:14:16,993
+Pour vous répondre, M. Scanlon...
+
+887
+01:14:18,454 --> 01:14:22,373
+si nous laissions Ie dortoir ouvert,
+vous vous recoucheriez...
+
+888
+01:14:22,541 --> 01:14:24,125
+après le petit déjeuner...
+
+889
+01:14:24,418 --> 01:14:25,501
+N'est-ce pas ?
+
+890
+01:14:26,211 --> 01:14:27,378
+Et alors ?
+
+891
+01:14:28,881 --> 01:14:30,381
+Mes cigarettes !
+
+892
+01:14:31,133 --> 01:14:33,217
+Oublie tes cigarettes !
+
+893
+01:14:33,385 --> 01:14:35,928
+C'est pas important. Assieds-toi.
+
+894
+01:14:40,893 --> 01:14:42,143
+Des cigarettes !
+
+895
+01:14:45,147 --> 01:14:48,107
+M. Scanlon, nous avons dit
+à maintes reprises...
+
+896
+01:14:48,525 --> 01:14:52,361
+que Ie temps passé en compagnie,
+a vaIeur thérapeutique.
+
+897
+01:14:53,071 --> 01:14:54,238
+Ruminer seul...
+
+898
+01:14:54,406 --> 01:14:57,408
+accroît le sentiment d'être à l'écart.
+
+899
+01:14:57,576 --> 01:14:59,076
+On est d'accord ?
+
+900
+01:14:59,244 --> 01:15:04,248
+Mais alors, on est malade
+quand on veut être seul ?
+
+901
+01:15:07,461 --> 01:15:10,254
+M. Cheswick, a-ssis !
+
+902
+01:15:10,672 --> 01:15:11,589
+Mais je veux savoir...
+
+903
+01:15:11,757 --> 01:15:12,757
+Assis !
+
+904
+01:15:13,217 --> 01:15:14,133
+Je veux...
+
+905
+01:15:15,260 --> 01:15:16,636
+Fais-le fumer, Harding !
+
+906
+01:15:17,513 --> 01:15:18,721
+Ma dernière !
+
+907
+01:15:19,848 --> 01:15:21,349
+Sale menteur !
+
+908
+01:15:21,517 --> 01:15:23,017
+Donne-lui une cigarette !
+
+909
+01:15:23,185 --> 01:15:25,269
+Je ne suis pas la Croix-Rouge !
+
+910
+01:15:27,105 --> 01:15:28,856
+Je ne veux pas ses cigarettes.
+
+911
+01:15:29,483 --> 01:15:31,651
+Je ne veux pas les siennes...
+
+912
+01:15:32,152 --> 01:15:34,362
+ni les siennes... ni les siennes...
+
+913
+01:15:35,697 --> 01:15:37,448
+ni même les tiennes.
+
+914
+01:15:39,201 --> 01:15:42,119
+Je veux mes cigarettes,
+Miss Ratched !
+
+915
+01:15:42,287 --> 01:15:44,997
+Je veux les miennes ! Les miennes !
+
+916
+01:15:47,000 --> 01:15:50,044
+Qui vous donne
+le droit de garder...
+
+917
+01:15:50,212 --> 01:15:52,755
+nos paquets empilés chez vous...
+
+918
+01:15:53,340 --> 01:15:54,757
+et de ne nous en filer un...
+
+919
+01:15:54,925 --> 01:15:56,968
+que si ça vous chante ?
+
+920
+01:16:04,476 --> 01:16:05,476
+Excusez-moi.
+
+921
+01:16:05,644 --> 01:16:07,979
+- Vous m'étonnez.
+- J'ai perdu la tête.
+
+922
+01:16:08,355 --> 01:16:09,981
+Je suis vraiment désolé.
+
+923
+01:16:10,274 --> 01:16:12,483
+Veuillez m'excuser.
+J'ai oubIié.
+
+924
+01:16:15,946 --> 01:16:17,655
+Ce n'est pas grave.
+
+925
+01:16:21,785 --> 01:16:23,828
+Je vous ai posé une question !
+
+926
+01:16:24,580 --> 01:16:27,415
+Je I'ai entendue...
+
+927
+01:16:27,583 --> 01:16:30,459
+et j'y répondrai
+dès que vous serez calmé.
+
+928
+01:16:35,674 --> 01:16:37,550
+Vous êtes calme ?
+
+929
+01:16:38,343 --> 01:16:40,011
+Je suis calme.
+
+930
+01:16:42,180 --> 01:16:43,639
+Vous savez tous que...
+
+931
+01:16:43,890 --> 01:16:48,311
+M. McMurphy a installé
+un petit tripot, à la saIle d'eau.
+
+932
+01:16:49,938 --> 01:16:52,732
+Vous lui avez laissé vos cigarettes.
+
+933
+01:16:53,817 --> 01:16:56,569
+Sans parler
+d'une coquette somme d'argent.
+
+934
+01:16:58,572 --> 01:17:01,198
+C'est pour cela
+que I'usage des douches...
+
+935
+01:17:01,366 --> 01:17:03,117
+a été suspendu...
+
+936
+01:17:03,619 --> 01:17:06,662
+et vos cigarettes, rationnées.
+
+937
+01:17:13,045 --> 01:17:14,837
+Comment regagner notre argent ?
+
+938
+01:17:20,010 --> 01:17:22,470
+Il n'est pas question
+de le regagner.
+
+939
+01:17:23,472 --> 01:17:25,014
+C'est terminé.
+
+940
+01:17:25,390 --> 01:17:27,058
+Si vous aviez suivi la règle...
+
+941
+01:17:27,225 --> 01:17:28,517
+vous n'auriez pas...
+
+942
+01:17:28,685 --> 01:17:29,769
+perdu cet argent.
+
+943
+01:17:39,112 --> 01:17:40,112
+Asseyez-vous !
+
+944
+01:17:49,498 --> 01:17:50,247
+La règle ?
+
+945
+01:17:50,499 --> 01:17:52,249
+Je I'emmerde, Ia règle !
+
+946
+01:17:53,335 --> 01:17:54,627
+Assis, Cheswick !
+
+947
+01:17:54,795 --> 01:17:56,629
+Sachez-le une fois pour toutes :
+
+948
+01:17:57,839 --> 01:18:00,883
+Je ne suis pas un enfant !
+Je ne suis pas un enfant !
+
+949
+01:18:01,385 --> 01:18:03,260
+Ne me confisquez pas
+mes cigarettes...
+
+950
+01:18:03,428 --> 01:18:06,097
+comme des bonbons !
+Je veux que ça change !
+
+951
+01:18:06,264 --> 01:18:07,098
+N'est-ce pas, Mac ?
+
+952
+01:18:07,265 --> 01:18:08,849
+Bien sûr. Mais assieds-toi.
+
+953
+01:18:09,017 --> 01:18:11,435
+Non ! Non et non !
+
+954
+01:18:11,603 --> 01:18:13,521
+Je veux que ça change !
+
+955
+01:18:14,773 --> 01:18:16,107
+Washington !
+
+956
+01:18:25,909 --> 01:18:26,867
+Tiens.
+
+957
+01:18:28,120 --> 01:18:30,329
+Tiens, bon Dieu !
+
+958
+01:18:31,832 --> 01:18:33,124
+Laisse-le, Washington !
+
+959
+01:18:33,291 --> 01:18:34,959
+Il va se calmer.
+
+960
+01:18:45,303 --> 01:18:46,095
+Urgence !
+
+961
+01:18:54,020 --> 01:18:56,397
+Tu te calmes, toi ?
+
+962
+01:19:05,031 --> 01:19:06,073
+Warren !
+
+963
+01:19:46,448 --> 01:19:50,534
+Levez-vous. Nous avons
+besoin de ce banc. AlIez là-bas.
+
+964
+01:19:54,915 --> 01:19:57,625
+Ah, M. Bromden est de retour !
+
+965
+01:20:01,338 --> 01:20:03,130
+M. McMurphy ? Ça va ?
+
+966
+01:20:03,298 --> 01:20:05,090
+Ça va très bien.
+
+967
+01:20:05,383 --> 01:20:07,843
+Vous n'avez rien fait.
+Asseyez-vous.
+
+968
+01:20:08,011 --> 01:20:10,137
+Nous ne vous ferons pas de mal.
+
+969
+01:20:10,305 --> 01:20:13,557
+Voici Cheswick.
+Il est un peu perturbé.
+
+970
+01:20:13,975 --> 01:20:16,060
+Je comprends. Merci.
+
+971
+01:20:16,228 --> 01:20:18,354
+On va s'occuper de vous.
+
+972
+01:20:18,688 --> 01:20:20,856
+Vous les surveillez ?
+
+973
+01:21:11,950 --> 01:21:13,742
+Prenez ça.
+
+974
+01:21:26,798 --> 01:21:29,258
+M. Cheswick, suivez-moi.
+
+975
+01:21:39,978 --> 01:21:41,854
+On ne vous fera pas de mal.
+
+976
+01:21:42,439 --> 01:21:44,273
+Ce ne sera rien.
+
+977
+01:21:44,691 --> 01:21:46,317
+On ne vous fera pas de mal !
+
+978
+01:21:46,484 --> 01:21:47,610
+Non, lâchez-moi.
+
+979
+01:21:47,777 --> 01:21:49,528
+Aide-nous un peu.
+
+980
+01:21:58,622 --> 01:22:01,165
+Je n'ai rien fait !
+
+981
+01:22:04,169 --> 01:22:07,504
+J'irai pas ! Je veux pas y aller !
+
+982
+01:22:23,396 --> 01:22:24,897
+Nom de Dieu !
+
+983
+01:22:29,569 --> 01:22:30,527
+Tu en veux ?
+
+984
+01:22:34,866 --> 01:22:35,866
+Merci.
+
+985
+01:22:58,932 --> 01:23:00,641
+Du "Juicy fruit".
+
+986
+01:23:03,228 --> 01:23:05,729
+Petit salaud, va !
+
+987
+01:23:10,235 --> 01:23:11,735
+Tu m'entends aussi ?
+
+988
+01:23:12,570 --> 01:23:14,238
+Et comment !
+
+989
+01:23:14,656 --> 01:23:17,116
+Ça alors... merde !
+
+990
+01:23:19,911 --> 01:23:22,746
+Ils te croient tous sourd-muet.
+
+991
+01:23:25,041 --> 01:23:27,376
+Ah, la vache !
+
+992
+01:23:28,795 --> 01:23:30,379
+Tu les as baisés !
+
+993
+01:23:31,464 --> 01:23:33,757
+Tous, baisés en beauté !
+
+994
+01:23:39,431 --> 01:23:41,765
+Qu'est-ce qu'on va faire ici ?
+
+995
+01:23:43,560 --> 01:23:46,895
+Quoi foutre
+dans une tauIe pareilIe ?
+
+996
+01:23:54,320 --> 01:23:55,821
+Tirons-nous.
+
+997
+01:23:57,741 --> 01:23:58,866
+La beIle.
+
+998
+01:24:03,872 --> 01:24:05,164
+Canada.
+
+999
+01:24:06,207 --> 01:24:07,541
+Canada ?
+
+1000
+01:24:07,792 --> 01:24:11,587
+On y sera avant
+qu'ils aient eu le temps de dire ouf.
+
+1001
+01:24:13,548 --> 01:24:15,924
+Fais confiance à RandalI.
+
+1002
+01:24:39,824 --> 01:24:41,450
+Suivez-moi.
+
+1003
+01:24:45,955 --> 01:24:47,831
+Toi et moi, Chef.
+
+1004
+01:25:00,053 --> 01:25:02,638
+Pause-cigarettes, les mecs.
+
+1005
+01:25:06,059 --> 01:25:08,227
+Ça ira, merci.
+
+1006
+01:25:08,812 --> 01:25:09,686
+Assis.
+
+1007
+01:25:15,401 --> 01:25:16,819
+Relevez-vous.
+
+1008
+01:25:17,028 --> 01:25:18,320
+Avec joie.
+
+1009
+01:25:18,988 --> 01:25:21,698
+Il doit y avoir du jus,
+dans mes pompes.
+
+1010
+01:25:21,866 --> 01:25:24,368
+Vous me suivez ? Ça fuit un peu.
+
+1011
+01:25:24,869 --> 01:25:29,206
+Un coup de brosse, et envoyez-les
+franco à la mère Ratched.
+
+1012
+01:25:38,299 --> 01:25:39,967
+Votre chewing-gum.
+
+1013
+01:25:46,015 --> 01:25:48,809
+Ça ne sera ni douloureux ni long.
+
+1014
+01:25:49,686 --> 01:25:51,728
+- Qu'est-ce que c'est ?
+- Du conducteur.
+
+1015
+01:25:51,896 --> 01:25:55,399
+Un soupçon, ça ira.
+Pas vrai, M. Jackson ?
+
+1016
+01:25:57,068 --> 01:25:58,068
+Ouvrez la bouche.
+
+1017
+01:25:59,571 --> 01:26:01,572
+Ça empêche de se mordre la langue.
+
+1018
+01:26:01,906 --> 01:26:03,448
+Mordez dedans.
+
+1019
+01:26:04,325 --> 01:26:06,368
+C'est ça. Mordez bien.
+
+1020
+01:26:14,502 --> 01:26:15,711
+Prête ?
+
+1021
+01:26:51,581 --> 01:26:54,082
+On respire bien !
+
+1022
+01:26:58,796 --> 01:27:00,130
+Parfait.
+
+1023
+01:27:03,301 --> 01:27:06,386
+J'aimerais commencer.
+Ce ne sera pas long.
+
+1024
+01:27:09,140 --> 01:27:09,848
+Jim...
+
+1025
+01:27:10,725 --> 01:27:15,479
+on me signaIe que vous donnez
+vos médicaments à M. Fredrickson.
+
+1026
+01:27:16,147 --> 01:27:17,272
+Est-ce vrai ?
+
+1027
+01:27:23,279 --> 01:27:24,363
+Non, madame.
+
+1028
+01:27:27,951 --> 01:27:31,411
+Donnez-vous vos médicaments
+à M. Fredrickson...
+
+1029
+01:27:31,579 --> 01:27:32,371
+ou non ?
+
+1030
+01:28:07,448 --> 01:28:10,534
+Alors, tas de cinglés, de débiles,
+
+1031
+01:28:10,827 --> 01:28:12,369
+revoilà Randall...
+
+1032
+01:28:12,537 --> 01:28:14,288
+en pIein dans Ie bain !
+
+1033
+01:28:18,459 --> 01:28:20,294
+Vous en faites une gueuIe !
+
+1034
+01:28:20,628 --> 01:28:22,379
+Regardez-vous !
+
+1035
+01:28:23,339 --> 01:28:25,465
+La brigade des ramollis !
+
+1036
+01:28:26,509 --> 01:28:29,928
+Le cIub des débiles
+au grand complet !
+
+1037
+01:28:31,306 --> 01:28:32,556
+Ça va, Miss Ratched ?
+
+1038
+01:28:32,807 --> 01:28:34,266
+Content d'être de retour.
+
+1039
+01:28:34,559 --> 01:28:36,435
+Et nous, de vous revoir.
+
+1040
+01:28:37,186 --> 01:28:38,061
+Merci.
+
+1041
+01:28:39,272 --> 01:28:40,480
+Vous vous reposez...
+
+1042
+01:28:40,648 --> 01:28:42,399
+ou vous vous joignez à nous ?
+
+1043
+01:28:44,152 --> 01:28:46,320
+Je me joins au groupe.
+
+1044
+01:28:46,571 --> 01:28:50,240
+Je suis fier de me joindre
+au groupe, Mildred.
+
+1045
+01:28:51,534 --> 01:28:52,951
+Co... co... comment...
+
+1046
+01:28:53,119 --> 01:28:54,995
+- ça... v... va, Mac ?
+- Très bien, BiIly.
+
+1047
+01:28:55,163 --> 01:28:59,624
+Très-très bien. Ils me filaient
+1 0 000 watts par jour...
+
+1048
+01:28:59,876 --> 01:29:00,917
+alors, je pète le feu !
+
+1049
+01:29:01,085 --> 01:29:05,464
+Avec la 1 re filIe que je sauterai,
+ça fera tiIt, et à moi la monnaie !
+
+1050
+01:29:10,595 --> 01:29:15,015
+Vous êtes amusant, Randall,
+mais nous, nous parlions à Jim.
+
+1051
+01:29:15,600 --> 01:29:19,353
+Il a un problème
+et nous voudrions y revenir.
+
+1052
+01:29:20,229 --> 01:29:22,105
+Ça ne me dérange pas du tout.
+
+1053
+01:29:22,273 --> 01:29:25,650
+J'obéis comme un toutou.
+
+1054
+01:29:27,362 --> 01:29:29,363
+Je vous en prie, reprenez.
+
+1055
+01:29:41,125 --> 01:29:42,292
+Bonne nuit, messieurs.
+
+1056
+01:29:42,710 --> 01:29:44,252
+A demain matin.
+
+1057
+01:31:10,006 --> 01:31:11,715
+Oui, mon chou, c'est Mac.
+
+1058
+01:31:12,091 --> 01:31:13,383
+C'est pour ce soir.
+
+1059
+01:31:13,551 --> 01:31:14,968
+Ne t'en fais pas.
+
+1060
+01:31:15,803 --> 01:31:17,304
+Prends une voiture.
+
+1061
+01:31:18,222 --> 01:31:21,099
+Je m'en fous ! Voles-en une !
+
+1062
+01:31:22,059 --> 01:31:23,894
+Il faut que je te Iaisse.
+
+1063
+01:31:24,312 --> 01:31:26,730
+N'oublie pas
+d'apporter des bouteilles.
+
+1064
+01:32:21,869 --> 01:32:24,037
+Je n'en peux plus.
+
+1065
+01:32:25,623 --> 01:32:26,957
+Il faut que je me tire.
+
+1066
+01:32:32,088 --> 01:32:34,548
+Moi, je ne peux pas.
+
+1067
+01:32:36,092 --> 01:32:37,926
+C'est plus facile qu'on croit.
+
+1068
+01:32:39,720 --> 01:32:43,348
+Pour toi, peut-être.
+Tu es pIus grand que moi.
+
+1069
+01:32:45,268 --> 01:32:48,603
+Tu parles !
+Toi, tu es comme un arbre.
+
+1070
+01:32:54,652 --> 01:32:56,653
+Mon père était grand.
+
+1071
+01:32:57,989 --> 01:33:00,323
+Il faisait ce qu'il vouIait.
+
+1072
+01:33:00,866 --> 01:33:03,493
+Alors, ils l'ont travailIé.
+
+1073
+01:33:06,372 --> 01:33:11,126
+La dernière fois que je I'ai vu,
+ses yeux étaient brûlés par l'aIcool.
+
+1074
+01:33:11,586 --> 01:33:16,715
+Chaque fois qu'il mettait la bouteille
+à sa bouche, iI ne la tétait pas...
+
+1075
+01:33:16,882 --> 01:33:20,468
+c'est elle qui lui suçait
+la cervelIe, et il était...
+
+1076
+01:33:20,636 --> 01:33:22,012
+si ridé, si jaune...
+
+1077
+01:33:22,179 --> 01:33:24,514
+que Ies chiens
+ne le reconnaissaient plus.
+
+1078
+01:33:25,349 --> 01:33:26,641
+Ils l'ont tué, hein ?
+
+1079
+01:33:29,186 --> 01:33:31,271
+Je ne dis pas : tué.
+
+1080
+01:33:31,897 --> 01:33:35,984
+Ils l'ont travaiIlé.
+Comme ils te travaillent, toi.
+
+1081
+01:33:44,744 --> 01:33:46,119
+ElIes arrivent.
+
+1082
+01:33:47,038 --> 01:33:48,371
+ElIes sont là.
+
+1083
+01:34:04,221 --> 01:34:05,221
+Parfait !
+
+1084
+01:34:06,057 --> 01:34:07,015
+McMurphy...
+
+1085
+01:34:07,183 --> 01:34:09,059
+arrête ton prêchi-prêcha,
+et au pieu...
+
+1086
+01:34:09,226 --> 01:34:10,226
+compris ?
+
+1087
+01:34:13,564 --> 01:34:16,316
+Mes prières
+ont été exaucées, TurkIe.
+
+1088
+01:34:16,484 --> 01:34:17,609
+Viens voir.
+
+1089
+01:34:26,410 --> 01:34:29,329
+Tu accepterais bien
+20 $ pour prier...
+
+1090
+01:34:29,497 --> 01:34:32,040
+Sainte Minette à genoux, hein ?
+
+1091
+01:34:33,250 --> 01:34:35,585
+Non, ça m'échauffe pas !
+
+1092
+01:34:35,836 --> 01:34:36,961
+Ça me fait rien.
+
+1093
+01:34:37,129 --> 01:34:39,172
+Mais il y aura mieux !
+
+1094
+01:34:41,467 --> 01:34:44,761
+ElIes apporteront des bouteiIles.
+
+1095
+01:34:45,262 --> 01:34:47,430
+Tu commences à me plaire, frère.
+
+1096
+01:34:49,684 --> 01:34:53,603
+Mais on fera pas que boire,
+avec elles, hein ?
+
+1097
+01:34:53,771 --> 01:34:54,938
+Tu me suis ?
+
+1098
+01:34:55,106 --> 01:34:59,651
+Oui, je te suis.
+Je te suis même très bien.
+
+1099
+01:35:00,820 --> 01:35:01,861
+T'as qu'à demander.
+
+1100
+01:35:02,029 --> 01:35:04,656
+Je vais leur donner
+un coup de main.
+
+1101
+01:35:13,708 --> 01:35:15,041
+Mesdames !
+
+1102
+01:35:15,209 --> 01:35:18,294
+Merci. Je crois que ça,
+c'est pour toi.
+
+1103
+01:35:25,803 --> 01:35:26,803
+J'ai craqué ma culotte.
+
+1104
+01:35:26,971 --> 01:35:30,223
+Ma Candy,
+roule-m'en une de voyou !
+
+1105
+01:35:34,645 --> 01:35:36,938
+Je me crois à l'école.
+
+1106
+01:35:38,691 --> 01:35:42,360
+Oh, je prends ça...
+le fauteuiI de coiffeur.
+
+1107
+01:35:42,695 --> 01:35:44,237
+Il est pour moi.
+
+1108
+01:35:44,405 --> 01:35:47,407
+Vous pouvez le prendre,
+petite chérie.
+
+1109
+01:35:48,409 --> 01:35:49,826
+Vise ces baignoires !
+
+1110
+01:35:49,994 --> 01:35:52,620
+C'est chouette, chez toi, Mac !
+
+1111
+01:35:53,456 --> 01:35:55,248
+Je peux prendre un bain ?
+
+1112
+01:35:55,416 --> 01:35:57,834
+Bien sûr que oui...
+
+1113
+01:35:58,335 --> 01:36:00,545
+mais ne vous noyez pas, ma jolie.
+
+1114
+01:36:00,713 --> 01:36:04,632
+Rose a été mariée avec un fou...
+
+1115
+01:36:04,842 --> 01:36:06,176
+à Beaverton.
+
+1116
+01:36:07,762 --> 01:36:10,054
+C'est vrai ?
+Et qu'est-ce qui n'allait pas ?
+
+1117
+01:36:10,389 --> 01:36:14,392
+Il mettait des grenouilIes
+dans mon soutien-gorge.
+
+1118
+01:36:17,646 --> 01:36:20,231
+Très intéressant. Très.
+
+1119
+01:36:23,611 --> 01:36:24,944
+Rose adore...
+
+1120
+01:36:25,112 --> 01:36:27,363
+tout ce qui est hôpital.
+
+1121
+01:36:27,531 --> 01:36:28,490
+C'est vrai ?
+
+1122
+01:36:30,159 --> 01:36:31,201
+J'emmène Candy.
+
+1123
+01:36:31,368 --> 01:36:32,118
+Où ça ?
+
+1124
+01:36:32,661 --> 01:36:34,871
+Faire un tour.
+
+1125
+01:36:35,039 --> 01:36:37,540
+J'ai pigé.
+Mais ne faites pas trop de bruit.
+
+1126
+01:36:37,792 --> 01:36:39,042
+Pas un soupir.
+
+1127
+01:36:39,210 --> 01:36:40,710
+Soupir !
+
+1128
+01:36:43,339 --> 01:36:45,381
+Non. Venez, ma belle.
+
+1129
+01:36:49,720 --> 01:36:53,223
+Vous occupez pas de Candy.
+Asseyez-vous... là !
+
+1130
+01:37:05,194 --> 01:37:06,778
+RéveiIlez-vous, les gars !
+
+1131
+01:37:09,031 --> 01:37:11,282
+C'est l'heure des médicaments !
+
+1132
+01:37:14,662 --> 01:37:16,538
+Ici, Ronde de Nuit...
+
+1133
+01:37:16,705 --> 01:37:19,207
+avec RandaIl qui vous saIue...
+
+1134
+01:37:19,708 --> 01:37:22,710
+et I'Ange de Ia Nuit, Candy.
+
+1135
+01:37:24,713 --> 01:37:28,132
+Eh oui, M. Martini,
+voiIà Ie Iapin de Pâques !
+
+1136
+01:37:37,935 --> 01:37:39,477
+Faites Ie tour et rejoignez...
+
+1137
+01:37:39,645 --> 01:37:42,438
+M. McMurphy au Bar des cadres.
+
+1138
+01:37:47,862 --> 01:37:49,988
+Ça va être le pied !
+
+1139
+01:37:58,330 --> 01:38:00,415
+Qu'est-ce qui se passe ?
+
+1140
+01:38:05,379 --> 01:38:09,132
+Mais enfin, merde !
+Vous voulez me faire virer ?
+
+1141
+01:38:09,300 --> 01:38:10,466
+Foutez-moi le camp !
+
+1142
+01:38:13,512 --> 01:38:16,055
+C'est pas une boîte de nuit, ici...
+
+1143
+01:38:16,223 --> 01:38:20,560
+c'est l'hôpital où je bosse !
+Moi, je bosse ici, bon Dieu !
+
+1144
+01:38:22,938 --> 01:38:23,771
+Oh, fait chier !
+
+1145
+01:38:23,939 --> 01:38:26,608
+La surveillante.
+Foutez-vous là-dedans !
+
+1146
+01:38:26,942 --> 01:38:29,110
+Vite, vite !
+
+1147
+01:38:29,486 --> 01:38:31,988
+Et fermez vos gueules !
+
+1148
+01:38:58,682 --> 01:39:00,016
+M. Turkle ?
+
+1149
+01:39:07,650 --> 01:39:10,610
+Où il est ?
+Pourquoi iI répond pas ?
+
+1150
+01:39:11,528 --> 01:39:13,363
+Il se branle dans un coin.
+
+1151
+01:39:13,614 --> 01:39:16,032
+Y a pas de branleur ici,
+pauvre con !
+
+1152
+01:39:16,200 --> 01:39:19,243
+Qu'est-ce que tu fous ?
+Sors et va lui parler.
+
+1153
+01:39:19,453 --> 01:39:22,080
+Je fais comme vous : je me planque !
+
+1154
+01:39:29,129 --> 01:39:30,213
+Tout va bien ?
+
+1155
+01:39:30,714 --> 01:39:32,757
+Tout va très bien, madame.
+
+1156
+01:39:44,228 --> 01:39:45,520
+Qui est là ?
+
+1157
+01:39:46,438 --> 01:39:47,897
+Y a personne.
+
+1158
+01:39:48,065 --> 01:39:49,899
+Veuillez ouvrir.
+
+1159
+01:39:57,074 --> 01:39:58,491
+Faites des excuses.
+
+1160
+01:40:02,746 --> 01:40:03,913
+Je suis désolé.
+
+1161
+01:40:04,748 --> 01:40:07,959
+Mais on se sent tout seuI, la nuit.
+
+1162
+01:40:08,502 --> 01:40:10,503
+Vous comprenez, hein ?
+
+1163
+01:40:11,088 --> 01:40:13,256
+Je suis sûr que vous comprenez.
+
+1164
+01:40:13,465 --> 01:40:14,716
+J'exige que cette fille
+
+1165
+01:40:14,883 --> 01:40:17,218
+s'en aille, immédiatement.
+
+1166
+01:40:42,619 --> 01:40:44,203
+ElIe est partie ?
+
+1167
+01:40:44,371 --> 01:40:45,455
+Oui, alors...
+
+1168
+01:40:45,873 --> 01:40:47,915
+sortez d'ici, et au lit !
+
+1169
+01:40:48,083 --> 01:40:49,709
+AlIez, du balai !
+
+1170
+01:40:50,627 --> 01:40:52,128
+Je sentais que ça s'était gâté.
+
+1171
+01:40:52,588 --> 01:40:53,629
+Les deux siamois...
+
+1172
+01:40:53,797 --> 01:40:55,298
+tirez-vous !
+
+1173
+01:40:57,468 --> 01:40:58,968
+Viens, Candy.
+
+1174
+01:41:02,890 --> 01:41:06,517
+Putain ! Jouer avec ma croûte !
+Barrez-vous !
+
+1175
+01:41:06,685 --> 01:41:07,643
+Je regrette.
+
+1176
+01:41:07,811 --> 01:41:12,732
+Foutez Ie camp d'ici !
+Je vais me faire virer à cause de vous.
+
+1177
+01:41:14,693 --> 01:41:18,404
+Dehors ! Dehors, espèce d'enfoiré !
+
+1178
+01:41:23,452 --> 01:41:24,160
+Ah, merde !
+
+1179
+01:42:06,954 --> 01:42:09,205
+Ça sort de chez le toubib.
+
+1180
+01:42:09,456 --> 01:42:12,416
+J'ai vu le plan, chez Miss Ratched.
+
+1181
+01:42:13,418 --> 01:42:15,711
+N'avale pas tout d'un coup.
+
+1182
+01:44:03,779 --> 01:44:04,946
+Partons.
+
+1183
+01:44:11,078 --> 01:44:13,162
+Ce sera moi, Chef.
+
+1184
+01:44:29,888 --> 01:44:32,139
+Mac, que se passe-t-il ?
+
+1185
+01:44:33,767 --> 01:44:36,227
+Lord RandalI s'éclipse.
+
+1186
+01:44:42,359 --> 01:44:44,402
+Tu ne me dis pas au revoir, à moi ?
+
+1187
+01:44:44,569 --> 01:44:47,446
+Mais si, je te dis au revoir.
+
+1188
+01:44:52,202 --> 01:44:55,246
+Merci. Je ne t'oubIierai jamais.
+
+1189
+01:44:55,414 --> 01:44:57,373
+T'excite pas, Charles.
+
+1190
+01:45:00,627 --> 01:45:01,961
+Qu'est-ce que tu as ?
+
+1191
+01:45:04,214 --> 01:45:05,798
+Ben, voyons !
+
+1192
+01:45:09,803 --> 01:45:11,429
+Qu'est-ce que tu as ?
+
+1193
+01:45:15,559 --> 01:45:17,852
+Tu v-vas... me manquer...
+
+1194
+01:45:18,854 --> 01:45:21,230
+b... beaucoup.
+
+1195
+01:45:23,859 --> 01:45:25,776
+Viens avec nous, alors.
+
+1196
+01:45:28,447 --> 01:45:30,531
+Tu crois que je n'en ai pas envie ?
+
+1197
+01:45:30,741 --> 01:45:32,533
+Eh bien, viens, on s'en va !
+
+1198
+01:45:32,951 --> 01:45:35,536
+Ce n'est pas facile.
+
+1199
+01:45:39,207 --> 01:45:42,168
+Je ne suis pas encore prêt.
+
+1200
+01:45:45,630 --> 01:45:49,050
+Tu sais quoi ? Une fois au Canada,
+je t'écrirai une carte...
+
+1201
+01:45:49,217 --> 01:45:51,218
+et j'y écrirai mon adresse.
+
+1202
+01:45:51,762 --> 01:45:53,846
+Comme ça, quand tu seras prêt...
+
+1203
+01:45:54,014 --> 01:45:56,599
+tu sauras où aller. Ça te va ?
+
+1204
+01:46:05,317 --> 01:46:07,818
+ElIe part avec toi ?
+
+1205
+01:46:12,991 --> 01:46:13,991
+Candy ?
+
+1206
+01:46:16,661 --> 01:46:20,456
+ElIe sera là quand tu arriveras.
+ElIe part avec nous.
+
+1207
+01:46:21,750 --> 01:46:24,543
+Tu vas I'épouser ?
+
+1208
+01:46:26,380 --> 01:46:29,924
+On est seulement bons amis.
+Pourquoi ?
+
+1209
+01:46:37,891 --> 01:46:39,058
+Pour rien.
+
+1210
+01:46:40,185 --> 01:46:43,771
+Pas de "pour rien" avec moi !
+Qu'est-ce qu'il y a ?
+
+1211
+01:46:54,074 --> 01:46:55,825
+Il est trop tard.
+
+1212
+01:46:59,496 --> 01:47:01,163
+Tu veux un rancard avec elle ?
+
+1213
+01:47:02,833 --> 01:47:06,669
+Faut être dingue
+pour être dans ce cabanon !
+
+1214
+01:47:08,547 --> 01:47:10,005
+Un rancard, hein ?
+
+1215
+01:47:10,340 --> 01:47:11,257
+Alors, il faudra...
+
+1216
+01:47:11,425 --> 01:47:13,676
+faire vite, moi je te Ie dis !
+
+1217
+01:47:16,930 --> 01:47:18,264
+Pas maintenant.
+
+1218
+01:47:18,765 --> 01:47:19,849
+Pas maintenant ?
+
+1219
+01:47:20,600 --> 01:47:21,517
+Alors, quand ?
+
+1220
+01:47:29,526 --> 01:47:32,153
+Quand je serai libre, un week-end.
+
+1221
+01:47:32,320 --> 01:47:34,071
+Tu es pris, pour I'instant ?
+
+1222
+01:47:34,322 --> 01:47:37,491
+Tu as à faire ? Tu as à faire ?
+
+1223
+01:47:38,243 --> 01:47:40,453
+Alors, ne me parIe pas d'être prêt !
+
+1224
+01:47:41,288 --> 01:47:43,038
+De ça et du reste !
+
+1225
+01:47:43,248 --> 01:47:44,123
+Candy, viens voir !
+
+1226
+01:47:46,293 --> 01:47:47,585
+Je te présente...
+
+1227
+01:47:47,752 --> 01:47:49,086
+le célèbre Billy.
+
+1228
+01:47:49,254 --> 01:47:52,840
+Va Ie chercher. Allez le chercher !
+
+1229
+01:47:58,597 --> 01:48:02,516
+Tu n'auras qu'une chose à faire.
+Il est mignon, hein ?
+
+1230
+01:48:08,648 --> 01:48:10,316
+Pense à moi.
+
+1231
+01:48:11,902 --> 01:48:12,902
+Le voilà.
+
+1232
+01:48:13,612 --> 01:48:15,404
+BiIly la Massue !
+
+1233
+01:48:21,745 --> 01:48:23,245
+Je file 25 dollars...
+
+1234
+01:48:24,498 --> 01:48:27,583
+pour que tu puisses
+lui brûler le tapis !
+
+1235
+01:48:34,299 --> 01:48:35,799
+Ma petite Candy...
+
+1236
+01:48:40,096 --> 01:48:41,347
+je t'adore.
+
+1237
+01:48:42,265 --> 01:48:44,016
+A fond Ia caisse !
+
+1238
+01:48:48,605 --> 01:48:50,773
+Dégagez !
+
+1239
+01:48:53,652 --> 01:48:55,819
+Non, je vais vous montrer un tour.
+
+1240
+01:48:55,987 --> 01:49:00,324
+Vous n'avez pas vu
+mon Kama-Soutra, tortures garanties !
+
+1241
+01:49:02,160 --> 01:49:05,120
+M. Scanlon, je vous laisse ce jeu...
+
+1242
+01:49:05,288 --> 01:49:08,541
+pour votre plaisir... solitaire.
+
+1243
+01:49:11,419 --> 01:49:14,463
+Ce ne sera pas long,
+Rose, crois-moi !
+
+1244
+01:49:24,975 --> 01:49:26,892
+Une fois au Canada...
+
+1245
+01:51:14,668 --> 01:51:15,584
+Fantastique !
+
+1246
+01:51:33,645 --> 01:51:35,270
+Bonjour, Miss Ratched.
+
+1247
+01:51:40,985 --> 01:51:41,777
+M. Warren...
+
+1248
+01:51:42,779 --> 01:51:45,447
+fermez les fenêtres, et grillagez-les.
+
+1249
+01:52:11,391 --> 01:52:12,099
+M. MiIler ?
+
+1250
+01:52:12,267 --> 01:52:14,268
+Reconduisez cette personne.
+
+1251
+01:52:14,436 --> 01:52:15,644
+Avec pIaisir.
+
+1252
+01:52:17,939 --> 01:52:19,857
+Venez ! Vous allez rentrer !
+
+1253
+01:52:20,024 --> 01:52:20,691
+Où ça ?
+
+1254
+01:52:20,859 --> 01:52:22,234
+Lâche-la.
+
+1255
+01:52:22,402 --> 01:52:23,610
+Rentrez chez vous.
+
+1256
+01:52:24,863 --> 01:52:26,780
+Voyez s'il ne manque personne.
+
+1257
+01:52:26,948 --> 01:52:27,906
+Tout de suite.
+
+1258
+01:52:31,119 --> 01:52:33,579
+- ScanIon, dégage !
+- Tous dehors ! File, toi !
+
+1259
+01:52:34,914 --> 01:52:36,790
+Martini, magne-toi le cul !
+
+1260
+01:52:36,958 --> 01:52:38,375
+Colonel, au jus !
+
+1261
+01:52:55,226 --> 01:52:57,311
+Où vas-tu ? Rentre !
+
+1262
+01:53:02,442 --> 01:53:04,026
+Taber, debout !
+
+1263
+01:53:09,449 --> 01:53:11,408
+McMurphy, amène-toi...
+
+1264
+01:53:11,576 --> 01:53:12,534
+avec Dracula.
+
+1265
+01:53:18,208 --> 01:53:19,666
+Magne-toi !
+
+1266
+01:53:22,754 --> 01:53:24,922
+BiIly Bibbit est le seul qui manque.
+
+1267
+01:53:27,050 --> 01:53:29,176
+Merci, M. Washington.
+
+1268
+01:53:30,887 --> 01:53:33,222
+BiIly Bibbit a-t-il quitté l'hôpital ?
+
+1269
+01:53:39,187 --> 01:53:41,188
+J'exige une réponse.
+
+1270
+01:53:42,398 --> 01:53:45,234
+A-t-il quitté l'hôpital ?
+
+1271
+01:53:57,997 --> 01:53:59,414
+M. Washington ?
+
+1272
+01:53:59,582 --> 01:54:02,292
+Miss PiIbow ?
+Fouillez Ies chambres.
+
+1273
+01:54:02,919 --> 01:54:05,337
+M. Warren, voyez à la salIe d'eau.
+
+1274
+01:54:13,304 --> 01:54:14,429
+M. Martini...
+
+1275
+01:54:15,807 --> 01:54:17,975
+puis-je avoir ma coiffe ?
+
+1276
+01:54:18,643 --> 01:54:20,018
+Ma coiffe !
+
+1277
+01:54:27,443 --> 01:54:28,277
+Merci.
+
+1278
+01:55:46,105 --> 01:55:48,523
+Je peux tout vous expliquer.
+
+1279
+01:55:48,983 --> 01:55:52,277
+Je vous en prie.
+Expliquez-moi tout.
+
+1280
+01:55:56,532 --> 01:55:57,950
+T-T... tout ?
+
+1281
+01:56:00,286 --> 01:56:01,995
+N'avez-vous pas honte ?
+
+1282
+01:56:04,874 --> 01:56:06,708
+Non, je n'ai pas honte.
+
+1283
+01:56:16,886 --> 01:56:19,888
+Ce qui m'inquiète,
+c'est la réaction de votre mère...
+
+1284
+01:56:20,056 --> 01:56:21,473
+en apprenant ça.
+
+1285
+01:56:33,903 --> 01:56:38,365
+Vous... vous... n'avez pas b...
+besoin de lui dire.
+
+1286
+01:56:40,201 --> 01:56:41,326
+Croyez-vous ?
+
+1287
+01:56:43,204 --> 01:56:45,914
+Votre mère et moi
+sommes de vieilIes amies.
+
+1288
+01:56:55,341 --> 01:56:56,967
+Je vous en prie...
+
+1289
+01:56:57,719 --> 01:57:00,053
+ne le dites pas à...
+
+1290
+01:57:00,221 --> 01:57:01,221
+m... ma mère.
+
+1291
+01:57:01,389 --> 01:57:05,225
+N'auriez-vous pas dû y penser
+avant d'emmener cette femme, là-bas ?
+
+1292
+01:57:22,326 --> 01:57:23,660
+Je ne l'ai pas emmenée.
+
+1293
+01:57:23,828 --> 01:57:26,955
+Vous y aurait-elIe traîné de force ?
+
+1294
+01:57:40,845 --> 01:57:42,137
+ElIe... elle l'a fait.
+
+1295
+01:57:46,476 --> 01:57:48,226
+Tout le monde l'a fait.
+
+1296
+01:57:48,478 --> 01:57:50,479
+Tout le monde ? Qui ?
+
+1297
+01:57:51,647 --> 01:57:53,315
+Dites-moi qui.
+
+1298
+01:58:13,920 --> 01:58:15,337
+McMurphy.
+
+1299
+01:58:26,682 --> 01:58:29,976
+M. Warren, procédez
+aux toiIettes de ces messieurs.
+
+1300
+01:58:31,646 --> 01:58:35,565
+Je vous en prie,
+ne le dites pas à ma mère.
+
+1301
+01:58:35,733 --> 01:58:38,360
+Emmenez BilIy
+au bureau de M. Spivey.
+
+1302
+01:58:38,861 --> 01:58:41,613
+Attendez l'arrivée du médecin.
+
+1303
+01:58:46,369 --> 01:58:48,370
+Filez ! Martini, avance.
+
+1304
+01:59:11,936 --> 01:59:14,020
+Là-dedans !
+
+1305
+01:59:45,887 --> 01:59:47,637
+Qu'est-ce que tu fous ?
+
+1306
+01:59:53,269 --> 01:59:56,605
+Washington,
+à la grande saIle, immédiatement !
+
+1307
+02:00:07,450 --> 02:00:09,117
+Pose ces clés.
+
+1308
+02:00:45,404 --> 02:00:46,947
+Laissez-moi passer.
+
+1309
+02:00:47,365 --> 02:00:48,823
+Laissez-moi passer !
+
+1310
+02:00:59,377 --> 02:01:00,835
+Ecartez-vous !
+
+1311
+02:01:06,008 --> 02:01:08,176
+Faites-les évacuer.
+
+1312
+02:01:09,679 --> 02:01:10,720
+Dégagez !
+
+1313
+02:01:10,888 --> 02:01:13,348
+Dehors ! Dehors !
+
+1314
+02:01:18,896 --> 02:01:20,063
+Du calme !
+
+1315
+02:01:20,856 --> 02:01:24,234
+Le mieux serait
+de faire comme tous Ies jours.
+
+1316
+02:01:33,035 --> 02:01:34,327
+Mac ! Non !
+
+1317
+02:02:19,749 --> 02:02:21,458
+Les mises.
+
+1318
+02:02:21,625 --> 02:02:24,544
+Une pour Tabès,
+Ches, Martini, et le donneur.
+
+1319
+02:02:24,712 --> 02:02:28,965
+Un 4 pour Tabès, un 6 et un 9...
+et un 1 0 au donneur.
+
+1320
+02:02:29,467 --> 02:02:30,425
+Un 9.
+
+1321
+02:02:31,218 --> 02:02:34,763
+Alors, Tabès ? On y va à 1 0 cents.
+
+1322
+02:02:35,139 --> 02:02:36,806
+Non ? Tu écIaires ?
+
+1323
+02:02:36,974 --> 02:02:38,058
+Il éclaire.
+
+1324
+02:02:38,225 --> 02:02:39,476
+Avec un 4.
+
+1325
+02:02:41,354 --> 02:02:43,104
+Ches appelIe.
+
+1326
+02:02:43,564 --> 02:02:44,731
+Pardon ?
+
+1327
+02:02:45,399 --> 02:02:48,610
+Il veut une carte.
+Avec cette dame, tu es baisé.
+
+1328
+02:02:48,778 --> 02:02:50,028
+Je I'ai dans le cul.
+
+1329
+02:02:50,196 --> 02:02:51,780
+Pas baisé.
+
+1330
+02:02:51,947 --> 02:02:53,114
+Par ici.
+
+1331
+02:02:53,282 --> 02:02:54,366
+Sers-moi.
+
+1332
+02:02:55,618 --> 02:02:58,536
+Je crois que tu es fini. Je le sais.
+
+1333
+02:03:15,805 --> 02:03:17,514
+Tout s'est bien passé ?
+
+1334
+02:03:20,601 --> 02:03:23,978
+Parfait. Ça va mieux, n'est-ce pas ?
+
+1335
+02:03:33,072 --> 02:03:34,531
+McMurphy est parti.
+
+1336
+02:03:39,036 --> 02:03:40,829
+Il s'est évadé.
+
+1337
+02:03:42,081 --> 02:03:44,290
+Ils l'emmenaient dans le tunnel...
+
+1338
+02:03:44,458 --> 02:03:47,001
+il a assommé 2 gardes
+et s'est évadé.
+
+1339
+02:03:47,420 --> 02:03:48,837
+McMurphy est Ià-haut.
+
+1340
+02:03:51,215 --> 02:03:55,260
+Il est doux comme un agneau :
+ils lui ont coupé les nerfs du cerveau.
+
+1341
+02:03:55,428 --> 02:03:56,177
+C'est vrai ?
+
+1342
+02:03:56,720 --> 02:03:58,346
+Comment tu le sais ?
+
+1343
+02:03:59,515 --> 02:04:01,433
+Jack Dunphy me l'a dit.
+
+1344
+02:04:01,600 --> 02:04:03,017
+Dunphy déconne !
+
+1345
+02:04:04,186 --> 02:04:05,061
+C'est vrai !
+
+1346
+02:05:58,217 --> 02:06:00,510
+Ils disaient que tu t'étais évadé !
+
+1347
+02:06:02,054 --> 02:06:05,723
+Tu ne serais pas parti sans moi.
+Je t'attendais.
+
+1348
+02:06:06,934 --> 02:06:08,893
+Maintenant, on peut le faire.
+
+1349
+02:06:09,270 --> 02:06:11,896
+Je me sens grand
+comme une montagne.
+
+1350
+02:07:02,906 --> 02:07:05,533
+Je ne partirai pas sans toi.
+
+1351
+02:07:08,037 --> 02:07:10,788
+Je ne te laisserai pas dans cet état.
+
+1352
+02:07:20,549 --> 02:07:22,550
+Tu viens avec moi.
+
+1353
+02:07:44,031 --> 02:07:45,365
+Partons.
+
+1354
+02:13:36,008 --> 02:13:38,009
+Adapté par :
+SDl Media Group
+
+1355
+02:13:38,176 --> 02:13:40,177
+[FRENCH]

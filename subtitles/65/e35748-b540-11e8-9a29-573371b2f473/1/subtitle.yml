@@ -1,0 +1,9 @@
+---
+filename: "One Flew Over the Cuckoo''s Nest 1975 BRrip 720p x264 [Herakler].no.srt"
+language: "no"
+format: "srt"
+
+matches:
+- filename: "One Flew Over the Cuckoo's Nest 1975 BRrip 720p x264 [Herakler].mkv"
+  hash: "3229b4a55bee367e"
+  filesize: "732975975"
