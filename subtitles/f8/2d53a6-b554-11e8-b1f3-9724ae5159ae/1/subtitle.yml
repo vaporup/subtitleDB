@@ -1,0 +1,9 @@
+---
+filename: "The Book of Eli (2010) DVDRip XviD-MAXSPEED.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Book of Eli (2010) DVDRip XviD-MAXSPEED.avi"
+  hash: "002b4d4caa4f86c9"
+  filesize: "1348903042"
