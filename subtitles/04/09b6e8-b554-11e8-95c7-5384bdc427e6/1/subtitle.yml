@@ -1,0 +1,9 @@
+---
+filename: "The-Man-with-the-Golden-Arm_1955.da.srt"
+language: "da"
+format: "srt"
+
+matches:
+- filename: "The-Man-with-the-Golden-Arm_1955.avi"
+  hash: "095dbbf1b891e829"
+  filesize: "733335552"
