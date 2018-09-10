@@ -1,0 +1,9 @@
+---
+filename: "Nick And Norah's Infinite Playlist.fr.srt"
+language: "fr"
+format: "srt"
+
+matches:
+- filename: "Nick And Norah's Infinite Playlist.mp4"
+  hash: "61ee6f679c600cb3"
+  filesize: "734563061"
