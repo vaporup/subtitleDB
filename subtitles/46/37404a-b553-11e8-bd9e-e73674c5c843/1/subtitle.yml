@@ -1,0 +1,9 @@
+---
+filename: "The.Elephant.Man.1980.1080p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Elephant.Man.1980.1080p.BluRay.x264.YIFY.mp4"
+  hash: "ee5be544ce3a63d8"
+  filesize: "733180951"
