@@ -1,0 +1,3987 @@
+1
+00:00:59,059 --> 00:01:03,723
+If our gods and our hopes
+are nothing but scientific phenomena,
+
+2
+00:01:03,797 --> 00:01:08,461
+then it must be said that our love
+is scientific as well -“L'Eve Future"
+
+3
+00:01:13,339 --> 00:01:15,603
+[sirens, city sounds]
+
+4
+00:01:20,413 --> 00:01:21,971
+[helicopter approaching]
+
+5
+00:01:54,347 --> 00:01:58,681
+[over radio] Repo 202 to Control.
+Arrived at target airspace.
+
+6
+00:01:58,751 --> 00:02:01,618
+Commencing data relay.
+
+7
+00:02:08,294 --> 00:02:10,819
+[background radio chatter]
+
+8
+00:02:16,703 --> 00:02:19,228
+[people shouting]
+
+9
+00:02:24,944 --> 00:02:27,174
+[loud crashing]
+
+10
+00:02:44,397 --> 00:02:46,388
+[Batou] Fill me in.
+
+11
+00:02:46,466 --> 00:02:51,403
+The perp killed the owner 52 minutes
+ago, at crime scene #1, then took off.
+
+12
+00:02:51,471 --> 00:02:56,374
+Ambushed and murdered two cops
+at crime scene #2, an unmapped alley.
+
+13
+00:02:56,442 --> 00:03:00,970
+All access points are blocked.
+We storm it in 2 minutes.
+
+14
+00:03:04,851 --> 00:03:06,842
+That's the cyborg cop
+from Section 9.
+
+15
+00:03:06,920 --> 00:03:11,323
+Keep your distance. I hear his bum luck
+catches like the plague.
+
+16
+00:03:11,391 --> 00:03:16,454
+E-police want to horn in on us.
+They're asking for a data link.
+
+17
+00:03:16,529 --> 00:03:19,157
+First it's Public Safety,
+now the E-Police.
+
+18
+00:03:19,232 --> 00:03:21,325
+Decline their request respectfully.
+
+19
+00:03:32,212 --> 00:03:35,545
+[faint footsteps]
+
+20
+00:03:52,565 --> 00:03:55,398
+[electronic beeping]
+
+21
+00:04:46,119 --> 00:04:47,746
+[crash]
+
+22
+00:04:55,395 --> 00:04:57,420
+[woman] Help me.
+
+23
+00:04:57,497 --> 00:05:00,125
+Help me.
+
+24
+00:05:09,309 --> 00:05:12,039
+[stretching, tearing]
+
+25
+00:05:17,750 --> 00:05:20,218
+[explosion]
+
+26
+00:05:26,359 --> 00:05:30,056
+[singing in Japanese]
+
+27
+00:09:05,845 --> 00:09:10,282
+[recorded voice] We've had eight cases
+of gynoids murdering their masters.
+
+28
+00:09:10,349 --> 00:09:14,046
+After each killing, they self-destruct,
+electronic brains reformatted.
+
+29
+00:09:14,921 --> 00:09:20,052
+In each case, the model in question
+is Locus Solus #2052, “Hadaly” type.
+
+30
+00:09:20,126 --> 00:09:22,686
+A prototype developed for testing,
+
+31
+00:09:22,762 --> 00:09:25,526
+they were provided free of charge
+to contractors.
+
+32
+00:09:25,598 --> 00:09:28,260
+Now, they've recalled
+all the prototypes.
+
+33
+00:09:28,334 --> 00:09:31,235
+According to their most recent report,
+
+34
+00:09:31,304 --> 00:09:35,866
+they've identiﬁed no defects
+in either software or hardware.
+
+35
+00:09:47,086 --> 00:09:49,316
+You get all that?
+
+36
+00:09:49,889 --> 00:09:53,416
+Manufacturer's latest gynoids
+go berserk, attacking their owners,
+
+37
+00:09:53,492 --> 00:09:56,757
+company panics
+and recalls every one.
+
+38
+00:09:56,829 --> 00:09:59,821
+They can expect lawsuits
+by bereaved families,
+
+39
+00:09:59,899 --> 00:10:03,266
+inevitable liability trials
+and mammoth damage awards.
+
+40
+00:10:03,336 --> 00:10:06,703
+I get it all
+except why Section 9 is involved.
+
+41
+00:10:06,772 --> 00:10:08,262
+You get it?
+
+42
+00:10:09,208 --> 00:10:13,406
+What you call getting it
+may be just wishful thinking.
+
+43
+00:10:13,479 --> 00:10:17,074
+Right now, Section 9's involved
+for two reasons.
+
+44
+00:10:17,149 --> 00:10:20,846
+First, not one single family
+has filed a lawsuit.
+
+45
+00:10:20,920 --> 00:10:25,721
+In every case they've settled
+with Locus Solus out of court.
+
+46
+00:10:25,791 --> 00:10:29,727
+Second, the victims
+included a politician
+
+47
+00:10:29,795 --> 00:10:33,322
+and a retired Public Safety official.
+
+48
+00:10:33,399 --> 00:10:35,629
+Because terrorism's a possible motive,
+
+49
+00:10:35,701 --> 00:10:40,400
+it's our job to consider
+if it's a matter for Section 9.
+
+50
+00:10:40,473 --> 00:10:43,874
+lshikawa and Azuma
+are getting background on the victims.
+
+51
+00:10:43,943 --> 00:10:46,776
+You two check out the gynoids.
+
+52
+00:10:47,513 --> 00:10:50,778
+[Aramaki] No questions. Go.
+
+53
+00:11:03,229 --> 00:11:06,926
+Just for the record,
+I didn't volunteer for this.
+
+54
+00:11:08,300 --> 00:11:11,963
+There's no way
+I'll measure up to the Major.
+
+55
+00:11:12,038 --> 00:11:14,632
+That's beside the point.
+
+56
+00:11:14,707 --> 00:11:17,198
+I hear she's still listed as missing.
+
+57
+00:11:23,282 --> 00:11:27,946
+[Batou] The Major could only call
+her brain and her ghost her own.
+
+58
+00:11:28,020 --> 00:11:32,116
+Although even she doubted
+whether they were real.
+
+59
+00:11:32,191 --> 00:11:35,160
+Her brains and hardware
+were government property
+
+60
+00:11:35,227 --> 00:11:38,390
+and her entire memory,
+including the classified information,
+
+61
+00:11:38,464 --> 00:11:40,932
+were part of the deal.
+
+62
+00:11:41,000 --> 00:11:44,094
+The top brass only cares about
+recovering that memory.
+
+63
+00:11:44,170 --> 00:11:47,037
+Her life is not an issue for them.
+
+64
+00:11:50,176 --> 00:11:52,667
+So, where do we start?
+
+65
+00:11:52,745 --> 00:11:56,704
+[Batou] Locus Solus is located
+in the northern frontier.
+
+66
+00:11:56,782 --> 00:12:00,013
+The first step is to check in
+with local Forensics.
+
+67
+00:12:00,086 --> 00:12:03,055
+POLICE
+
+68
+00:12:06,058 --> 00:12:09,323
+[background chatter]
+
+69
+00:12:27,713 --> 00:12:30,807
+[female voice on loudspeaker]
+
+70
+00:12:33,352 --> 00:12:34,614
+You guys...
+
+71
+00:12:34,687 --> 00:12:37,383
+About the gynoid
+this guy wasted yesterday...
+
+72
+00:12:37,456 --> 00:12:40,357
+She cost us two young officers.
+
+73
+00:12:40,426 --> 00:12:43,088
+Don't tell me you want her back?
+
+74
+00:12:43,162 --> 00:12:46,529
+That's part of what
+we've come to determine.
+
+75
+00:12:50,503 --> 00:12:53,802
+Forensics is up on 19,
+a right at the end of the hall.
+
+76
+00:12:53,873 --> 00:12:58,503
+- Need a guide?
+- No thanks, we'll skip the tour.
+
+77
+00:12:59,545 --> 00:13:03,777
+“Birds never peck
+at green persimmons,
+
+78
+00:13:03,849 --> 00:13:07,307
+they wait until the fruit is ripe."
+
+79
+00:13:19,799 --> 00:13:21,664
+[metallic crash]
+
+80
+00:13:21,734 --> 00:13:24,328
+[elevator creaking]
+
+81
+00:13:26,939 --> 00:13:30,204
+you would've had a choice word or two
+for guys like us
+
+82
+00:13:30,276 --> 00:13:33,074
+swooping down
+to horn in on your case.
+
+83
+00:13:33,145 --> 00:13:37,605
+[Togusa] That's why it's so irritating.
+It's like watching my old self.
+
+84
+00:13:37,683 --> 00:13:38,672
+[chuckling]
+
+85
+00:13:38,751 --> 00:13:43,085
+“It is no use to blame the looking glass
+if your face is askew.
+
+86
+00:13:43,155 --> 00:13:48,286
+The mirror is not an instrument
+of enlightenment but of illusion."
+
+87
+00:13:48,360 --> 00:13:53,059
+Well, neither of us has looks
+worth staring at in the mirror.
+
+88
+00:13:53,899 --> 00:13:56,094
+[door opens]
+
+89
+00:14:07,413 --> 00:14:09,973
+[bubbling]
+
+90
+00:14:16,889 --> 00:14:18,857
+[electronic whirring]
+
+91
+00:14:34,173 --> 00:14:38,906
+[Haraway] You can come all you want,
+I'm not sharing this investigation.
+
+92
+00:14:38,978 --> 00:14:41,572
+And if you're too persistent,
+I'll have you detained.
+
+93
+00:14:42,648 --> 00:14:46,914
+l'm Togusa, Public Safety Section 9.
+This scary-looking fellow...
+
+94
+00:14:46,986 --> 00:14:50,547
+Blew her apart with double-O buckshot.
+
+95
+00:14:52,157 --> 00:14:57,094
+A 50 caliber hollow point
+would've left her easier to reconstruct.
+
+96
+00:15:00,900 --> 00:15:04,597
+She wasted 3 people,
+two of 'em cops.
+
+97
+00:15:04,670 --> 00:15:09,607
+She was trying to commit suicide
+before you shot her. Isn't that right?
+
+98
+00:15:27,393 --> 00:15:30,851
+- "Commit suicide" meaning... Miss...
+- [Haraway] Haraway.
+
+99
+00:15:30,930 --> 00:15:35,299
+Miss Haraway, how exactly
+would a robot kill itself?
+
+100
+00:15:36,268 --> 00:15:38,566
+By intentionally malfunctioning,
+
+101
+00:15:38,637 --> 00:15:42,801
+these gynoids are capable of
+self-authorizing attacks against humans.
+
+102
+00:15:42,875 --> 00:15:47,539
+This liberates them from Moral Code #3.
+
+103
+00:15:47,613 --> 00:15:52,175
+[Togusa] Which stipulates, “Maintain
+existence without injuring humans."
+
+104
+00:15:52,251 --> 00:15:55,778
+lsn't “self-destruction” more accurate?
+
+105
+00:15:56,188 --> 00:15:58,452
+[exhaling]
+
+106
+00:15:59,625 --> 00:16:03,652
+If you assume differences between
+humans and machines are obvious.
+
+107
+00:16:03,729 --> 00:16:07,130
+[Togusa] Are such “suicides”
+confined to a particular model?
+
+108
+00:16:07,199 --> 00:16:09,463
+[Haraway] Not necessarily.
+
+109
+00:16:09,535 --> 00:16:14,165
+In recent years we've seen a surge
+of robot related problems,
+
+110
+00:16:14,239 --> 00:16:16,969
+especially among the “pets”.
+
+111
+00:16:18,844 --> 00:16:20,141
+[Togusa] The cause?
+
+112
+00:16:20,212 --> 00:16:23,739
+[Haraway] E-brain contamination
+from microbes and viruses,
+
+113
+00:16:23,816 --> 00:16:29,516
+human production errors,
+functional defects from wear-and-tear.
+
+114
+00:16:29,588 --> 00:16:32,523
+- Take your pick, but...
+- [Togusa] But?
+
+115
+00:16:32,591 --> 00:16:38,359
+[Haraway] I say it's because humans
+discard robots once they're redundant.
+
+116
+00:16:38,430 --> 00:16:41,228
+When owners trade up to newer models,
+
+117
+00:16:41,300 --> 00:16:48,001
+some of those abandoned
+become vagrants, and degenerate.
+
+118
+00:16:49,708 --> 00:16:53,109
+Perhaps it’s a protest
+against their own obsolescence.
+
+119
+00:16:53,178 --> 00:16:54,440
+Absurd.
+
+120
+00:16:57,216 --> 00:16:59,741
+[Haraway] Humans are different
+from robots.
+
+121
+00:16:59,818 --> 00:17:03,515
+That’s an article of faith,
+like black isn't white.
+
+122
+00:17:03,589 --> 00:17:07,150
+It’s no more helpful than the basic fact
+that humans aren’t machines.
+
+123
+00:17:12,331 --> 00:17:17,291
+Unlike industrial robots, the androids
+and gynoids designed as“pets,"
+
+124
+00:17:17,369 --> 00:17:21,135
+weren't designed along utilitarian
+or practical models.
+
+125
+00:17:22,107 --> 00:17:24,541
+Instead, we model them
+on a human image,
+
+126
+00:17:24,610 --> 00:17:29,343
+an idealized one at that.
+
+127
+00:17:30,616 --> 00:17:35,849
+Why are humans so obsessed
+with recreating themselves?
+
+128
+00:17:49,968 --> 00:17:53,369
+- [Haraway] Do you have children?
+- A daughter.
+
+129
+00:17:53,439 --> 00:17:55,430
+[Haraway] Children have been excluded
+
+130
+00:17:55,507 --> 00:17:57,975
+from the customary standards
+of human behavior,
+
+131
+00:17:58,043 --> 00:18:01,376
+if you define humans as beings
+who possess a conventional identity
+
+132
+00:18:01,447 --> 00:18:03,745
+and act out of free will.
+
+133
+00:18:04,183 --> 00:18:08,950
+Then what are children who endure
+in the chaos preceding maturity?
+
+134
+00:18:09,021 --> 00:18:13,583
+They differ profoundly from “humans,”
+but they obviously have human form.
+
+135
+00:18:13,659 --> 00:18:20,588
+The dolls that little girls mother,
+are not surrogates for real babies.
+
+136
+00:18:20,666 --> 00:18:25,126
+Little girls aren't so much
+imitating child rearing,
+
+137
+00:18:25,204 --> 00:18:30,198
+as they are experiencing something
+deeply akin to child rearing.
+
+138
+00:18:30,275 --> 00:18:32,675
+What on earth are you talking about?
+
+139
+00:18:32,744 --> 00:18:36,111
+[Haraway] Raising children
+is the simplest way
+
+140
+00:18:36,181 --> 00:18:40,777
+to achieve the ancient dream
+of artificial life.
+
+141
+00:18:40,853 --> 00:18:42,878
+At least, that’s my hypothesis.
+
+142
+00:18:42,955 --> 00:18:46,288
+Children aren't dolls!
+
+143
+00:18:46,358 --> 00:18:51,591
+Descartes didn't differentiate man
+from machine, animate from inanimate.
+
+144
+00:18:51,663 --> 00:18:54,757
+He lost his beloved
+five-year-old daughter
+
+145
+00:18:54,833 --> 00:18:57,666
+and then named a doll after her,
+Francine. He doted on her.
+
+146
+00:18:57,736 --> 00:19:00,000
+At least that's what they say.
+
+147
+00:19:00,072 --> 00:19:01,733
+[whirring]
+
+148
+00:19:03,041 --> 00:19:06,442
+Can we get back to reality here?
+
+149
+00:19:06,512 --> 00:19:10,812
+I'd like your observations
+with respect to the Hadaly robot,
+
+150
+00:19:10,883 --> 00:19:14,284
+model #2052,
+manufactured by Locus Solus.
+
+151
+00:19:15,754 --> 00:19:16,812
+Right.
+
+152
+00:19:16,889 --> 00:19:18,982
+It's very well designed.
+
+153
+00:19:19,057 --> 00:19:23,494
+I understand it's a prototype, but
+it's intended for particular functions.
+
+154
+00:19:23,562 --> 00:19:25,189
+[Togusa] Particular functions?
+
+155
+00:19:25,264 --> 00:19:28,825
+lt's equipped with organs
+unnecessary in service robots.
+
+156
+00:19:28,901 --> 00:19:30,664
+[Togusa] Meaning?
+
+157
+00:19:30,736 --> 00:19:33,227
+[exhales]
+
+158
+00:19:33,305 --> 00:19:35,205
+[Haraway] It's a sexaroid.
+
+159
+00:19:35,274 --> 00:19:39,734
+Nothing to brag about to your neighbors,
+but hardly illegal.
+
+160
+00:19:39,811 --> 00:19:43,941
+I get it. Scandal. No wonder
+those families settled out of court.
+
+161
+00:19:44,016 --> 00:19:47,452
+When its systems shut down,
+the electronic brain reformats.
+
+162
+00:19:47,519 --> 00:19:52,821
+That’s standard protection for
+manufacturer's proprietary software.
+
+163
+00:19:52,891 --> 00:19:55,416
+- But...
+- [Togusa] But, what?
+
+164
+00:19:55,494 --> 00:19:59,191
+We found a file in the audio buffer.
+Care to hear it?
+
+165
+00:20:01,500 --> 00:20:02,990
+[recorded voice] Help me.
+
+166
+00:20:03,068 --> 00:20:06,560
+[repeating] Help me. Help me.
+
+167
+00:20:06,638 --> 00:20:09,072
+[recording repeating, beeping]
+
+168
+00:20:19,818 --> 00:20:21,581
+[recording stops]
+
+169
+00:20:24,656 --> 00:20:27,090
+[whirring winds down]
+
+170
+00:20:30,629 --> 00:20:32,563
+[Batou] Thanks for your help.
+
+171
+00:20:36,668 --> 00:20:40,695
+Uh, one last question.
+lt’s none of my business, but...
+
+172
+00:20:42,174 --> 00:20:45,575
+No, I've never raised a child.
+
+173
+00:20:45,644 --> 00:20:49,205
+Nothing registered
+at the ovum bank.
+
+174
+00:20:49,281 --> 00:20:51,545
+Thank you, Miss...
+
+175
+00:20:51,617 --> 00:20:55,314
+Haraway.
+No need for Miss or Mrs.
+
+176
+00:21:02,694 --> 00:21:04,685
+[door opens]
+
+177
+00:21:07,466 --> 00:21:10,162
+[Togusa] She's not really the type
+for technical work.
+
+178
+00:21:10,235 --> 00:21:14,069
+[Batou] Her reports are doubtless full
+of unsolicited opinions, just like mine.
+
+179
+00:21:14,139 --> 00:21:16,403
+[Togusa] Which held you back
+from promotion.
+
+180
+00:21:16,475 --> 00:21:20,411
+[Batou] We secure that gynoid's brain
+for the labs at Section 9.
+
+181
+00:21:20,479 --> 00:21:22,674
+[Togusa] That's the last
+we'll see of her.
+
+182
+00:21:22,748 --> 00:21:26,184
+- [Batou] She your type?
+- [Togusa] Actually, I like older women.
+
+183
+00:21:26,251 --> 00:21:28,515
+- [Togusa] Next?
+- [Batou] Follow procedure.
+
+184
+00:21:28,587 --> 00:21:31,715
+- Investigate the Hadaly inspector?
+- [over radio] 09 calling 907.
+
+185
+00:21:31,790 --> 00:21:34,520
+There's been a 602
+in the District 201 boathouse.
+
+186
+00:21:34,593 --> 00:21:36,424
+Victim is inspector for Locus Solus.
+
+187
+00:21:36,495 --> 00:21:38,895
+Scene secured two minutes
+prior to local police.
+
+188
+00:21:38,964 --> 00:21:42,365
+- [Batou] Roger, 907.
+- [Togusa] Unbelievable timing.
+
+189
+00:21:42,434 --> 00:21:44,095
+[Batou] “A fine spring day.
+
+190
+00:21:44,169 --> 00:21:47,002
+A carriage sprints between
+this world and the next."
+
+191
+00:21:47,072 --> 00:21:49,734
+- [car starts]
+- [brakes screeching]
+
+192
+00:22:01,920 --> 00:22:03,615
+You're all alone here?
+
+193
+00:22:03,689 --> 00:22:09,059
+Koga got reacquainted with his dinner
+and went back with the corpse.
+
+194
+00:22:09,127 --> 00:22:11,220
+[Batou] What a wimp.
+
+195
+00:22:14,366 --> 00:22:17,301
+The scene, 22 minutes ago.
+
+196
+00:22:25,744 --> 00:22:28,008
+You made a rookie
+deal with this mess?
+
+197
+00:22:28,080 --> 00:22:32,642
+[lshikawa] Life's a learning curve.
+Here's what we've got.
+
+198
+00:22:32,718 --> 00:22:35,243
+Analysis of victim's brain yields...
+
+199
+00:22:35,320 --> 00:22:39,620
+Jack Volkerson, age 54.
+Consignment inspector for Locus Solus.
+
+200
+00:22:39,691 --> 00:22:43,320
+He applied for leave five days ago
+and vanished.
+
+201
+00:22:44,062 --> 00:22:47,828
+Three days ago,
+he rented this boathouse.
+
+202
+00:22:48,667 --> 00:22:51,227
+The murder weapon,
+kitchen utensils.
+
+203
+00:22:51,303 --> 00:22:53,635
+Inspection of the area
+turned up a vehicle license
+
+204
+00:22:53,705 --> 00:22:55,229
+linked to organized crime.
+
+205
+00:22:56,508 --> 00:22:59,534
+We’re checking it out.
+
+206
+00:23:02,247 --> 00:23:05,978
+Seven credit cards found in jacket,
+presumably the victim's.
+
+207
+00:23:06,051 --> 00:23:08,281
+Investigating transaction history.
+
+208
+00:23:28,173 --> 00:23:34,476
+38 caliber SW Model 2602.
+
+209
+00:23:35,247 --> 00:23:37,715
+Looks like he ran out of time.
+
+210
+00:23:38,216 --> 00:23:41,117
+Doubt it would've done him much good.
+
+211
+00:23:41,186 --> 00:23:46,055
+“An illegally powerful cyborg,"
+or maybe a professional faking a psycho.
+
+212
+00:23:46,124 --> 00:23:51,061
+[over radio] 969 calling 906, 20 seconds
+away from the scene, don 't touch.
+
+213
+00:23:51,129 --> 00:23:52,994
+Not a thing.
+
+214
+00:23:54,466 --> 00:23:57,264
+[Togusa] Let's leave this to Forensics.
+
+215
+00:23:57,335 --> 00:24:01,772
+[lshikawa] 907 calling 09.
+We're handing the scene over to 969.
+
+216
+00:24:03,241 --> 00:24:05,903
+- [over radio] 09, Roger.
+- [Togusa sighs]
+
+217
+00:24:06,511 --> 00:24:08,843
+It's my daughter's birthday.
+
+218
+00:24:08,914 --> 00:24:11,906
+- [lshikawa] Family man, huh?
+- I'll drop you off.
+
+219
+00:24:11,983 --> 00:24:15,510
+- Wrong direction. lshikawa?
+- [lshikawa] Not headed his way, either.
+
+220
+00:24:15,587 --> 00:24:18,715
+Okay.
+Daughter's birthday takes priority.
+
+221
+00:24:18,790 --> 00:24:20,451
+You're a cheerful bunch.
+
+222
+00:24:20,525 --> 00:24:22,993
+The chief showing up at a scene?
+
+223
+00:24:23,061 --> 00:24:25,427
+The corpse is missing parts, that's why.
+
+224
+00:24:25,497 --> 00:24:27,988
+The place is all yours.
+Take your time.
+
+225
+00:24:28,066 --> 00:24:29,966
+What’s the big deal
+over a local case?
+
+226
+00:24:30,035 --> 00:24:33,004
+The boss has taken an interest.
+
+227
+00:24:33,071 --> 00:24:36,507
+[cop] Found it! Divided up in jars
+in the refrigerator.
+
+228
+00:24:36,575 --> 00:24:40,136
+Heart, liver, kidneys,
+even the pancreas.
+
+229
+00:24:40,212 --> 00:24:42,180
+Conscientious bastard.
+
+230
+00:24:48,053 --> 00:24:50,886
+[footsteps]
+
+231
+00:24:57,162 --> 00:25:01,622
+Fresh dog food, huh?
+Stick to dry food and he'll last longer.
+
+232
+00:25:01,700 --> 00:25:04,464
+I can't feed him that.
+
+233
+00:25:10,375 --> 00:25:12,605
+You're teamed up with Togusa?
+
+234
+00:25:12,677 --> 00:25:16,977
+Beats being paired off with
+a rookie fresh out of training.
+
+235
+00:25:17,048 --> 00:25:20,882
+For an ex-detective, he's got his uses.
+I've got no complaints.
+
+236
+00:25:20,952 --> 00:25:26,151
+Except that the only one
+up to your standards was the Major.
+
+237
+00:25:29,794 --> 00:25:33,230
+Cut the chatter, lshikawa.
+
+238
+00:25:33,298 --> 00:25:38,395
+J‘ But everything still holds me
+
+239
+00:25:38,470 --> 00:25:41,769
+J‘ In my heart
+
+240
+00:25:42,407 --> 00:25:46,776
+J‘ Hidden deep in my mind
+
+241
+00:25:56,087 --> 00:25:59,716
+J‘ The pictures are still on the wall J‘
+
+242
+00:26:01,726 --> 00:26:03,660
+- Later.
+- Batou...
+
+243
+00:26:03,728 --> 00:26:07,459
+- What now?
+- Stick to the dry food.
+
+244
+00:26:07,532 --> 00:26:12,094
+For nutritional balance,
+it’s better for the dog.
+
+245
+00:26:13,905 --> 00:26:19,434
+J‘ And I am still here
+
+246
+00:26:25,951 --> 00:26:32,083
+J‘ Dreaming hopelessly
+Holding in my heart
+
+247
+00:26:32,157 --> 00:26:33,556
+[car starts]
+
+248
+00:26:33,625 --> 00:26:37,959
+J‘ All the flowers you gave
+
+249
+00:26:41,866 --> 00:26:46,735
+J‘ Broken melodies
+
+250
+00:26:46,805 --> 00:26:49,899
+J‘ No more singing
+
+251
+00:26:49,975 --> 00:26:53,172
+J‘ No more laughing
+
+252
+00:26:53,244 --> 00:26:55,678
+J‘ In the sun
+
+253
+00:26:57,549 --> 00:27:02,851
+J‘ River of moonshine
+
+254
+00:27:02,921 --> 00:27:06,322
+J‘ I hear your voice
+
+255
+00:27:06,391 --> 00:27:09,019
+J‘ And it's calling
+
+256
+00:27:09,094 --> 00:27:11,329
+J‘ But I'm still alone
+
+257
+00:27:11,329 --> 00:27:14,890
+J‘ But I'm still alone
+
+258
+00:27:19,971 --> 00:27:23,998
+- J‘ I'm alone
+- [dog growls]
+
+259
+00:27:28,013 --> 00:27:29,878
+[dog whines]
+
+260
+00:27:29,948 --> 00:27:33,213
+J‘ Alone J‘
+
+261
+00:27:38,690 --> 00:27:40,681
+[dog panting, whining]
+
+262
+00:27:54,706 --> 00:27:56,697
+[dog grunts]
+
+263
+00:27:59,577 --> 00:28:01,704
+[music box plays]
+
+264
+00:28:23,902 --> 00:28:25,836
+[dog whining]
+
+265
+00:28:41,352 --> 00:28:43,912
+[yeIpSI
+
+266
+00:29:11,349 --> 00:29:13,340
+[grunts, exhales]
+
+267
+00:30:00,965 --> 00:30:04,162
+[man #1] He died from a blow
+that severed his cervical vertebrae.
+
+268
+00:30:04,235 --> 00:30:09,571
+The kitchen utensils
+were for evisceration, not murder.
+
+269
+00:30:09,641 --> 00:30:12,337
+[man #2] Someone took their time
+dismembering the corpse?
+
+270
+00:30:12,410 --> 00:30:14,002
+[man #1] So it appears.
+
+271
+00:30:14,078 --> 00:30:18,105
+We've confirmed the organs
+in the refrigerator were the victim's.
+
+272
+00:30:18,183 --> 00:30:23,143
+They reveal gastritis and cirrhosis
+of the liver. Apparently an alcoholic.
+
+273
+00:30:23,221 --> 00:30:25,416
+[man #2] Why'd the perp bother
+with the organs?
+
+274
+00:30:25,490 --> 00:30:28,618
+[man #1] Maybe to create the impression
+he was a psycho or a freak.
+
+275
+00:30:28,693 --> 00:30:31,685
+Or to underscore an element
+of retribution or revenge.
+
+276
+00:30:31,763 --> 00:30:35,597
+[man #2] So we’re not looking for
+an assassin posing as a thrill-seeker.
+
+277
+00:30:35,667 --> 00:30:38,033
+What's with the warped doorknob?
+
+278
+00:30:38,102 --> 00:30:43,472
+[man #1] Analysis indicates a Chinese
+prosthetic limb, model NR26.
+
+279
+00:30:43,541 --> 00:30:45,771
+Known as the Crab Claw.
+Strictly military.
+
+280
+00:30:45,844 --> 00:30:48,540
+Available on the black market,
+defective ones, anyway.
+
+281
+00:30:48,613 --> 00:30:52,447
+The Claw jives with that stiff's
+mutilated neck, too.
+
+282
+00:30:52,517 --> 00:30:55,486
+[man #2] Did you track down the license
+on those yakuza wheels?
+
+283
+00:30:55,553 --> 00:30:59,114
+[man #1] They've covered their tracks
+with a lot of illegal modifications.
+
+284
+00:30:59,190 --> 00:31:00,885
+[man #2] Stick to the facts.
+
+285
+00:31:00,959 --> 00:31:05,157
+[man #1] We tracked down records
+from a nearby parking lot.
+
+286
+00:31:05,230 --> 00:31:08,996
+The vehicle in question's registered
+to a crime group called Kojinkai.
+
+287
+00:31:09,067 --> 00:31:12,400
+Car's bulletproofed, with a
+reinforced chassis and rear shocks.
+
+288
+00:31:12,470 --> 00:31:15,371
+It's been linked to a number
+of assault scenes.
+
+289
+00:31:15,440 --> 00:31:17,601
+[man #2] Custom wheels for a cyborg.
+
+290
+00:31:17,675 --> 00:31:20,269
+An illegally powerful bodyguard at that.
+
+291
+00:31:20,345 --> 00:31:23,405
+- [man #2] So this was yakuza payback?
+- But where's the motive?
+
+292
+00:31:23,481 --> 00:31:26,973
+The Kojinkai's an entrenched
+Japanese crime syndicate.
+
+293
+00:31:27,051 --> 00:31:29,747
+[man #2] Drugs, hookers,
+gambling, scams,
+
+294
+00:31:29,821 --> 00:31:31,812
+an anything-goes yakuza operation.
+
+295
+00:31:31,890 --> 00:31:35,792
+And a Hadaly gynoid yanked off
+the big boss, Inoue's head 3 days ago.
+
+296
+00:31:35,860 --> 00:31:38,226
+A young turk, Wakabayashi,
+took over the show.
+
+297
+00:31:38,296 --> 00:31:39,763
+[man #1] It’s a no-brainer.
+
+298
+00:31:39,831 --> 00:31:42,994
+[man #2] Avenge the boss' death
+and his throne is yours.
+
+299
+00:31:43,067 --> 00:31:45,058
+Hold on.
+
+300
+00:31:45,136 --> 00:31:47,604
+If Volkerson knew
+they had it in for him,
+
+301
+00:31:47,672 --> 00:31:51,199
+why'd he take the trouble
+of hiding out on their turf?
+
+302
+00:31:51,276 --> 00:31:53,039
+[man #2] We don’t know.
+
+303
+00:31:53,111 --> 00:31:55,671
+His e-brain's wiped clean,
+so the car's our only lead.
+
+304
+00:31:55,747 --> 00:31:58,614
+Let's leave this one to the locals.
+
+305
+00:31:58,683 --> 00:32:02,210
+The terrorists-masquerading-
+as-deranged-robots scenario?
+
+306
+00:32:02,287 --> 00:32:05,882
+There's no political link
+between the victims,
+
+307
+00:32:05,957 --> 00:32:07,549
+so I think that's a dead end.
+
+308
+00:32:08,459 --> 00:32:12,828
+But I'm putting Batou and Togusa on
+all our berserk Hadaly cases full-time,
+
+309
+00:32:12,897 --> 00:32:14,831
+this one included.
+
+310
+00:32:14,899 --> 00:32:20,235
+The rest of you, get back
+to your regular shifts. That's it.
+
+311
+00:32:20,305 --> 00:32:22,330
+Togusa.
+
+312
+00:32:24,842 --> 00:32:27,242
+See me before you go.
+
+313
+00:32:35,186 --> 00:32:36,813
+Talkto me.
+
+314
+00:32:36,888 --> 00:32:41,450
+We'll check out any links between
+the Kojinkai mob and Locus Solus.
+
+315
+00:32:41,526 --> 00:32:44,086
+[Aramaki] I mean Batou.
+
+316
+00:32:44,162 --> 00:32:48,826
+Yourjob includes monitoring
+your partner's emotional state.
+
+317
+00:32:48,900 --> 00:32:52,836
+[Togusa] I know, but I'm not a cyborg
+or an electronic neurologist.
+
+318
+00:32:52,904 --> 00:32:56,931
+“One need not be Caesar in order
+to understand Caesar."
+
+319
+00:32:57,008 --> 00:33:01,707
+You're a family man, right?
+Do you consider yourself to be happy?
+
+320
+00:33:01,779 --> 00:33:03,144
+[Togusa] Well, sure.
+
+321
+00:33:03,214 --> 00:33:07,480
+Most of us are neither so happy
+nor so miserable as we think.
+
+322
+00:33:07,552 --> 00:33:12,285
+The key is to stay engaged
+with your life and your hopes.
+
+323
+00:33:12,357 --> 00:33:14,552
+[Togusa] I don’t understand.
+
+324
+00:33:14,625 --> 00:33:20,029
+Lately, Batou's reminding me
+of the Major before she disappeared.
+
+325
+00:33:21,099 --> 00:33:26,901
+[Aramaki] You know,“Let one walk alone,
+committing no sin,
+
+326
+00:33:26,971 --> 00:33:30,668
+with few wishes,
+like an elephant in the forest."
+
+327
+00:33:32,977 --> 00:33:36,174
+[footsteps]
+
+328
+00:33:40,485 --> 00:33:44,444
+Chief, why did you pick me
+for this job?
+
+329
+00:33:44,522 --> 00:33:48,788
+[Aramaki] Because it was the Major
+who plucked you off your local beat.
+
+330
+00:33:48,860 --> 00:33:51,055
+[mechanical whirring]
+
+331
+00:33:54,632 --> 00:33:55,929
+[Batou] What'd he want?
+
+332
+00:33:56,000 --> 00:34:00,369
+Apparently you don't need to be Caesar
+in order to understand him.
+
+333
+00:34:00,438 --> 00:34:02,030
+That goes without saying.
+
+334
+00:34:02,106 --> 00:34:06,304
+“The world cannot live
+at the level of its great men."
+
+335
+00:34:14,118 --> 00:34:16,484
+You planning on starting a war?
+
+336
+00:34:16,554 --> 00:34:21,389
+[Batou] No need to be a yakuza to pay
+them a visit, but we'll need weapons.
+
+337
+00:34:21,459 --> 00:34:24,587
+- I want to get something straight.
+- What?
+
+338
+00:34:24,662 --> 00:34:27,062
+We're just going to chat
+with these guys, right?
+
+339
+00:34:27,131 --> 00:34:28,792
+You dislike yakuza?
+
+340
+00:34:28,866 --> 00:34:30,766
+- Sure. Detest them.
+- Same here.
+
+341
+00:34:30,835 --> 00:34:32,735
+But we're just going to chat, right?
+
+342
+00:34:32,804 --> 00:34:35,637
+Like I said, you don't need
+to be a yakuza...
+
+343
+00:34:35,706 --> 00:34:39,836
+I know. To pay them a visit.
+But you also said we need weapons.
+
+344
+00:34:39,911 --> 00:34:41,378
+I'm a family man.
+
+345
+00:34:41,446 --> 00:34:42,970
+I can always go alone.
+
+346
+00:34:43,047 --> 00:34:45,311
+No. I'll go with you,
+I am your partner.
+
+347
+00:34:45,383 --> 00:34:46,907
+But I want your word.
+
+348
+00:34:46,984 --> 00:34:51,387
+Okay. We're just going to chat.
+Avoid shooting as best you can.
+
+349
+00:34:51,456 --> 00:34:53,253
+- Happy now?
+- Just fine.
+
+350
+00:34:53,324 --> 00:34:54,848
+Let's go then, pal.
+
+351
+00:35:00,299 --> 00:35:02,790
+[fish tank bubbling]
+
+352
+00:35:09,708 --> 00:35:11,699
+Who the fuck are you?
+
+353
+00:35:11,777 --> 00:35:16,578
+Here to chat with Wakabayashi.
+Go get him.
+
+354
+00:35:28,994 --> 00:35:30,985
+What about, “Avoid shooting?"
+
+355
+00:35:31,063 --> 00:35:34,464
+I did as best I could.
+
+356
+00:35:37,169 --> 00:35:38,898
+[yelling]
+
+357
+00:35:47,479 --> 00:35:48,969
+[cat yowls]
+
+358
+00:36:01,093 --> 00:36:02,526
+Images!
+
+359
+00:36:02,594 --> 00:36:05,495
+That son of a bitch
+infiltrated our vision!
+
+360
+00:36:13,638 --> 00:36:16,505
+[Batou] Blame your own
+cheap shit electronics.
+
+361
+00:36:16,575 --> 00:36:18,440
+[gurgling]
+
+362
+00:36:33,725 --> 00:36:34,817
+[Batou] What's up?
+
+363
+00:36:34,893 --> 00:36:38,021
+[Togusa] Narrow, dark stairs.
+What's the program?
+
+364
+00:36:38,096 --> 00:36:41,657
+- We take turns, I'll lead.
+- No, I'll lead.
+
+365
+00:36:41,733 --> 00:36:45,533
+You're so damned big,
+I can't cover you.
+
+366
+00:36:55,547 --> 00:36:56,605
+[QaSpSI
+
+367
+00:37:05,223 --> 00:37:06,850
+[grunting]
+
+368
+00:37:08,460 --> 00:37:09,757
+[gunshots]
+
+369
+00:37:12,531 --> 00:37:15,125
+[laughing, panting]
+
+370
+00:37:20,739 --> 00:37:24,539
+[Batou] Your little gifts exploded
+above my head.
+
+371
+00:37:24,609 --> 00:37:28,511
+Even presuming they went off
+at their most lethal range,
+
+372
+00:37:28,580 --> 00:37:32,778
+you think two grenades
+are going to off an armored cyborg?
+
+373
+00:37:32,851 --> 00:37:34,512
+You insult me.
+
+374
+00:37:37,222 --> 00:37:39,247
+[gasping, whimpering]
+
+375
+00:37:41,493 --> 00:37:44,394
+Start by telling me about
+the dead consignment inspector,
+
+376
+00:37:44,463 --> 00:37:46,693
+then spill your connections
+to Locus Solus.
+
+377
+00:37:46,765 --> 00:37:49,666
+[explosion, garbled voice]
+
+378
+00:37:59,311 --> 00:38:01,302
+Well, look who's here.
+
+379
+00:38:01,379 --> 00:38:03,347
+[grunting]
+
+380
+00:38:08,820 --> 00:38:13,223
+Bring it on, Crab Man. You and that
+claw look nasty, but I'm ready.
+
+381
+00:38:13,291 --> 00:38:15,486
+[mumbling]
+
+382
+00:38:24,503 --> 00:38:25,765
+[pained shout]
+
+383
+00:38:42,721 --> 00:38:46,316
+Betting on that obvious a move? Moron.
+
+384
+00:38:58,904 --> 00:39:00,064
+[heavy breathing]
+
+385
+00:39:03,508 --> 00:39:05,772
+...so we whacked him.
+
+386
+00:39:08,513 --> 00:39:10,913
+I'm fresh out of 3 years in the pen.
+
+387
+00:39:10,982 --> 00:39:15,442
+I knowjack shit about what the boss
+was up to with that outfit.
+
+388
+00:39:15,520 --> 00:39:17,988
+Still with me, pal?
+
+389
+00:39:18,056 --> 00:39:22,550
+[Togusa] All I could see...
+were my wife and daughter's faces.
+
+390
+00:39:22,627 --> 00:39:26,222
+That wasn’t your wife or daughter.
+
+391
+00:39:26,298 --> 00:39:28,493
+It was the grim reaper.
+
+392
+00:39:30,435 --> 00:39:33,199
+[Aramaki] I ordered you
+to conduct an investigation.
+
+393
+00:39:33,271 --> 00:39:37,173
+I never said skip the paperwork
+and act like vigilantes.
+
+394
+00:39:37,242 --> 00:39:41,178
+I certainly don't recall ordering you
+to barge into any yakuza office.
+
+395
+00:39:41,246 --> 00:39:45,808
+This isn't the jungle and you're not
+Special Forces hit men.
+
+396
+00:39:50,622 --> 00:39:54,251
+- [Batou] You still pissed off?
+- [Togusa] I am not pissed.
+
+397
+00:39:54,326 --> 00:39:57,523
+And I hate to sound ungrateful
+to the man who saved my life...
+
+398
+00:39:57,596 --> 00:39:59,086
+[brakes screeching]
+
+399
+00:40:00,398 --> 00:40:05,995
+But being your partner is definitely
+gonna take atoll on me.
+
+400
+00:40:06,071 --> 00:40:09,063
+Look, it's only the two of us
+on this case.
+
+401
+00:40:09,140 --> 00:40:11,802
+A half-assed approach
+just won't cut it.
+
+402
+00:40:11,876 --> 00:40:16,245
+If Locus Solus has anything to hide,
+they'll come after us.
+
+403
+00:40:16,314 --> 00:40:18,544
+So that's why you put on
+that yakuza gun show.
+
+404
+00:40:18,617 --> 00:40:23,987
+Yeah, and if the chief was really
+pissed, he'd have suspended us.
+
+405
+00:40:24,055 --> 00:40:25,579
+Pull over, will you?
+
+406
+00:40:44,109 --> 00:40:46,009
+[Batou] Later.
+
+407
+00:40:54,486 --> 00:40:56,113
+[bell rings]
+
+408
+00:41:06,331 --> 00:41:08,629
+[hushed voices]
+
+409
+00:41:24,582 --> 00:41:27,710
+[woman] You're in the kill zone.
+
+410
+00:42:47,132 --> 00:42:48,121
+[woman gasps]
+
+411
+00:43:07,118 --> 00:43:08,551
+[growling]
+
+412
+00:43:17,328 --> 00:43:19,455
+[rain falling]
+
+413
+00:43:38,349 --> 00:43:42,012
+Don't tamper with the settings
+on that new arm of yours.
+
+414
+00:43:42,086 --> 00:43:46,614
+The operating system upgrades
+can conflict with the weapon-control,
+
+415
+00:43:46,691 --> 00:43:49,091
+rendering it entirely useless.
+
+416
+00:43:49,160 --> 00:43:51,458
+[Batou] Then you'll have to
+reformat the thing.
+
+417
+00:43:51,529 --> 00:43:54,828
+Hey, where are the remains
+of my old arm?
+
+418
+00:43:54,899 --> 00:43:57,925
+Don't even think about it.
+Not much left.
+
+419
+00:43:58,002 --> 00:44:01,267
+The organic components
+in this new one match your DNA.
+
+420
+00:44:01,339 --> 00:44:04,866
+I suppose that, with enough use,
+it'll feel like my own.
+
+421
+00:44:05,710 --> 00:44:07,678
+[dog whimpering]
+
+422
+00:44:07,745 --> 00:44:11,476
+Ouch. Hey, just hold on.
+
+423
+00:44:17,488 --> 00:44:20,184
+The fact that you carried him here
+means that...
+
+424
+00:44:20,258 --> 00:44:22,590
+[lshikawa] Yeah.
+I broke into your love nest.
+
+425
+00:44:22,660 --> 00:44:27,063
+I just couldn't stomach the thought
+of him moaning with hunger,
+
+426
+00:44:27,131 --> 00:44:29,122
+covered in shit,
+waiting for you.
+
+427
+00:44:29,200 --> 00:44:31,464
+Believe it or not, I'm a dog lover.
+
+428
+00:44:31,536 --> 00:44:33,936
+But I'm the one
+that took him in for the night.
+
+429
+00:44:34,005 --> 00:44:38,032
+My daughter's in heaven and my wife's
+fuming over her dirty carpets.
+
+430
+00:44:38,109 --> 00:44:40,509
+When did you start tailing me?
+
+431
+00:44:40,578 --> 00:44:42,239
+It's no big deal, man.
+
+432
+00:44:42,313 --> 00:44:45,248
+Yes, it is a big deal.
+You used me as a smokescreen.
+
+433
+00:44:45,316 --> 00:44:47,876
+[lshikawa] With experience,
+you would've caught on.
+
+434
+00:44:47,952 --> 00:44:49,783
+Blame it on the boss.
+
+435
+00:44:51,055 --> 00:44:52,818
+Is this pooch a clone?
+
+436
+00:44:52,891 --> 00:44:55,018
+Aren't originals
+outrageously expensive?
+
+437
+00:44:55,093 --> 00:44:59,996
+[Batou] His was the first line
+bred by artificial insemination.
+
+438
+00:45:00,064 --> 00:45:03,397
+It's hardly your style to let them
+hack into your brain.
+
+439
+00:45:03,468 --> 00:45:06,960
+And any daily routine
+just makes you vulnerable to traps.
+
+440
+00:45:07,038 --> 00:45:09,199
+I told you to stick to dry food.
+
+441
+00:45:09,274 --> 00:45:14,177
+But he likes the fresh stuff and that’s
+the only store that carries it.
+
+442
+00:45:14,245 --> 00:45:16,839
+They had you going berserk,
+
+443
+00:45:16,915 --> 00:45:19,577
+shooting five bullets
+into your own arm,
+
+444
+00:45:19,651 --> 00:45:22,848
+and nearly blowing away
+the store owner.
+
+445
+00:45:22,921 --> 00:45:27,881
+He may be nuts, but it's a rare bird
+that can hack into this guy.
+
+446
+00:45:27,959 --> 00:45:30,553
+[lshikawa] Except for the Major.
+
+447
+00:45:31,229 --> 00:45:35,029
+And why didn't they make me
+blow my own head off?
+
+448
+00:45:35,099 --> 00:45:39,593
+[lshikawa] I think, because they want
+to disgrace you, not wipe you out.
+
+449
+00:45:39,671 --> 00:45:41,662
+First, you barge into a yakuza office,
+
+450
+00:45:41,739 --> 00:45:44,833
+send a dozen men
+to heaven or the hospital,
+
+451
+00:45:44,909 --> 00:45:49,107
+and that very same day,
+unload your weapon in a grocery store.
+
+452
+00:45:49,180 --> 00:45:53,742
+So we think either you've gone mad
+or your e-brain's shot.
+
+453
+00:45:53,818 --> 00:45:59,518
+[Togusa] But this was a planned attack.
+It proves that our case wasn't random.
+
+454
+00:45:59,590 --> 00:46:02,184
+We can't pull out.
+
+455
+00:46:02,260 --> 00:46:04,888
+We'd jeopardize
+the whole point of Section 9.
+
+456
+00:46:04,963 --> 00:46:06,430
+That's what the Major’d say.
+
+457
+00:46:06,497 --> 00:46:08,624
+And I’ve got a message
+from the boss, too.
+
+458
+00:46:08,700 --> 00:46:11,134
+Stay on it,
+but no more official Section support
+
+459
+00:46:11,202 --> 00:46:13,363
+until you come up with material proof.
+
+460
+00:46:13,438 --> 00:46:15,929
+We'll go to the source then,
+Locus Solus.
+
+461
+00:46:16,007 --> 00:46:18,498
+[lshikawa] Nothing preserves
+secrecy like speed.
+
+462
+00:46:18,576 --> 00:46:21,136
+You’re going to the northern frontier
+immediately.
+
+463
+00:46:21,212 --> 00:46:23,180
+- Far north?
+- You two can't handle it?
+
+464
+00:46:23,247 --> 00:46:25,772
+Sure, but what about the basset?
+
+465
+00:46:25,850 --> 00:46:31,186
+[lshikawa] A single man in this line of
+work keeping a dog is preposterous!
+
+466
+00:46:31,255 --> 00:46:35,089
+And of all dogs, you choose
+a high-maintenance hound.
+
+467
+00:46:35,159 --> 00:46:38,219
+It’s not my problem.
+You guys figure it out!
+
+468
+00:46:40,598 --> 00:46:42,395
+[dog whimpers]
+
+469
+00:46:43,101 --> 00:46:44,435
+[aircraft approaches]
+
+470
+00:46:44,435 --> 00:46:45,959
+[aircraft approaches]
+
+471
+00:47:35,887 --> 00:47:38,151
+[Batou] This area was once intended
+
+472
+00:47:38,222 --> 00:47:40,850
+as the Far East's most important
+information center,
+
+473
+00:47:40,925 --> 00:47:44,588
+a Special Economic Zone
+in its heyday.
+
+474
+00:47:44,662 --> 00:47:48,257
+These towers survive as a shadow
+of the city’s former glory.
+
+475
+00:47:48,332 --> 00:47:51,324
+Its dubious sovereignty
+has made it the ideal haven
+
+476
+00:47:51,402 --> 00:47:55,930
+for multi-nationals and the criminal
+elements that feed off their spoils.
+
+477
+00:47:56,007 --> 00:48:00,808
+It's a lawless zone,
+beyond the reach of UN or E-police.
+
+478
+00:48:00,878 --> 00:48:04,871
+Reminds me of the line,
+“What the body creates,
+
+479
+00:48:04,949 --> 00:48:08,180
+is as much an expression of DNA
+as the body itself."
+
+480
+00:48:08,252 --> 00:48:11,653
+But the same applies
+to beaver dams and spiderwebs.
+
+481
+00:48:11,722 --> 00:48:15,658
+I'll take the coral reefs
+as my metaphor.
+
+482
+00:48:15,726 --> 00:48:18,058
+Though hardly so beautiful.
+
+483
+00:48:19,363 --> 00:48:23,459
+[Batou] If the essence of life
+is information carried in DNA,
+
+484
+00:48:23,534 --> 00:48:27,095
+then society and civilization
+are just colossal memory systems
+
+485
+00:48:27,171 --> 00:48:30,504
+and a metropolis like this one,
+simply a sprawling external memory.
+
+486
+00:48:30,575 --> 00:48:33,339
+“How great is the sum of thy thoughts.
+
+487
+00:48:33,411 --> 00:48:37,745
+If I should count them, they are
+more in number than the sand."
+
+488
+00:48:37,815 --> 00:48:41,876
+Psalms 139, Old Testament.
+
+489
+00:48:41,953 --> 00:48:44,683
+The way you spout these
+spontaneous exotic references,
+
+490
+00:48:44,755 --> 00:48:48,885
+I'd say your own external memory's
+pretty twisted.
+
+491
+00:48:48,960 --> 00:48:51,087
+Look who's talking!
+
+492
+00:48:51,162 --> 00:48:55,326
+[over radio] Sorry to interrupt, but
+we 're about to fly over Locus Solus.
+
+493
+00:48:55,399 --> 00:48:58,425
+This pass is for you,
+so take a good look.
+
+494
+00:49:44,115 --> 00:49:48,449
+[over radio] So much for the free tour.
+Prepare for landing.
+
+495
+00:49:49,854 --> 00:49:52,550
+“His legions, angel forms,
+who lay entranced.
+
+496
+00:49:52,623 --> 00:49:55,217
+Thick as autumnal leaves
+that strow the brooks."
+
+497
+00:49:55,293 --> 00:50:00,253
+Now you're quoting Milton,
+but we are not Satan.
+
+498
+00:50:00,331 --> 00:50:03,300
+[birds crying]
+
+499
+00:50:36,033 --> 00:50:38,399
+[singing in Japanese]
+
+500
+00:52:14,565 --> 00:52:16,965
+[howling]
+
+501
+00:53:36,447 --> 00:53:39,211
+[children shouting in distance]
+
+502
+00:53:51,695 --> 00:53:54,357
+[gasping] Batou!
+
+503
+00:54:00,271 --> 00:54:04,298
+[Batou] You sure have gotten informal,
+Lin. Since when do you skip the “Sir"?
+
+504
+00:54:04,375 --> 00:54:07,071
+[Lin] I haven't forgotten
+the debt I owe you.
+
+505
+00:54:07,144 --> 00:54:10,113
+[Batou] “The less one forgets
+the less one can remember?"
+
+506
+00:54:10,181 --> 00:54:12,445
+[Lin] Oh, c'mon, Batou... Sir.
+
+507
+00:54:12,516 --> 00:54:15,007
+[Batou] Now you want
+to butter me up with “Sir".
+
+508
+00:54:15,085 --> 00:54:18,179
+[Lin] Please, forgive me, I beg you.
+I beseech you.
+
+509
+00:54:18,255 --> 00:54:22,021
+- Know a guy called Kim?
+- Never heard of him.
+
+510
+00:54:22,092 --> 00:54:25,619
+Actually, they're a dime a dozen
+up this way.
+
+511
+00:54:25,696 --> 00:54:28,324
+I'm just looking for a particular one.
+
+512
+00:54:28,399 --> 00:54:30,594
+[Lin] We got loyalty even in my line.
+
+513
+00:54:30,668 --> 00:54:35,105
+“There's loyalty that protects secrets
+and loyalty that protects the truth. "
+
+514
+00:54:35,172 --> 00:54:38,573
+You cannot serve both masters,
+so which loyalty is yours?
+
+515
+00:54:38,642 --> 00:54:41,110
+[Lin] They say there's no truth
+without secrets.
+
+516
+00:54:41,178 --> 00:54:43,772
+[Batou] I'll ask you again,
+do you know a guy called Kim?
+
+517
+00:54:43,848 --> 00:54:47,579
+[Lin] Never heard of him.
+Actually, they're a dime a dozen...
+
+518
+00:54:48,919 --> 00:54:53,253
+[Batou] “Life and death come and go
+like marionettes dancing on a table.
+
+519
+00:54:53,324 --> 00:54:57,556
+Once their strings are cut,
+they easily crumble."
+
+520
+00:56:00,291 --> 00:56:04,125
+He used to be a long-range
+military scout.
+
+521
+00:56:04,194 --> 00:56:07,721
+“Unfit as a commander,
+unfit to be commanded,
+
+522
+00:56:07,798 --> 00:56:10,665
+fit only to languish by the wayside."
+
+523
+00:56:10,734 --> 00:56:14,670
+He bounced around between
+Special Forces and Electronics,
+
+524
+00:56:14,738 --> 00:56:18,504
+and got into black market weapons.
+His reputation turned to shit.
+
+525
+00:56:18,576 --> 00:56:22,672
+Wound up your garden-variety hacker.
+
+526
+00:56:22,746 --> 00:56:25,306
+Sounds like quite a story.
+
+527
+00:56:25,382 --> 00:56:29,716
+Yeah, but no matter how far a jackass
+travels, it won't come back a horse.
+
+528
+00:56:29,787 --> 00:56:34,486
+His downfall came
+when his reach exceeded his grasp.
+
+529
+00:56:34,558 --> 00:56:36,492
+Let’s go.
+
+530
+00:59:26,897 --> 00:59:29,229
+[Togusa] Batou,
+the study on the top floor.
+
+531
+00:59:48,018 --> 00:59:49,713
+I guess we were a little late.
+
+532
+00:59:49,787 --> 00:59:53,883
+Pro-active firewalls must have
+zapped him hacking in somewhere.
+
+533
+00:59:53,957 --> 00:59:58,018
+In any case, doesn't look like
+he would've been of much use.
+
+534
+01:00:04,368 --> 01:00:06,893
+“The deceased firmly declines
+
+535
+01:00:06,970 --> 01:00:10,929
+offerings of fresh or artificial flowers
+or birds released in his honor."
+
+536
+01:00:16,847 --> 01:00:18,109
+[grunts]
+
+537
+01:00:18,182 --> 01:00:20,377
+“Sleep not you of the dead."
+
+538
+01:00:20,450 --> 01:00:24,409
+Even Confucius says you should never
+pretend to sleep like a corpse.
+
+539
+01:00:24,488 --> 01:00:28,185
+I haven't got time
+for your stupid little jokes, Kim.
+
+540
+01:00:28,258 --> 01:00:30,783
+[laughing]
+
+541
+01:00:48,946 --> 01:00:52,882
+[Kim] Haven't seen you since
+that landing operation in Nemuro.
+
+542
+01:00:52,950 --> 01:00:54,645
+[Batou] I'm here on a job.
+
+543
+01:00:54,718 --> 01:00:56,709
+[Kim] Meaning Locus Solus?
+
+544
+01:00:56,787 --> 01:00:59,221
+They came late to the robot racket,
+
+545
+01:00:59,289 --> 01:01:04,818
+but expanded rapidly once they focused
+on high-end gynoids.
+
+546
+01:01:04,895 --> 01:01:07,955
+There are whispers of links
+to politicians, bureaucrats,
+
+547
+01:01:08,031 --> 01:01:10,329
+even crime syndicates.
+
+548
+01:01:13,337 --> 01:01:16,397
+Wary of local regulators
+for these “specialized” mannequins,
+
+549
+01:01:16,473 --> 01:01:19,704
+they shifted all production
+to a multi-national factory ship
+
+550
+01:01:19,776 --> 01:01:23,371
+anchored in international waters.
+
+551
+01:01:23,447 --> 01:01:27,406
+They turn out
+some mighty fine dolls.
+
+552
+01:01:27,484 --> 01:01:31,250
+Fine enough to commit suicide
+after murdering humans?
+
+553
+01:01:31,321 --> 01:01:35,223
+[Kim] If that's true,
+it's pretty unseemly.
+
+554
+01:01:39,663 --> 01:01:41,824
+[dishes rattling]
+
+555
+01:01:47,237 --> 01:01:50,502
+That would mean replicating humans
+by breathing souls into dolls.
+
+556
+01:01:50,574 --> 01:01:52,804
+Who’d want to do that?
+
+557
+01:01:52,876 --> 01:01:55,640
+The definition of a truly beautiful doll
+
+558
+01:01:55,712 --> 01:01:59,204
+is a living, breathing body
+devoid of a soul.
+
+559
+01:01:59,283 --> 01:02:05,153
+“An unyielding corpse,
+tiptoeing on the brink of collapse."
+
+560
+01:02:05,222 --> 01:02:09,784
+Or reduced to a ravaged body
+with an e-brain... like you.
+
+561
+01:02:09,860 --> 01:02:13,091
+The human is no match for a doll,
+
+562
+01:02:13,163 --> 01:02:17,532
+in its form, its elegance in motion,
+its very being.
+
+563
+01:02:17,601 --> 01:02:20,434
+The inadequacies of human awareness
+
+564
+01:02:20,504 --> 01:02:25,100
+become the inadequacies
+of life’s reality.
+
+565
+01:02:25,175 --> 01:02:28,508
+[Kim] Perfection is possible
+only for those without consciousness,
+
+566
+01:02:28,578 --> 01:02:31,012
+or perhaps endowed
+with infinite consciousness.
+
+567
+01:02:31,081 --> 01:02:34,915
+In other words,
+for dolls and for gods.
+
+568
+01:02:34,985 --> 01:02:38,079
+Shouldn't we get back to business?
+
+569
+01:02:38,155 --> 01:02:42,057
+[Kim] Actually, there's one more
+mode of existence
+
+570
+01:02:42,125 --> 01:02:44,389
+commensurate with dolls and deities.
+
+571
+01:02:44,461 --> 01:02:46,258
+[Togusa] Animals?
+
+572
+01:02:46,330 --> 01:02:50,767
+[Kim] Shelley's skylarks are suffused
+with a profound, instinctive joy.
+
+573
+01:02:50,834 --> 01:02:54,201
+Joy we humans, driven by
+self-consciousness, can never know.
+
+574
+01:02:54,271 --> 01:02:57,798
+For those of us
+who lust after knowledge,
+
+575
+01:02:57,874 --> 01:03:05,781
+it is a condition more elusive
+than godhood.
+
+576
+01:03:05,849 --> 01:03:09,785
+And this conundrum compelled you
+to inhabit a doll and play dead?
+
+577
+01:03:09,853 --> 01:03:11,081
+Is that your reason?
+
+578
+01:03:17,728 --> 01:03:21,391
+[Kim] That's what Confucius says.
+
+579
+01:03:33,176 --> 01:03:35,144
+[Kim] It is a rare human
+who knows death.
+
+580
+01:03:35,212 --> 01:03:39,239
+Most meet death unprepared,
+armed only with ignorant familiarity.
+
+581
+01:03:39,316 --> 01:03:42,649
+In other words, people die
+simply because it is inevitable.
+
+582
+01:03:42,719 --> 01:03:47,918
+[Batou] But death is a precondition
+of life for a doll.
+
+583
+01:03:47,991 --> 01:03:53,258
+Kim chose to become a complete cyborg.
+That was his reason.
+
+584
+01:03:57,667 --> 01:04:01,501
+and got into black market weapons.
+His reputation turned to shit.
+
+585
+01:04:01,571 --> 01:04:04,404
+Wound up your garden-variety hacker.
+
+586
+01:04:04,474 --> 01:04:06,169
+Sounds like quite a story.
+
+587
+01:04:06,243 --> 01:04:11,875
+No matter how far a jackass travels,
+it won't come back a horse.
+
+588
+01:04:13,417 --> 01:04:15,885
+What's wrong? Lets go.
+
+589
+01:05:24,554 --> 01:05:26,112
+[Togusa] Batou!
+
+590
+01:05:47,611 --> 01:05:51,206
+“The deceased hereby proclaims,
+that on this day of this month,
+
+591
+01:05:51,281 --> 01:05:54,250
+“I have attained
+my own celebrated death."
+
+592
+01:06:00,157 --> 01:06:02,421
+[grunts]
+
+593
+01:06:02,492 --> 01:06:04,084
+[mechanical gasping]
+
+594
+01:06:17,541 --> 01:06:20,408
+[Kim] Truly disturbing, isn't it?
+
+595
+01:06:20,477 --> 01:06:22,604
+I really understand.
+
+596
+01:06:30,687 --> 01:06:36,557
+The doubt is whether a creature
+that certainly appears to be alive,
+
+597
+01:06:36,626 --> 01:06:37,991
+really is.
+
+598
+01:06:38,061 --> 01:06:42,589
+Alternatively, the doubt that
+a lifeless object might actually live.
+
+599
+01:06:42,666 --> 01:06:46,693
+That’s why dolls haunt us.
+
+600
+01:06:46,770 --> 01:06:50,035
+They are modeled on humans.
+
+601
+01:06:50,106 --> 01:06:53,542
+They are, in fact,
+nothing but human.
+
+602
+01:06:53,610 --> 01:06:55,840
+They make us face the terror
+
+603
+01:06:55,912 --> 01:07:00,815
+of being reduced to simple
+mechanisms and matter.
+
+604
+01:07:00,884 --> 01:07:03,876
+In other words,
+the fear that, fundamentally,
+
+605
+01:07:03,954 --> 01:07:08,550
+all humans belong to the void.
+
+606
+01:07:08,959 --> 01:07:12,326
+Enough. Let's get down to business.
+
+607
+01:07:12,395 --> 01:07:15,762
+[Kim] Further, science,
+seeking to unlock the secret of life,
+
+608
+01:07:15,832 --> 01:07:19,461
+brought about this terror.
+
+609
+01:07:19,536 --> 01:07:22,403
+The notion that nature is calculable
+
+610
+01:07:22,472 --> 01:07:25,669
+inevitably leads to the conclusion
+that humans too,
+
+611
+01:07:25,742 --> 01:07:28,210
+are reducible
+to basic, mechanical parts.
+
+612
+01:07:28,278 --> 01:07:31,577
+“The human body is a machine
+which winds its own springs.
+
+613
+01:07:34,584 --> 01:07:38,418
+In this age, the twin technologies
+of robotics and electronic neurology
+
+614
+01:07:38,488 --> 01:07:42,015
+resurrected the 18th century theory
+of man as machine.
+
+615
+01:07:42,092 --> 01:07:45,755
+And now that computers have
+enabled externalized memory,
+
+616
+01:07:45,829 --> 01:07:50,163
+humans have pursued
+self-mechanization aggressively,
+
+617
+01:07:50,233 --> 01:07:53,828
+to expand the limits
+of their own functions.
+
+618
+01:07:53,903 --> 01:07:56,838
+Determined to leave behind
+Darwinian natural selection,
+
+619
+01:07:56,906 --> 01:07:59,568
+this human determination
+to beat evolutionary odds
+
+620
+01:07:59,643 --> 01:08:02,168
+also reveals the desire to transcend
+
+621
+01:08:02,245 --> 01:08:06,545
+the very quest for perfection
+that gave it birth.
+
+622
+01:08:08,218 --> 01:08:12,780
+The mirage of life equipped
+with perfect hardware
+
+623
+01:08:12,856 --> 01:08:15,450
+engendered this nightmare.
+
+624
+01:08:15,525 --> 01:08:19,461
+“God's everlasting geometry.”
+
+625
+01:08:20,163 --> 01:08:22,063
+[clicking]
+
+626
+01:08:23,233 --> 01:08:24,222
+[QaSpingi
+
+627
+01:08:24,634 --> 01:08:26,727
+[gunshot]
+
+628
+01:08:26,802 --> 01:08:28,827
+Here goes!
+
+629
+01:08:45,554 --> 01:08:46,782
+[Togusa] Batou!
+
+630
+01:08:52,728 --> 01:08:55,026
+[aircraft overhead]
+
+631
+01:09:22,625 --> 01:09:24,957
+[groaning in pain]
+
+632
+01:09:49,752 --> 01:09:53,051
+How do you feel?
+
+633
+01:09:53,122 --> 01:09:55,113
+How did I...
+
+634
+01:09:55,191 --> 01:09:58,683
+Looks like a tangle of virtual
+experience hacked into your e-brain.
+
+635
+01:09:59,929 --> 01:10:04,730
+Just as luck appears in threes,
+misfortune also arrives three times.
+
+636
+01:10:04,800 --> 01:10:08,634
+A gaze averted in discomfort,
+a realization unspoken, advice unbidden.
+
+637
+01:10:08,704 --> 01:10:10,865
+Without noticing,
+we welcome catastrophe.
+
+638
+01:10:10,940 --> 01:10:16,242
+But our world cannot afford to ignore
+the first sign, let alone all three.
+
+639
+01:10:16,312 --> 01:10:19,679
+Itold you, Kim, I don't have time
+for your stupid jokes!
+
+640
+01:10:21,684 --> 01:10:23,379
+When did you catch on?
+
+641
+01:10:23,452 --> 01:10:27,320
+[Batou] No one's easier to trick
+than the trickster.
+
+642
+01:10:27,389 --> 01:10:30,517
+You may be
+an electronic warfare specialist,
+
+643
+01:10:30,593 --> 01:10:33,084
+but you forget my line's intelligence.
+
+644
+01:10:33,162 --> 01:10:36,325
+And besides...
+I come complete with a guardian angel.
+
+645
+01:10:36,398 --> 01:10:41,631
+Try digging up the hall image
+in your external memory database.
+
+646
+01:10:49,512 --> 01:10:53,710
+[Batou] Jacob Grimm wrote that by
+inscribing “aemaeth” upon Golem's brow,
+
+647
+01:10:53,783 --> 01:10:58,743
+the clay man lived by drawing energy
+from the word for “truth”.
+
+648
+01:10:58,821 --> 01:11:01,756
+But simply removing “ae”
+to form “maeth” or “death,”
+
+649
+01:11:01,824 --> 01:11:04,816
+returned the Golem back
+to inanimate clay.
+
+650
+01:11:04,894 --> 01:11:08,295
+That prophecy told me that no truth
+would be found within these walls.
+
+651
+01:11:08,364 --> 01:11:11,458
+[Kim] Someone broke through
+the firewalls I devised?
+
+652
+01:11:11,534 --> 01:11:13,832
+Preposterous. Who on earth could!
+
+653
+01:11:13,903 --> 01:11:17,669
+[Batou] Like I told you,
+my guardian angel.
+
+654
+01:11:18,174 --> 01:11:22,304
+Game's over, Kim.
+It's time you started talking...
+
+655
+01:11:26,782 --> 01:11:28,272
+[gunshot]
+
+656
+01:11:28,350 --> 01:11:31,376
+That's just a doll.
+
+657
+01:11:32,321 --> 01:11:36,985
+You don't know when to quit, Kim.
+I won't fall for another diversion.
+
+658
+01:11:37,059 --> 01:11:40,722
+Batou, how can you disprove
+this reality is genuine
+
+659
+01:11:40,796 --> 01:11:44,755
+or an extension of false illusions
+generated by virtual signals?
+
+660
+01:11:46,168 --> 01:11:48,728
+My ghost is whispering to me.
+
+661
+01:11:48,804 --> 01:11:52,763
+Humans are nothing but the thread
+from which the dream of life is woven.
+
+662
+01:11:52,842 --> 01:11:56,300
+If dreams, consciousness,
+even ghosts are no more than rifts
+
+663
+01:11:56,378 --> 01:12:01,077
+and warps in the uniform weave
+of the matrix.
+
+664
+01:12:01,150 --> 01:12:07,146
+We are both but worthless humans,
+though we walk very different paths.
+
+665
+01:12:07,223 --> 01:12:09,555
+Of course,
+if you don't believe in ghosts,
+
+666
+01:12:09,625 --> 01:12:13,459
+you'll never know madness
+or schizophrenia, either.
+
+667
+01:12:13,529 --> 01:12:19,957
+The little that's left of your body
+will not rot, Kim,
+
+668
+01:12:20,035 --> 01:12:22,799
+but continue to function
+until you meet a suitable death.
+
+669
+01:12:26,709 --> 01:12:28,836
+[QaSpingi
+
+670
+01:12:42,291 --> 01:12:45,818
+Are we actually back
+in physical reality?
+
+671
+01:12:45,895 --> 01:12:49,353
+There is no way to distinguish
+reminiscence from true memory.
+
+672
+01:12:49,431 --> 01:12:56,360
+Whatever they are, they can
+only be analyzed after the fact.
+
+673
+01:12:56,438 --> 01:13:00,067
+The passage of time itself
+can't be stored, so it's tough.
+
+674
+01:13:00,142 --> 01:13:05,341
+And inevitable, now that our e-brains
+share external memories.
+
+675
+01:13:05,414 --> 01:13:09,942
+Do your wife and daughter,
+waiting for you at home, really exist?
+
+676
+01:13:10,019 --> 01:13:12,852
+Or are you, in reality, still single,
+
+677
+01:13:12,922 --> 01:13:15,982
+living in some cheap rented room,
+only dreaming of that family.
+
+678
+01:13:16,058 --> 01:13:20,290
+Don't you want to verify
+what actually happened back there?
+
+679
+01:13:20,362 --> 01:13:22,523
+And if you knew
+almost from the start, why?
+
+680
+01:13:22,598 --> 01:13:25,624
+I had to ascertain his motives.
+
+681
+01:13:25,701 --> 01:13:28,636
+Kim set his trap
+knowing I'd come calling,
+
+682
+01:13:28,704 --> 01:13:31,571
+inserting the virtual reality
+to shake us off.
+
+683
+01:13:31,640 --> 01:13:33,198
+That's about the gist of it.
+
+684
+01:13:33,275 --> 01:13:36,210
+Maybe he was the hacker who
+planted something in my e-brain,
+
+685
+01:13:36,278 --> 01:13:39,076
+making me dance to his tune
+and blow away my right arm.
+
+686
+01:13:39,148 --> 01:13:44,677
+Just as lshikawa surmised, not
+many could have pulled that off.
+
+687
+01:13:44,753 --> 01:13:47,813
+Locus Solus suspects as much.
+
+688
+01:13:47,890 --> 01:13:50,450
+So you anticipated all of this.
+
+689
+01:13:50,526 --> 01:13:54,223
+Pretended to fall into his trap,
+then beat him at his own game...
+
+690
+01:13:54,296 --> 01:13:56,992
+...that was my plan.
+But Kim was pretty sophisticated.
+
+691
+01:13:57,066 --> 01:13:59,626
+I only made it out
+because of the hallway clue.
+
+692
+01:13:59,702 --> 01:14:03,103
+The guardian angel you spoke of...
+
+693
+01:14:03,172 --> 01:14:06,437
+She's gone.
+
+694
+01:14:06,508 --> 01:14:09,568
+Somewhere beyond that “rift
+in the uniform weave of the matrix."
+
+695
+01:14:09,645 --> 01:14:12,478
+She's definitely alive.
+
+696
+01:14:12,548 --> 01:14:17,144
+Merging somewhere on the vast net,
+or with the entire domain.
+
+697
+01:14:17,219 --> 01:14:19,380
+Though that's not for me.
+
+698
+01:14:19,455 --> 01:14:22,720
+There are as many paths to proving
+your existence as there are ghosts.
+
+699
+01:14:22,791 --> 01:14:25,123
+And you've got your daughter.
+
+700
+01:14:25,194 --> 01:14:27,355
+I thought Kim knew other paths too,
+
+701
+01:14:27,429 --> 01:14:30,421
+back when he and I
+were in the jungle together.
+
+702
+01:14:30,499 --> 01:14:33,832
+- At least I've figured one thing out.
+- What's that?
+
+703
+01:14:33,902 --> 01:14:36,962
+That I'll never cut it
+as your partner.
+
+704
+01:14:37,039 --> 01:14:38,939
+Lost your nerve?
+
+705
+01:14:39,008 --> 01:14:43,570
+No, but to quote you,
+I've got a daughter to go home to.
+
+706
+01:14:43,645 --> 01:14:46,580
+That may be, but you'll still need
+to pay your way out of here.
+
+707
+01:14:46,648 --> 01:14:48,377
+Don’t you have enough?
+
+708
+01:14:48,450 --> 01:14:52,477
+We can nail Locus Solus
+with the data from Kim’s e-brain.
+
+709
+01:14:52,554 --> 01:14:57,184
+We can only prove he interfered with an
+investigation plus the ethics violation.
+
+710
+01:14:57,259 --> 01:14:59,989
+Besides, our investigation's
+officially off the record.
+
+711
+01:15:00,062 --> 01:15:04,897
+So, if we're going to make charges
+in those gynoid serial murders stick,
+
+712
+01:15:04,967 --> 01:15:09,199
+- we need material evidence.
+- And Kim's a dead end.
+
+713
+01:15:09,271 --> 01:15:10,533
+No, he's not.
+
+714
+01:15:10,606 --> 01:15:14,633
+His ghost may be beyond reach, but
+his e-brain's still tied to Locus Solus.
+
+715
+01:15:14,710 --> 01:15:19,545
+We've got to settle this case
+before they clean out their operation.
+
+716
+01:15:19,615 --> 01:15:22,140
+There's an old saying,
+
+717
+01:15:22,217 --> 01:15:26,153
+“When you're neither right nor wrong,
+it's time to beat the drums and attack.”
+
+718
+01:15:26,221 --> 01:15:29,190
+In other words, when dialogue fails,
+it's time for violence.
+
+719
+01:15:29,258 --> 01:15:33,422
+Hey, this isn't like
+barging into some yakuza office!
+
+720
+01:15:34,129 --> 01:15:37,360
+Then I won't count on
+your Mateba revolver for cover.
+
+721
+01:15:37,433 --> 01:15:43,702
+“Birds seek refuge in the heavens,
+fish dive deep into the sea."
+
+722
+01:15:48,577 --> 01:15:51,307
+[birds crying]
+
+723
+01:16:21,310 --> 01:16:23,403
+[Batou] I've made contact
+with the escort.
+
+724
+01:16:23,479 --> 01:16:24,673
+[Togusa] Roger.
+
+725
+01:16:24,746 --> 01:16:27,476
+[man] Diving's risky
+for a heavy cyborg physique.
+
+726
+01:16:27,549 --> 01:16:31,076
+It's so deep here, if you sank,
+we'd never retrieve you.
+
+727
+01:16:31,153 --> 01:16:34,782
+[Batou] I used to know a cyborg
+whose hobby was diving.
+
+728
+01:16:34,857 --> 01:16:37,690
+Don't know what got into her.
+
+729
+01:16:37,759 --> 01:16:40,284
+[man] I'm helping out because
+you're Lin's friend,
+
+730
+01:16:40,362 --> 01:16:43,695
+but they say no one's
+come back from that ship alive.
+
+731
+01:16:43,765 --> 01:16:45,665
+Then I don't know what's got into you.
+
+732
+01:16:45,734 --> 01:16:49,135
+- [Batou] Exactly. Let's go.
+- [man] Hold on!
+
+733
+01:16:58,147 --> 01:17:00,138
+[bird cries]
+
+734
+01:17:04,153 --> 01:17:06,314
+[typing]
+
+735
+01:17:06,622 --> 01:17:10,114
+[Togusa] In 12 seconds,
+we'll trip their sensors.
+
+736
+01:17:10,192 --> 01:17:12,683
+I'll send two seconds
+of camouflage signal.
+
+737
+01:17:12,761 --> 01:17:13,750
+[Batou] Roger.
+
+738
+01:17:13,829 --> 01:17:17,993
+I’ve routed this thing
+into the chief of security's e-brain.
+
+739
+01:17:21,370 --> 01:17:23,998
+[Togusa] Initiating synchronization.
+
+740
+01:17:52,634 --> 01:17:55,228
+[rumbling]
+
+741
+01:18:06,949 --> 01:18:09,611
+[breathing]
+
+742
+01:18:28,637 --> 01:18:31,868
+I'm in.
+Forward the vessel data.
+
+743
+01:18:34,743 --> 01:18:37,541
+[Batou] Download complete.
+Got my vision in your sites?
+
+744
+01:18:37,613 --> 01:18:41,242
+[Togusa] Recording now.
+Wouldn't miss my mentor's assault.
+
+745
+01:18:41,316 --> 01:18:44,149
+You're a real smart ass.
+
+746
+01:19:23,492 --> 01:19:26,484
+Inﬁltra tor detected.
+Rebooting security.
+
+747
+01:19:26,561 --> 01:19:29,621
+Review status of all onboard e-brains.
+
+748
+01:19:29,698 --> 01:19:32,633
+Scan for matches in memory usage
+and virus size.
+
+749
+01:19:32,701 --> 01:19:36,068
+It may be a latent virus.
+Cross monitor.
+
+750
+01:19:36,138 --> 01:19:39,039
+Logical contact
+with the chief's e-brain denied.
+
+751
+01:19:39,107 --> 01:19:41,837
+Just go ahead and reformat!
+
+752
+01:19:41,910 --> 01:19:44,970
+Rebooting of level 2
+security system complete.
+
+753
+01:19:45,047 --> 01:19:47,982
+Create a detour,
+divert the inﬁltrator.
+
+754
+01:19:48,083 --> 01:19:51,450
+Rebuild the logic ﬁrewall.
+Load antibodies.
+
+755
+01:19:51,520 --> 01:19:53,385
+Scanning viruses.
+
+756
+01:19:53,455 --> 01:19:56,015
+Response team,
+prepare decoys for ambush.
+
+757
+01:19:56,091 --> 01:19:58,286
+Deploy all latent viruses
+along ﬁrewalls.
+
+758
+01:19:58,360 --> 01:20:03,263
+Security wall 014 breached.
+Error type 280 in security wall 032.
+
+759
+01:20:03,332 --> 01:20:07,063
+Rebuilding level 1
+external security wall.
+
+760
+01:20:07,135 --> 01:20:11,629
+Fluctuation in enemy's proactive
+ﬁrewall pattern detected.
+
+761
+01:20:11,707 --> 01:20:14,369
+Transmitting virus.
+
+762
+01:20:16,411 --> 01:20:18,709
+Pull out, Togusa. You're in danger.
+
+763
+01:20:18,780 --> 01:20:21,112
+They’re onto you.
+They'll fry your brains!
+
+764
+01:20:21,183 --> 01:20:24,710
+- [Togusa] Not yet, a little further.
+- You idiot! Don't be crazy.
+
+765
+01:20:52,748 --> 01:20:55,080
+[air hissing, gasping]
+
+766
+01:20:58,086 --> 01:21:00,350
+[grunting]
+
+767
+01:21:45,300 --> 01:21:48,064
+Illegal access
+at gynoid production area.
+
+768
+01:21:48,136 --> 01:21:50,969
+Suspect an unconﬁrmed
+latent virus attack.
+
+769
+01:21:51,039 --> 01:21:53,667
+Release all vaccines to thwart.
+
+770
+01:21:53,742 --> 01:21:57,109
+Too late, all systems activated.
+Cannot establish logical contact.
+
+771
+01:21:57,179 --> 01:22:01,115
+Currently loading
+combat robotics control software.
+
+772
+01:22:02,617 --> 01:22:05,279
+[loudspeaker] Warning.
+Abnormality on the THO7 Line.
+
+773
+01:22:05,353 --> 01:22:11,314
+Security team,
+arm and head for the line, I repeat.
+
+774
+01:22:46,261 --> 01:22:48,024
+[man whimpering]
+
+775
+01:23:53,028 --> 01:23:55,758
+“Veni sancto spiritus."
+
+776
+01:23:55,830 --> 01:23:58,230
+Been a while, Major.
+
+777
+01:23:58,300 --> 01:24:00,393
+How shall I address you now?
+
+778
+01:24:00,468 --> 01:24:05,201
+To be precise, it's just a fragment
+of me downloaded via satellite.
+
+779
+01:24:05,273 --> 01:24:08,367
+This gynoid's e-brain lacks capacity.
+
+780
+01:24:08,443 --> 01:24:12,038
+It can only handle the combat
+robotics control system.
+
+781
+01:24:12,113 --> 01:24:15,412
+This is the best I can do
+for facial and vocal expression.
+
+782
+01:24:16,518 --> 01:24:21,353
+There should be an emergency access
+terminal 50 meters down this passage.
+
+783
+01:24:21,423 --> 01:24:25,325
+If we can infiltrate that,
+we’ll take over the whole system.
+
+784
+01:24:32,434 --> 01:24:33,901
+You haven't changed.
+
+785
+01:24:33,969 --> 01:24:37,735
+Move out. You're on point.
+I'll cover the rear.
+
+786
+01:24:37,806 --> 01:24:39,899
+Just like the old days.
+
+787
+01:24:58,693 --> 01:25:02,754
+“Who can gaze into the mirror
+without becoming evil?
+
+788
+01:25:02,831 --> 01:25:05,732
+A mirror does not reflect evil,
+but creates it."
+
+789
+01:25:05,800 --> 01:25:10,066
+Poetics, now?
+We're running low on ammo.
+
+790
+01:25:10,138 --> 01:25:15,041
+“Thus, a mirror bears a glimpse,
+but not scrutiny."
+
+791
+01:25:38,933 --> 01:25:40,195
+[creaking]
+
+792
+01:25:59,120 --> 01:26:00,951
+[Batou] Hey, isn't that risky?
+
+793
+01:26:01,022 --> 01:26:03,923
+[Major] It's just until I shut down
+the operating system.
+
+794
+01:26:03,992 --> 01:26:06,426
+Plug into the auxiliary inputs
+in the floor.
+
+795
+01:26:09,397 --> 01:26:13,060
+I have to gain system control
+or this gynoid's nonfunctional.
+
+796
+01:26:13,134 --> 01:26:15,398
+I'm counting on your 30-caliber arm.
+
+797
+01:26:15,470 --> 01:26:20,271
+[Batou] My brain can control firing,
+but I've only got one clip left.
+
+798
+01:26:20,341 --> 01:26:24,072
+And I have my doubts about going
+hand-to-hand with them.
+
+799
+01:26:25,580 --> 01:26:27,241
+Here goes!
+
+800
+01:26:28,183 --> 01:26:32,051
+Illegal onboard breach
+of main system.
+
+801
+01:26:32,120 --> 01:26:35,021
+Onboard? Isolate access point,
+erect proactive ﬁrewall.
+
+802
+01:26:35,090 --> 01:26:39,493
+Multiple camouflage signals identiﬁed.
+No fluctuation in any terminal.
+
+803
+01:26:39,561 --> 01:26:44,157
+It may be an outside access.
+Terminate all external network links.
+
+804
+01:26:44,232 --> 01:26:46,700
+Physically disengage external inputs.
+
+805
+01:26:46,768 --> 01:26:48,895
+Emergency control system
+not responding.
+
+806
+01:26:48,970 --> 01:26:54,237
+Diffused viruses coalescing.
+Breach in system area ﬁrewalls.
+
+807
+01:26:54,309 --> 01:26:57,710
+Prepare for system reset.
+Isolate level 1 data.
+
+808
+01:26:57,779 --> 01:27:02,216
+Multiple illegal access in core system.
+Our countermeasures can't keep up.
+
+809
+01:28:01,009 --> 01:28:03,534
+[silence]
+
+810
+01:28:15,323 --> 01:28:19,384
+[Major] We're in control.
+All external links severed.
+
+811
+01:28:19,460 --> 01:28:21,758
+The ship is totally isolated now.
+
+812
+01:28:26,034 --> 01:28:30,164
+- We're moving?
+- We're heading south,
+
+813
+01:28:30,238 --> 01:28:33,639
+leaving international waters
+for sovereign territory.
+
+814
+01:28:33,708 --> 01:28:38,509
+This entire ship will be the material
+evidence that proves Locus Solus' crime.
+
+815
+01:28:38,580 --> 01:28:39,911
+They'll come after us.
+
+816
+01:28:39,981 --> 01:28:42,711
+Before they do,
+we'll have an escort vessel.
+
+817
+01:28:42,784 --> 01:28:44,547
+There. It's already done.
+
+818
+01:28:44,619 --> 01:28:47,782
+And we have the time to examine
+the Locus Solus technique
+
+819
+01:28:47,856 --> 01:28:50,188
+that infused dolls with souls.
+
+820
+01:28:51,226 --> 01:28:53,126
+Haven't you cracked it?
+
+821
+01:28:53,194 --> 01:28:58,222
+You've got a hunch, too. Right?
+
+822
+01:29:15,049 --> 01:29:18,985
+It's absolutely silent.
+They must have sealed it off.
+
+823
+01:29:32,867 --> 01:29:34,835
+[Major] Ghost dubbing.
+
+824
+01:29:34,903 --> 01:29:38,737
+In past animal experiments, scientists
+mass replicated inferior copies,
+
+825
+01:29:38,806 --> 01:29:43,743
+but had to abandon the practice
+as it destroyed the original being.
+
+826
+01:29:43,811 --> 01:29:47,804
+[Batou] But Locus Solus brainwashed
+girls supplied by the Kojinkai mob,
+
+827
+01:29:47,882 --> 01:29:50,749
+dubbing their ghosts onto gynoids.
+
+828
+01:29:52,353 --> 01:29:56,221
+[Batou] It was the ghost that made
+Locus Solus gynoids so desirable.
+
+829
+01:29:59,594 --> 01:30:02,188
+[faint girl's voice] Help me...
+
+830
+01:30:15,009 --> 01:30:18,672
+Help me...
+
+831
+01:30:55,717 --> 01:30:57,651
+[whimpering]
+
+832
+01:31:00,021 --> 01:31:03,980
+You came to help me.
+Mr. Volkerson promised...
+
+833
+01:31:04,058 --> 01:31:08,188
+The police would come and rescue me.
+
+834
+01:31:08,262 --> 01:31:13,097
+I was stage four, but my friend Soana,
+is already stage five.
+
+835
+01:31:13,167 --> 01:31:17,399
+She can't hear anything
+and never answers anymore.
+
+836
+01:31:17,472 --> 01:31:22,910
+[Major] Volkerson, the murdered
+inspector revised their ethics code.
+
+837
+01:31:22,977 --> 01:31:26,743
+Exposed, the yakuza served him up
+to avenge the crime boss.
+
+838
+01:31:26,814 --> 01:31:29,248
+But Volkerson was right.
+
+839
+01:31:30,418 --> 01:31:35,117
+If the robots made trouble,
+someone would notice.
+
+840
+01:31:35,189 --> 01:31:38,124
+Someone would come to save us.
+
+841
+01:31:39,427 --> 01:31:42,487
+[Batou] Didn't he consider the victims?
+
+842
+01:31:45,433 --> 01:31:48,027
+Not the humans.
+
+843
+01:31:48,102 --> 01:31:52,801
+What about the dolls
+endowed with souls?
+
+844
+01:31:56,811 --> 01:32:00,338
+But... but...
+
+845
+01:32:01,115 --> 01:32:04,312
+I didn't want to become a doll!
+
+846
+01:32:04,886 --> 01:32:07,150
+[girl crying]
+
+847
+01:32:11,559 --> 01:32:15,689
+[Major] “We weep for the bird's cry,
+but not for the blood of a fish.
+
+848
+01:32:15,763 --> 01:32:18,231
+Blessed are those who have voice."
+
+849
+01:32:18,299 --> 01:32:20,824
+If the dolls could speak,
+
+850
+01:32:20,902 --> 01:32:24,133
+no doubt they'd scream,
+“I didn't want to become human."
+
+851
+01:32:24,205 --> 01:32:29,802
+Let me ask you this,
+do you consider yourself happy?
+
+852
+01:32:29,877 --> 01:32:35,509
+[Major] A nostalgic value, I suppose.
+At least I am free of qualms.
+
+853
+01:32:38,619 --> 01:32:44,854
+“Let one walk alone, committing no sin,
+with few wishes."
+
+854
+01:32:44,926 --> 01:32:48,555
+[Batou] "Like an elephant
+in the forest."
+
+855
+01:32:49,564 --> 01:32:52,055
+[Major] Always remember, Batou...
+
+856
+01:32:52,133 --> 01:32:57,901
+Whenever you enter the Net,
+I'll be by your side.
+
+857
+01:33:02,710 --> 01:33:04,575
+I'm going.
+
+858
+01:33:35,943 --> 01:33:38,207
+[panting, barking]
+
+859
+01:33:45,453 --> 01:33:50,356
+She showed up on that boat,
+didn’t she? Your guardian angel.
+
+860
+01:33:52,093 --> 01:33:55,654
+[Togusa] Clamming up again, eh? Why?
+You think I'd report you?
+
+861
+01:33:55,730 --> 01:33:58,062
+I'll pick you up at 8:00.
+
+862
+01:33:58,132 --> 01:34:01,590
+I owe you for looking after him.
+
+863
+01:34:03,004 --> 01:34:05,529
+Why don't you come in?
+
+864
+01:34:06,207 --> 01:34:10,007
+Hanging out with someone else's
+family just isn't my thing.
+
+865
+01:34:13,514 --> 01:34:16,142
+[little girl] My present, my present!
+
+866
+01:34:16,217 --> 01:34:18,412
+- [Togusa] I remembered, see?
+- [girl shouts]
+
+867
+01:34:18,486 --> 01:34:20,579
+[Togusa laughs]
+
+868
+01:34:30,398 --> 01:34:32,389
+[dog whimpers]
+
+869
+01:39:53,621 --> 01:39:55,418
+English subtitles: Linda Hoaglund
+with Judith Aley.
