@@ -1,0 +1,9 @@
+---
+filename: "The Bad Lieutenant Port of Call - New Orleans_YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Bad Lieutenant Port of Call - New Orleans_YIFY.mp4"
+  hash: "acc417c25fa9397b"
+  filesize: "733312104"
