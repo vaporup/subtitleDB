@@ -1,0 +1,9 @@
+---
+filename: "Timecop.1994.WS.DVDRip.XviD-iLLUSiON.fr.srt"
+language: "fr"
+format: "srt"
+
+matches:
+- filename: "Timecop.1994.WS.DVDRip.XviD-iLLUSiON/Timecop.1994.WS.DVDRip.XviD-iLLUSiON.avi"
+  hash: "15e3948a7b6e797d"
+  filesize: "732780544"
