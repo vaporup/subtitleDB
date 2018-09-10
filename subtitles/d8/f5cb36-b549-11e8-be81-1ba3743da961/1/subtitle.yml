@@ -1,0 +1,9 @@
+---
+filename: "The-Good-The-Bad-And-The-Ugly_Extended.fr.srt"
+language: "fr"
+format: "srt"
+
+matches:
+- filename: "The-Good-The-Bad-And-The-Ugly_Extended.avi"
+  hash: "2a8d0046dd419186"
+  filesize: "732954624"
