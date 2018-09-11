@@ -1,0 +1,9 @@
+---
+filename: "The Beaver[2011]Limited BRRip XviD-ExtraTorrentRG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Beaver[2011]Limited BRRip XviD-ExtraTorrentRG.avi"
+  hash: "f233bf7d2ec96bca"
+  filesize: "732479566"
