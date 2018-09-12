@@ -1,0 +1,9 @@
+---
+filename: "The-Abyss_[1989]_Uncut-Special-Edition.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Abyss_[1989]_Uncut-Special-Edition.mkv"
+  hash: "ffdaa2c2baf9821d"
+  filesize: "1847765580"
