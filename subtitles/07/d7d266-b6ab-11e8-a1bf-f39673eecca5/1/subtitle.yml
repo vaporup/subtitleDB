@@ -1,0 +1,10 @@
+---
+filename: "Sybil.1976.DVDRip.XViD.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Sybil.1976.DVDRip.XViD.avi"
+  hash: "6b481130a38dca5e"
+  filesize: "2147039232"
