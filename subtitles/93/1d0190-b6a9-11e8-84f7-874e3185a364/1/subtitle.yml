@@ -1,0 +1,9 @@
+---
+filename: "Star Trek Into Darkness-MAXSPEED.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Star Trek Into Darkness-MAXSPEED.avi"
+  hash: "41dd7eca22f8e8c9"
+  filesize: "1448955464"
