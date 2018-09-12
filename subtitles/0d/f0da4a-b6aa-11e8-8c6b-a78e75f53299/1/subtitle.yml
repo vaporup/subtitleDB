@@ -1,0 +1,9 @@
+---
+filename: "Sweet.November.2001.DVDRip.Xvid-Nile.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Sweet.November.2001.DVDRip.Xvid-Nile.avi"
+  hash: "750525263c7569d9"
+  filesize: "1466617856"
