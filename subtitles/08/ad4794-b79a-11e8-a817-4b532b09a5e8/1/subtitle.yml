@@ -1,0 +1,9 @@
+---
+filename: "Repulsion.1965.BDRip.H264.AAC.Gopo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Repulsion.1965.BDRip.H264.AAC.Gopo.mp4"
+  hash: "0a64e2ab6fcd0040"
+  filesize: "1936577667"
