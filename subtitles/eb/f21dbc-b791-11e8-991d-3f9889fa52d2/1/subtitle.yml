@@ -1,0 +1,9 @@
+---
+filename: "Critters.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Critters.avi"
+  hash: "79cd2d7d7f6e579c"
+  filesize: "1152093126"
