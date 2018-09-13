@@ -1,0 +1,9 @@
+---
+filename: "Riddick (2013) DVDRip XviD-MAXSPEED.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Riddick (2013) DVDRip XviD-MAXSPEED.avi"
+  hash: "17796d2757472dcc"
+  filesize: "1522174318"
