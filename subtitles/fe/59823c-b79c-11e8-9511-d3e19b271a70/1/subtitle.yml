@@ -1,0 +1,9 @@
+---
+filename: "Mr. Nobody.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Mr. Nobody.avi"
+  hash: "6ae5a0f62862f4ba"
+  filesize: "1468669952"
