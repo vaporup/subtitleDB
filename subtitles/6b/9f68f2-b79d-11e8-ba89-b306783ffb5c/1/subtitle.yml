@@ -1,0 +1,10 @@
+---
+filename: "Only-God-Forgives_AQOS.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Only-God-Forgives_AQOS.avi"
+  hash: "bf84fd65b779d4a0"
+  filesize: "1182136834"
