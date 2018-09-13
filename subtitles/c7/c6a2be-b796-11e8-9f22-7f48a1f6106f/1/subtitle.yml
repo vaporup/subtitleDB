@@ -1,0 +1,9 @@
+---
+filename: "Spartacus.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Spartacus.avi"
+  hash: "a1ceeb345dc7bec6"
+  filesize: "2689637208"
