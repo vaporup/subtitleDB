@@ -1,0 +1,9 @@
+---
+filename: "Rocky.II[1979]DvDrip-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Rocky.II[1979]DvDrip-aXXo.avi"
+  hash: "b3a6a770dd2358b5"
+  filesize: "735031296"

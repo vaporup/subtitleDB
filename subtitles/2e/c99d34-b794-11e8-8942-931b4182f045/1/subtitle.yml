@@ -1,0 +1,10 @@
+---
+filename: "Rocky.I[1976]DvDrip-aXXo.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Rocky.I[1976]DvDrip-aXXo.avi"
+  hash: "36ccd59945c29dce"
+  filesize: "735143936"

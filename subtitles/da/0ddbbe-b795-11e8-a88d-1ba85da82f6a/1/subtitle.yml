@@ -1,0 +1,10 @@
+---
+filename: "Rocky.V[1990]DvDrip-aXXo.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Rocky.V[1990]DvDrip-aXXo.avi"
+  hash: "13b56d2c55e956e8"
+  filesize: "735356928"

@@ -1,0 +1,10 @@
+---
+filename: "Rocky.III[1982]DvDrip-aXXo.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Rocky.III[1982]DvDrip-aXXo.avi"
+  hash: "21d53ec835df6ecc"
+  filesize: "735217664"

@@ -1,0 +1,9 @@
+---
+filename: "Rocky.IV[1985]DvDrip-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Rocky.IV[1985]DvDrip-aXXo.avi"
+  hash: "b8cb62122102fc86"
+  filesize: "734945280"
