@@ -1,0 +1,9 @@
+---
+filename: "Species-1_KLAXXON.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Species-1_KLAXXON.avi"
+  hash: "e0b740b94d1c6c21"
+  filesize: "1048229888"
