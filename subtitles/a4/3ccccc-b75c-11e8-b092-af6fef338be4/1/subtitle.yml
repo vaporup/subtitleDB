@@ -1,0 +1,9 @@
+---
+filename: "The.Avengers.2012.DVDRip.XviD-NYDIC.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Avengers.2012.DVDRip.XviD-NYDIC.avi"
+  hash: "1098388b1d1af0e0"
+  filesize: "1215184740"
