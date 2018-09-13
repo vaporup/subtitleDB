@@ -1,0 +1,9 @@
+---
+filename: "Solaris [2002] 720p HDTVRip x264-ExtraTorrentRG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Solaris [2002] 720p HDTVRip x264-ExtraTorrentRG.mp4"
+  hash: "a86956a290963e0b"
+  filesize: "1611116208"
