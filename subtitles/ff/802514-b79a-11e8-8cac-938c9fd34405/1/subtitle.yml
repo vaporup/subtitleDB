@@ -1,0 +1,9 @@
+---
+filename: "Moby Dick - 1956.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Moby Dick - 1956.avi"
+  hash: "2288e184c784721a"
+  filesize: "1547319296"
