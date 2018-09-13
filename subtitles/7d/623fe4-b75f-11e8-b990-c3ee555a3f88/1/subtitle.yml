@@ -1,0 +1,9 @@
+---
+filename: "The.Big.Sleep.1946.DVDRip.H264.AAC.Gopo.ro.srt"
+language: "ro"
+format: "srt"
+
+matches:
+- filename: "The.Big.Sleep.1946.DVDRip.H264.AAC.Gopo.mp4"
+  hash: "35594bddc19d63d5"
+  filesize: "1611814004"
