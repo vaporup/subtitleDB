@@ -1,0 +1,9 @@
+---
+filename: "psig-melancholia.2011.dvdrip.xvid.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "psig-melancholia.2011.dvdrip.xvid.avi"
+  hash: "2993caeca7a9ba1b"
+  filesize: "1472544768"
