@@ -1,0 +1,9 @@
+---
+filename: "Rocky.VI.Balboa[2006]DvDrip-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Rocky.VI.Balboa[2006]DvDrip-aXXo.avi"
+  hash: "8e673cd03a466734"
+  filesize: "735412224"
