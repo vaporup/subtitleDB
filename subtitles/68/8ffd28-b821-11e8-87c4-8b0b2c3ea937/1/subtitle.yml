@@ -1,0 +1,9 @@
+---
+filename: "Inception.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Inception.avi"
+  hash: "035420b928cf28b1"
+  filesize: "1490776986"
