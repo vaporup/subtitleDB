@@ -1,0 +1,9 @@
+---
+filename: "rx-hb-720p.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "rx-hb-720p.avi"
+  hash: "f2dd12ae9e6dee3f"
+  filesize: "1877153018"
