@@ -1,0 +1,9 @@
+---
+filename: "How To Steal A Million.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "How To Steal A Million.avi"
+  hash: "7f02bf5c68f9328d"
+  filesize: "1470449664"
