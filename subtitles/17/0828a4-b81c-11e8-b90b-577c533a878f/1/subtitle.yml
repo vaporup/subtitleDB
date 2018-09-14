@@ -1,0 +1,9 @@
+---
+filename: "Headshot.2011.DVDRip.x264.AC3-Zoo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Headshot.2011.DVDRip.x264.AC3-Zoo.mkv"
+  hash: "8ad2b1ee1985bbab"
+  filesize: "1469519944"
