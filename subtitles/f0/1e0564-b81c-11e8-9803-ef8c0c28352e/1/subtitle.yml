@@ -1,0 +1,9 @@
+---
+filename: "Her.2013.DVDSCR.XviD.MP3-RARBG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Her.2013.DVDSCR.XviD.MP3-RARBG.avi"
+  hash: "8580940696c974ed"
+  filesize: "1150111904"
