@@ -1,0 +1,9 @@
+---
+filename: "Gone.Girl.2014.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Gone.Girl.2014.720p.BluRay.x264.YIFY.mp4"
+  hash: "b5090f264afdb30e"
+  filesize: "1031830439"
