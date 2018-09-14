@@ -1,0 +1,9 @@
+---
+filename: "5rFF-passion.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "5rFF-passion.avi"
+  hash: "d1c209b6679b0c5a"
+  filesize: "1464305950"
