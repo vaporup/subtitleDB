@@ -1,0 +1,10 @@
+---
+filename: "Hide.and.Seek.2005.1080p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Hide.and.Seek.2005.1080p.BrRip.x264.YIFY.mp4"
+  hash: "e7d3e22c0725a82d"
+  filesize: "1505883829"
