@@ -1,0 +1,9 @@
+---
+filename: "GUNHED.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "GUNHED.mkv"
+  hash: "dc3152828845bdaf"
+  filesize: "1435025571"
