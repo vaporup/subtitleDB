@@ -1,0 +1,9 @@
+---
+filename: "Come-September.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Come-September.mkv"
+  hash: "bb30a49e051dea98"
+  filesize: "2023279763"
