@@ -1,0 +1,10 @@
+---
+filename: "Escape-from-the-Planet-of-the-Apes.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Escape-from-the-Planet-of-the-Apes.avi"
+  hash: "9476682da1a380a4"
+  filesize: "734031872"
