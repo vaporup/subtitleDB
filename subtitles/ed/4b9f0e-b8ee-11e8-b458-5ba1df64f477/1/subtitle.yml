@@ -1,0 +1,9 @@
+---
+filename: "Fist-of-Legend.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Fist-of-Legend.avi"
+  hash: "947ea60a997ffc55"
+  filesize: "1563736064"
