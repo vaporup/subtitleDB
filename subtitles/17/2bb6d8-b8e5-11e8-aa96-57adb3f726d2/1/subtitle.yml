@@ -1,0 +1,9 @@
+---
+filename: "Man.of.Steel.2013.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Man.of.Steel.2013.720p.BluRay.x264.YIFY.mp4"
+  hash: "a9e7ef70cb3326b6"
+  filesize: "1026441629"
