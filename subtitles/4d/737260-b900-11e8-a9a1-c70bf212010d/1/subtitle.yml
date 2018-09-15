@@ -1,0 +1,10 @@
+---
+filename: "Toy Story 3.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Toy Story 3.avi"
+  hash: "e007c52f8ac92784"
+  filesize: "730585088"
