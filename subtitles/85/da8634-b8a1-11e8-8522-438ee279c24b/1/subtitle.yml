@@ -1,0 +1,9 @@
+---
+filename: "Django Unchained {2012} DVDRIP. Jaybob.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Django Unchained {2012} DVDRIP. Jaybob.avi"
+  hash: "88da0ac7aae267b4"
+  filesize: "2015694982"
