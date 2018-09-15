@@ -1,0 +1,10 @@
+---
+filename: "Battle-For-Planet-Of-The-Apes.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Battle-For-Planet-Of-The-Apes.avi"
+  hash: "f89740ffdfd4872a"
+  filesize: "734021632"
