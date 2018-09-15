@@ -1,0 +1,9 @@
+---
+filename: "Superman.II.1980.720.BrRip.264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Superman.II.1980.720.BrRip.264.YIFY.mp4"
+  hash: "3ca85b79ff506f84"
+  filesize: "732760469"
