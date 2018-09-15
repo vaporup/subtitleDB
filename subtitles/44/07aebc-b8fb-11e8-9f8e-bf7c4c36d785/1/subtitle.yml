@@ -1,0 +1,9 @@
+---
+filename: "Casa-de-mi-Padre_PSYCHD.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Casa-de-mi-Padre_PSYCHD.avi"
+  hash: "7892f6be9052e561"
+  filesize: "734195712"
