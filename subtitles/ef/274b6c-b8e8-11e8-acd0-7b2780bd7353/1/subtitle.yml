@@ -1,0 +1,9 @@
+---
+filename: "The-Machine_ACAB.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Machine_ACAB.avi"
+  hash: "44919dfef47af0e4"
+  filesize: "1604673824"
