@@ -1,0 +1,9 @@
+---
+filename: "The-Pink-Panther.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Pink-Panther.avi"
+  hash: "140a3f7d880ef4e1"
+  filesize: "733921280"
