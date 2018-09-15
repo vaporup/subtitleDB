@@ -1,0 +1,10 @@
+---
+filename: "Enders-Game.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Enders-Game.avi"
+  hash: "055b4d6c22174f70"
+  filesize: "1466343424"
