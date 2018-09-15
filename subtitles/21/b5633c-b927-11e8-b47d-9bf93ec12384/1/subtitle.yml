@@ -1,0 +1,9 @@
+---
+filename: "A_Chinese_Ghost_Story_II_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "A_Chinese_Ghost_Story_II_CD_1.avi"
+  hash: "3c069db36524c29e"
+  filesize: "734601216"
