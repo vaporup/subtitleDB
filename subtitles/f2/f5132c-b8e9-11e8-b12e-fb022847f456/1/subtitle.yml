@@ -1,0 +1,9 @@
+---
+filename: "Batman.Returns.1992.1080p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Batman.Returns.1992.1080p.BluRay.x264.YIFY.mp4"
+  hash: "2692a209eb38afcf"
+  filesize: "1611808340"
