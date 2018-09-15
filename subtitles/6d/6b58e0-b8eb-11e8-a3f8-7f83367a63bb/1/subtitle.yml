@@ -1,0 +1,9 @@
+---
+filename: "They Live.1988.DVDRip.XviD.AC3-VLiS.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "They Live.1988.DVDRip.XviD.AC3-VLiS.avi"
+  hash: "ad09a6d81a527216"
+  filesize: "1075445760"
