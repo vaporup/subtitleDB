@@ -1,0 +1,9 @@
+---
+filename: "Dr.Strange.2016.BRRip.XviD.AC3-ETRG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Dr.Strange.2016.BRRip.XviD.AC3-ETRG.avi"
+  hash: "b555fbd34a5858bb"
+  filesize: "1471488956"
