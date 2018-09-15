@@ -1,0 +1,9 @@
+---
+filename: "Rear-Window_WunSeeDee.tr.srt"
+language: "tr"
+format: "srt"
+
+matches:
+- filename: "Rear-Window_WunSeeDee.avi"
+  hash: "f70e05e393a302f7"
+  filesize: "736282624"
