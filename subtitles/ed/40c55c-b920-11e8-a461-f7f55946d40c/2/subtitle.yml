@@ -1,0 +1,9 @@
+---
+filename: "The_Legend_of_Gingko_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Legend_of_Gingko_CD_2.avi"
+  hash: "eecedd632b925ba4"
+  filesize: "735019008"
