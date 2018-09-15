@@ -1,0 +1,9 @@
+---
+filename: "Life.of.Pi.2012.720p.BRrip.x264.GAZ.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Life.of.Pi.2012.720p.BRrip.x264.GAZ.YIFY.mp4"
+  hash: "556ccf5ca505e1f8"
+  filesize: "1076756260"
