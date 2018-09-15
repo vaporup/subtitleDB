@@ -1,0 +1,9 @@
+---
+filename: "The Spectacular Now.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Spectacular Now.avi"
+  hash: "6624d0d8df736790"
+  filesize: "1551869138"
