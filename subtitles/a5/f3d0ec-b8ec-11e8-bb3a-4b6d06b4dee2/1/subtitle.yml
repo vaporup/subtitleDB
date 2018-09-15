@@ -1,0 +1,9 @@
+---
+filename: "Cloud.Atlas.2012.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Cloud.Atlas.2012.720p.BrRip.x264.YIFY.mp4"
+  hash: "56696fabb701b1fe"
+  filesize: "1289170613"
