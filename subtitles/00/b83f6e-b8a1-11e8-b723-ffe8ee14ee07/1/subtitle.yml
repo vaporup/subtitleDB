@@ -1,0 +1,9 @@
+---
+filename: "Sweet-Little-Lies.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Sweet-Little-Lies.avi"
+  hash: "1ffbc670a142ff90"
+  filesize: "1614261082"
