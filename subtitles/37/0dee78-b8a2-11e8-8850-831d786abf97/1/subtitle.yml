@@ -1,0 +1,9 @@
+---
+filename: "Rosemarys.Baby.1968.1080p.BRrip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Rosemarys.Baby.1968.1080p.BRrip.x264.YIFY.mp4"
+  hash: "e2361f24c7201d45"
+  filesize: "1932790793"
