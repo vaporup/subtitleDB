@@ -1,0 +1,9 @@
+---
+filename: "Evelyn.sub"
+language: "en"
+format: "sub"
+
+matches:
+- filename: "Evelyn.avi"
+  hash: "c4a5c49e3ae68a46"
+  filesize: "691163136"
