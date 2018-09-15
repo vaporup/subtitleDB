@@ -1,0 +1,10 @@
+---
+filename: "Psycho.1960.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Psycho.1960.720p.BrRip.x264.YIFY.mp4"
+  hash: "89417ce1046e7bb1"
+  filesize: "787523647"
