@@ -1,0 +1,9 @@
+---
+filename: "Cat on a Hot Tin Roof.de.srt"
+language: "de"
+format: "srt"
+
+matches:
+- filename: "Cat on a Hot Tin Roof.avi"
+  hash: "9cf9267b336134b6"
+  filesize: "1280282812"
