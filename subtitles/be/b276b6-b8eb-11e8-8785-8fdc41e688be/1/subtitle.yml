@@ -1,0 +1,9 @@
+---
+filename: "Tokyo Godfathers.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Tokyo Godfathers.mp4"
+  hash: "1d14b10f1c07443e"
+  filesize: "1878568739"
