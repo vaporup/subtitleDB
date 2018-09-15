@@ -1,0 +1,9 @@
+---
+filename: "Oldboy.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Oldboy.avi"
+  hash: "998bb61cbbd09988"
+  filesize: "734449664"
