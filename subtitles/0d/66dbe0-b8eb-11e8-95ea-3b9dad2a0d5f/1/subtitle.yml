@@ -1,0 +1,9 @@
+---
+filename: "Betty-Blue.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Betty-Blue.mkv"
+  hash: "15aeb943b9f90c25"
+  filesize: "1469755206"
