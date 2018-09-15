@@ -1,0 +1,9 @@
+---
+filename: "Swades 2004 Hindi 720p BRRip CharmeLeon Silver RG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Swades 2004 Hindi 720p BRRip CharmeLeon Silver RG.mkv"
+  hash: "fdd0e76a23a84965"
+  filesize: "1182095638"
