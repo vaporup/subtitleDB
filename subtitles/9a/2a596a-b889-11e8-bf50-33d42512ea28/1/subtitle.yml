@@ -1,0 +1,9 @@
+---
+filename: "In Time (2011) DVDRip XviD-MAXSPEED.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "In Time (2011) DVDRip XviD-MAXSPEED.avi"
+  hash: "4a5fd8f884b20020"
+  filesize: "1407080762"
