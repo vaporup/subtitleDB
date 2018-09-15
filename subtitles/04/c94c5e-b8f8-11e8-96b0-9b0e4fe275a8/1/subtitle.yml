@@ -1,0 +1,9 @@
+---
+filename: "Medicine Man.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Medicine Man.avi"
+  hash: "6ea650957c6de3c2"
+  filesize: "775471104"
