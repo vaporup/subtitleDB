@@ -1,0 +1,9 @@
+---
+filename: "The.Goonies.1985.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Goonies.1985.720p.BrRip.x264.YIFY.mp4"
+  hash: "eda3cd3741676b6f"
+  filesize: "734545963"
