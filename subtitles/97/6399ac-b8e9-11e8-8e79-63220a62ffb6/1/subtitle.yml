@@ -1,0 +1,9 @@
+---
+filename: "Kick-Ass (2010) R5 XViD-MAXSPEED.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Kick-Ass (2010) R5 XViD-MAXSPEED.avi"
+  hash: "d047e3bc812e635b"
+  filesize: "1463861874"
