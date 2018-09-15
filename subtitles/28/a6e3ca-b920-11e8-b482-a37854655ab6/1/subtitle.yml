@@ -1,0 +1,9 @@
+---
+filename: "Lovers_Concerto_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Lovers_Concerto_CD_1.avi"
+  hash: "4d5ab6312a1fc5bc"
+  filesize: "733894656"
