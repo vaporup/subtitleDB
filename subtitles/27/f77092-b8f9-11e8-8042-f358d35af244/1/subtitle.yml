@@ -1,0 +1,10 @@
+---
+filename: "Superman.III.1983.720p.BrRip.264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Superman.III.1983.720p.BrRip.264.YIFY.mp4"
+  hash: "0a5c7ff5efb990ac"
+  filesize: "734987951"
