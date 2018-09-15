@@ -1,0 +1,9 @@
+---
+filename: "Shanghai_Knights_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Shanghai_Knights_CD_2.avi"
+  hash: "b7aae9166bbb79fe"
+  filesize: "717723648"
