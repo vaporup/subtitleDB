@@ -1,0 +1,799 @@
+1
+00:00:01,056 --> 00:00:07,872
+<i>(Laberinto de historias)</i>
+
+2
+00:01:14,430 --> 00:01:15,590
+¿Chichiro...?
+
+3
+00:01:17,690 --> 00:01:21,280
+¿Chichiro, Dónde estás?
+
+4
+00:01:28,030 --> 00:01:32,710
+Chichiro... Chichiro...
+
+5
+00:01:33,606 --> 00:01:39,529
+<i><b>EL LABERINTO
+(Por Rin Taro)</b></i>
+
+6
+00:02:39,770 --> 00:02:44,560
+¿Es Chichiro un nombre que tu padre te ha sugerido?
+
+7
+00:02:45,940 --> 00:02:49,480
+Chichirone es el nombre que le puse yo misma...
+
+8
+00:02:50,010 --> 00:02:54,440
+Ya veo... Es un nombre precioso.
+
+9
+00:03:35,810 --> 00:03:39,790
+¡Aaaaahhh! ¡Ahí estás!
+
+10
+00:03:52,370 --> 00:03:53,820
+Ahora es el turno de Sachi...
+
+11
+00:03:57,450 --> 00:03:59,370
+Aún no...
+
+12
+00:04:02,600 --> 00:04:05,850
+Aún no...
+
+13
+00:04:09,630 --> 00:04:11,940
+Ya está.
+
+14
+00:05:24,430 --> 00:05:26,740
+Vamos, Chichirone...
+
+15
+00:05:27,800 --> 00:05:29,980
+¡Vamos! ¡Chichirone!
+
+16
+00:05:49,210 --> 00:05:53,930
+Sachi... Sachi...
+
+17
+00:11:14,560 --> 00:11:16,570
+<b>Suerte a los dos. En vuestra ida...</b>
+
+18
+00:11:43,230 --> 00:11:50,350
+<i><b>EL PILOTO DE CARRERAS
+(Por Yoshiaki Kawajiri)</b></i>
+
+19
+00:14:06,040 --> 00:14:07,970
+Motor de escape: Comprobado
+
+20
+00:14:08,110 --> 00:14:09,900
+Presión de aceite: Comprobado
+
+21
+00:14:09,900 --> 00:14:11,390
+Pulsaciones cardíacas: Aumentando
+
+22
+00:14:11,390 --> 00:14:12,910
+Sudoración: Aumentando
+
+23
+00:14:12,910 --> 00:14:14,370
+Ondas cerebrales: Normal
+
+24
+00:14:15,250 --> 00:14:20,460
+Había sido enviado allí por la revista
+para escribir un artículo sobre Zack Hugh...
+
+25
+00:14:21,570 --> 00:14:24,370
+Sobre él, y la inolvidable carrera en la cual
+se perdió la vida de muchos hombres...
+
+26
+00:14:24,460 --> 00:14:25,200
+Circo de la muerte.
+
+27
+00:14:26,090 --> 00:14:31,710
+Durante 10 años, un hombre había reinado
+como su campeón... Zack Hugh.
+
+28
+00:14:32,770 --> 00:14:35,780
+Muchos admiraban el control que tenía
+sobre la máquina que conducía...
+
+29
+00:14:36,130 --> 00:14:38,950
+Total y absolutamente sin ningún miedo a la muerte.
+
+30
+00:14:39,630 --> 00:14:46,410
+Zack, la segadora... El Fénix...
+Le habían puestos muchos nombres de este tipo, pero...
+
+31
+00:14:56,100 --> 00:14:57,745
+Adherencia: Inestable
+
+32
+00:14:57,780 --> 00:15:00,485
+Pulsaciones y sudoración: Aumentando
+
+33
+00:15:00,520 --> 00:15:02,760
+Estamos comprobando una perdida en los reflejos oculares.
+
+34
+00:15:02,930 --> 00:15:06,545
+Las carreras habían tomado
+el control sobre el hombre.
+
+35
+00:15:06,580 --> 00:15:10,660
+El estrés constante era demasiado;
+Le estaban destrozando a él, en cuerpo y mente...
+
+36
+00:16:48,980 --> 00:16:52,340
+¡Ha sobrepasado su límite!
+¡Esa maquina está sacudiendo sobre él los pedazos!
+
+37
+00:17:58,160 --> 00:18:00,230
+Esto no es bueno. ¡Échale fuera!
+
+38
+00:18:07,240 --> 00:18:08,590
+Señor, No está disminuyendo la velocidad...
+
+39
+00:18:09,120 --> 00:18:10,340
+!¿Qué?!
+
+40
+00:21:03,720 --> 00:21:05,250
+!¿En nombre de Dios que está...?!
+
+41
+00:21:05,520 --> 00:21:06,470
+¡Jefe!
+
+42
+00:21:07,830 --> 00:21:08,720
+¡Venga aquí!
+
+43
+00:21:14,644 --> 00:21:16,560
+FUNCIONES VITALES FINALIZADAS
+
+44
+00:21:16,595 --> 00:21:19,920
+Él cruzó la línea de meta y los motores
+de su máquina iban a mayor velocidad.
+
+45
+00:21:20,850 --> 00:21:22,660
+La carrera estaba acabada, pero
+el conductor siguió corriendo...
+
+46
+00:25:51,040 --> 00:25:56,700
+Zack Hugh... Un campeón entre campeones.
+
+47
+00:25:58,490 --> 00:26:03,700
+Para ese día, su muerte 
+permanece envuelta en misterio.
+
+48
+00:27:01,160 --> 00:27:07,790
+¿Estás enterado del golpe de estado
+ocurrido hace 5 días en la República de Aloana?
+
+49
+00:27:07,870 --> 00:27:08,560
+Si, señor
+
+50
+00:27:10,010 --> 00:27:18,220
+¿Y eres, por supuesto, consciente que nuestra compañía del proyecto especial
+444 que tenemos bajo construcción a lo largo del río Piroru de la ciudad?
+
+51
+00:27:18,470 --> 00:27:19,170
+Si, señor
+
+52
+00:27:19,700 --> 00:27:25,640
+Ese proyecto dará a nuestra compañía
+acceso al mercado de Aloana... y a sus recursos.
+
+53
+00:27:26,480 --> 00:27:34,020
+Aunque, hace 3 días, el nuevo gobierno ha
+cancelado unilateralmente nuestro contrato.
+
+54
+00:27:35,000 --> 00:27:36,020
+¿Entiendes qué es lo que significa?
+
+55
+00:27:36,500 --> 00:27:37,210
+Entiendo
+
+56
+00:27:37,430 --> 00:27:38,760
+¡Nada de "Ya entiendo"!
+
+57
+00:27:39,300 --> 00:27:44,260
+¡CANCELADO! ¡El proyecto ha sido cancelado!
+¡Nos han dado una orden para el cese de la construcción!
+
+58
+00:27:45,280 --> 00:27:50,560
+<i><b>TRABAJOS DE CONSTRUCCIÓN SUSPENDIDOS
+(Por Katsuhiro Otomo)</b></i>
+
+59
+00:28:01,150 --> 00:28:01,990
+¿Eh?
+
+60
+00:28:14,700 --> 00:28:17,010
+¡Mira como nos hemos saltado la luz roja!
+
+61
+00:28:21,540 --> 00:28:26,730
+De acuerdo con sus ordenes, debemos parar la
+construcción del proyecto inmediatamente.
+
+62
+00:28:27,120 --> 00:28:32,130
+Además, los honorarios del contrato deben ser
+reembolsados en un periodo de 20 años.
+
+63
+00:28:32,260 --> 00:28:33,190
+¡¿20 años?!
+
+64
+00:28:33,880 --> 00:28:37,670
+El proyecto 444 era una operación
+difícil desde el principio.
+
+65
+00:28:38,360 --> 00:28:41,900
+El terreno que nos proporcionaron
+era un pantano rodeado de cabos.
+
+66
+00:28:42,000 --> 00:28:45,410
+Que durante los monzones,
+se convierte en un río.
+
+67
+00:28:45,610 --> 00:28:48,580
+Cuando las aguas se retiran, las plantas crecen como monstruos.
+
+68
+00:28:48,780 --> 00:28:56,240
+Esto es un lugar peligroso, dejado de la mano de Dios
+que vuelve a convertirse en selva en medio año.
+
+69
+00:28:56,900 --> 00:28:57,790
+Oh.. oh...
+
+70
+00:28:58,090 --> 00:29:02,810
+Los gastos de los preparativos en 444 fueron enormes.
+Y esto aún sigue consumiendo una gran cantidad de nuestros recursos.
+
+71
+00:29:02,810 --> 00:29:13,740
+¡Debemos terminar con esto antes
+de que perdamos algo mas de dinero!
+
+72
+00:29:13,740 --> 00:29:14,770
+¿Por qué no contactamos con el responsable...?
+
+73
+00:29:14,770 --> 00:29:17,510
+Ahora mismo ordené al supervisor parar el proyecto
+
+74
+00:29:17,510 --> 00:29:18,310
+¿Entonces, por qué...?
+
+75
+00:29:18,310 --> 00:29:22,770
+El supervisor a desaparecido sin dejar rastro
+después de haberle dado la orden.
+
+76
+00:29:22,770 --> 00:29:23,600
+¿Desaparecido?
+
+77
+00:29:24,200 --> 00:29:28,880
+Debido a su localización, fue decidido
+que los robots serian la mano de obra principal.
+
+78
+00:29:29,670 --> 00:29:33,680
+Y el único humano que habría sería ese supervisor.
+
+79
+00:29:33,860 --> 00:29:34,895
+Pero entonces...
+
+80
+00:29:34,930 --> 00:29:39,860
+¡En este momento, esos estúpidos robots lanzan
+nuestros valiosos recursos en ese fango!
+
+81
+00:29:40,460 --> 00:29:49,930
+Te envío para que encuentres a ese supervisor
+y supervises el cese del proyecto 444.
+
+82
+00:29:49,930 --> 00:29:52,600
+Cuento contigo, Sugioka-kun.
+
+83
+00:29:52,600 --> 00:29:54,180
+Si, señor
+
+84
+00:30:07,950 --> 00:30:09,340
+¿Que demonios...?
+
+85
+00:30:23,410 --> 00:30:25,970
+¿Eres el supervisor?
+
+86
+00:30:31,600 --> 00:30:33,950
+Es peor de lo que me dijeron...
+
+87
+00:30:34,210 --> 00:30:38,610
+Por favor, déme su nombre y 
+número de identificación de empleado.
+
+88
+00:30:40,250 --> 00:30:42,310
+¡O-oye! ¡¿Qué estás haciendo?!
+
+89
+00:30:42,440 --> 00:30:47,450
+¡Nos largamos!
+¡Háganos una llamada cuando termine y le vendremos a recoger!
+
+90
+00:30:49,490 --> 00:30:52,340
+¿Os marcháis...? ¡HEY, ESPERAD!
+
+91
+00:30:52,530 --> 00:30:54,110
+¡Venga, cuídese!
+
+92
+00:30:56,270 --> 00:30:58,850
+¡Hey! ¡Esperad! ¡Volved aquí!
+
+93
+00:31:00,200 --> 00:31:02,190
+¿De todos modos, a qué viene tanta prisa?
+
+94
+00:31:03,280 --> 00:31:08,350
+La madre que os parió, como se haya roto
+mi cámara o algo, saldrá de sus bolsillos...
+
+95
+00:31:08,530 --> 00:31:13,400
+Me cago en la leche, sólo podría
+esperarse algo así de esos miserables.
+
+96
+00:31:15,300 --> 00:31:22,020
+Debo tener su nombre y número de
+identificación de empleado para confirmación.
+
+97
+00:31:22,140 --> 00:31:25,930
+Em... ¿Cual era su nombre...? ¿El supervisor?
+
+98
+00:31:26,130 --> 00:31:28,270
+¿Sabes dónde se ha fue?
+
+99
+00:31:28,770 --> 00:31:35,120
+El error introduciendo su nombre y su número de
+identificación, me indica que usted no es el supervisor.
+
+100
+00:31:36,270 --> 00:31:45,325
+Si no es el supervisor, entonces es una
+persona sin autorización para estar aquí...
+
+101
+00:31:45,360 --> 00:31:48,715
+Es igual. Sólo llévame a mis dependencias y podrás
+hacerme las preguntas que quieras con todo detalle.
+
+102
+00:31:48,750 --> 00:31:55,640
+Cualquier persona clasificada como una amenaza a la construcción
+será eliminada para que la construcción pueda continuar
+
+103
+00:31:57,640 --> 00:32:02,470
+Sugioka Tsutomu. Número de identificación CX-88.
+
+104
+00:32:03,300 --> 00:32:06,070
+¡Comprobación finalizada!
+
+105
+00:32:06,070 --> 00:32:08,850
+Hum...
+
+106
+00:32:08,850 --> 00:32:14,280
+Bienvenido, supervisor, de la tierra distante.
+
+107
+00:32:14,280 --> 00:32:16,050
+Sí, sí. Encantado de conocerte.
+
+108
+00:32:16,050 --> 00:32:22,855
+Yo soy el número 1 aquí en el proyecto 444...
+
+109
+00:32:22,890 --> 00:32:33,640
+...y todas las ordenes sobre la construcción en el
+Proyecto 444 son transmitidas a mi mediante radio.
+
+110
+00:32:33,640 --> 00:32:35,982
+Hum... Vaya.
+
+111
+00:32:36,077 --> 00:32:38,351
+¿Así que se comunican
+desde esa distancia hasta aquí?.
+
+112
+00:32:38,386 --> 00:32:48,225
+...por eso mi funcionamiento es muy importante, supervisor.
+Un error y podrían provocarse fallos en el sistema.
+
+113
+00:32:48,260 --> 00:32:57,580
+fantástico, usaremos el sistema para dar las nuevas ordenes.
+Lo primero que quiero que transmitas es el cese de la construcción...
+
+114
+00:32:57,580 --> 00:32:58,690
+¡Hey! ¡E-espera, espera un momento!
+
+115
+00:32:58,690 --> 00:33:01,070
+No he terminado de darte mis órdenes aún.
+
+116
+00:33:01,070 --> 00:33:05,340
+¡Oye! ¡OYE! ¡OYE! ¡ABRE!
+
+117
+00:33:05,340 --> 00:33:06,995
+¡¿Pero qué significa esto?! ¡Oye!
+
+118
+00:33:07,030 --> 00:33:16,000
+Supervisor debe de estar cansado
+por esta larga jornada. Regreso a mis tareas.
+
+119
+00:33:16,000 --> 00:33:18,450
+¿Pero por qué me has encerrado? ¡ABREEE!
+
+120
+00:33:18,450 --> 00:33:22,250
+Hay insectos peligrosos en esta zona.
+Es por su seguridad...
+
+121
+00:33:22,250 --> 00:33:25,384
+¡Maldita sea! ¡Abre la puerta! ¡Oye!
+
+122
+00:33:25,480 --> 00:33:28,010
+¿No me entiendes?!
+¡Ábrela! ¡Vamos!
+
+123
+00:33:28,110 --> 00:33:30,250
+El horario de mañana del supervisor está colocado
+en el tablón de anuncios. Debe ser seguido con exactitud.
+
+124
+00:33:30,250 --> 00:33:36,260
+¡Vuelve aquí! ¿No me oyes?
+¡Te estoy diciendo que vengas y abras la puta puerta!
+
+125
+00:33:36,260 --> 00:33:39,160
+¡Ábrela!. Maldito cabrón metálico...
+
+126
+00:33:39,960 --> 00:33:46,160
+<i>"¡Ayuda! ¡Este robot loco intenta matarme!
+Para mi mujer, Sachiko: He hecho esto, porque creo
+que debes saber que te quiero, pero en lo único que
+puedo pensar ahora es lo que mi madre solía decirme
+cuando era joven, y era que estudiando mucho
+llegaría a ser un gran hombre..."</i>
+
+127
+00:34:03,130 --> 00:34:15,280
+Desde las 9:45 hasta las 10:25 haremos la primera inspección
+de las instalaciones. A las 10:30, en el cuarto de recursos, nosotros...
+
+128
+00:35:11,940 --> 00:35:17,420
+Aquí, Supervisor. Sección 8.
+Está sección es la que está más retrasada en la construcción.
+
+129
+00:35:38,880 --> 00:35:42,265
+¡Oye! ¡Que le ocurre a ese robot?
+
+130
+00:35:42,300 --> 00:35:46,690
+Sobrecarga. Debido al intenso trabajo de
+construcción de aquí, sus circuitos funcionan mal.
+
+131
+00:35:47,210 --> 00:35:54,965
+¡¿QUÉ?! ¿Tú sabes cuanto puede valer esta cosa?
+¡Los aviones son menos caros que estas cosas!
+
+132
+00:35:55,000 --> 00:36:02,130
+Debido al retraso de esta sección, he ordenado
+a todas las unidades trabajar a su máxima capacidad
+
+133
+00:36:04,850 --> 00:36:09,260
+Mis ordenes son tener el proyecto 444 listo para la fecha dada.
+Algunas perdidas son esperadas.
+
+134
+00:36:09,260 --> 00:36:15,170
+¡Escúchame! ¡NO HAY PLAZO DE ENTREGA!
+Y se supone, que debes estar conservando nuestros recursos y no...
+
+135
+00:36:15,170 --> 00:36:18,160
+El plazo de entrega es dentro de un mes.
+
+136
+00:36:18,160 --> 00:36:23,110
+Para hacerlo posible, los robots deben
+trabajar a su máxima capacidad.
+
+137
+00:36:23,110 --> 00:36:28,270
+¿O-oye, qué te ocurre?
+No te enfades conmigo...
+
+138
+00:36:34,230 --> 00:36:39,770
+Ahora inspeccionaremos la sección 10.
+Sígame, supervisor...
+
+139
+00:36:42,400 --> 00:36:45,600
+¡E-espérame!
+
+140
+00:36:52,980 --> 00:36:55,885
+El desayuno debe ser concluido en media hora.
+
+141
+00:36:55,920 --> 00:37:02,600
+Desde menos cuarto hasta las 10:25 tendremos
+la primera inspección en las instalaciones.
+
+142
+00:37:02,600 --> 00:37:07,380
+A las 10:30, en el cuarto de recursos, haremos un informe
+sobre el último mes de trabajo, el cual usted y yo...
+
+143
+00:37:07,380 --> 00:37:08,560
+¿Pero que coño...?
+
+144
+00:37:59,500 --> 00:38:04,500
+Debemos de irnos pronto, supervisor...
+
+145
+00:38:14,950 --> 00:38:19,455
+¡Alto! ¡Alto!
+
+146
+00:38:19,490 --> 00:38:24,810
+¡Ya me estáis tocando los cojones!
+¡¿Cuanto tiempo creen que voy a estar haciendo el gilipollas?!
+
+147
+00:38:26,420 --> 00:38:34,520
+Como pronto vendrán los monzones, he ordenado
+a los robots que trabajen al límite.
+
+148
+00:38:34,520 --> 00:38:38,150
+¡¿Qué... quién te ha ordenado hacer eso?!
+
+149
+00:38:38,150 --> 00:38:44,750
+El desgaste ha aumentado ligeramente, pero la
+velocidad de la construcción se ha incrementado considerablemente.
+
+150
+00:38:44,750 --> 00:38:48,040
+Por favor, este contento supervisor.
+
+151
+00:38:48,040 --> 00:38:51,170
+Aumentado ligeramente...
+¡¿Cuanto es "ligeramente"?!
+
+152
+00:38:51,170 --> 00:38:53,310
+Hoy hemos perdido 20.
+
+153
+00:38:53,310 --> 00:38:57,065
+Pronóstico de perdidas para mañana: 24.
+
+154
+00:38:57,100 --> 00:39:01,525
+De ninguna manera te voy a dejar aquí y permitirte
+dejar que destroces nuestros robots.
+
+155
+00:39:01,560 --> 00:39:06,390
+Ahora escucha y escúchame bien, ¡hijo de la gran puta metálico!
+Te ordené que cesara la construcción.
+
+156
+00:39:06,390 --> 00:39:08,820
+Esto debe parar inmediatamente.
+¡¿Lo pillas?!
+
+157
+00:39:10,460 --> 00:39:15,910
+Esa orden que acabas de darme está clasificada
+como un obstáculo para la construcción.
+
+158
+00:39:15,910 --> 00:39:22,410
+La validez de sus ordenes serán ahora nulas.
+
+159
+00:39:22,410 --> 00:39:26,250
+¡¡Cállate!!
+¡Te estoy diciendo que pares, estúpido robot!
+
+160
+00:39:26,250 --> 00:39:32,260
+Todos los impedimentos para la
+construcción deben ser eliminados.
+
+161
+00:39:33,260 --> 00:39:34,730
+¿Eliminados...?
+
+162
+00:39:50,230 --> 00:39:57,220
+A partir de este día, todas las inspecciones
+serán canceladas permanentemente.
+
+163
+00:40:33,460 --> 00:40:35,190
+Está loco...
+
+164
+00:41:55,050 --> 00:41:59,770
+Buenos días, supervisor.
+Le traigo su desayuno.
+
+165
+00:42:05,710 --> 00:42:07,410
+¡Funcionó!
+
+166
+00:42:17,410 --> 00:42:21,643
+Aún si soy destruido, la construcción nunca podrá cesar...
+
+167
+00:42:21,866 --> 00:42:24,095
+...no habrá ningún cambio...
+
+168
+00:42:24,130 --> 00:42:33,550
+...terminaremos para... el plazo de entrega...
+
+169
+00:42:33,550 --> 00:42:36,050
+¡¡¡¡Que te jodan CABRON!!!!
+
+170
+00:42:53,050 --> 00:42:57,155
+No ha servido. Esas estúpidas cosas
+aún siguen trabajando...
+
+171
+00:42:57,190 --> 00:43:05,730
+Si, es cierto. El era sólo un terminal después de todo.
+Ellos no pararan a menos que desconecte el panel de control por completo!
+
+172
+00:43:10,530 --> 00:43:12,580
+Este cable debería de guiarme...
+
+173
+00:43:19,140 --> 00:43:22,440
+¡Emergencia!
+¡Mensaje importante de la sede central!
+
+174
+00:43:22,440 --> 00:43:27,130
+A lo largo de esta mañana, ha ocurrido un nuevo
+golpe de estado en la República de Aloana.
+
+175
+00:43:27,130 --> 00:43:36,170
+¡El gobierno ha sido devuelto al poder y
+el proyecto 444 ha sido restablecido!
+
+176
+00:43:36,170 --> 00:43:40,340
+¡Repito, el proyecto 444 ha sido restablecido!
+
+177
+00:43:40,910 --> 00:43:45,650
+Tsutomu Sugioka.
+Soy yo, Maruyama...
+
+178
+00:43:45,650 --> 00:43:51,080
+¡Sugioka! ¡Soy yo! ¿Puedes oírme?
+
+179
+00:43:51,080 --> 00:43:53,730
+¡Vamos, Sugioka...!

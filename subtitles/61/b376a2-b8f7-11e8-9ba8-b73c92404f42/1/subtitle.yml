@@ -1,0 +1,9 @@
+---
+filename: "Neo Tokyo (1987) 480p [Jpn 5.1 + Subs] DVD.es.srt"
+language: "es"
+format: "srt"
+
+matches:
+- filename: "Neo Tokyo (1987) 480p [Jpn 5.1 + Subs] DVD.mp4"
+  hash: "0f334203f1224ea6"
+  filesize: "625654792"
