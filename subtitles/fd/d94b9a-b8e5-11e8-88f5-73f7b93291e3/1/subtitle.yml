@@ -1,0 +1,9 @@
+---
+filename: "eXistenZ.1999.1080p.BluRay.H264.AAC-RARBG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "eXistenZ.1999.1080p.BluRay.H264.AAC-RARBG.mp4"
+  hash: "3e28af1377f0da4a"
+  filesize: "1988581962"
