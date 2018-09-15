@@ -1,0 +1,10 @@
+---
+filename: "Conquest-of-the-Planet-of-the-Apes.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Conquest-of-the-Planet-of-the-Apes.avi"
+  hash: "8de9334a4b4a9c1b"
+  filesize: "734027776"
