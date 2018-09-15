@@ -1,0 +1,9 @@
+---
+filename: "Samsara.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Samsara.avi"
+  hash: "6c8c4ef1a7fbf92a"
+  filesize: "1468000584"
