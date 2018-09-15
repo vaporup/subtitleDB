@@ -1,0 +1,9 @@
+---
+filename: "Batman-1989_YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Batman-1989_YIFY.mp4"
+  hash: "614b76761e81b27a"
+  filesize: "1612076076"
