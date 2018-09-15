@@ -1,0 +1,10 @@
+---
+filename: "The-Third-Man_1949_WunSeeDee.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "The-Third-Man_1949_WunSeeDee.avi"
+  hash: "a21673004efa341c"
+  filesize: "734670848"
