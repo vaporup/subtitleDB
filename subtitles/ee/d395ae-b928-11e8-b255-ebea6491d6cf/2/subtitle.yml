@@ -1,0 +1,9 @@
+---
+filename: "Classic_Proper_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Classic_Proper_CD_2.avi"
+  hash: "d818ede5f7034911"
+  filesize: "731324416"

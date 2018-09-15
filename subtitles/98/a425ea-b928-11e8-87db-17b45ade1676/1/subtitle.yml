@@ -1,0 +1,9 @@
+---
+filename: "The_Classic_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Classic_CD_1.avi"
+  hash: "ca4e0210e276d8cd"
+  filesize: "732432384"
