@@ -1,0 +1,9 @@
+---
+filename: "Friends.with.Benefits.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Friends.with.Benefits.avi"
+  hash: "eb3f56e9c485c673"
+  filesize: "1471143936"
