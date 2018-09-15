@@ -1,0 +1,9 @@
+---
+filename: "Beneath-the-Planet-of-the-Apes.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Beneath-the-Planet-of-the-Apes.avi"
+  hash: "9d69f30e0c3196cf"
+  filesize: "734027776"
