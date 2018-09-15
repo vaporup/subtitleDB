@@ -1,0 +1,9 @@
+---
+filename: "Welt.am.Draht.1973.Part.1.en.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Welt.am.Draht.1973.Part.1.avi"
+  hash: "c053458dfddc6bdb"
+  filesize: "1176334336"

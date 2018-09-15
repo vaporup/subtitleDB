@@ -1,0 +1,4970 @@
+1
+00:00:10,600 --> 00:00:13,558
+WORLD ON A WIRE
+
+2
+00:01:12,560 --> 00:01:14,676
+- Günther!
+- I'll be right in.
+
+3
+00:01:20,120 --> 00:01:22,475
+Secretary of State von Weinlaub.
+
+4
+00:01:22,640 --> 00:01:25,791
+I'm Hirse,
+Mr. Von Weinlaub's assistant.
+
+5
+00:01:26,320 --> 00:01:29,517
+Hello, my name's Lause,
+I'm chief of security.
+
+6
+00:01:29,680 --> 00:01:31,750
+Please, Mr. Siskins expects you.
+
+7
+00:01:31,920 --> 00:01:33,751
+- Wasn't that Dr. Vollmer?
+- It was.
+
+8
+00:02:03,960 --> 00:02:05,837
+To get right to the point:
+
+9
+00:02:06,720 --> 00:02:08,870
+Simulacron is almost
+fully operational.
+
+10
+00:02:09,440 --> 00:02:12,159
+I may seem ill-informed
+
+11
+00:02:12,320 --> 00:02:16,472
+but what interests me is
+your definition of "almost".
+
+12
+00:02:16,920 --> 00:02:18,717
+Of course, Mr. Secretary.
+
+13
+00:02:19,160 --> 00:02:20,479
+I apologize.
+
+14
+00:02:20,800 --> 00:02:23,394
+The margin of error
+for our prognoses
+
+15
+00:02:23,560 --> 00:02:26,120
+currently reaches as high as 5. 8%.
+
+16
+00:02:26,280 --> 00:02:27,759
+I see, thank you.
+
+17
+00:02:27,920 --> 00:02:30,878
+Yes. Professor Vollmer
+can tell you exactly
+
+18
+00:02:31,240 --> 00:02:32,958
+about the state of things.
+
+19
+00:02:33,120 --> 00:02:36,351
+He's overseen development
+of the computer.
+
+20
+00:02:36,520 --> 00:02:38,670
+We know that, Mr. Siskins.
+
+21
+00:02:40,080 --> 00:02:41,877
+Professor Vollmer, please...
+
+22
+00:02:45,440 --> 00:02:48,159
+So, you're secretary of state?
+
+23
+00:02:48,800 --> 00:02:49,676
+Naturally.
+
+24
+00:02:50,040 --> 00:02:52,315
+I really don't care, to be honest.
+
+25
+00:02:52,480 --> 00:02:54,675
+Do you have a mirror on you?
+
+26
+00:02:56,480 --> 00:02:56,992
+A mirror?
+
+27
+00:02:59,160 --> 00:03:00,115
+Why?
+
+28
+00:03:02,880 --> 00:03:04,279
+Here, take this.
+
+29
+00:03:08,120 --> 00:03:11,192
+What do you see?
+Come on, what do you see?
+
+30
+00:03:13,600 --> 00:03:15,875
+Let me help you, Mr?
+
+31
+00:03:16,280 --> 00:03:17,235
+Von Weinlaub.
+
+32
+00:03:17,400 --> 00:03:19,436
+Alright, von Weinlaub.
+
+33
+00:03:19,680 --> 00:03:24,196
+You are nothing more than the image
+others have made of you.
+
+34
+00:03:24,760 --> 00:03:26,671
+- That's all.
+- Enough!
+
+35
+00:03:27,200 --> 00:03:29,236
+Thank you. And the rest of you?
+
+36
+00:03:29,720 --> 00:03:30,516
+Vollmer!
+
+37
+00:03:30,960 --> 00:03:32,473
+You too, Siskins.
+
+38
+00:03:33,080 --> 00:03:36,868
+Want to look in the mirror?
+Go on, look at yourself.
+
+39
+00:03:38,560 --> 00:03:40,118
+It's a sad joke.
+
+40
+00:03:40,280 --> 00:03:41,713
+That'll do, Vollmer!
+
+41
+00:03:41,880 --> 00:03:45,190
+This has gone far enough.
+Hirse, let's leave.
+
+42
+00:03:45,360 --> 00:03:49,319
+Headache. It pounds
+and pounds and pounds.
+
+43
+00:03:50,680 --> 00:03:53,797
+Do you know what's pounding
+in my head?
+
+44
+00:03:55,160 --> 00:03:56,593
+I know.
+
+45
+00:03:56,760 --> 00:03:57,875
+Lause...
+
+46
+00:03:58,120 --> 00:03:59,553
+Please come in.
+
+47
+00:04:07,400 --> 00:04:11,313
+Why don't you lie down?
+Lause will take you to your office.
+
+48
+00:04:11,760 --> 00:04:12,795
+Come on, Henri.
+
+49
+00:04:14,040 --> 00:04:16,156
+It's not a headache.
+
+50
+00:04:16,360 --> 00:04:18,430
+It's much, much more.
+
+51
+00:04:19,520 --> 00:04:22,956
+So much that my head's
+about to explode.
+
+52
+00:04:24,080 --> 00:04:25,035
+Come on.
+
+53
+00:04:25,440 --> 00:04:27,192
+I'm coming, Günther.
+
+54
+00:04:27,760 --> 00:04:29,955
+They refuse to understand...
+
+55
+00:04:31,000 --> 00:04:33,070
+those poor worms.
+
+56
+00:04:33,880 --> 00:04:36,110
+- Take care of him.
+- Yes, Mr. Siskins.
+
+57
+00:04:38,280 --> 00:04:41,511
+I must apologize
+for Professor Vollmer.
+
+58
+00:04:41,920 --> 00:04:44,753
+He's been working day and night.
+
+59
+00:04:45,400 --> 00:04:48,153
+His nerves have always
+been delicate.
+
+60
+00:04:48,680 --> 00:04:51,592
+The line between genius
+and madness, you know...
+
+61
+00:04:53,280 --> 00:04:55,874
+Strange kind of madness,
+wouldn't you say?
+
+62
+00:04:56,560 --> 00:04:58,790
+Of course, Mr. Secretary...
+
+63
+00:04:59,280 --> 00:05:00,633
+very strange.
+
+64
+00:05:01,040 --> 00:05:02,029
+One moment, please.
+
+65
+00:05:02,760 --> 00:05:03,670
+Go ahead.
+
+66
+00:05:09,960 --> 00:05:10,836
+Please...
+
+67
+00:05:11,480 --> 00:05:13,630
+- But I...
+- Look at yourself.
+
+68
+00:05:14,680 --> 00:05:16,636
+- What do you see?
+- Me.
+
+69
+00:05:19,200 --> 00:05:21,760
+Stiller was due back yesterday.
+
+70
+00:05:22,880 --> 00:05:23,869
+He'll come, Henri.
+
+71
+00:05:27,360 --> 00:05:28,031
+I'm scared.
+
+72
+00:05:29,520 --> 00:05:30,999
+I'm with you.
+
+73
+00:05:35,160 --> 00:05:36,070
+You're here.
+
+74
+00:05:40,760 --> 00:05:43,069
+The constant throbbing in my head...
+
+75
+00:05:47,000 --> 00:05:49,639
+Have you ever heard
+of a head exploding?
+
+76
+00:05:50,480 --> 00:05:52,277
+Like that, into a thousand pieces?
+
+77
+00:05:53,320 --> 00:05:54,275
+No, never.
+
+78
+00:05:54,800 --> 00:05:56,870
+Really? Anyway...
+
+79
+00:05:59,320 --> 00:06:03,029
+Do you remember? As a boy
+
+80
+00:06:03,280 --> 00:06:05,316
+you must have played
+
+81
+00:06:06,600 --> 00:06:08,477
+"I see something you don't".
+
+82
+00:06:09,440 --> 00:06:10,589
+Sure, all kids do.
+
+83
+00:06:13,400 --> 00:06:14,515
+Günther...
+
+84
+00:06:16,640 --> 00:06:20,758
+I know something you don't.
+
+85
+00:06:21,960 --> 00:06:23,837
+Something no one must know.
+
+86
+00:06:25,120 --> 00:06:27,634
+It would mean
+the end of this world.
+
+87
+00:07:03,920 --> 00:07:04,796
+Henri...
+
+88
+00:07:06,480 --> 00:07:07,390
+Vollmer!
+
+89
+00:08:31,840 --> 00:08:33,717
+Sorry, the bar's over there.
+
+90
+00:08:58,080 --> 00:08:59,513
+It's padding, not muscles.
+
+91
+00:09:02,200 --> 00:09:03,315
+To look manlier.
+
+92
+00:09:04,040 --> 00:09:06,679
+It's not all padding, is it?
+
+93
+00:09:07,960 --> 00:09:09,916
+If you're interested...
+Fred Stiller.
+
+94
+00:09:11,520 --> 00:09:12,999
+I'm in the phone book.
+
+95
+00:10:11,000 --> 00:10:12,991
+Can't you get a drink?
+
+96
+00:10:14,360 --> 00:10:16,112
+Guess I'm small fry.
+
+97
+00:10:16,360 --> 00:10:19,352
+Too bad, but maybe you'll grow.
+
+98
+00:10:20,040 --> 00:10:21,029
+Maybe.
+
+99
+00:10:22,240 --> 00:10:23,275
+Whiskey?
+
+100
+00:10:24,440 --> 00:10:25,714
+Yes, with water.
+
+101
+00:10:26,960 --> 00:10:29,679
+Rainer, two whiskeys:
+One ice, one water.
+
+102
+00:10:29,840 --> 00:10:30,750
+Yes, Mr. Siskins.
+
+103
+00:10:31,680 --> 00:10:33,477
+Coming to the funeral?
+
+104
+00:10:34,440 --> 00:10:36,510
+I'll be there, although...
+
+105
+00:10:39,080 --> 00:10:41,719
+the dead don't really care, do they?
+
+106
+00:10:43,280 --> 00:10:44,269
+Your whiskeys.
+
+107
+00:10:46,800 --> 00:10:47,710
+Thank you.
+
+108
+00:10:50,400 --> 00:10:53,517
+Can you debug the computer
+without Vollmer?
+
+109
+00:10:54,680 --> 00:10:56,159
+I think so.
+
+110
+00:10:57,320 --> 00:11:01,632
+We can't afford further delays.
+The Ministry's impatient.
+
+111
+00:11:02,640 --> 00:11:03,789
+By the way...
+
+112
+00:11:04,360 --> 00:11:05,349
+What?
+
+113
+00:11:06,600 --> 00:11:09,831
+Oh, nothing.
+Tell me, what's your dream car?
+
+114
+00:11:10,200 --> 00:11:11,394
+Pardon me?
+
+115
+00:11:11,600 --> 00:11:14,672
+Your dream car.
+It's a simple question.
+
+116
+00:11:14,840 --> 00:11:17,593
+Oh, God... A Corvette.
+
+117
+00:11:18,080 --> 00:11:20,036
+I see, a Corvette...
+
+118
+00:11:20,800 --> 00:11:22,313
+275 HP.
+
+119
+00:11:22,480 --> 00:11:24,471
+And about 40,000 marks.
+
+120
+00:11:24,640 --> 00:11:26,915
+Beyond your wage bracket?
+
+121
+00:11:27,080 --> 00:11:31,392
+Somewhat, but you asked about
+my dream car, not my wage bracket.
+
+122
+00:11:31,560 --> 00:11:34,154
+- What bracket do you want?
+- The next one.
+
+123
+00:11:34,320 --> 00:11:37,551
+Why not, if you're
+as good as Vollmer.
+
+124
+00:11:38,440 --> 00:11:40,908
+I'm not, but I'm tough.
+
+125
+00:11:41,600 --> 00:11:46,037
+I see you're aware Vollmer and
+I had our differences of opinion.
+
+126
+00:11:46,200 --> 00:11:47,633
+I believe so.
+
+127
+00:11:49,280 --> 00:11:51,635
+He was pigheaded, don't you agree?
+
+128
+00:11:52,120 --> 00:11:54,315
+Well, I...
+
+129
+00:11:55,120 --> 00:11:58,396
+Think about it.
+Just so you don't misunderstand...
+
+130
+00:11:58,560 --> 00:12:01,358
+It was simply a hypothesis,
+not an offer.
+
+131
+00:12:01,840 --> 00:12:04,035
+I understood you, Mr. Siskins.
+
+132
+00:12:06,240 --> 00:12:10,028
+275 HP. Quite something.
+
+133
+00:12:10,520 --> 00:12:11,509
+I'm Gloria.
+
+134
+00:12:14,000 --> 00:12:15,718
+Great. Care for a drink?
+
+135
+00:12:16,840 --> 00:12:17,750
+Champagne.
+
+136
+00:12:17,920 --> 00:12:18,830
+What else?
+
+137
+00:12:20,920 --> 00:12:23,718
+Still 42-26-39?
+
+138
+00:12:24,800 --> 00:12:28,110
+39 1/2.
+You get fat, just sitting around.
+
+139
+00:12:28,280 --> 00:12:30,714
+But every inch is precious.
+
+140
+00:12:31,040 --> 00:12:33,349
+Thanks. How's the computer coming?
+
+141
+00:12:33,520 --> 00:12:35,875
+OK, and how's working for Siskins?
+
+142
+00:12:36,080 --> 00:12:38,230
+No, I mean it.
+
+143
+00:12:38,400 --> 00:12:40,960
+I'm very interested in Simulacron.
+
+144
+00:12:41,400 --> 00:12:44,551
+Is it true you've created
+an artificial world?
+
+145
+00:12:44,720 --> 00:12:46,950
+"World" is an exaggeration.
+
+146
+00:12:47,360 --> 00:12:50,670
+Currently we've some
+10,000 identity units.
+
+147
+00:12:50,840 --> 00:12:52,558
+That's all we need for now.
+
+148
+00:12:54,720 --> 00:12:56,870
+The world in a nutshell, you see?
+
+149
+00:12:58,240 --> 00:13:02,233
+10,000 people.
+They're people, aren't they?
+
+150
+00:13:02,400 --> 00:13:03,719
+As you like.
+
+151
+00:13:04,360 --> 00:13:08,558
+To us they're merely circuits.
+But to them...
+
+152
+00:13:09,520 --> 00:13:12,273
+They live just like we do...
+
+153
+00:13:14,040 --> 00:13:17,112
+build roads, listen to music, eat...
+
+154
+00:13:18,160 --> 00:13:19,149
+And make love?
+
+155
+00:13:19,920 --> 00:13:21,114
+That, too.
+
+156
+00:13:22,000 --> 00:13:24,719
+Make love, enjoy life...
+
+157
+00:13:25,800 --> 00:13:27,028
+have kids.
+
+158
+00:13:28,360 --> 00:13:28,997
+Exciting.
+
+159
+00:13:31,280 --> 00:13:32,269
+Pardon me?
+
+160
+00:13:34,000 --> 00:13:35,399
+Making love?
+
+161
+00:13:35,560 --> 00:13:39,155
+Yes, that too.
+But I mean, a living world...
+
+162
+00:13:40,360 --> 00:13:42,237
+in a box full of microchips?
+
+163
+00:13:42,400 --> 00:13:46,678
+We're alive. They're like people
+on TV dancing for us.
+
+164
+00:13:49,520 --> 00:13:51,397
+The way you describe it
+is fascinating.
+
+165
+00:13:56,440 --> 00:13:57,429
+You're fascinating.
+
+166
+00:14:01,600 --> 00:14:02,476
+Hi, Lause!
+
+167
+00:14:02,640 --> 00:14:04,790
+Hi. Have you seen Stiller?
+
+168
+00:14:05,400 --> 00:14:07,436
+Yeah, a minute ago. Come in.
+
+169
+00:14:07,600 --> 00:14:10,194
+No, I'll wait here.
+Bring him to me.
+
+170
+00:14:10,640 --> 00:14:11,959
+Sure.
+
+171
+00:14:16,240 --> 00:14:18,151
+- Fred, come with me.
+- Me?
+
+172
+00:14:18,480 --> 00:14:19,833
+Lause wants you.
+
+173
+00:14:21,160 --> 00:14:22,639
+Excuse me. See you later.
+
+174
+00:14:23,080 --> 00:14:24,274
+Pity.
+
+175
+00:14:29,400 --> 00:14:29,957
+Lause!
+
+176
+00:14:30,120 --> 00:14:32,680
+My God, finally!
+I have to see you.
+
+177
+00:14:32,840 --> 00:14:35,229
+You look awful.
+Where have you been?
+
+178
+00:14:35,520 --> 00:14:40,116
+After Vollmer's death, I drove
+to your place in the country.
+
+179
+00:14:42,480 --> 00:14:43,674
+You found him?
+
+180
+00:14:43,840 --> 00:14:46,149
+Yes, but... where were you?
+
+181
+00:14:49,000 --> 00:14:52,117
+I came back earlier than planned.
+
+182
+00:14:52,800 --> 00:14:54,119
+What's up?
+
+183
+00:14:55,240 --> 00:14:56,559
+Not here.
+
+184
+00:14:58,120 --> 00:14:59,189
+Come...
+
+185
+00:15:19,440 --> 00:15:20,475
+Well?
+
+186
+00:15:21,680 --> 00:15:23,398
+It's about Vollmer's death.
+
+187
+00:15:26,600 --> 00:15:27,510
+But...
+
+188
+00:15:29,080 --> 00:15:31,514
+I thought it was an accident.
+
+189
+00:15:31,760 --> 00:15:33,830
+I don't know, I didn't see it.
+
+190
+00:15:34,760 --> 00:15:37,877
+But it was very strange.
+
+191
+00:15:38,040 --> 00:15:41,077
+What? What was strange?
+
+192
+00:15:44,040 --> 00:15:45,359
+Vollmer was strange.
+
+193
+00:15:46,920 --> 00:15:49,036
+Something had happened to him.
+
+194
+00:15:49,840 --> 00:15:53,116
+I spoke to him
+shortly before he died.
+
+195
+00:15:54,600 --> 00:15:55,828
+He was afraid.
+
+196
+00:15:56,840 --> 00:15:59,832
+Then he told me something
+that was so...
+
+197
+00:16:00,240 --> 00:16:02,879
+that was... absolutely crazy.
+
+198
+00:16:04,480 --> 00:16:05,390
+What?
+
+199
+00:16:05,720 --> 00:16:08,075
+I can't tell you,
+it's too crazy.
+
+200
+00:16:09,160 --> 00:16:10,832
+Perhaps he was crazy.
+
+201
+00:16:13,200 --> 00:16:16,158
+Do you know what fear is?
+
+202
+00:16:26,920 --> 00:16:28,592
+Yes, Lause.
+
+203
+00:16:29,920 --> 00:16:30,557
+I think so.
+
+204
+00:16:33,120 --> 00:16:34,269
+You've no idea.
+
+205
+00:16:35,000 --> 00:16:37,150
+Alright, fine. But...
+
+206
+00:16:39,240 --> 00:16:40,514
+Tell me what he said.
+
+207
+00:16:41,320 --> 00:16:42,514
+OK, then.
+
+208
+00:16:43,640 --> 00:16:47,349
+It sounds incredible,
+but who knows...
+
+209
+00:16:48,080 --> 00:16:49,593
+See what you make of it.
+
+210
+00:16:52,080 --> 00:16:55,675
+My God, I'm so clumsy.
+I've startled you.
+
+211
+00:16:57,040 --> 00:16:58,519
+I'll be right there.
+
+212
+00:17:13,560 --> 00:17:15,869
+"Vanished into Thin Air.
+
+213
+00:17:17,000 --> 00:17:20,675
+At a party last night
+in the home of Herbert Siskins
+
+214
+00:17:20,840 --> 00:17:23,308
+- prominent head
+of the IKZ Institute -
+
+215
+00:17:24,000 --> 00:17:26,195
+an Institute employee reports that
+
+216
+00:17:28,600 --> 00:17:32,070
+Chief of Security
+Günther Lause vanished
+
+217
+00:17:32,240 --> 00:17:34,071
+in the middle of a conversation.
+
+218
+00:17:35,240 --> 00:17:37,879
+Police have opened
+an investigation. "
+
+219
+00:17:38,040 --> 00:17:39,758
+What are you up to, Stiller?
+
+220
+00:17:40,120 --> 00:17:42,509
+What's this
+about Lause and Vollmer?
+
+221
+00:17:42,680 --> 00:17:44,750
+I told the police what I saw.
+
+222
+00:17:44,920 --> 00:17:48,117
+Trying to make yourself
+and the IKZ look ridiculous?
+
+223
+00:17:48,280 --> 00:17:51,033
+But it happened
+exactly as I described.
+
+224
+00:17:52,000 --> 00:17:54,116
+Fine, have it your way.
+
+225
+00:17:55,240 --> 00:17:57,993
+Inspector Lehner,
+Missing Persons Bureau
+
+226
+00:17:58,160 --> 00:18:00,720
+and Detective Stuhlfauth,
+Homicide.
+
+227
+00:18:02,080 --> 00:18:02,956
+Dr. Stiller...
+
+228
+00:18:03,920 --> 00:18:07,230
+our acting technical director.
+
+229
+00:18:08,800 --> 00:18:12,076
+You seem to be the only one
+who saw Lause last night.
+
+230
+00:18:13,000 --> 00:18:14,194
+What do you mean?
+
+231
+00:18:14,360 --> 00:18:16,191
+My men have interviewed
+
+232
+00:18:16,560 --> 00:18:20,394
+everyone at the party.
+No one else saw Lause there.
+
+233
+00:18:20,680 --> 00:18:22,875
+Did you have too much to drink?
+
+234
+00:18:23,040 --> 00:18:24,678
+No, I wasn't drunk.
+
+235
+00:18:26,120 --> 00:18:30,875
+It's true that
+we didn't find Mr. Lause at home.
+
+236
+00:18:31,640 --> 00:18:33,278
+But that could be a coincidence.
+
+237
+00:18:34,040 --> 00:18:37,112
+What did Lause say
+about Vollmer's death?
+
+238
+00:18:39,120 --> 00:18:41,588
+He just said he found it strange.
+
+239
+00:18:41,960 --> 00:18:43,757
+Where were you
+when Vollmer died?
+
+240
+00:18:44,120 --> 00:18:44,950
+At my cabin.
+
+241
+00:18:45,320 --> 00:18:45,957
+With others?
+
+242
+00:18:46,440 --> 00:18:47,270
+No.
+
+243
+00:18:47,880 --> 00:18:50,110
+We'd like to see
+where Vollmer died.
+
+244
+00:18:54,120 --> 00:18:57,192
+Please show the gentlemen
+the computer room.
+
+245
+00:18:57,400 --> 00:18:58,515
+Yes, Mr. Stiller.
+
+246
+00:18:58,720 --> 00:18:59,869
+Good-bye.
+
+247
+00:19:04,080 --> 00:19:05,035
+This way.
+
+248
+00:19:06,120 --> 00:19:07,519
+See you again.
+
+249
+00:19:16,920 --> 00:19:18,797
+Let's put this incident
+behind us.
+
+250
+00:19:21,400 --> 00:19:22,389
+You already have.
+
+251
+00:19:23,160 --> 00:19:27,278
+Good. I'd like to discuss
+Vollmer's job with you again.
+
+252
+00:19:29,600 --> 00:19:30,430
+Go ahead.
+
+253
+00:19:32,120 --> 00:19:34,953
+As I've already told you...
+
+254
+00:19:35,120 --> 00:19:37,918
+Vollmer's pigheadedness, I mean...
+
+255
+00:19:38,360 --> 00:19:40,191
+It was a strain on my nerves.
+
+256
+00:19:41,960 --> 00:19:44,190
+I'm not pigheaded.
+
+257
+00:19:45,720 --> 00:19:47,836
+That's what I wanted to hear.
+
+258
+00:19:48,000 --> 00:19:52,551
+I'm a good judge of human nature.
+I knew we'd see eye to eye.
+
+259
+00:19:53,400 --> 00:19:56,790
+Tell me your dream car,
+I'll tell you who you are.
+
+260
+00:19:56,960 --> 00:19:57,949
+Oh, that...
+
+261
+00:19:58,120 --> 00:20:01,829
+Good. I'll sound out
+the board of directors
+
+262
+00:20:02,280 --> 00:20:04,430
+but I don't foresee
+any obstacles.
+
+263
+00:20:05,960 --> 00:20:07,473
+Good-bye...
+
+264
+00:20:08,040 --> 00:20:10,554
+Mr. Director.
+
+265
+00:20:17,480 --> 00:20:19,675
+Bring me an aspirin, please.
+
+266
+00:20:21,080 --> 00:20:21,717
+Right away.
+
+267
+00:20:39,880 --> 00:20:41,598
+Problems?
+
+268
+00:20:41,960 --> 00:20:43,552
+Yes, I'm being promoted.
+
+269
+00:20:44,400 --> 00:20:45,469
+Fred!
+
+270
+00:20:45,720 --> 00:20:48,109
+Did he name you
+technical director?
+
+271
+00:21:04,440 --> 00:21:07,512
+You don't seem very pleased.
+
+272
+00:21:08,400 --> 00:21:09,833
+Why should I be?
+
+273
+00:21:10,240 --> 00:21:15,075
+I'll have the same problems with
+Siskins as Vollmer did, just wait.
+
+274
+00:21:16,600 --> 00:21:20,832
+Then why did you accept?
+
+275
+00:21:21,000 --> 00:21:23,195
+Simulacron's the most
+exciting research project
+
+276
+00:21:23,360 --> 00:21:24,509
+in the entire world.
+
+277
+00:21:24,680 --> 00:21:27,638
+Nothing else comes close.
+
+278
+00:21:27,800 --> 00:21:29,711
+I'll earn a good salary and...
+
+279
+00:21:31,760 --> 00:21:33,079
+It's just Siskins.
+
+280
+00:21:35,080 --> 00:21:37,150
+If Vollmer was right, then...
+
+281
+00:21:42,280 --> 00:21:43,429
+Maja...
+
+282
+00:21:47,840 --> 00:21:48,750
+Forget all this.
+
+283
+00:21:51,120 --> 00:21:52,553
+I'll forget it.
+
+284
+00:21:52,800 --> 00:21:53,915
+Thanks.
+
+285
+00:21:56,560 --> 00:21:59,154
+Has Vollmer's office been emptied?
+
+286
+00:21:59,480 --> 00:22:00,469
+No.
+
+287
+00:22:01,200 --> 00:22:03,111
+His things are still there.
+
+288
+00:22:03,280 --> 00:22:06,636
+Cancel my appointments.
+I'll be in Vollmer's office.
+
+289
+00:23:00,440 --> 00:23:01,873
+What are you doing?
+
+290
+00:23:02,680 --> 00:23:04,238
+You're hurting me.
+
+291
+00:23:05,120 --> 00:23:06,553
+Thank you, Fred Stiller.
+
+292
+00:23:08,440 --> 00:23:12,638
+- You are Fred Stiller?
+- Yes, but what are you doing?
+
+293
+00:23:13,800 --> 00:23:16,678
+The guard at the front desk
+showed me in.
+
+294
+00:23:21,480 --> 00:23:22,993
+Aren't you?
+
+295
+00:23:25,040 --> 00:23:26,712
+I'm Eva Vollmer.
+
+296
+00:23:36,880 --> 00:23:40,077
+- I didn't recognize you.
+- Naturally.
+
+297
+00:23:40,760 --> 00:23:45,231
+I'm here because I was asked
+to pick up Father's things.
+
+298
+00:23:46,560 --> 00:23:50,633
+- I thought you were in Montreux.
+- I've been back a month.
+
+299
+00:23:51,600 --> 00:23:53,636
+You were with your father when...
+
+300
+00:23:54,680 --> 00:23:57,990
+Was he acting strange?
+Did he seem nervous?
+
+301
+00:24:00,440 --> 00:24:01,668
+Not that I noticed. Why?
+
+302
+00:24:02,200 --> 00:24:03,474
+Because he...
+
+303
+00:24:05,240 --> 00:24:08,630
+I think he had made
+an important discovery.
+
+304
+00:24:09,760 --> 00:24:11,079
+He couldn't tell me.
+
+305
+00:24:11,920 --> 00:24:13,911
+He was a bit preoccupied, no more.
+
+306
+00:24:27,280 --> 00:24:30,397
+You know, if you were to visit me...
+
+307
+00:24:30,840 --> 00:24:32,751
+I'd like that, really.
+
+308
+00:24:36,680 --> 00:24:38,079
+Tell me...
+
+309
+00:24:39,720 --> 00:24:42,473
+Did your dad see much
+of Günther Lause?
+
+310
+00:24:43,920 --> 00:24:45,558
+Your uncle, Günther Lause.
+
+311
+00:24:45,720 --> 00:24:46,869
+Never heard of him.
+
+312
+00:24:49,720 --> 00:24:51,438
+You don't remember your uncle?
+
+313
+00:24:52,400 --> 00:24:54,595
+I remember him very well.
+
+314
+00:24:54,760 --> 00:24:57,638
+His name was Jakob, Jakob Meixner.
+
+315
+00:24:57,920 --> 00:24:59,672
+He died four years ago.
+
+316
+00:25:01,800 --> 00:25:02,152
+Eva?
+
+317
+00:25:06,040 --> 00:25:06,517
+Can I...
+
+318
+00:25:10,640 --> 00:25:12,312
+Can I be of any help?
+
+319
+00:25:13,680 --> 00:25:15,238
+I'll manage.
+
+320
+00:25:16,080 --> 00:25:19,516
+Father left me a bit of money,
+and the house.
+
+321
+00:25:21,640 --> 00:25:24,518
+I apologize, Fred.
+I misjudged you.
+
+322
+00:25:25,320 --> 00:25:29,677
+I thought you were interested only
+in taking Father's job.
+
+323
+00:25:30,040 --> 00:25:31,393
+I should've known better.
+
+324
+00:26:03,880 --> 00:26:05,598
+I'd like some cake.
+
+325
+00:26:05,760 --> 00:26:08,354
+Choose what you want
+at the counter.
+
+326
+00:26:19,920 --> 00:26:22,912
+You're under arrest.
+Come with me.
+
+327
+00:26:25,440 --> 00:26:27,431
+Jeez, Franz, you scared me.
+
+328
+00:26:28,840 --> 00:26:29,795
+That one.
+
+329
+00:26:29,960 --> 00:26:31,313
+And two whiskeys.
+
+330
+00:26:44,360 --> 00:26:45,918
+What's up, Stiller?
+
+331
+00:26:47,440 --> 00:26:48,919
+Here...
+
+332
+00:26:53,640 --> 00:26:57,713
+Here's a riddle I came across,
+a rebus.
+
+333
+00:26:59,960 --> 00:27:04,590
+Imagine a drawing of a Greek warrior
+holding a spear
+
+334
+00:27:04,760 --> 00:27:08,548
+looking to his right,
+and taking a step.
+
+335
+00:27:10,080 --> 00:27:12,753
+With a turtle going the same way.
+
+336
+00:27:16,000 --> 00:27:17,194
+First...
+
+337
+00:27:18,240 --> 00:27:19,719
+does that ring a bell?
+
+338
+00:27:20,080 --> 00:27:21,195
+Second...
+
+339
+00:27:21,840 --> 00:27:23,831
+ever seen such a drawing?
+
+340
+00:27:24,000 --> 00:27:27,197
+Me? What's this all about?
+
+341
+00:27:29,520 --> 00:27:31,829
+Vollmer left me that drawing.
+
+342
+00:27:33,280 --> 00:27:35,236
+Does it mean anything to you?
+
+343
+00:27:35,760 --> 00:27:37,751
+Bizarre, if you ask me.
+
+344
+00:27:38,640 --> 00:27:40,119
+Bizarre, sure.
+
+345
+00:27:44,680 --> 00:27:47,069
+- Does it remind you of anything?
+- Maybe.
+
+346
+00:27:47,720 --> 00:27:48,197
+What?
+
+347
+00:27:48,720 --> 00:27:49,675
+Zeno.
+
+348
+00:27:54,720 --> 00:27:56,278
+Zeno's paradox.
+
+349
+00:27:56,480 --> 00:27:58,152
+Achilles and the tortoise.
+
+350
+00:27:58,720 --> 00:28:02,679
+Achilles tries to overtake
+the tortoise, but cannot.
+
+351
+00:28:02,840 --> 00:28:07,755
+By the time he reaches where it was,
+the turtle has moved ahead.
+
+352
+00:28:08,120 --> 00:28:11,476
+What could the paradox mean
+to our work?
+
+353
+00:28:11,640 --> 00:28:14,916
+I'm only the psychologist
+for our creations.
+
+354
+00:28:25,240 --> 00:28:26,275
+But...
+
+355
+00:28:27,400 --> 00:28:30,676
+as I recall,
+the paradox is meant to show that
+
+356
+00:28:30,840 --> 00:28:32,432
+movement is an illusion.
+
+357
+00:28:32,600 --> 00:28:34,670
+What's the link to our work?
+
+358
+00:28:34,840 --> 00:28:38,515
+Vollmer was acting very strange
+before he died.
+
+359
+00:28:39,280 --> 00:28:42,113
+Cheesecake?
+Who ordered the cheesecake?
+
+360
+00:28:42,280 --> 00:28:44,714
+Maybe for a reason.
+What did he say?
+
+361
+00:28:44,880 --> 00:28:46,836
+Did you order cheesecake?
+
+362
+00:28:47,000 --> 00:28:50,709
+No... I mean, yes.
+I think I ordered it, thanks.
+
+363
+00:28:50,880 --> 00:28:52,313
+How was he strange?
+
+364
+00:28:52,480 --> 00:28:56,109
+I played chess with him
+three days before he died.
+
+365
+00:28:56,280 --> 00:29:00,751
+He wasn't himself, he was
+rambling on about philosophy.
+
+366
+00:29:03,960 --> 00:29:06,474
+He had made a shattering discovery.
+
+367
+00:29:07,160 --> 00:29:07,797
+What?
+
+368
+00:29:08,640 --> 00:29:12,838
+He wouldn't say. It was a secret.
+Something like that.
+
+369
+00:29:14,800 --> 00:29:17,997
+Why are you
+so interested in it, Fred?
+
+370
+00:29:24,040 --> 00:29:27,191
+I don't think Vollmer's death
+was an accident.
+
+371
+00:29:27,480 --> 00:29:28,993
+What do you mean?
+
+372
+00:29:29,560 --> 00:29:32,518
+I know about Vollmer
+and Siskins' disagreements
+
+373
+00:29:32,680 --> 00:29:35,717
+on the applications
+of the simulation model.
+
+374
+00:29:35,880 --> 00:29:37,757
+I said no such thing.
+
+375
+00:29:37,920 --> 00:29:39,114
+OK, fine.
+
+376
+00:29:40,600 --> 00:29:42,955
+By the way, I can imagine what
+
+377
+00:29:43,120 --> 00:29:46,032
+Vollmer's shattering discovery was.
+
+378
+00:29:48,800 --> 00:29:51,997
+I bet it had to do
+with his attitude towards
+
+379
+00:29:52,160 --> 00:29:56,711
+the identity units
+we'd programmed in his computer.
+
+380
+00:29:57,080 --> 00:30:00,516
+You remember how he called them
+"my children".
+
+381
+00:30:00,680 --> 00:30:02,318
+He was only joking.
+
+382
+00:30:03,280 --> 00:30:06,556
+You can't spend years
+feeding data into a computer
+
+383
+00:30:06,720 --> 00:30:11,271
+that allows for the simulation of
+every aspect of human behaviour
+
+384
+00:30:11,920 --> 00:30:15,151
+without asking yourself
+if it might lead to the creation
+
+385
+00:30:15,320 --> 00:30:18,949
+of something resembling
+human consciousness.
+
+386
+00:30:20,640 --> 00:30:23,677
+Lause spoke of
+a "shattering discovery".
+
+387
+00:30:25,840 --> 00:30:26,909
+Lause? Who's he?
+
+388
+00:30:28,040 --> 00:30:32,033
+Stop. If I hadn't believed him,
+I'd never have told the cops.
+
+389
+00:30:32,800 --> 00:30:34,438
+Lause? Cops? What do you mean?
+
+390
+00:30:35,600 --> 00:30:37,591
+Lause! Günther Lause!
+
+391
+00:30:37,760 --> 00:30:40,877
+Chief of security at
+Cybernetics and Futurology!
+
+392
+00:30:41,040 --> 00:30:42,519
+Our Institute!
+
+393
+00:30:42,680 --> 00:30:44,989
+Just take it easy.
+
+394
+00:30:45,160 --> 00:30:47,594
+Stiller, do you see that man?
+
+395
+00:30:48,720 --> 00:30:50,278
+That's Hans Edelkern.
+
+396
+00:30:50,440 --> 00:30:53,910
+He's been IKZ's chief of security
+for five years.
+
+397
+00:31:06,120 --> 00:31:07,599
+You remember now?
+
+398
+00:31:11,320 --> 00:31:12,150
+Stiller!
+
+399
+00:31:54,600 --> 00:31:55,794
+Got a light?
+
+400
+00:31:57,280 --> 00:31:59,919
+No, I mean it, for my cigarette.
+
+401
+00:32:00,120 --> 00:32:02,918
+Understand? I'm not trying to...
+
+402
+00:32:03,080 --> 00:32:05,753
+Pick me up? Too bad.
+
+403
+00:32:06,120 --> 00:32:07,917
+Anyway, I don't smoke.
+
+404
+00:32:08,400 --> 00:32:10,755
+Thanks. Sorry.
+
+405
+00:32:11,280 --> 00:32:12,599
+Don't mention it.
+
+406
+00:32:43,480 --> 00:32:45,436
+CHIEF EXECUTIVE OFFICER
+
+407
+00:32:48,160 --> 00:32:49,115
+<i>Gloria?</i>
+
+408
+00:32:49,400 --> 00:32:51,072
+<i>Do you have a pen?</i>
+
+409
+00:32:51,240 --> 00:32:52,719
+<i>Then take this down</i>
+
+410
+00:32:53,320 --> 00:32:55,993
+<i>The chairman United Steel Inc</i>
+
+411
+00:32:57,040 --> 00:32:58,473
+<i>Dear Mr Hartmann</i>
+
+412
+00:32:59,120 --> 00:33:01,475
+I accept your invitation
+with pleasure.
+
+413
+00:33:02,360 --> 00:33:05,909
+In view of the situation,
+I would request
+
+414
+00:33:06,080 --> 00:33:09,868
+you treat my visit
+as primarily a personal one.
+
+415
+00:33:11,240 --> 00:33:13,151
+<i>I'm sure you will understand</i>
+
+416
+00:33:13,320 --> 00:33:16,517
+<i>if I insist on</i>
+<i>the utmost confidentiality</i>
+
+417
+00:33:16,800 --> 00:33:18,791
+<i>Yours truly Herbert Siskins</i>
+
+418
+00:33:33,280 --> 00:33:35,589
+Please come in, my dear Siskins.
+
+419
+00:34:04,320 --> 00:34:05,833
+A lovely couple.
+
+420
+00:34:18,640 --> 00:34:21,359
+Rupp, <i>Daily News. </i>
+A quick question:
+
+421
+00:34:21,720 --> 00:34:24,393
+Is your new computer
+solely for state use?
+
+422
+00:34:25,360 --> 00:34:27,555
+Please, I have no comment.
+
+423
+00:34:27,920 --> 00:34:29,114
+Certainly not here.
+
+424
+00:34:29,880 --> 00:34:31,472
+Ask at the IKZ press office.
+
+425
+00:34:32,160 --> 00:34:33,752
+Yeah, yeah. One thing:
+
+426
+00:34:33,920 --> 00:34:38,311
+Does a certain company have access
+to data obtained from the computer?
+
+427
+00:34:39,120 --> 00:34:39,950
+A suggestion, Mr?
+
+428
+00:34:40,440 --> 00:34:41,236
+Rupp.
+
+429
+00:34:42,080 --> 00:34:45,390
+Why not write about
+how our simulation model
+
+430
+00:34:45,560 --> 00:34:47,232
+is more than a computer?
+
+431
+00:34:47,920 --> 00:34:49,717
+I'll suggest it to my editor.
+
+432
+00:34:50,280 --> 00:34:53,078
+It's a new generation
+of computer technology.
+
+433
+00:34:53,600 --> 00:34:54,350
+Who benefits?
+
+434
+00:34:54,920 --> 00:34:56,592
+Everyone, if it's up to me.
+
+435
+00:35:09,040 --> 00:35:12,635
+May I see your ID, please?
+Regulations, you know.
+
+436
+00:35:12,800 --> 00:35:13,949
+I know.
+
+437
+00:35:14,760 --> 00:35:16,159
+Thank you, Mr. Stiller.
+
+438
+00:35:16,320 --> 00:35:20,632
+How can I help you? For personnel
+files, you need special clearance.
+
+439
+00:35:21,480 --> 00:35:23,357
+No, just the staff directory.
+
+440
+00:35:23,800 --> 00:35:24,835
+Which letter?
+
+441
+00:35:25,200 --> 00:35:26,155
+Let's try L.
+
+442
+00:35:26,320 --> 00:35:28,470
+Alright, L... L what?
+
+443
+00:35:29,560 --> 00:35:32,677
+Ask it, "Who is Günther Lause?"
+
+444
+00:35:44,680 --> 00:35:46,432
+WHO IS GÜNTHER LAUSE?
+
+445
+00:35:46,680 --> 00:35:48,272
+Günther Lause is unknown.
+
+446
+00:35:49,280 --> 00:35:50,269
+Have a look.
+
+447
+00:35:56,400 --> 00:35:57,310
+Okay.
+
+448
+00:35:59,960 --> 00:36:03,111
+Edelkern. Ask it about Edelkern.
+
+449
+00:36:12,600 --> 00:36:13,112
+What's it say?
+
+450
+00:36:14,040 --> 00:36:15,837
+The truth, naturally:
+
+451
+00:36:16,000 --> 00:36:19,276
+"Hans Edelkern is
+chief of security at IKZ. "
+
+452
+00:36:20,400 --> 00:36:21,116
+Tell me, Mrs?
+
+453
+00:36:22,360 --> 00:36:22,758
+Meier.
+
+454
+00:36:24,720 --> 00:36:28,633
+Know anything special about
+Hans Edelkern, anything at all?
+
+455
+00:36:30,240 --> 00:36:33,755
+Mr. Edelkern? I don't think so.
+Ask him yourself.
+
+456
+00:36:34,320 --> 00:36:34,832
+Hi, Fred.
+
+457
+00:36:38,800 --> 00:36:41,155
+Were there complaints about me?
+
+458
+00:36:41,840 --> 00:36:43,558
+Tell me the truth.
+
+459
+00:36:44,960 --> 00:36:47,269
+- No, that's not it.
+- Good.
+
+460
+00:36:48,920 --> 00:36:50,114
+I was afraid...
+
+461
+00:36:53,320 --> 00:36:54,435
+I mean it.
+
+462
+00:36:56,880 --> 00:37:00,429
+That's alright, Fred.
+You don't have to explain.
+
+463
+00:37:02,320 --> 00:37:04,515
+I'm sure you have your reasons.
+
+464
+00:37:07,000 --> 00:37:09,753
+Say, why don't you visit us again?
+
+465
+00:37:10,040 --> 00:37:12,508
+Laura still talks
+about our last dinner.
+
+466
+00:37:12,680 --> 00:37:15,513
+Says you're the most
+charming man around.
+
+467
+00:37:16,280 --> 00:37:17,679
+Really, am I?
+
+468
+00:37:17,880 --> 00:37:20,189
+- According to Laura.
+- Well, then...
+
+469
+00:37:20,360 --> 00:37:21,475
+You see.
+
+470
+00:37:23,040 --> 00:37:24,519
+Just give us a call.
+
+471
+00:37:25,640 --> 00:37:27,358
+We'd be thrilled, honestly.
+
+472
+00:37:35,640 --> 00:37:38,757
+I've never met a Laura
+in my whole life.
+
+473
+00:37:42,800 --> 00:37:44,313
+Anything else I can do?
+
+474
+00:37:44,480 --> 00:37:45,469
+No, thanks.
+
+475
+00:37:45,640 --> 00:37:46,595
+You're welcome.
+
+476
+00:37:53,680 --> 00:37:55,796
+I'm... I'm here about Lause.
+
+477
+00:37:57,400 --> 00:37:58,719
+Who's Lause?
+
+478
+00:37:59,680 --> 00:38:01,557
+Forget it, Fritz.
+
+479
+00:38:01,840 --> 00:38:03,592
+Something wrong?
+
+480
+00:38:18,600 --> 00:38:19,874
+Morning, Maja.
+
+481
+00:38:23,640 --> 00:38:24,436
+Good morning.
+
+482
+00:38:26,920 --> 00:38:28,512
+I'm a gift.
+
+483
+00:38:29,720 --> 00:38:31,950
+Siskins thought you'd be pleased.
+
+484
+00:38:34,720 --> 00:38:36,950
+Of course. Of course I'm pleased.
+
+485
+00:38:37,440 --> 00:38:40,079
+A sight to behold.
+Isn't that what they say?
+
+486
+00:38:40,800 --> 00:38:41,676
+Yes, they do.
+
+487
+00:38:42,680 --> 00:38:43,556
+Where's Maja?
+
+488
+00:38:44,080 --> 00:38:47,231
+She's sick.
+Probably will be for some time.
+
+489
+00:38:50,160 --> 00:38:53,596
+By the way, Siskins was very sorry
+to lose me.
+
+490
+00:38:54,400 --> 00:38:55,549
+I'm deeply honoured.
+
+491
+00:38:57,560 --> 00:39:00,028
+- A cup of coffee?
+- No thanks.
+
+492
+00:39:10,480 --> 00:39:12,675
+I'm delighted to work with you.
+
+493
+00:39:13,320 --> 00:39:15,197
+The pleasure's all mine.
+
+494
+00:39:37,640 --> 00:39:40,359
+Get me the police,
+Inspector Lehner.
+
+495
+00:39:41,200 --> 00:39:42,474
+Yes, Mr. Stiller.
+
+496
+00:39:48,760 --> 00:39:50,273
+Inspector Lehner, please.
+
+497
+00:39:53,040 --> 00:39:57,511
+Hello, Inspector. I wanted to ask if
+you found out anything about Lause.
+
+498
+00:39:58,480 --> 00:39:59,469
+<i>Who is this?</i>
+
+499
+00:39:59,880 --> 00:40:01,996
+At the Cybernetics Institute.
+
+500
+00:40:02,160 --> 00:40:05,152
+It's about the Lause case,
+Günther Lause.
+
+501
+00:40:05,320 --> 00:40:07,880
+<i>Sorry I've never heard of a Lause</i>
+
+502
+00:40:08,040 --> 00:40:10,270
+My God, you must remember!
+
+503
+00:40:10,440 --> 00:40:13,273
+Siskins' party, a man disappeared.
+
+504
+00:40:13,440 --> 00:40:15,158
+I notified the police.
+
+505
+00:40:15,320 --> 00:40:18,596
+<i>Slowly Mr Stiller</i>
+<i>I don't know of any Lause case</i>
+
+506
+00:40:25,640 --> 00:40:28,996
+Siskins wants you
+in his office at 2:30.
+
+507
+00:40:29,160 --> 00:40:30,593
+<i>Thanks Miss Fromm</i>
+
+508
+00:40:34,440 --> 00:40:35,873
+How are you feeling?
+
+509
+00:40:38,040 --> 00:40:39,314
+No idea.
+
+510
+00:40:41,400 --> 00:40:42,594
+Not good.
+
+511
+00:40:45,400 --> 00:40:46,913
+What's the doctor say?
+
+512
+00:40:48,840 --> 00:40:49,750
+I had all the tests...
+
+513
+00:40:53,360 --> 00:40:53,951
+blood
+
+514
+00:40:55,520 --> 00:40:57,988
+urine, everything.
+
+515
+00:40:59,560 --> 00:41:01,551
+But they don't know.
+
+516
+00:41:04,840 --> 00:41:07,479
+Chronic exhaustion.
+
+517
+00:41:09,720 --> 00:41:10,869
+And you...
+
+518
+00:41:12,840 --> 00:41:14,273
+How are you?
+
+519
+00:41:15,440 --> 00:41:18,273
+Siskins asked me
+to a meeting at 2:30.
+
+520
+00:41:19,040 --> 00:41:20,075
+Really?
+
+521
+00:41:23,160 --> 00:41:25,515
+- Who's with you now?
+- Where?
+
+522
+00:41:28,440 --> 00:41:28,952
+At work.
+
+523
+00:41:30,960 --> 00:41:32,951
+A woman named Gloria Fromm.
+
+524
+00:41:33,120 --> 00:41:35,236
+42-26-39?
+
+525
+00:41:35,400 --> 00:41:38,597
+39 1/2. From all that sitting.
+You should know.
+
+526
+00:41:43,400 --> 00:41:44,719
+I'll be going.
+
+527
+00:41:46,080 --> 00:41:47,308
+Get well soon.
+
+528
+00:41:48,120 --> 00:41:49,109
+Thanks.
+
+529
+00:41:51,360 --> 00:41:52,270
+Fred?
+
+530
+00:41:56,880 --> 00:41:58,711
+I'm still fond of you.
+
+531
+00:42:00,640 --> 00:42:02,596
+Have a seat, Dr. Stiller.
+
+532
+00:42:03,560 --> 00:42:04,993
+Care for a drink?
+
+533
+00:42:05,520 --> 00:42:07,556
+- A coffee?
+- No, thanks. Really.
+
+534
+00:42:07,720 --> 00:42:10,359
+Alright then, let's begin.
+
+535
+00:42:11,960 --> 00:42:13,075
+Would you?
+
+536
+00:42:14,800 --> 00:42:16,358
+As you may know
+
+537
+00:42:16,720 --> 00:42:20,269
+I sit on the government-
+appointed commission
+
+538
+00:42:20,840 --> 00:42:22,751
+Perspective 2000
+
+539
+00:42:23,440 --> 00:42:24,953
+as an expert on steel.
+
+540
+00:42:25,560 --> 00:42:27,994
+Also in your capacity as
+
+541
+00:42:28,160 --> 00:42:30,230
+chairman of United Steel Inc.
+
+542
+00:42:30,720 --> 00:42:33,029
+Of course, naturally.
+
+543
+00:42:33,600 --> 00:42:37,149
+And in this respect
+we're somewhat preoccupied
+
+544
+00:42:37,600 --> 00:42:41,070
+especially given
+certain recent trends
+
+545
+00:42:41,240 --> 00:42:43,913
+in freight
+and transportation systems
+
+546
+00:42:44,640 --> 00:42:48,633
+that would have major repercussions
+in the 80s and 90s
+
+547
+00:42:49,520 --> 00:42:51,158
+on demand for steel.
+
+548
+00:42:51,440 --> 00:42:53,795
+Do you have a background
+in business?
+
+549
+00:42:54,560 --> 00:42:55,436
+Hardly.
+
+550
+00:42:57,040 --> 00:43:00,112
+Well, if I may briefly explain...
+
+551
+00:43:00,520 --> 00:43:04,638
+In our sector, investments are not
+only long-term, they're also...
+
+552
+00:43:05,240 --> 00:43:06,309
+Very costly.
+
+553
+00:43:06,880 --> 00:43:08,916
+Let Mr. Hartmann finish, Stiller.
+
+554
+00:43:09,480 --> 00:43:13,314
+No, no, you can put it that way.
+Quite right.
+
+555
+00:43:13,600 --> 00:43:17,559
+Costly.
+In other words, an investment
+
+556
+00:43:17,720 --> 00:43:20,996
+to the tune of several
+hundred million
+
+557
+00:43:21,160 --> 00:43:25,597
+if made today, would take,
+say, 20 years
+
+558
+00:43:25,760 --> 00:43:26,988
+to be amortized.
+
+559
+00:43:29,600 --> 00:43:33,718
+- If your analyses were correct.
+- If they were correct, yes.
+
+560
+00:43:34,680 --> 00:43:37,558
+Naturally we don't make
+wild guesses.
+
+561
+00:43:37,720 --> 00:43:42,350
+We rely on a whole slew of
+scientific analytical tools:
+
+562
+00:43:42,800 --> 00:43:45,917
+Economic and market analyses
+
+563
+00:43:46,360 --> 00:43:49,955
+trend forecasts,
+input-output relations...
+
+564
+00:43:50,120 --> 00:43:51,314
+to name a few.
+
+565
+00:43:52,680 --> 00:43:54,238
+But you yourself know
+
+566
+00:43:54,400 --> 00:43:58,916
+the limitations of
+the prognostic capacity
+
+567
+00:43:59,400 --> 00:44:02,551
+of conventional computer technology
+
+568
+00:44:03,280 --> 00:44:07,990
+and how much larger the margin
+of error is of such computers
+
+569
+00:44:08,720 --> 00:44:11,188
+compared to your simulation model.
+
+570
+00:44:14,440 --> 00:44:16,829
+Why are you telling me all this?
+
+571
+00:44:18,720 --> 00:44:20,756
+- I don't understand.
+- He does.
+
+572
+00:44:21,600 --> 00:44:22,999
+Dr. Stiller...
+
+573
+00:44:23,720 --> 00:44:27,235
+We're not talking about
+opening a hot-dog stand
+
+574
+00:44:28,240 --> 00:44:32,711
+but a decision of major importance
+to the national economy
+
+575
+00:44:33,560 --> 00:44:38,509
+for which Mr. Hartmann, as a member
+of the Perspective 2000 Committee...
+
+576
+00:44:39,040 --> 00:44:40,792
+Then let the committee request it.
+
+577
+00:44:41,800 --> 00:44:45,076
+Can you imagine
+the bureaucracy that entails?
+
+578
+00:44:45,560 --> 00:44:50,076
+Besides, the software wasn't
+designed to access such variables.
+
+579
+00:44:50,920 --> 00:44:55,072
+It would jeopardize the entire
+program and set us back two months.
+
+580
+00:44:56,160 --> 00:44:58,628
+I'll look like a fool.
+From a technical...
+
+581
+00:44:58,800 --> 00:45:01,155
+Thank you, Stiller.
+I'm not asking.
+
+582
+00:45:02,920 --> 00:45:06,196
+You'll call up the data
+from the simulation model
+
+583
+00:45:06,360 --> 00:45:09,830
+for the demand for steel
+for the next 20 years
+
+584
+00:45:10,000 --> 00:45:11,991
+and have it on my desk by...
+
+585
+00:45:12,560 --> 00:45:13,470
+by the 23rd.
+
+586
+00:45:16,200 --> 00:45:19,351
+I don't know. You can't just
+let some conglomerate...
+
+587
+00:45:20,160 --> 00:45:24,392
+Please let me decide what
+I can or cannot do, Stiller.
+
+588
+00:45:25,320 --> 00:45:26,833
+Then you don't need me.
+
+589
+00:45:28,760 --> 00:45:30,637
+For God's sake, Siskins...
+
+590
+00:45:30,800 --> 00:45:34,429
+I thought you'd have settled this
+internally, at least.
+
+591
+00:45:34,640 --> 00:45:37,234
+We have, my dear Hartmann, we have.
+
+592
+00:45:38,000 --> 00:45:41,879
+You see, Stiller is a scientist.
+
+593
+00:45:43,160 --> 00:45:47,915
+And in every scientist
+resides a bit of an idealist.
+
+594
+00:45:49,760 --> 00:45:50,749
+But...
+
+595
+00:45:51,440 --> 00:45:54,910
+I'll deal with the little idealist
+in Stiller.
+
+596
+00:45:57,240 --> 00:45:59,390
+- Hello, Stiller.
+- Hello, Hahn.
+
+597
+00:45:59,560 --> 00:46:03,473
+Want to check the psychograms
+of the new units?
+
+598
+00:46:03,640 --> 00:46:05,392
+No, we've reviewed them.
+
+599
+00:46:07,040 --> 00:46:08,553
+Feeling better?
+
+600
+00:46:09,400 --> 00:46:11,550
+Yes, it just
+came over me yesterday.
+
+601
+00:46:11,720 --> 00:46:14,109
+I should apologize for my behaviour.
+
+602
+00:46:14,280 --> 00:46:15,156
+Forget it.
+
+603
+00:46:15,320 --> 00:46:16,992
+Really, I'm sorry.
+
+604
+00:46:20,480 --> 00:46:22,038
+Excuse me, but...
+
+605
+00:46:23,360 --> 00:46:25,874
+I need to go to the computer room.
+
+606
+00:46:57,520 --> 00:47:01,991
+We're up to precisely
+9700 identity units.
+
+607
+00:47:04,600 --> 00:47:06,636
+The equivalent of a small town.
+
+608
+00:47:11,440 --> 00:47:12,793
+By the way...
+
+609
+00:47:16,040 --> 00:47:17,632
+I'd like a hook-up.
+
+610
+00:47:17,800 --> 00:47:18,789
+For you?
+
+611
+00:47:20,880 --> 00:47:22,472
+To sample village life.
+
+612
+00:47:22,640 --> 00:47:25,234
+Fine with me, anytime.
+Oh, have a look.
+
+613
+00:47:26,320 --> 00:47:29,392
+She's in the mind
+of a millionaire's wife.
+
+614
+00:47:38,640 --> 00:47:40,119
+Yes, he's here.
+
+615
+00:47:41,040 --> 00:47:42,268
+Fine.
+
+616
+00:47:43,640 --> 00:47:45,676
+Fine, I'll tell him.
+
+617
+00:47:50,800 --> 00:47:53,439
+The police are here to see you.
+
+618
+00:47:54,120 --> 00:47:55,439
+The police?
+
+619
+00:47:58,240 --> 00:47:59,514
+Come with me.
+
+620
+00:48:30,800 --> 00:48:31,994
+Hello, Dr. Stiller.
+
+621
+00:48:34,560 --> 00:48:37,233
+You honour me, but this is Stiller.
+
+622
+00:48:37,440 --> 00:48:39,431
+Excuse me, I'm sorry.
+
+623
+00:48:39,640 --> 00:48:41,198
+Hello, Dr. Stiller.
+
+624
+00:48:43,200 --> 00:48:46,272
+I was hoping to speak to you
+in private.
+
+625
+00:48:47,160 --> 00:48:49,116
+Is that really necessary?
+
+626
+00:48:49,680 --> 00:48:50,510
+I'd say so, yes.
+
+627
+00:48:50,880 --> 00:48:52,074
+OK, I'll clear out.
+
+628
+00:48:53,160 --> 00:48:55,754
+I'll be at the computer. See you.
+
+629
+00:48:56,600 --> 00:48:57,953
+Please come in.
+
+630
+00:49:07,360 --> 00:49:08,349
+Yes?
+
+631
+00:49:09,520 --> 00:49:11,590
+We have questions, Mr. Stiller.
+
+632
+00:49:12,640 --> 00:49:13,959
+Questions for you.
+
+633
+00:49:14,960 --> 00:49:16,951
+Questions about the Vollmer case.
+
+634
+00:49:18,280 --> 00:49:19,952
+You were his assistant?
+
+635
+00:49:20,240 --> 00:49:21,673
+You know full well.
+
+636
+00:49:22,000 --> 00:49:23,274
+Yes, of course.
+
+637
+00:49:23,600 --> 00:49:25,113
+Purely routine.
+
+638
+00:49:25,440 --> 00:49:27,396
+Part of the job.
+Once learned
+
+639
+00:49:27,600 --> 00:49:29,113
+you never forget it.
+
+640
+00:49:31,600 --> 00:49:33,556
+Let me be frank, Mr. Stiller.
+
+641
+00:49:34,560 --> 00:49:38,599
+It's possible that Vollmer's death
+was not an accident.
+
+642
+00:49:40,280 --> 00:49:41,190
+You were away?
+
+643
+00:49:42,000 --> 00:49:44,673
+I told you,
+at my cabin in the mountains.
+
+644
+00:49:45,320 --> 00:49:48,915
+What do you mean, you told me?
+
+645
+00:49:53,440 --> 00:49:54,509
+Nothing.
+
+646
+00:49:55,240 --> 00:49:56,832
+Just that I was at my cabin.
+
+647
+00:49:57,680 --> 00:49:59,796
+Can anyone corroborate that?
+
+648
+00:50:00,600 --> 00:50:01,350
+No.
+
+649
+00:50:05,280 --> 00:50:07,157
+Vollmer was my best friend.
+
+650
+00:50:09,760 --> 00:50:14,436
+You're not doing too badly
+as technical director at IKZ.
+
+651
+00:50:16,120 --> 00:50:17,519
+No, not too badly.
+
+652
+00:50:20,600 --> 00:50:23,717
+I can reach you here,
+if I need you?
+
+653
+00:50:25,080 --> 00:50:26,718
+If you need me.
+
+654
+00:50:38,360 --> 00:50:39,588
+Good-bye, Mr. Stiller.
+
+655
+00:50:42,840 --> 00:50:44,751
+He was from Homicide.
+
+656
+00:50:45,840 --> 00:50:48,559
+If anyone makes trouble, I'm here.
+
+657
+00:50:49,200 --> 00:50:51,919
+The police aren't giving up,
+that's good.
+
+658
+00:50:52,880 --> 00:50:55,599
+Lause hinted that Vollmer's death
+
+659
+00:50:55,760 --> 00:50:57,876
+might not have been an accident.
+
+660
+00:50:59,120 --> 00:51:00,394
+Who's Lause?
+
+661
+00:51:02,600 --> 00:51:06,639
+The Lause who vanished
+without a trace at Siskins' party.
+
+662
+00:51:07,040 --> 00:51:10,715
+Did someone vanish without a trace
+at Siskins' party?
+
+663
+00:51:12,240 --> 00:51:15,312
+Probably one of Siskins'
+harmless jokes.
+
+664
+00:51:17,320 --> 00:51:19,311
+No doubt, Gloria, no doubt.
+
+665
+00:51:34,920 --> 00:51:38,595
+A simple hook-up
+to an identity unit.
+
+666
+00:51:40,760 --> 00:51:42,193
+Is that alright?
+
+667
+00:51:57,000 --> 00:52:00,754
+I chose 4388 for you,
+a truck driver.
+
+668
+00:52:01,400 --> 00:52:03,277
+Enjoy the ride.
+
+669
+00:52:03,720 --> 00:52:04,914
+OK, step on it.
+
+670
+00:52:05,080 --> 00:52:07,958
+Here we go. Be good,
+and stay out of trouble.
+
+671
+00:52:09,440 --> 00:52:10,475
+Floor it.
+
+672
+00:52:37,640 --> 00:52:39,710
+<i>Lousy weather we gave them</i>
+
+673
+00:52:40,640 --> 00:52:44,872
+<i>Strange why's there no traffic?</i>
+<i>I don't get it</i>
+
+674
+00:52:45,240 --> 00:52:48,391
+<i>Maybe it's Sunday here</i>
+<i>I forgot to ask</i>
+
+675
+00:52:50,800 --> 00:52:54,110
+<i>Kid if I hit you it won't</i>
+<i>even cause a short circuit</i>
+
+676
+00:53:09,640 --> 00:53:13,269
+<i>What's Walfang done now?</i>
+<i>Hey what's that?</i>
+
+677
+00:53:22,440 --> 00:53:26,115
+You were lucky, young man.
+Just a slight shock.
+
+678
+00:53:29,120 --> 00:53:31,031
+We nearly saw the last of you.
+
+679
+00:53:33,680 --> 00:53:34,476
+How's it possible?
+
+680
+00:53:35,320 --> 00:53:38,312
+Search me. I haven't
+checked the box yet, but...
+
+681
+00:53:39,160 --> 00:53:39,876
+But?
+
+682
+00:53:42,120 --> 00:53:44,953
+Say it, you have a hunch.
+
+683
+00:53:45,640 --> 00:53:47,119
+Something exploded.
+
+684
+00:53:47,560 --> 00:53:49,755
+It can only have been sabotage.
+
+685
+00:53:51,760 --> 00:53:54,228
+Impossible, with our security.
+
+686
+00:53:54,880 --> 00:53:59,078
+If it exploded, <i>it must be sabotage</i>
+<i>A computer doesn't just explode!</i>
+
+687
+00:54:00,280 --> 00:54:03,511
+Sabotage is quite impossible.
+
+688
+00:54:05,120 --> 00:54:07,031
+IKZ is under our control.
+
+689
+00:54:08,080 --> 00:54:09,149
+Obviously not.
+
+690
+00:54:10,320 --> 00:54:13,710
+A technical error, perhaps.
+How long will repairs take?
+
+691
+00:54:14,560 --> 00:54:16,676
+I nearly died,
+and that's all you say?
+
+692
+00:54:18,360 --> 00:54:21,193
+You mustn't get excited,
+you need rest.
+
+693
+00:54:21,840 --> 00:54:23,068
+Yeah, yeah, OK.
+
+694
+00:54:26,760 --> 00:54:28,034
+Good-bye, then.
+
+695
+00:54:30,520 --> 00:54:30,872
+Thanks.
+
+696
+00:54:33,080 --> 00:54:35,594
+Don't mention it.
+Just doing my job.
+
+697
+00:54:39,240 --> 00:54:41,629
+I want a thorough investigation.
+
+698
+00:54:43,040 --> 00:54:47,431
+Check security measures, Edelkern.
+If necessary, step them up.
+
+699
+00:54:47,600 --> 00:54:48,669
+Understand?
+
+700
+00:54:49,400 --> 00:54:51,152
+Naturally, Mr. Siskins.
+
+701
+00:54:52,440 --> 00:54:52,838
+Of course.
+
+702
+00:54:54,440 --> 00:54:58,035
+Mr. Stiller, I think you should
+go home and rest.
+
+703
+00:54:59,040 --> 00:55:01,554
+Seriously, how long
+will repairs take?
+
+704
+00:55:01,720 --> 00:55:04,029
+Two or three days, no longer.
+
+705
+00:55:04,200 --> 00:55:05,269
+OK, then...
+
+706
+00:55:06,760 --> 00:55:08,079
+That's alright.
+
+707
+00:55:12,040 --> 00:55:13,029
+Eva?
+
+708
+00:55:14,480 --> 00:55:16,118
+You startled me.
+
+709
+00:55:16,320 --> 00:55:17,639
+Something wrong?
+
+710
+00:55:17,880 --> 00:55:18,790
+No.
+
+711
+00:55:22,320 --> 00:55:24,390
+I was thinking of my father.
+
+712
+00:55:31,080 --> 00:55:34,117
+Shall we go for a drive?
+
+713
+00:55:34,600 --> 00:55:35,828
+Just like that.
+
+714
+00:55:36,840 --> 00:55:39,559
+You know, I need a change of air.
+
+715
+00:55:47,480 --> 00:55:50,631
+Some of Father's files
+are still on his desk.
+
+716
+00:55:52,440 --> 00:55:55,637
+Check if there's anything
+useful to you.
+
+717
+00:55:57,480 --> 00:55:59,152
+I'll get ready.
+
+718
+00:56:15,360 --> 00:56:18,670
+Was anything removed
+after your father died?
+
+719
+00:56:19,440 --> 00:56:20,429
+Pardon?
+
+720
+00:56:21,360 --> 00:56:25,672
+I asked if anything was removed
+after your father's death.
+
+721
+00:56:29,280 --> 00:56:30,235
+Questioning me?
+
+722
+00:56:34,960 --> 00:56:35,949
+Come on, let's go.
+
+723
+00:56:37,800 --> 00:56:40,360
+Have you seen his drawing
+since then?
+
+724
+00:56:42,640 --> 00:56:44,119
+What drawing?
+
+725
+00:56:45,720 --> 00:56:47,551
+Achilles and the tortoise.
+
+726
+00:56:48,800 --> 00:56:50,756
+I've never seen it...
+
+727
+00:56:51,640 --> 00:56:53,471
+Achilles and the tortoise.
+
+728
+00:56:58,560 --> 00:57:01,120
+I'm going to try to find out
+
+729
+00:57:01,840 --> 00:57:04,149
+how your father really died.
+
+730
+00:57:07,080 --> 00:57:08,308
+Do you think?
+
+731
+00:57:08,640 --> 00:57:09,789
+Maybe.
+
+732
+00:57:16,920 --> 00:57:19,593
+I don't want anything
+to happen to you.
+
+733
+00:57:44,080 --> 00:57:45,354
+<i>What's wrong?</i>
+
+734
+00:57:55,720 --> 00:57:59,679
+Nothing. I don't feel well.
+I haven't felt well for a while.
+
+735
+00:57:59,840 --> 00:58:01,558
+I get dizzy, see things.
+
+736
+00:58:01,720 --> 00:58:05,076
+Probably, or possibly,
+I'm simply overworked.
+
+737
+00:58:05,400 --> 00:58:06,674
+Want me to drive?
+
+738
+00:58:09,080 --> 00:58:12,868
+I'll just wait here a bit,
+then drive you home.
+
+739
+00:58:13,800 --> 00:58:15,552
+One, two, three, four...
+
+740
+00:58:23,840 --> 00:58:26,149
+Come in. Fourteen, fifteen.
+
+741
+00:58:27,720 --> 00:58:29,756
+- Hi, Fritz.
+- Hi, Fred.
+
+742
+00:58:29,920 --> 00:58:31,114
+What's that?
+
+743
+00:58:31,280 --> 00:58:33,316
+- For my circulation.
+- Your circulation?
+
+744
+00:58:34,040 --> 00:58:36,315
+I've been having dizzy spells.
+
+745
+00:58:36,480 --> 00:58:38,038
+Better watch it.
+
+746
+00:58:42,840 --> 00:58:44,478
+Your puppets are dancing.
+
+747
+00:58:45,280 --> 00:58:47,999
+I contacted 0001 again.
+
+748
+00:58:48,160 --> 00:58:49,275
+Einstein?
+
+749
+00:58:50,360 --> 00:58:53,113
+That system failure
+has him worried.
+
+750
+00:58:53,440 --> 00:58:54,839
+He's being difficult.
+
+751
+00:58:57,800 --> 00:59:00,951
+You know, I think that was Vollmer's
+
+752
+00:59:01,280 --> 00:59:02,872
+only major mistake.
+
+753
+00:59:03,040 --> 00:59:03,950
+What?
+
+754
+00:59:04,920 --> 00:59:06,751
+The Einstein contact unit.
+
+755
+00:59:07,640 --> 00:59:11,519
+It wouldn't have worked without him.
+We tried everything.
+
+756
+00:59:11,680 --> 00:59:15,798
+We needed a unit
+we could contact directly.
+
+757
+00:59:15,960 --> 00:59:17,712
+Problems were inevitable.
+
+758
+00:59:17,880 --> 00:59:18,995
+Why?
+
+759
+00:59:19,560 --> 00:59:22,916
+No one can stand knowing
+they're artificial.
+
+760
+00:59:23,080 --> 00:59:24,638
+Obviously.
+
+761
+00:59:26,040 --> 00:59:29,715
+But if they suffer
+psychological disorders
+
+762
+00:59:30,360 --> 00:59:32,635
+it shows how successful we've been.
+
+763
+00:59:32,800 --> 00:59:34,552
+Depends how you see it.
+
+764
+00:59:35,400 --> 00:59:38,790
+Einstein reported
+an attempted suicide.
+
+765
+00:59:41,160 --> 00:59:42,036
+Unbelievable. Who?
+
+766
+00:59:42,760 --> 00:59:46,036
+7326, Christopher Nobody.
+
+767
+00:59:46,360 --> 00:59:49,033
+I'll take him out.
+He'll screw up the system.
+
+768
+00:59:49,600 --> 00:59:53,991
+It's inhuman of us, isn't it?
+But we have no choice.
+
+769
+00:59:54,720 --> 00:59:55,914
+OK, delete him, this...
+
+770
+00:59:57,640 --> 00:59:58,595
+Right. Christopher Nobody.
+
+771
+01:00:01,280 --> 01:00:02,679
+See you later.
+
+772
+01:00:36,800 --> 01:00:37,152
+Zeno.
+
+773
+01:00:39,000 --> 01:00:40,638
+Zeno's paradox!
+
+774
+01:00:45,480 --> 01:00:47,152
+This is no coincidence.
+
+775
+01:00:50,320 --> 01:00:53,357
+That must be
+what Vollmer's drawing meant.
+
+776
+01:01:16,880 --> 01:01:18,836
+Send me down to see Nobody.
+
+777
+01:01:20,200 --> 01:01:23,317
+Nobody no longer exists,
+he's in heaven.
+
+778
+01:01:23,960 --> 01:01:26,872
+- Don't joke.
+- I deprogrammed him. He's gone.
+
+779
+01:01:27,040 --> 01:01:27,438
+Shit!
+
+780
+01:01:29,000 --> 01:01:29,432
+Why?
+
+781
+01:01:30,920 --> 01:01:33,275
+- He must know something...
+- <i>Knew... </i>
+
+782
+01:01:33,440 --> 01:01:35,476
+Knew something I need.
+
+783
+01:01:35,840 --> 01:01:37,034
+Hardly likely, Fred.
+
+784
+01:01:37,840 --> 01:01:41,628
+I programmed him myself.
+He was an ordinary unit. Why?
+
+785
+01:01:43,160 --> 01:01:46,152
+Nothing, Fritz, nothing.
+Just an idea.
+
+786
+01:01:46,480 --> 01:01:49,278
+Let me speak to Einstein,
+he may know.
+
+787
+01:01:49,600 --> 01:01:51,989
+Give me a projection link.
+
+788
+01:01:53,680 --> 01:01:55,432
+OK, I'll call you.
+
+789
+01:01:59,400 --> 01:02:02,517
+- Where do I meet Einstein?
+- In a hotel lobby.
+
+790
+01:02:03,840 --> 01:02:05,637
+You only have 5 minutes.
+
+791
+01:02:27,400 --> 01:02:29,470
+You've kept me waiting.
+
+792
+01:02:31,400 --> 01:02:32,958
+Hello, Einstein.
+
+793
+01:02:36,240 --> 01:02:37,468
+Is something wrong?
+
+794
+01:02:38,480 --> 01:02:40,835
+Not often I meet someone
+from above.
+
+795
+01:02:41,280 --> 01:02:44,955
+Right now I'm just a bundle
+of electronic circuits, too.
+
+796
+01:02:45,840 --> 01:02:49,150
+A projection, if you like.
+
+797
+01:02:58,600 --> 01:02:59,828
+Shall we sit down?
+
+798
+01:03:03,840 --> 01:03:07,594
+I only have a few minutes,
+it's not really worth it.
+
+799
+01:03:12,320 --> 01:03:14,754
+It's about Christopher Nobody.
+
+800
+01:03:16,080 --> 01:03:17,718
+You spoke to him.
+
+801
+01:03:20,160 --> 01:03:23,391
+Why did he try to kill himself?
+
+802
+01:03:24,760 --> 01:03:25,272
+A whiskey.
+
+803
+01:03:34,480 --> 01:03:36,789
+He was on the verge of a breakdown.
+
+804
+01:03:41,560 --> 01:03:42,595
+Why?
+
+805
+01:03:43,960 --> 01:03:45,359
+He knew.
+
+806
+01:04:00,400 --> 01:04:02,231
+What did he know?
+
+807
+01:04:07,880 --> 01:04:10,030
+Somehow he'd found out
+
+808
+01:04:11,480 --> 01:04:12,310
+what he was.
+
+809
+01:04:14,200 --> 01:04:17,510
+<i>You don't just find that out</i>
+
+810
+01:04:17,960 --> 01:04:19,518
+<i>Did you say something?</i>
+
+811
+01:04:21,320 --> 01:04:23,754
+<i>You know my circuits prohibit it</i>
+
+812
+01:04:23,920 --> 01:04:26,798
+Time's running out.
+Stiller has to be back
+
+813
+01:04:26,960 --> 01:04:28,473
+in 120 seconds.
+
+814
+01:04:29,280 --> 01:04:31,635
+In 30 seconds we'll signal him.
+
+815
+01:04:34,920 --> 01:04:37,388
+PHONE CALL FOR MR. STILLER
+
+816
+01:04:41,120 --> 01:04:43,270
+My time's up.
+Good-bye, Einstein.
+
+817
+01:04:43,440 --> 01:04:45,829
+<i>Come on show me</i>
+<i>Come on show me</i>
+
+818
+01:04:46,600 --> 01:04:48,158
+<i>Come on show me</i>
+
+819
+01:04:52,320 --> 01:04:55,198
+I can't bear it.
+Please, take me with you.
+
+820
+01:04:56,760 --> 01:04:59,115
+You know that's absurd.
+
+821
+01:05:12,040 --> 01:05:12,790
+I'll be back.
+
+822
+01:05:25,160 --> 01:05:26,991
+Let me talk in peace.
+
+823
+01:05:31,280 --> 01:05:35,114
+We'll meet at 8, Gerda.
+In the corner restaurant.
+
+824
+01:05:38,560 --> 01:05:41,950
+What's the idea, young man?
+Where are your manners?
+
+825
+01:05:43,280 --> 01:05:44,713
+The impertinence!
+
+826
+01:05:53,320 --> 01:05:53,718
+A light?
+
+827
+01:06:00,960 --> 01:06:01,949
+Thanks.
+
+828
+01:06:20,800 --> 01:06:22,119
+Everything OK?
+
+829
+01:06:23,720 --> 01:06:26,359
+Everything's OK. Except...
+
+830
+01:06:30,680 --> 01:06:32,432
+I saw Günther Lause.
+
+831
+01:06:34,000 --> 01:06:35,194
+Sorry, who?
+
+832
+01:06:40,000 --> 01:06:41,513
+Come with me.
+
+833
+01:06:42,400 --> 01:06:44,516
+I want to do a test.
+Got a minute?
+
+834
+01:06:44,680 --> 01:06:45,669
+Sure.
+
+835
+01:06:46,600 --> 01:06:49,353
+OK, I'm looking
+for an identity unit.
+
+836
+01:06:49,840 --> 01:06:50,511
+Use the list.
+
+837
+01:06:51,200 --> 01:06:54,909
+No, let's try a different method.
+I'll describe him.
+
+838
+01:06:56,480 --> 01:06:57,435
+Age?
+
+839
+01:06:58,440 --> 01:07:01,671
+55. Male. Single.
+
+840
+01:07:02,200 --> 01:07:03,474
+Engineering degree.
+
+841
+01:07:06,360 --> 01:07:07,952
+Psychological traits?
+
+842
+01:07:08,240 --> 01:07:10,356
+He's good-natured.
+
+843
+01:07:10,840 --> 01:07:13,877
+But stingy. Drinks quite a bit.
+
+844
+01:07:17,200 --> 01:07:18,315
+Two minutes.
+
+845
+01:07:24,280 --> 01:07:25,872
+Eva, it's Fred.
+
+846
+01:07:28,240 --> 01:07:30,276
+Too many. Anything else?
+
+847
+01:07:31,840 --> 01:07:34,991
+Heavy smoker,
+gold medallist in sports.
+
+848
+01:07:35,600 --> 01:07:37,033
+Collects old watches.
+
+849
+01:07:37,480 --> 01:07:38,230
+That should do it.
+
+850
+01:07:38,800 --> 01:07:40,279
+Sorry, but...
+
+851
+01:07:40,960 --> 01:07:43,269
+No, I'm running a test. Listen...
+
+852
+01:07:43,960 --> 01:07:46,952
+Could you pick me up?
+I want to see you.
+
+853
+01:07:49,960 --> 01:07:51,154
+See you at six.
+
+854
+01:08:02,720 --> 01:08:03,755
+I've got five.
+
+855
+01:08:04,240 --> 01:08:06,629
+- That OK?
+- I hope so. Their names?
+
+856
+01:08:07,200 --> 01:08:09,475
+Teiler, Strunz, Kittel
+
+857
+01:08:09,640 --> 01:08:10,834
+Erdhofer, Lause.
+
+858
+01:08:11,000 --> 01:08:12,399
+Lause's first name?
+
+859
+01:08:12,640 --> 01:08:13,629
+Günther.
+
+860
+01:08:14,760 --> 01:08:16,796
+Günther Lause.
+Didn't you just?
+
+861
+01:08:17,160 --> 01:08:19,754
+Yes. What number?
+
+862
+01:08:20,040 --> 01:08:21,951
+7683.
+
+863
+01:08:22,240 --> 01:08:22,831
+Programmer?
+
+864
+01:08:24,040 --> 01:08:24,916
+Vollmer!
+
+865
+01:08:25,880 --> 01:08:27,074
+That's fine.
+
+866
+01:08:27,560 --> 01:08:28,834
+Thanks a lot.
+
+867
+01:08:31,880 --> 01:08:33,108
+Strange.
+
+868
+01:08:43,160 --> 01:08:46,550
+<i>Daily News!</i>
+Mystery Surrounding Super-Computer!
+
+869
+01:08:53,120 --> 01:08:56,476
+For your own sake,
+forget everything you've seen.
+
+870
+01:08:56,640 --> 01:08:58,790
+Or your life's not worth a dime.
+
+871
+01:09:03,720 --> 01:09:06,951
+<i>Daily News!</i>
+Mystery Surrounding Super-Computer!
+
+872
+01:09:26,440 --> 01:09:27,190
+Problems?
+
+873
+01:09:28,000 --> 01:09:28,876
+Could say that.
+
+874
+01:09:29,800 --> 01:09:31,472
+Is it about Zeno again?
+
+875
+01:09:33,720 --> 01:09:34,835
+Or this Lause?
+
+876
+01:09:35,560 --> 01:09:36,515
+Yes, him too.
+
+877
+01:09:39,120 --> 01:09:42,032
+You know about the sabotage
+during my hook-up.
+
+878
+01:09:42,200 --> 01:09:45,112
+But that a cop who'd
+interrogated me once
+
+879
+01:09:45,680 --> 01:09:50,037
+forgot, and interrogated me again...
+that you don't know.
+
+880
+01:09:50,760 --> 01:09:53,228
+Or that the other night everything,
+
+881
+01:09:53,640 --> 01:09:57,269
+the streets, lights...
+disappeared for a few seconds...
+
+882
+01:09:57,440 --> 01:09:58,839
+that you don't know.
+
+883
+01:09:59,000 --> 01:10:02,675
+Nor can you imagine my dizzy spells
+and depression.
+
+884
+01:10:03,720 --> 01:10:04,835
+I see.
+
+885
+01:10:05,800 --> 01:10:08,394
+A street vanished
+and then reappeared?
+
+886
+01:10:21,160 --> 01:10:22,115
+Ice or water?
+
+887
+01:10:22,280 --> 01:10:23,429
+Nothing, thanks.
+
+888
+01:10:25,760 --> 01:10:28,513
+I've thought a lot
+about you, Stiller.
+
+889
+01:10:32,080 --> 01:10:33,195
+I believe...
+
+890
+01:10:34,160 --> 01:10:37,994
+with your new responsibility
+for the simulation model
+
+891
+01:10:38,880 --> 01:10:41,872
+and the unusual stress of your job
+
+892
+01:10:43,120 --> 01:10:45,873
+you're overworked,
+psychologically unstable.
+
+893
+01:10:46,560 --> 01:10:47,959
+Think about it...
+
+894
+01:10:48,920 --> 01:10:51,514
+Every day you reign like God
+
+895
+01:10:51,680 --> 01:10:56,037
+over a miniature world
+you helped to create
+
+896
+01:10:57,040 --> 01:11:00,953
+and which you mistake
+more and more for a real world.
+
+897
+01:11:01,880 --> 01:11:04,872
+You can add and delete
+people at will.
+
+898
+01:11:07,520 --> 01:11:09,590
+This leads to feelings of guilt,
+
+899
+01:11:09,880 --> 01:11:11,677
+depression and fear.
+
+900
+01:11:12,480 --> 01:11:15,199
+You need to relax, forget it all.
+
+901
+01:11:19,080 --> 01:11:20,638
+I have to make a call.
+
+902
+01:11:36,480 --> 01:11:37,799
+What should I do?
+
+903
+01:11:42,720 --> 01:11:44,836
+You've taken the first step:
+
+904
+01:11:45,640 --> 01:11:48,916
+You recognize the cause,
+realize what's happening,
+
+905
+01:11:49,640 --> 01:11:51,312
+are aware of the problem.
+
+906
+01:11:52,960 --> 01:11:56,396
+If you keep working on yourself,
+you'll get better
+
+907
+01:11:57,240 --> 01:12:00,038
+and your mental disturbances
+will go away.
+
+908
+01:12:00,840 --> 01:12:02,910
+You should take a vacation.
+
+909
+01:12:03,080 --> 01:12:05,435
+Forget it, especially now.
+
+910
+01:12:06,080 --> 01:12:09,868
+I don't want Simulacron working
+exclusively for Hartmann.
+
+911
+01:12:20,200 --> 01:12:22,191
+I guess I'll be going.
+
+912
+01:12:24,520 --> 01:12:27,592
+Try to have a little fun
+now and then.
+
+913
+01:12:28,000 --> 01:12:31,356
+And stop brooding.
+It's not good for you.
+
+914
+01:12:32,720 --> 01:12:33,835
+Believe me.
+
+915
+01:12:34,440 --> 01:12:35,873
+I'll try.
+
+916
+01:13:02,880 --> 01:13:03,790
+Getting in?
+
+917
+01:13:04,600 --> 01:13:06,511
+Quite a coincidence, isn't it?
+
+918
+01:13:07,880 --> 01:13:11,190
+It's no coincidence.
+Dr. Hahn phoned me.
+
+919
+01:13:11,560 --> 01:13:14,597
+He thought I could take
+your mind off things.
+
+920
+01:13:15,040 --> 01:13:16,917
+It was fine with me.
+
+921
+01:13:17,280 --> 01:13:18,998
+Me, too.
+
+922
+01:14:45,040 --> 01:14:46,837
+Now I'm feeling better.
+
+923
+01:15:01,960 --> 01:15:03,473
+But I won't be manipulated!
+
+924
+01:15:06,360 --> 01:15:08,430
+Manipulated by whom?
+
+925
+01:15:12,560 --> 01:15:13,879
+By Siskins.
+
+926
+01:15:19,680 --> 01:15:20,317
+What do you mean?
+
+927
+01:15:20,800 --> 01:15:22,711
+I won't be intimidated!
+
+928
+01:15:24,280 --> 01:15:27,078
+I can be just as pigheaded
+as Vollmer was.
+
+929
+01:15:27,240 --> 01:15:31,950
+Vollmer wouldn't let private
+interests take over his computer.
+
+930
+01:15:32,880 --> 01:15:35,314
+And I won't, either.
+
+931
+01:15:35,960 --> 01:15:38,076
+Let Siskins do what he likes.
+
+932
+01:15:41,480 --> 01:15:43,994
+Isn't Siskins a danger to you?
+
+933
+01:15:44,160 --> 01:15:46,720
+No, because he needs me.
+Let's dance.
+
+934
+01:15:57,520 --> 01:15:58,316
+Morning, Fred.
+
+935
+01:15:58,480 --> 01:16:00,596
+Morning, Miss Fromm. Thank you.
+
+936
+01:16:01,640 --> 01:16:02,595
+Any mail?
+
+937
+01:16:03,640 --> 01:16:05,790
+Need an aspirin?
+
+938
+01:16:08,680 --> 01:16:09,954
+Important calls?
+
+939
+01:16:10,720 --> 01:16:13,314
+But Siskins wants
+to see you urgently.
+
+940
+01:16:13,880 --> 01:16:14,995
+Miss Fromm?
+
+941
+01:16:16,000 --> 01:16:19,879
+Last night I said
+some pretty crazy things.
+
+942
+01:16:28,240 --> 01:16:28,990
+Forget them.
+
+943
+01:16:31,480 --> 01:16:34,233
+Were they all just crazy things?
+
+944
+01:16:46,360 --> 01:16:48,430
+So, what's up?
+
+945
+01:16:51,760 --> 01:16:53,352
+I need your help.
+
+946
+01:17:00,880 --> 01:17:02,552
+We have to do something.
+
+947
+01:17:03,560 --> 01:17:05,630
+The media are getting impatient.
+
+948
+01:17:06,920 --> 01:17:10,151
+One question, just to be sure:
+
+949
+01:17:11,000 --> 01:17:15,471
+Could you convincingly explain
+our computer to a layman
+
+950
+01:17:15,640 --> 01:17:19,269
+if all of society
+depended on it?
+
+951
+01:17:19,480 --> 01:17:23,792
+I have my convictions,
+and I can present them convincingly.
+
+952
+01:17:24,040 --> 01:17:27,316
+That's exactly what
+I expected you to say.
+
+953
+01:17:28,560 --> 01:17:29,356
+Send them in.
+
+954
+01:17:45,400 --> 01:17:47,994
+My colleague, Dr. Stiller, and I
+
+955
+01:17:48,600 --> 01:17:51,194
+have a statement
+about the simulation model.
+
+956
+01:17:52,560 --> 01:17:55,518
+Afterwards,
+we'll offer refreshments.
+
+957
+01:17:57,880 --> 01:18:01,236
+A misunderstanding
+has led to the publication
+
+958
+01:18:01,520 --> 01:18:05,638
+of a report in the press
+that was misleading for the public.
+
+959
+01:18:06,280 --> 01:18:08,635
+We wish to take the opportunity
+
+960
+01:18:08,880 --> 01:18:11,519
+to dispel this misunderstanding.
+
+961
+01:18:12,520 --> 01:18:15,114
+Dr. Stiller developed
+the simulation model
+
+962
+01:18:15,400 --> 01:18:18,233
+together with Professor Vollmer.
+
+963
+01:18:19,760 --> 01:18:24,754
+Dr. Stiller will say a few words
+about the new computer system.
+
+964
+01:18:25,480 --> 01:18:29,473
+Strictly speaking, it isn't
+a computer in the conventional sense
+
+965
+01:18:29,640 --> 01:18:33,110
+but rather an electronic
+simulation system
+
+966
+01:18:33,280 --> 01:18:35,510
+with tremendous storage capacity.
+
+967
+01:18:36,480 --> 01:18:39,119
+As Professor Henri Vollmer put it
+
+968
+01:18:39,280 --> 01:18:41,510
+with this system we achieved
+
+969
+01:18:41,680 --> 01:18:45,116
+the qualitative jump
+to an autonomous computer.
+
+970
+01:18:45,360 --> 01:18:48,830
+We've created
+an artificial miniature world
+
+971
+01:18:49,120 --> 01:18:53,079
+out of circuits, switches,
+electronic impulses and reflexes.
+
+972
+01:18:53,600 --> 01:18:58,196
+When fully functional,
+it will lead a life of its own
+
+973
+01:18:58,920 --> 01:19:02,515
+according to our rules,
+and with its own dynamics.
+
+974
+01:19:02,680 --> 01:19:06,468
+Concretely, Dr. Stiller,
+what does the thing do?
+
+975
+01:19:06,640 --> 01:19:10,713
+Naturally Dr. Stiller thinks
+in scientific terms.
+
+976
+01:19:11,000 --> 01:19:15,357
+If you'd prefer
+a practical point of view...
+
+977
+01:19:16,000 --> 01:19:17,319
+I'm at your disposal.
+
+978
+01:19:17,920 --> 01:19:21,356
+Go on, Dr. Stiller.
+We'd like to hear from you.
+
+979
+01:19:24,680 --> 01:19:25,908
+I'll try.
+
+980
+01:19:28,080 --> 01:19:31,868
+You have to imagine the inside
+of our simulation model
+
+981
+01:19:32,320 --> 01:19:34,436
+we call it <i>Simulacron</i> -
+
+982
+01:19:36,680 --> 01:19:39,433
+as a reproduction in miniature
+
+983
+01:19:39,600 --> 01:19:41,909
+of our society.
+
+984
+01:19:43,000 --> 01:19:44,115
+At the moment
+
+985
+01:19:45,600 --> 01:19:49,513
+we have slightly over
+9000 so-called identity units
+
+986
+01:19:49,880 --> 01:19:53,668
+each of which has the faculties
+of perception, thought
+
+987
+01:19:54,120 --> 01:19:56,156
+memory, imagination
+
+988
+01:19:57,320 --> 01:19:58,150
+and so forth
+
+989
+01:19:59,720 --> 01:20:01,676
+of a real human being.
+
+990
+01:20:06,240 --> 01:20:08,117
+With Simulacron, we have
+
+991
+01:20:09,240 --> 01:20:13,756
+in a word, a tiny universe
+identical to our own.
+
+992
+01:20:15,160 --> 01:20:17,037
+Into this universe we can
+
+993
+01:20:17,760 --> 01:20:20,320
+introduce certain impulses which...
+
+994
+01:20:20,480 --> 01:20:22,869
+I'm coming back to your question -
+
+995
+01:20:24,840 --> 01:20:25,829
+impulses which
+
+996
+01:20:26,600 --> 01:20:29,717
+lead to highly specific reactions.
+
+997
+01:20:30,680 --> 01:20:31,829
+Reactions...
+
+998
+01:20:32,800 --> 01:20:35,951
+that precisely replicate
+human reactions.
+
+999
+01:20:36,120 --> 01:20:38,315
+20 years in the future.
+
+1000
+01:20:38,960 --> 01:20:43,272
+This means we can use
+Simulacron to avoid
+
+1001
+01:20:43,440 --> 01:20:45,908
+the mistakes we'd make
+in that period.
+
+1002
+01:20:48,920 --> 01:20:50,194
+For example...
+
+1003
+01:20:52,240 --> 01:20:55,630
+We can, to be extremely concrete
+
+1004
+01:20:56,280 --> 01:20:58,874
+use Simulacron to learn
+
+1005
+01:20:59,720 --> 01:21:03,349
+consumer habits 20 years from now...
+
+1006
+01:21:03,960 --> 01:21:06,918
+how housing needs will evolve
+
+1007
+01:21:07,840 --> 01:21:10,912
+which transportation modes
+will become obsolete
+
+1008
+01:21:11,080 --> 01:21:12,798
+and which ones will be in use.
+
+1009
+01:21:13,720 --> 01:21:16,109
+Then you could also calculate
+
+1010
+01:21:16,280 --> 01:21:20,114
+if in 20 years we'll need
+more steel or plastics.
+
+1011
+01:21:20,360 --> 01:21:21,793
+Yes, of course.
+
+1012
+01:21:22,560 --> 01:21:25,916
+In time manufacturers will have
+access to this data
+
+1013
+01:21:26,080 --> 01:21:28,833
+to avoid socially
+unproductive investments.
+
+1014
+01:21:29,320 --> 01:21:32,073
+What do you mean, "in time"?
+
+1015
+01:21:32,880 --> 01:21:36,077
+As you are aware,
+our research project
+
+1016
+01:21:36,240 --> 01:21:39,038
+is state-initiated and sponsored.
+
+1017
+01:21:39,200 --> 01:21:41,270
+We do not define its mandate.
+
+1018
+01:21:41,440 --> 01:21:45,956
+Our sole mission is
+to carry out government policy.
+
+1019
+01:21:46,600 --> 01:21:48,318
+There are questions about
+
+1020
+01:21:49,520 --> 01:21:51,954
+your relationship to United Steel.
+
+1021
+01:21:52,120 --> 01:21:56,238
+There are always questions.
+That's why you do research...
+
+1022
+01:21:57,360 --> 01:21:58,236
+to find answers.
+
+1023
+01:21:59,440 --> 01:22:02,034
+Here, in our Institute, we seek
+
+1024
+01:22:02,200 --> 01:22:05,272
+to devote our energies
+to designing a better
+
+1025
+01:22:05,800 --> 01:22:09,270
+new, more humane
+and equitable world
+
+1026
+01:22:09,760 --> 01:22:13,673
+to meet the hopes and dreams
+of Mr. Stiller and us all.
+
+1027
+01:22:14,920 --> 01:22:15,750
+Now, a snack.
+
+1028
+01:22:21,360 --> 01:22:24,830
+What's your true relationship
+to Hartmann?
+
+1029
+01:22:27,640 --> 01:22:29,710
+Mr. Hartmann is a friend.
+
+1030
+01:22:31,040 --> 01:22:32,553
+A good friend.
+
+1031
+01:22:33,200 --> 01:22:36,158
+In private, Mr. Rupp,
+only in private.
+
+1032
+01:23:07,200 --> 01:23:11,398
+Hahn's advice from the other day...
+
+1033
+01:23:12,440 --> 01:23:13,873
+I think it helped.
+
+1034
+01:23:16,240 --> 01:23:18,549
+At least I know
+what's wrong with me.
+
+1035
+01:23:43,600 --> 01:23:45,955
+I'm sure you'll be better soon.
+
+1036
+01:23:53,200 --> 01:23:56,397
+About the other night,
+I'm truly sorry.
+
+1037
+01:23:58,920 --> 01:24:00,831
+I was out of it.
+
+1038
+01:24:02,320 --> 01:24:05,551
+Hahn called it "paranoia".
+
+1039
+01:24:07,760 --> 01:24:09,398
+He's probably right.
+
+1040
+01:24:11,200 --> 01:24:13,395
+I'll be so happy
+when everything's OK.
+
+1041
+01:24:14,280 --> 01:24:15,633
+Yes, and...
+
+1042
+01:24:17,120 --> 01:24:20,635
+now with all the coverage
+in the papers,
+
+1043
+01:24:20,800 --> 01:24:22,199
+the TV and so on...
+
+1044
+01:24:24,040 --> 01:24:27,828
+I just hope he's painted himself
+into a corner. And you?
+
+1045
+01:24:28,560 --> 01:24:30,198
+I hope you're right.
+
+1046
+01:24:31,120 --> 01:24:32,439
+Please excuse me.
+
+1047
+01:24:32,600 --> 01:24:33,635
+Of course.
+
+1048
+01:25:26,480 --> 01:25:28,516
+See you sometime.
+
+1049
+01:26:52,280 --> 01:26:53,554
+Say something!
+
+1050
+01:27:14,160 --> 01:27:15,752
+She's not there.
+
+1051
+01:27:21,720 --> 01:27:23,551
+Could I have a light?
+
+1052
+01:27:36,640 --> 01:27:39,552
+Now she's disappeared, like Lause.
+
+1053
+01:27:42,640 --> 01:27:46,758
+Lause disappeared too,
+and everyone's forgotten him.
+
+1054
+01:27:48,920 --> 01:27:50,114
+Except me...
+
+1055
+01:27:53,400 --> 01:27:55,152
+He's in my head
+
+1056
+01:27:57,040 --> 01:28:00,032
+and he refuses to come out.
+
+1057
+01:28:04,960 --> 01:28:06,393
+My Eva...
+
+1058
+01:28:11,040 --> 01:28:13,998
+my darling little Eva.
+
+1059
+01:28:15,560 --> 01:28:17,073
+They'll forget you too.
+
+1060
+01:28:23,920 --> 01:28:26,559
+But in my head,
+she'll stay there.
+
+1061
+01:28:32,160 --> 01:28:33,878
+I mean...
+
+1062
+01:28:35,000 --> 01:28:38,788
+my head's a funny head.
+
+1063
+01:28:43,560 --> 01:28:45,312
+There are things in it
+
+1064
+01:28:47,040 --> 01:28:49,474
+that don't go in any other head.
+
+1065
+01:29:33,040 --> 01:29:34,632
+Good morning, Mr. Stiller.
+
+1066
+01:29:35,400 --> 01:29:37,197
+Good morning, Miss Fromm.
+
+1067
+01:29:38,720 --> 01:29:40,153
+Aspirin?
+
+1068
+01:29:40,320 --> 01:29:41,355
+One second.
+
+1069
+01:29:50,240 --> 01:29:52,834
+I tried to reach you
+all last night.
+
+1070
+01:29:53,280 --> 01:29:54,156
+Me?
+
+1071
+01:29:55,440 --> 01:29:57,317
+Siskins wants you.
+
+1072
+01:30:02,640 --> 01:30:03,993
+Where were you?
+
+1073
+01:30:04,640 --> 01:30:06,790
+Were you with Eva Vollmer?
+
+1074
+01:30:09,000 --> 01:30:13,118
+You should go see Siskins
+right away. It's important.
+
+1075
+01:30:23,280 --> 01:30:25,555
+- <i>/t's Stiller</i>
+- Send him in.
+
+1076
+01:30:28,200 --> 01:30:29,474
+Morning, Stiller.
+
+1077
+01:30:31,160 --> 01:30:32,832
+Aren't you a sight!
+
+1078
+01:30:33,040 --> 01:30:35,190
+A night on the town, I bet.
+
+1079
+01:30:35,720 --> 01:30:37,199
+Have a seat.
+
+1080
+01:30:40,760 --> 01:30:41,954
+What's up?
+
+1081
+01:30:42,920 --> 01:30:46,629
+I wanted to introduce
+a new addition to your staff.
+
+1082
+01:30:47,960 --> 01:30:51,509
+I believe you know him.
+A top-notch fellow.
+
+1083
+01:30:52,040 --> 01:30:54,679
+He sent me his résumé and
+
+1084
+01:30:55,360 --> 01:30:57,715
+I didn't want to lose him.
+
+1085
+01:30:59,320 --> 01:31:00,548
+That will be him.
+
+1086
+01:31:00,720 --> 01:31:01,072
+Come in.
+
+1087
+01:31:03,760 --> 01:31:04,590
+Mark Holm.
+
+1088
+01:31:05,680 --> 01:31:06,510
+Hello.
+
+1089
+01:31:07,480 --> 01:31:08,515
+Hello, Mark.
+
+1090
+01:31:08,680 --> 01:31:11,558
+Mr. Holm can join
+your team immediately.
+
+1091
+01:31:12,000 --> 01:31:13,433
+Where'd you work before?
+
+1092
+01:31:14,320 --> 01:31:16,231
+The Trau Institute, but...
+
+1093
+01:31:21,240 --> 01:31:23,071
+Isn't that
+
+1094
+01:31:24,600 --> 01:31:26,989
+a subsidiary of United Steel?
+
+1095
+01:31:27,160 --> 01:31:28,229
+It is, Fred.
+
+1096
+01:31:28,400 --> 01:31:30,789
+Thanks, I was just curious.
+
+1097
+01:31:46,080 --> 01:31:47,274
+161266.
+
+1098
+01:31:56,880 --> 01:31:58,791
+My God, Eva!
+Where were you?
+
+1099
+01:31:58,960 --> 01:32:01,633
+I searched the entire house
+for you!
+
+1100
+01:32:03,000 --> 01:32:04,069
+Hold on.
+
+1101
+01:32:05,840 --> 01:32:06,829
+Thank you.
+
+1102
+01:32:18,440 --> 01:32:21,034
+- So where were you?
+- <i>At home of course</i>
+
+1103
+01:32:21,200 --> 01:32:24,954
+<i>I fell asleep on the couch</i>
+<i>You just didn't see me</i>
+
+1104
+01:32:25,120 --> 01:32:27,588
+- I searched every...
+- <i>/t doesn't matter</i>
+
+1105
+01:32:29,280 --> 01:32:32,909
+<i>I wanted to apologize</i>
+<i>for running away I love you</i>
+
+1106
+01:32:33,080 --> 01:32:37,153
+<i>I'm happy I've thought it over</i>
+<i>I'm not worried anymore</i>
+
+1107
+01:32:38,920 --> 01:32:40,478
+I need you, Eva.
+
+1108
+01:32:41,880 --> 01:32:43,233
+<i>Yes Ciao</i>
+
+1109
+01:33:08,520 --> 01:33:12,229
+I've been looking for you.
+How's it going?
+
+1110
+01:33:15,680 --> 01:33:17,671
+- A cigarette?
+- God no!
+
+1111
+01:33:20,200 --> 01:33:23,351
+I hate it.
+Mark Holm's been nosing around.
+
+1112
+01:33:26,840 --> 01:33:28,990
+I'm going to hook-up
+with Einstein.
+
+1113
+01:33:30,040 --> 01:33:32,713
+I want to know
+what's going on with him.
+
+1114
+01:33:35,720 --> 01:33:36,232
+Like to come?
+
+1115
+01:33:36,840 --> 01:33:38,159
+No, not today.
+
+1116
+01:33:41,600 --> 01:33:42,794
+See you later.
+
+1117
+01:34:34,200 --> 01:34:35,474
+Fritz, what's wrong?
+
+1118
+01:34:36,400 --> 01:34:38,914
+Nothing, Mr. Stiller,
+it's nothing.
+
+1119
+01:34:55,560 --> 01:34:57,391
+You're not Fritz Walfang.
+
+1120
+01:35:00,000 --> 01:35:01,399
+You're Einstein.
+
+1121
+01:35:02,680 --> 01:35:04,238
+My God, what is this?
+
+1122
+01:35:06,240 --> 01:35:08,037
+Let me go, please!
+
+1123
+01:35:10,880 --> 01:35:12,393
+Don't send me back.
+
+1124
+01:35:13,080 --> 01:35:14,718
+It's my only chance.
+
+1125
+01:35:15,240 --> 01:35:16,832
+I want to be a human being.
+
+1126
+01:35:17,080 --> 01:35:18,433
+And I will.
+
+1127
+01:35:19,120 --> 01:35:22,317
+This is the first step.
+I'll make the next one, too.
+
+1128
+01:35:22,640 --> 01:35:24,232
+Into the real world.
+
+1129
+01:35:26,800 --> 01:35:30,156
+What do you mean?
+This is the real world.
+
+1130
+01:35:30,320 --> 01:35:31,753
+Still want your beer?
+
+1131
+01:35:35,760 --> 01:35:37,398
+That's what you think.
+
+1132
+01:35:37,960 --> 01:35:39,552
+But the truth is
+
+1133
+01:35:39,920 --> 01:35:42,992
+this world,
+which you take for reality,
+
+1134
+01:35:43,400 --> 01:35:46,631
+is only a simulation model
+of the real world.
+
+1135
+01:35:47,280 --> 01:35:49,794
+Fred Stiller,
+the big computer boss...
+
+1136
+01:35:50,280 --> 01:35:54,558
+You're nothing but a mass
+of electrical circuits.
+
+1137
+01:35:55,400 --> 01:35:57,960
+The identity unit Fred Stiller.
+
+1138
+01:35:58,240 --> 01:36:01,198
+You're a number,
+like everyone here.
+
+1139
+01:36:01,400 --> 01:36:03,868
+A number in
+a research laboratory.
+
+1140
+01:36:04,080 --> 01:36:07,675
+Admittedly,
+in a highly advanced one.
+
+1141
+01:36:08,200 --> 01:36:12,193
+Professor Vollmer knew it.
+That's why he had to die.
+
+1142
+01:36:14,200 --> 01:36:15,713
+And now you know.
+
+1143
+01:36:27,480 --> 01:36:29,072
+It can't be, Einstein.
+
+1144
+01:36:30,640 --> 01:36:32,392
+Tell me it's not true.
+
+1145
+01:37:02,880 --> 01:37:06,429
+WORLD ON A WIRE
+
+1146
+01:38:51,120 --> 01:38:54,192
+Subtitles: Robert Gray, <i>Kinograph</i>
+
+1147
+01:38:54,560 --> 01:38:57,757
+Subtitling: C. M. C. - Paris
+
+1148
+01:39:14,680 --> 01:39:16,830
+This print has been made possible
+through the generous support of:
+
+1149
+01:39:17,000 --> 01:39:19,514
+Sony Germany, Geyer-Werke,
+Goethe-Institut
