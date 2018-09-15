@@ -1,0 +1,9 @@
+---
+filename: "EMBER-Shaolin.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "EMBER-Shaolin.avi"
+  hash: "e13963a9f836ff83"
+  filesize: "2154027008"
