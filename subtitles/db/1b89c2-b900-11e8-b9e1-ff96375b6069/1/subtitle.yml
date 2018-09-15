@@ -1,0 +1,9 @@
+---
+filename: "Trop-belle-pour-toi.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Trop-belle-pour-toi.avi"
+  hash: "859230036ec8d22c"
+  filesize: "731875328"
