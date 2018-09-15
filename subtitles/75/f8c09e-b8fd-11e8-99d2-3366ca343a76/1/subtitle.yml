@@ -1,0 +1,9 @@
+---
+filename: "project.x.2012.dvdrip.xvid-amiable.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "project.x.2012.dvdrip.xvid-amiable.avi"
+  hash: "abca97cb8261d49b"
+  filesize: "733884416"
