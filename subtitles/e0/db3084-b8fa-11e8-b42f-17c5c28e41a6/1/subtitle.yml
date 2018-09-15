@@ -1,0 +1,9 @@
+---
+filename: "Le Mepris - Jean-Luc Godard 1963.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Le Mepris - Jean-Luc Godard 1963.avi"
+  hash: "bc0c0e2a02aae580"
+  filesize: "810484736"
