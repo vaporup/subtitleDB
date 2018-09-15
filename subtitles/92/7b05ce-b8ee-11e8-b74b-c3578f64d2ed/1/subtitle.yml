@@ -1,0 +1,9 @@
+---
+filename: "Barsaat.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Barsaat.avi"
+  hash: "85afb3b211e7623e"
+  filesize: "1559591536"
