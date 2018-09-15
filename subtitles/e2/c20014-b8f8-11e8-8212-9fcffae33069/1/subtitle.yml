@@ -1,0 +1,9 @@
+---
+filename: "Animal Farm (1954 - Cartoon) George Orwell.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Animal Farm (1954 - Cartoon) George Orwell.avi"
+  hash: "2312c1dc5ad1392a"
+  filesize: "733505536"
