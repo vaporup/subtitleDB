@@ -1,0 +1,9 @@
+---
+filename: "Sunset-Blvd_WunSeeDee.is.srt"
+language: "is"
+format: "srt"
+
+matches:
+- filename: "Sunset-Blvd_WunSeeDee.avi"
+  hash: "806510e121d7afd4"
+  filesize: "734998528"

@@ -1,0 +1,5637 @@
+1
+00:01:26,487 --> 00:01:30,241
+<i>Da, ovo je Sunset Boulevard,</i>
+<i>Los Angeles, Kalifornija.</i>
+
+2
+00:01:30,407 --> 00:01:33,524
+<i>Pet je sati ujutro.</i>
+
+3
+00:01:33,687 --> 00:01:38,158
+<i>Ovo je odred za ubojstva, zajedno</i>
+<i>sa svim detektivima i novinarima.</i>
+
+4
+00:01:39,047 --> 00:01:44,246
+<i>Ubojstvo je prijavljeno u
+<i>jednoj od kuca u bloku broj 10000.</i>
+
+5
+00:01:44,407 --> 00:01:47,285
+<i>Citat cete o tome</i>
+<i>u vecernjim izdanjima novina.</i>
+
+6
+00:01:47,447 --> 00:01:51,042
+<i>Slušat cete o tome</i>
+<i>na radiju i na televiziji,</i>
+
+7
+00:01:51,207 --> 00:01:56,486
+<i>jer je u to umiješana</i>
+<i>jedna od najvecih zvijezda iz prošlosti.</i>
+
+8
+00:01:56,647 --> 00:02:00,401
+<i>Ali, prije nego što sve</i>
+<i>iskrive i napušu,</i>
+
+9
+00:02:00,567 --> 00:02:03,764
+<i>prije nego se svega dokopaju</i>
+<i>holivudski reporteri,</i>
+
+10
+00:02:03,927 --> 00:02:08,318
+<i>možda biste htjeli cuti cinjenice</i>
+<i>i pravu istinu o svemu.</i>
+
+11
+00:02:08,487 --> 00:02:12,082
+<i>Ako je tako,</i>
+<i>došli ste na pravo mjesto.</i>
+
+12
+00:02:12,247 --> 00:02:16,365
+<i>U njezinom bazenu</i>
+<i>pronadeno je tijelo nekog mladica,</i>
+
+13
+00:02:16,527 --> 00:02:21,601
+<i>s dva metka u ledima i
+<i>jednim u trbuhu. Nitko znacajan.</i>
+
+14
+00:02:21,767 --> 00:02:25,601
+<i>Obican pisac koji je</i>
+<i>potpisao par drugorazrednih filmova.</i>
+
+15
+00:02:26,607 --> 00:02:30,361
+<i>Jadnik!</i>
+<i>Oduvijek je želio imati bazen.</i>
+
+16
+00:02:30,527 --> 00:02:37,046
+<i>Na kraju ga je i dobio,</i>
+<i>samo je cijena ispala malo previsoka.</i>
+
+17
+00:02:38,887 --> 00:02:43,438
+<i>Vratimo se šest mjeseci unatrag,</i>
+<i>do dana kada je sve pocelo.</i>
+
+18
+00:02:43,607 --> 00:02:47,486
+<i>Stanovao sam u apartmanu</i>
+<i>iznad Franklina i lvara.</i>
+
+19
+00:02:47,647 --> 00:02:49,956
+<i>Nije mi baš najbolje išlo.</i>
+
+20
+00:02:50,127 --> 00:02:53,836
+<i>Vec dugo nisam radio</i>
+<i>ni za jedan studio.</i>
+
+21
+00:02:54,007 --> 00:02:58,922
+<i>Sjedio sam tako i izbacivao</i>
+<i>po dvije nove price tjedno.</i>
+
+22
+00:02:59,087 --> 00:03:01,999
+<i>No, izgledalo je da sam</i>
+<i>zaboravio kako se to radi.</i>
+
+23
+00:03:02,167 --> 00:03:07,480
+<i>Možda nisu bile dovoljno originalne,</i>
+<i>a možda su cak bile i preoriginalne.</i>
+
+24
+00:03:07,647 --> 00:03:11,925
+<i>Znam samo to</i>
+<i>da ih nitko nije htio otkupiti.</i>
+
+25
+00:03:12,887 --> 00:03:14,798
+Da?
+
+26
+00:03:23,607 --> 00:03:25,677
+- Joseph C. Gillis?
+- Da.
+
+27
+00:03:25,847 --> 00:03:30,079
+- Došli smo po auto.
+- Koji auto?
+
+28
+00:03:30,247 --> 00:03:34,763
+"Plymouth" kabriolet iz 1946.,
+registarskih oznaka 40 R 116.
+
+29
+00:03:34,927 --> 00:03:38,556
+- Gdje su kljucevi?
+- Zašto bih vam ih dao?
+
+30
+00:03:38,727 --> 00:03:42,436
+Prodavac vas je dugo trpio.
+Niste platili tri rate.
+
+31
+00:03:42,607 --> 00:03:45,519
+A imamo i sudski nalog.
+Kljuceve.
+
+32
+00:03:45,687 --> 00:03:50,158
+- Ili možda želite da ga odvucemo?
+- Smirite se, auto nije ovdje.
+
+33
+00:03:50,327 --> 00:03:53,364
+- Stvarno?
+- Posudio sam ga prijatelju.
+
+34
+00:03:53,527 --> 00:03:56,917
+- Otišao je u Palm Springs.
+- Zdravstveni razlozi, ha?
+
+35
+00:03:57,087 --> 00:04:02,798
+- Ako ne vjerujete, pogledajte u garažu.
+- Vjerujemo mi tebi, ali sad ti vjeruj nama.
+
+36
+00:04:02,967 --> 00:04:06,926
+Bolje ti je da auto sutra u podne
+bude ovdje, inace ce biti problema.
+
+37
+00:04:07,087 --> 00:04:09,806
+Baš lijepo od vas.
+
+38
+00:04:20,367 --> 00:04:26,522
+<i>Trebalo mi je brzo pronaci 290$,</i>
+<i>inace sam mogao zaboraviti auto.</i>
+
+39
+00:04:26,687 --> 00:04:30,646
+<i>Nije bio u Palm Springsu,</i>
+<i>ali nije bio ni u garaži.</i>
+
+40
+00:04:30,807 --> 00:04:33,605
+<i>Predvidio sam</i>
+<i>što ce utjerivaci dugova napraviti.</i>
+
+41
+00:04:33,767 --> 00:04:37,123
+<i>Znao sam da ce se pojaviti</i>
+<i>i nisam htio ništa riskirati.</i>
+
+42
+00:04:37,287 --> 00:04:42,486
+<i>Parkirao sam ga prekoputa, iza</i>
+<i>Rudyevog salona za laštenje cipela.</i>
+
+43
+00:04:42,647 --> 00:04:45,798
+<i>Rudy vas nikada ne bi zapitkivao</i>
+<i>o vašim financijama,</i>
+
+44
+00:04:45,967 --> 00:04:49,323
+<i>samo bi vam pogledao pete</i>
+<i>i odmah bi znao kako stoje stvari.</i>
+
+45
+00:04:53,207 --> 00:04:56,438
+<i>Imao sam scenarij koji je</i>
+<i>sakupljao prašinu u; ; Paramountu;; .
+
+46
+00:04:56,607 --> 00:05:02,204
+<i>Moj agent je smatrao da nema izgleda,</i>
+<i>ali znao sam zvjerku koja me voljela.</i>
+
+47
+00:05:02,367 --> 00:05:06,838
+<i>Došlo je vrijeme da se poslužim time.</i>
+<i>On se zvao Sheldrake.</i>
+
+48
+00:05:07,007 --> 00:05:12,365
+<i>Pametan producent,</i>
+<i>s kolekcijom cireva kao dokazom.</i>
+
+49
+00:05:13,087 --> 00:05:16,159
+Imaš pet minuta.
+O cemu govori prica?
+
+50
+00:05:16,327 --> 00:05:21,526
+O igracu bejzbola, pocetniku kojemu
+dobro ide. Nekoc je sudjelovao u pljacki,
+
+51
+00:05:21,687 --> 00:05:25,123
+ali sada kada pokušava biti pošten,
+neki kockari mu ne daju.
+
+52
+00:05:25,287 --> 00:05:28,484
+Traže od njega da
+namjerno izgubi finale prvenstva?
+
+53
+00:05:28,647 --> 00:05:31,115
+Tako nešto, ali na kraju
+imam odlicno iznenadenje.
+
+54
+00:05:31,287 --> 00:05:34,324
+- Naslov?
+- "Opasne baze". 40 stranica je vec tu.
+
+55
+00:05:34,487 --> 00:05:38,400
+Nazovi odjel citaca i saznaj
+što znaju o "Opasnim bazama".
+
+56
+00:05:39,527 --> 00:05:42,678
+Onima u "Foxu" se poprilicno svida,
+osim, mislim, Zanucku.
+
+57
+00:05:42,847 --> 00:05:45,042
+Zar vi vidite Ty Powera
+u ulozi tog igraca?
+
+58
+00:05:45,207 --> 00:05:47,767
+Ovdje imate najboljeg
+kandidata za ulogu. Alana Ladda.
+
+59
+00:05:47,927 --> 00:05:51,397
+To bi njemu bila promjena. Uostalom,
+snimanje bi bilo jednostavno.
+
+60
+00:05:51,567 --> 00:05:55,879
+Puno snimaka eksterijera i sve bi vas
+moglo izaci manje od milijuna.
+
+61
+00:05:56,047 --> 00:05:58,515
+- Ispricavam se.
+- I Bill Demarest bi dobio dobru ulogu.
+
+62
+00:05:58,687 --> 00:06:02,646
+Postariji trener koji je vidio svašta,
+ponekad izgubi živce...
+
+63
+00:06:02,807 --> 00:06:06,925
+Zdravo g. Sheldrake.
+"Opasne baze" i njihov kratki sinopsis.
+
+64
+00:06:07,087 --> 00:06:09,362
+- Hvala.
+- Ja ne bih gubila vrijeme s tim.
+
+65
+00:06:09,527 --> 00:06:11,165
+- Zašto?
+- Napisan je iz ocaja.
+
+66
+00:06:11,327 --> 00:06:13,045
+Nema mjesta za Ladda?
+
+67
+00:06:13,207 --> 00:06:15,880
+Prežvakavanje necega
+što ionako nije vrijedilo.
+
+68
+00:06:16,047 --> 00:06:21,804
+Bit ce ti drago upoznati g. Gillisa,
+koji je to napisao. Gdica Kramer.
+
+69
+00:06:21,967 --> 00:06:28,520
+Schaefer, Betty Schaefer. Voljela bih
+da sad mogu propasti u zemlju.
+
+70
+00:06:28,687 --> 00:06:33,715
+- Ako vam ja u tome mogu pomoci...
+- Žao mi je, ali mislim da nije dobar.
+
+71
+00:06:33,887 --> 00:06:35,878
+Malo je dosadan i banalan.
+
+72
+00:06:36,407 --> 00:06:39,956
+A što vi preporucujete?
+Joycea, Dostojevskog?
+
+73
+00:06:40,127 --> 00:06:42,277
+Mislim da filmovi
+trebaju imati poruku.
+
+74
+00:06:42,887 --> 00:06:47,119
+Prica vam nije dovoljna?
+Vi biste odbili i "Prohujalo s vihorom".
+
+75
+00:06:47,287 --> 00:06:51,485
+Ne, to sam bio ja. Rekao sam:
+"Koga zanima film o gradanskom ratu?"
+
+76
+00:06:52,487 --> 00:06:57,197
+Možda mi se "Opasne baze" nisu
+svidjele jer sam cula da ste talentirani.
+
+77
+00:06:57,367 --> 00:06:59,278
+Nekad sam bio,
+ali sad pokušavam preživjeti.
+
+78
+00:06:59,447 --> 00:07:02,803
+Znaci, uzmete zaplet 27 A,
+malo ga preuredite?
+
+79
+00:07:02,967 --> 00:07:06,164
+To nije pristojan rjecnik.
+Zvucite kao njujorški kriticari.
+
+80
+00:07:06,327 --> 00:07:10,240
+- To je sve, gdice Kramer... Schaefer.
+- Dovidenja, g. Gillis.
+
+81
+00:07:10,407 --> 00:07:13,524
+Iduci put cu za vas napisati
+"Gole i mrtve".
+
+82
+00:07:13,687 --> 00:07:18,522
+Pa, izgleda da je Zanuck
+dobio film o bejzbolu.
+
+83
+00:07:18,687 --> 00:07:22,043
+Nemojte misliti da sam ja smatrao
+kako je ovo materijal za Oskara.
+
+84
+00:07:22,207 --> 00:07:26,758
+Naravno, mi uvijek nešto tražimo za
+Betty Hutton. Vidiš li nju negdje tu?
+
+85
+00:07:26,927 --> 00:07:29,521
+- Iskreno receno, ne.
+- Cekaj malo.
+
+86
+00:07:29,687 --> 00:07:31,882
+Možda da to bude
+ženska bejzbol ekipa.
+
+87
+00:07:32,047 --> 00:07:34,561
+Ubacimo par pjesama
+i imamo mjuzikl:
+
+88
+00:07:34,727 --> 00:07:37,685
+"Dogodilo se na terenu:
+prica o jednoj ženi".
+
+89
+00:07:38,727 --> 00:07:42,845
+Ako pokušavate biti duhoviti, nije
+smiješno. Meni stvarno treba posao.
+
+90
+00:07:43,007 --> 00:07:46,795
+- Nemam apsolutno ništa.
+- Bilo što, dodatni dijalog?
+
+91
+00:07:46,967 --> 00:07:48,400
+Ništa, zaista.
+
+92
+00:07:51,287 --> 00:07:56,441
+Gospodine Sheldrake, da li biste mi vi
+mogli posuditi 300 dolara?
+
+93
+00:07:56,847 --> 00:07:59,441
+Da li bih mogao? Gillis...
+
+94
+00:08:01,367 --> 00:08:03,961
+Prošle godine me je
+netko nagovorio da kupim ranc,
+
+95
+00:08:04,127 --> 00:08:06,641
+tako da sam od banke
+posudio novac.
+
+96
+00:08:06,807 --> 00:08:11,756
+Ove godine sam morao uzeti hipoteku
+kako bih zadržao osiguranje...
+
+97
+00:08:15,167 --> 00:08:17,920
+<i>Nakon toga,</i>
+<i>odvezao sam se u centralu.</i>
+
+98
+00:08:18,087 --> 00:08:21,045
+<i>Mnogi od nas tako doživljavaju</i>
+<i>Schwabovu trgovinu.</i>
+
+99
+00:08:21,207 --> 00:08:24,916
+<i>Kao kombinaciju ureda,</i>
+<i>kavane i cekaonice.</i>
+
+100
+00:08:25,087 --> 00:08:28,875
+<i>Cekanje...</i>
+<i>Cekanje na bolja vremena.</i>
+
+101
+00:08:30,647 --> 00:08:35,198
+<i>Nabavio sam nešto sitniša</i>
+<i>i poceo slati opci poziv za pomoc.</i>
+
+102
+00:08:35,367 --> 00:08:38,165
+<i>Svog agenta, naravno,</i>
+<i>nisam mogao dobiti.</i>
+
+103
+00:08:38,327 --> 00:08:41,524
+<i>Nazvao sam prijatelja,</i>
+<i>Artiea Greena.</i>
+
+104
+00:08:41,687 --> 00:08:44,406
+<i>Sjajan tip,</i>
+<i>pomocnik redatelja.</i>
+
+105
+00:08:44,567 --> 00:08:48,924
+<i>On mi je mogao posuditi 20$,</i>
+<i>ali to nije bilo dovoljno.</i>
+
+106
+00:08:49,087 --> 00:08:54,320
+<i>Potom sam nazvao par tipova koji</i>
+<i>uvijek kažu; ; da;; . Meni su rekli; ; ne;; .
+
+107
+00:08:54,487 --> 00:08:58,162
+<i>Napokon sam pronašao</i>
+<i>svog agenta. Veliki folirant!</i>
+
+108
+00:08:59,087 --> 00:09:02,716
+<i>Ubijao se tražeci posao</i>
+<i>jadnom Joeu Gillisu?</i>
+
+109
+00:09:02,887 --> 00:09:07,324
+<i>Naporno je radio u Bel Airu,</i>
+<i>družeci se s palicama za golf.</i>
+
+110
+00:09:09,767 --> 00:09:15,000
+Treba ti 300$?
+Naravno da ti ih mogu dati, ali necu.
+
+111
+00:09:15,167 --> 00:09:18,284
+- Ne?
+- Ja tebi nisam samo agent.
+
+112
+00:09:18,447 --> 00:09:21,917
+- Nije stvar u 10%. Ja sam ti i prijatelj.
+- Jesi?
+
+113
+00:09:22,087 --> 00:09:25,318
+Najbolje stvari su napisane
+na prazan želudac.
+
+114
+00:09:25,487 --> 00:09:29,036
+Kad tvoj talent dostigne
+Mocambo-Romanovu rutinu, uspio si.
+
+115
+00:09:29,207 --> 00:09:33,359
+Ma, pusti to! Ovdje se radi o autu.
+Bez njega bih bio kao bez nogu.
+
+116
+00:09:33,527 --> 00:09:38,282
+Najbolje što ti se moglo dogoditi.
+Sad ceš morati sjesti i pisati.
+
+117
+00:09:38,447 --> 00:09:42,122
+A što misliš da sam dosad radio?
+Treba mi 300 dolara.
+
+118
+00:09:42,287 --> 00:09:47,645
+Dušo, možda tebi treba drugi agent.
+
+119
+00:09:57,207 --> 00:10:01,041
+<i>Na povratku u grad,</i>
+<i>razmišljao sam o svojim izgledima.</i>
+
+120
+00:10:01,207 --> 00:10:03,596
+<i>Trenutacno su bili ravni nuli.</i>
+
+121
+00:10:03,767 --> 00:10:06,839
+<i>Ocito, nisam imao; ; ono nešto;; .
+
+122
+00:10:07,007 --> 00:10:10,886
+<i>Došlo je vrijeme da se napusti</i>
+<i>holivudski san i ode kuci.</i>
+
+123
+00:10:11,047 --> 00:10:15,404
+<i>Možda bi se od mojih stvari</i>
+<i>moglo sakupiti za kartu do Ohia</i>
+
+124
+00:10:15,567 --> 00:10:20,357
+<i>i povratak poslu od 35$ tjedno</i>
+<i>u; ; Dayton Evening Postu;; .
+
+125
+00:10:20,527 --> 00:10:25,282
+<i>Ako me on još uvijek ceka.</i>
+<i>Naravno, uz podsmijeh cijeloga ureda.</i>
+
+126
+00:10:25,447 --> 00:10:29,122
+<i>Zašto vi ne pokušate</i>
+<i>osvojiti Hollywood?</i>
+
+127
+00:10:29,287 --> 00:10:31,084
+<i>Možda mislite da biste vi...</i>
+
+128
+00:10:32,487 --> 00:10:34,159
+<i>Oh-oh!</i>
+
+129
+00:11:27,687 --> 00:11:30,759
+<i>Našao sam se na</i>
+<i>kolnom prilazu nekoj velikoj vili,</i>
+
+130
+00:11:30,927 --> 00:11:33,646
+<i>koja je izgledala stara i napuštena.</i>
+
+131
+00:11:33,807 --> 00:11:36,560
+<i>Na kraju prilaza</i>
+<i>cekao me pravi melem za oci.</i>
+
+132
+00:11:36,727 --> 00:11:41,482
+<i>Velika prazna garaža,</i>
+<i>koja ocito nicemu nije služila.</i>
+
+133
+00:11:41,647 --> 00:11:47,244
+<i>Ako je ikada postojalo mjesto</i>
+<i>za auto kome su svi bili za petama...</i>
+
+134
+00:11:55,167 --> 00:11:57,840
+<i>U garaži je bio</i>
+<i>još jedan stanar.</i>
+
+135
+00:11:58,007 --> 00:12:00,919
+<i>Ogroman automobil</i>
+<i>strane proizvodnje.</i>
+
+136
+00:12:01,087 --> 00:12:04,397
+<i>Mora da je trošio 2000 litara na 100 km.</i>
+
+137
+00:12:04,567 --> 00:12:10,483
+<i>Registracija mu je bila iz 1932.</i>
+<i>Mislio sam da su se vlasnici tada iselili.</i>
+
+138
+00:12:11,207 --> 00:12:16,406
+<i>Znao sam da se ne mogu vratiti</i>
+<i>u svoj stan jer su mi ovi bili za petama.</i>
+
+139
+00:12:16,567 --> 00:12:21,436
+<i>Htio sam ostati kod Artiea Greena</i>
+<i>dok ne sakupim za autobus za Ohio.</i>
+
+140
+00:12:21,607 --> 00:12:24,883
+<i>Nakon povratka u Dayton</i>
+<i>vjerovnicima bih poslao razglednicu</i>
+
+141
+00:12:25,047 --> 00:12:28,801
+<i>koja bi im rekla</i>
+<i>gdje mogu pokupiti krntiju.</i>
+
+142
+00:12:30,487 --> 00:12:33,684
+<i>Mjesto je bilo poput</i>
+<i>velikog nezgrapnog slona.</i>
+
+143
+00:12:33,847 --> 00:12:37,522
+<i>Onakvo kakvo su gradili</i>
+<i>filmski ludaci ludih dvadesetih.</i>
+
+144
+00:12:37,687 --> 00:12:40,963
+<i>Zapuštena kuca</i>
+<i>poprima nesretan izgled.</i>
+
+145
+00:12:41,127 --> 00:12:43,516
+<i>Ova je toga imala u izobilju.</i>
+
+146
+00:12:43,687 --> 00:12:46,918
+<i>Poput one starice</i>
+<i>u; ; Velikim išcekivanjima; ;,</i>
+
+147
+00:12:47,087 --> 00:12:51,285
+<i>gde Havisham, u truloj vjencanici</i>
+<i>i s poderanim velom,</i>
+
+148
+00:12:51,447 --> 00:12:55,804
+<i>bijesne na svijet</i>
+<i>jer je bila odbacena.</i>
+
+149
+00:13:01,167 --> 00:13:04,398
+Vi tamo, zašto ovoliko kasnite?
+
+150
+00:13:05,527 --> 00:13:09,839
+Zašto ste me pustili
+da ovoliko cekam?
+
+151
+00:13:17,647 --> 00:13:18,966
+Ovamo.
+
+152
+00:13:26,207 --> 00:13:28,926
+Ostavio sam auto u garaži.
+Imao sam kvar. Mislio sam...
+
+153
+00:13:29,087 --> 00:13:32,602
+- Udite.
+- Možda je najbolje da uzmem auto...
+
+154
+00:13:32,767 --> 00:13:35,235
+Obrišite noge.
+
+155
+00:13:37,527 --> 00:13:39,279
+Naprijed.
+
+156
+00:13:43,287 --> 00:13:46,518
+Niste dolicno obuceni
+za ovu prigodu.
+
+157
+00:13:46,687 --> 00:13:50,521
+- A koja je prigoda?
+- Pošalji ga gore, Maxe.
+
+158
+00:13:50,687 --> 00:13:53,599
+- Uz stepenice.
+- Poslušajte me samo tren...
+
+159
+00:13:53,767 --> 00:13:57,442
+- Madame ceka.
+- Mene?
+
+160
+00:13:58,607 --> 00:14:00,279
+U redu.
+
+161
+00:14:06,807 --> 00:14:09,799
+Ako vam bude trebala pomoc
+s lijesom, zovite me.
+
+162
+00:14:28,487 --> 00:14:30,000
+Ovamo.
+
+163
+00:14:36,287 --> 00:14:37,845
+Unutra.
+
+164
+00:14:38,367 --> 00:14:41,200
+Stavila sam ga na
+stol za masažu, pored kamina.
+
+165
+00:14:41,367 --> 00:14:45,918
+Uvijek je volio vatru
+i po njoj prebirati štapom.
+
+166
+00:14:50,487 --> 00:14:54,196
+Odlucila sam ga pokopati u vrtu.
+Ima li neki zakon koji to brani?
+
+167
+00:14:55,567 --> 00:14:57,523
+- Ne znam.
+- Nije me ni briga.
+
+168
+00:14:57,687 --> 00:15:01,805
+Želim bijeli lijes
+koji ce biti obložen baršunom.
+
+169
+00:15:01,967 --> 00:15:05,357
+Bijelim ili tamno ružicastim.
+
+170
+00:15:07,447 --> 00:15:11,599
+Možda crvenim, žarko crvenim.
+Samo neka izgleda veselo.
+
+171
+00:15:20,287 --> 00:15:24,678
+Koliko ce to koštati? Nemojte mi samo
+lupiti neku cijenu zato jer sam bogata.
+
+172
+00:15:26,407 --> 00:15:30,958
+Gospodo, vi ste me zamijenili
+s nekim drugim. Meni je pukla guma.
+
+173
+00:15:31,127 --> 00:15:35,962
+Parkirao sam tu dok ne pronadem novu.
+Mislio sam da je kuca napuštena.
+
+174
+00:15:36,127 --> 00:15:40,757
+- Nije. Izlazite.
+- Žao mi je.
+
+175
+00:15:40,927 --> 00:15:46,206
+Žao mi je što ste izgubili prijatelja.
+Mislim da crvena nije dobar odabir.
+
+176
+00:15:46,367 --> 00:15:51,282
+- Jesam li ja vas vec negdje vidio?
+- Izlazite, inace zovem slugu.
+
+177
+00:15:51,927 --> 00:15:55,397
+Vi ste Norma Desmond.
+Nekoc ste bili velika zvijezda.
+
+178
+00:15:57,247 --> 00:16:02,002
+Ja sam još uvijek velika zvijezda.
+Filmovi su ti koji su se smanjili.
+
+179
+00:16:02,487 --> 00:16:05,763
+Znao sam
+da nešto nije u redu s njima.
+
+180
+00:16:05,927 --> 00:16:08,157
+Mrtvi su, gotovi.
+
+181
+00:16:08,327 --> 00:16:12,161
+Nekada su imali
+pozornost ociju cijeloga svijeta.
+
+182
+00:16:12,327 --> 00:16:16,639
+Ali to im nije bilo dovoljno.
+Morali su pridobiti i uši svijeta.
+
+183
+00:16:16,807 --> 00:16:21,358
+Stoga su otvorili svoje gubice
+i krenuo je govor, govor, govor!
+
+184
+00:16:21,527 --> 00:16:25,679
+Tako je i krenuo posao s kokicama.
+Kupite ih da biste zacepili uši.
+
+185
+00:16:25,847 --> 00:16:29,396
+Pogledajte ih samo u tim uredima.
+Veliki mozgovi!
+
+186
+00:16:29,567 --> 00:16:31,558
+Uništili su sve legende!
+
+187
+00:16:31,727 --> 00:16:34,321
+Fairbankse, Gilberte, Valentina!
+
+188
+00:16:34,487 --> 00:16:37,001
+Koga sada imamo? Obicne nule.
+
+189
+00:16:37,167 --> 00:16:39,920
+Nemojte mene kriviti.
+Ja sam samo pisac.
+
+190
+00:16:40,607 --> 00:16:43,963
+Pisac? lspisujete rijeci, rijeci,
+sve same rijeci.
+
+191
+00:16:44,127 --> 00:16:46,960
+Od rijeci ste napravili konopac
+i zadavili ovaj posao.
+
+192
+00:16:47,127 --> 00:16:49,925
+Ali i za taj posljednji krkljaj
+postoji mikrofon
+
+193
+00:16:50,087 --> 00:16:52,726
+i Technicolor da se snimi
+nateceni jezik.
+
+194
+00:16:52,887 --> 00:16:57,563
+- Tiho, probudit cete majmuna.
+- Izlazite! Maxe.
+
+195
+00:16:57,727 --> 00:17:00,116
+Iduci put cu donijeti
+album za autograme.
+
+196
+00:17:00,287 --> 00:17:03,996
+Ili možda malo cementa
+da zatražim vaš otisak noge.
+
+197
+00:17:07,287 --> 00:17:09,164
+U redu je. Odlazim.
+
+198
+00:17:09,327 --> 00:17:13,036
+Samo tren.
+Rekli ste da ste pisac?
+
+199
+00:17:13,207 --> 00:17:15,926
+- Zašto pitate?
+- Jeste li ili niste?
+
+200
+00:17:16,087 --> 00:17:21,366
+- Tako piše na kartici mog udruženja.
+- Znaci, pisali ste filmove?
+
+201
+00:17:21,527 --> 00:17:24,325
+Naravno da jesam.
+Hocete li možda popis?
+
+202
+00:17:24,487 --> 00:17:27,160
+Htjela bih vas nešto pitati.
+Dodite ovamo.
+
+203
+00:17:27,327 --> 00:17:29,887
+Zadnji scenarij napisao sam o
+doseljenicima na neplodnu zemlju.
+
+204
+00:17:30,047 --> 00:17:35,440
+Ne biste to nikad rekli, jer se na platnu
+sve dogada na torpednom camcu.
+
+205
+00:17:43,247 --> 00:17:44,566
+Intimno, zar ne?
+
+206
+00:17:47,647 --> 00:17:51,037
+Vjetar se zavlaci u one orgulje.
+Trebala bih ih izbaciti.
+
+207
+00:17:51,207 --> 00:17:53,277
+Ja bih ih naucio necem novom.
+
+208
+00:17:53,447 --> 00:17:55,517
+Mladicu, recite mi nešto.
+
+209
+00:17:55,687 --> 00:17:59,362
+Koliko su danas dugi filmski scenariji?
+Koliko imaju stranica?
+
+210
+00:17:59,527 --> 00:18:01,563
+Ovisi za koji su film pisani.
+
+211
+00:18:01,727 --> 00:18:07,085
+Ovo ce biti jako važan film.
+Osobno sam ga pisala par godina.
+
+212
+00:18:07,247 --> 00:18:12,082
+- Ovdje ima materijala za šest filmova.
+- Prica o Salomi. DeMille ce je režirati.
+
+213
+00:18:12,567 --> 00:18:16,799
+- DeMille?
+- Zajedno smo snimili puno filmova.
+
+214
+00:18:16,967 --> 00:18:20,926
+- A vi cete biti Saloma.
+- Tko drugi?
+
+215
+00:18:21,847 --> 00:18:24,122
+Nisam znao da planirate opet raditi.
+
+216
+00:18:24,287 --> 00:18:27,199
+Mrzim tu rijec! Ovo je povratak!
+
+217
+00:18:27,367 --> 00:18:31,645
+Povratak milijunima koji mi
+nikad nisu oprostili odlazak s platna.
+
+218
+00:18:31,807 --> 00:18:35,561
+- Shvacam.
+- Saloma. Kakva žena.
+
+219
+00:18:35,727 --> 00:18:39,436
+Kakva uloga.
+Princeza zaljubljena u sveca.
+
+220
+00:18:39,607 --> 00:18:41,643
+Izvodi ples sedam velova.
+
+221
+00:18:41,807 --> 00:18:45,163
+On je odbija, a ona zahtijeva
+njegovu glavu na pladnju.
+
+222
+00:18:45,327 --> 00:18:48,717
+Ljubi njegove hladne, mrtve usne.
+
+223
+00:18:49,367 --> 00:18:52,882
+- U Pomoni ce se oduševiti.
+- Svugdje ce se oduševiti.
+
+224
+00:18:53,047 --> 00:18:55,481
+Procitajte scenu
+prije nego ga ona da ubiti.
+
+225
+00:18:55,647 --> 00:18:57,842
+Ja bih vam kao pisac
+mogao ukrasti materijal.
+
+226
+00:18:58,007 --> 00:19:00,362
+Ne bojim se ja toga.
+Procitajte.
+
+227
+00:19:00,527 --> 00:19:04,918
+Maxe, donesi nam neko pice.
+Sjednite. Imate li dovoljno svjetla?
+
+228
+00:19:05,087 --> 00:19:09,638
+- Imam odlican vid.
+- Rekla sam, sjednite.
+
+229
+00:19:13,167 --> 00:19:15,920
+<i>Važnih obveza</i>
+<i>doista nisam imao.</i>
+
+230
+00:19:16,087 --> 00:19:18,965
+<i>Osim sastanka s
+<i>utjerivacima dugova.</i>
+
+231
+00:19:19,127 --> 00:19:23,439
+<i>Uostalom, spomenula je i pice.</i>
+<i>Zašto ne?</i>
+
+232
+00:19:23,607 --> 00:19:28,806
+<i>Ponekad se zanimljivo uvjeriti</i>
+<i>koliko loše ljudi mogu pisati.</i>
+
+233
+00:19:28,967 --> 00:19:31,640
+<i>Ovo je bilo na pravom putu</i>
+<i>da sve nadmaši.</i>
+
+234
+00:19:31,807 --> 00:19:37,359
+<i>Što li bi samo grafolog rekao</i>
+<i>na njezine djecje crckarije?</i>
+
+235
+00:19:38,727 --> 00:19:42,117
+<i>Max je donio šampanjca i kavijara.</i>
+
+236
+00:19:42,287 --> 00:19:47,486
+<i>Kasnije sam doznao da je Max</i>
+<i>jedini drugi stanar sumornog zamka.</i>
+
+237
+00:19:47,647 --> 00:19:51,162
+<i>A doznao sam i
+<i>još par stvari o njemu.</i>
+
+238
+00:19:51,327 --> 00:19:54,842
+<i>Što se nje tice, ona je sjedila</i>
+<i>sklupcana poput opruge na satu,</i>
+
+239
+00:19:55,007 --> 00:19:57,760
+<i>s cigaretom stisnutom</i>
+<i>u nekom neobicnom držacu.</i>
+
+240
+00:19:57,927 --> 00:20:00,885
+<i>Mogao sam osjetiti njezin pogled</i>
+<i>iza tih tamnih naocala,</i>
+
+241
+00:20:01,047 --> 00:20:03,800
+<i>kako me izaziva da mi se</i>
+<i>ono što citam ne svidi.</i>
+
+242
+00:20:03,967 --> 00:20:07,926
+<i>Ili me možda, na njezin ponosan</i>
+<i>nacin, upravo molila da mi se svidi.</i>
+
+243
+00:20:08,087 --> 00:20:11,124
+<i>Toliko joj je puno to znacilo.</i>
+
+244
+00:20:16,607 --> 00:20:18,837
+<i>Uglavnom, situacija je bila vrlo udobna.</i>
+
+245
+00:20:19,007 --> 00:20:24,081
+<i>To klupko napetih živaca,</i>
+<i>Max, mrtav majmun na katu</i>
+
+246
+00:20:24,247 --> 00:20:28,718
+<i>i povremeno</i>
+<i>zavijanje vjetra u orguljama.</i>
+
+247
+00:20:34,967 --> 00:20:38,164
+<i>Nešto kasnije,</i>
+<i>tek toliko da se razbije napetost,</i>
+
+248
+00:20:38,327 --> 00:20:42,036
+<i>stigao je i pravi tip</i>
+<i>s djecjim lijesom.</i>
+
+249
+00:20:42,207 --> 00:20:45,517
+<i>Sve je obavljeno</i>
+<i>s velikim dostojanstvom.</i>
+
+250
+00:20:45,687 --> 00:20:48,759
+<i>Mora da je to bila</i>
+<i>jako važna cimpanza.</i>
+
+251
+00:20:48,927 --> 00:20:52,715
+<i>Možda cak i unuk</i>
+<i>samog King Konga.</i>
+
+252
+00:20:55,047 --> 00:20:59,723
+<i>Mora da su bila 23 sata, kad sam</i>
+<i>u želucu osjetio odredenu mucninu.</i>
+
+253
+00:20:59,887 --> 00:21:03,766
+<i>Nikakvo cudo uz taj slatki šampanjac</i>
+<i>i gluposti koje sam citao,</i>
+
+254
+00:21:03,927 --> 00:21:08,079
+<i>tu smiješnu zbrku</i>
+<i>melodramatskih zapleta.</i>
+
+255
+00:21:08,247 --> 00:21:14,482
+<i>No, dotad sam vec i sam poceo</i>
+<i>kovati ideju za jedan svoj mali zaplet.</i>
+
+256
+00:21:14,647 --> 00:21:18,845
+- Onda?
+- Ovo je fascinantno.
+
+257
+00:21:19,007 --> 00:21:21,362
+Naravno da jest.
+
+258
+00:21:22,407 --> 00:21:27,356
+Možda je malo dugo i ima ponavljanja,
+ali vi niste profesionalni pisac.
+
+259
+00:21:27,527 --> 00:21:32,521
+- Napisala sam to iz srca.
+- Svakako.
+
+260
+00:21:32,687 --> 00:21:34,803
+To je ono što ga i cini sjajnim.
+
+261
+00:21:36,087 --> 00:21:40,603
+- Ali potrebno mu je još dijaloga.
+- Zašto?
+
+262
+00:21:40,767 --> 00:21:44,919
+- Ja mogu ocima sve izraziti.
+- Kracenje bi sigurno bilo korisno.
+
+263
+00:21:45,087 --> 00:21:48,875
+- Necu dopustiti nikakvo masakriranje.
+- Naravno.
+
+264
+00:21:49,047 --> 00:21:53,325
+Sve treba biti organizirano.
+Trebate naci nekoga za to skratiti.
+
+265
+00:21:53,487 --> 00:21:57,241
+Koga? Trebala bih pronaci
+nekoga kome mogu vjerovati.
+
+266
+00:21:57,407 --> 00:21:59,921
+Kada ste vi rodeni?
+Koji ste znak u horoskopu?
+
+267
+00:22:00,087 --> 00:22:03,124
+- Ne znam.
+- Kojega datuma?
+
+268
+00:22:03,287 --> 00:22:05,164
+21. prosinca.
+
+269
+00:22:05,327 --> 00:22:08,717
+Strijelac. Volim Strijelce
+jer se njima može vjerovati.
+
+270
+00:22:09,607 --> 00:22:12,519
+- Hvala vam.
+- Hocu da vi ovo napravite.
+
+271
+00:22:12,687 --> 00:22:18,478
+Ja sam zauzet. Upravo sam završio
+jedan scenarij i pocinjem nešto drugo.
+
+272
+00:22:18,647 --> 00:22:20,877
+Nije me briga.
+
+273
+00:22:21,327 --> 00:22:25,479
+Znate, ja nisam jeftin.
+Naplacujem 500 dolara tjedno.
+
+274
+00:22:25,647 --> 00:22:29,845
+Ne brinite za novac.
+Isplatit ce vam se.
+
+275
+00:22:30,007 --> 00:22:33,920
+- Mogao bih ostalo procitati kod kuce.
+- Ne dopuštam da izade odavde.
+
+276
+00:22:34,087 --> 00:22:37,921
+- Dovršite ovdje citanje.
+- Sada je vec malo kasno.
+
+277
+00:22:39,047 --> 00:22:42,084
+- Jeste li vi oženjeni, gospodine?
+- Gillis. Nisam.
+
+278
+00:22:42,247 --> 00:22:45,523
+- Gdje stanujete?
+- Hollywood. Apartmani Alto Nido.
+
+279
+00:22:45,687 --> 00:22:49,441
+- Nešto vam nije u redu s autom?
+- Tocno.
+
+280
+00:22:49,607 --> 00:22:53,043
+- Zašto ne ostanete ovdje?
+- Vratit cu se rano ujutro.
+
+281
+00:22:53,207 --> 00:22:56,643
+Glupost.
+Iznad garaže imamo sobu.
+
+282
+00:22:56,807 --> 00:23:00,846
+Max ce vas tamo odvesti. Maxe!
+
+283
+00:23:03,727 --> 00:23:07,766
+<i>Bio sam poprilicno zadovoljan</i>
+<i>kako sam ovladao situacijom.</i>
+
+284
+00:23:07,927 --> 00:23:11,078
+<i>Zabacio sam udicu,</i>
+<i>a ona je zagrizla.</i>
+
+285
+00:23:11,247 --> 00:23:15,286
+<i>Auto ce biti na sigurnom</i>
+<i>dok ja budem prepravljao scenarij.</i>
+
+286
+00:23:16,247 --> 00:23:19,637
+<i>Uostalom, posao je</i>
+<i>trebao donijeti i dosta novca.</i>
+
+287
+00:23:23,807 --> 00:23:26,367
+Soba vec dugo nije korištena.
+
+288
+00:23:26,527 --> 00:23:30,156
+Nije baš za glamur magazine,
+ali za jednu noc ce poslužiti.
+
+289
+00:23:30,327 --> 00:23:36,323
+- Popodne sam vam napravio krevet.
+- Kako ste mogli znati da cu ostati?
+
+290
+00:23:36,487 --> 00:23:41,607
+Kupaonica je tamo. Stavio sam vam i
+par rucnika, sapun i cetkicu za zube.
+
+291
+00:23:44,527 --> 00:23:48,725
+Iznimna osoba,
+ova Norma Desmond.
+
+292
+00:23:48,887 --> 00:23:52,516
+Ona je bila najveca,
+ali vi ste premladi da biste to znali.
+
+293
+00:23:52,687 --> 00:23:56,157
+U jednome tjednu je primila
+17000 pisama svojih obožavatelja.
+
+294
+00:23:56,327 --> 00:23:59,603
+Ljudi su potplacivali frizere
+za pramen njezine kose.
+
+295
+00:23:59,767 --> 00:24:04,682
+Jedan maharadža je iz Indije
+došao moliti njezinu podvezicu.
+
+296
+00:24:04,847 --> 00:24:07,998
+Kasnije je sam sebe
+s njome zadavio.
+
+297
+00:24:08,167 --> 00:24:11,603
+Pa, ocito je da sam skrenuo
+na zanimljivi kolni prilaz.
+
+298
+00:24:11,767 --> 00:24:14,964
+Jeste, gospodine. Laku noc.
+
+299
+00:24:20,207 --> 00:24:23,597
+<i>Ocijenio sam da je i on</i>
+<i>malo cudan.</i>
+
+300
+00:24:24,087 --> 00:24:26,601
+<i>Možda je pretrpio moždani udar.</i>
+
+301
+00:24:26,847 --> 00:24:32,763
+<i>Zapravo, kao da je cijelo mjesto</i>
+<i>pogodila neka jeziva paraliza.</i>
+
+302
+00:24:32,927 --> 00:24:37,842
+<i>Neuskladeno s ostatkom svijeta,</i>
+<i>usporeno se raspadalo.</i>
+
+303
+00:24:38,887 --> 00:24:43,756
+<i>Tenisko igralište</i>
+<i>ili tocnije njegovi ostaci,</i>
+
+304
+00:24:43,927 --> 00:24:47,476
+<i>s izblijedjelim linijama</i>
+<i>i obješenom mrežom.</i>
+
+305
+00:24:50,887 --> 00:24:55,403
+<i>A, naravno, imala je i bazen.</i>
+<i>Tko nije, u to vrijeme?</i>
+
+306
+00:24:55,567 --> 00:25:00,721
+<i>Mabel Normand i John Gilbert</i>
+<i>mora da su u njemu davno plivali.</i>
+
+307
+00:25:00,887 --> 00:25:04,516
+<i>I Vilma Banky</i>
+<i>i Rod La Rocque.</i>
+
+308
+00:25:04,687 --> 00:25:08,566
+<i>Sada je bio prazan. Ili nije?</i>
+
+309
+00:25:14,487 --> 00:25:21,279
+<i>Još nešto se tu dogadalo:</i>
+<i>posljednja pomast za staroga cimpanzu,</i>
+
+310
+00:25:21,447 --> 00:25:24,757
+<i>obavljena s krajnjom ozbiljnošcu,</i>
+
+311
+00:25:24,927 --> 00:25:28,886
+<i>kao da u grob</i>
+<i>polaže jedino dijete.</i>
+
+312
+00:25:29,607 --> 00:25:33,566
+<i>Zar joj je život</i>
+<i>doista bio tako prazan?</i>
+
+313
+00:25:41,527 --> 00:25:46,555
+<i>Sve je bilo vrlo cudno,</i>
+<i>ali cudnije stvari tek su slijedile.</i>
+
+314
+00:25:54,527 --> 00:26:00,045
+<i>Te noci sanjao sam cudan san.</i>
+<i>U njemu je bio orguljaš.</i>
+
+315
+00:26:00,207 --> 00:26:03,916
+<i>Nisam mu mogao vidjeti lice,</i>
+<i>ali orgulje su bile presvucene u crno.</i>
+
+316
+00:26:04,087 --> 00:26:07,557
+<i>A cimpanza je igrao za sitniš.</i>
+
+317
+00:26:07,727 --> 00:26:11,925
+<i>Kada sam otvorio oci,</i>
+<i>glazba se još uvijek cula.</i>
+
+318
+00:26:12,087 --> 00:26:14,043
+<i>A gdje sam ja?</i>
+
+319
+00:26:15,487 --> 00:26:20,561
+<i>Oh, da, u toj praznoj sobi</i>
+<i>iznad njezine garaže.</i>
+
+320
+00:26:20,727 --> 00:26:26,040
+<i>Ali više nije bila prazna.</i>
+<i>Imao sam posjetitelja.</i>
+
+321
+00:26:26,207 --> 00:26:30,997
+<i>Netko je donio sve moje stvari.</i>
+<i>Knjige, pisaci stroj, odjecu...</i>
+
+322
+00:26:32,487 --> 00:26:34,921
+<i>Što se to zbivalo?</i>
+
+323
+00:26:51,847 --> 00:26:57,126
+Hej, ti! Maxe, ili kako li se vec zoveš,
+što moje stvari rade ovdje?
+
+324
+00:26:57,287 --> 00:27:01,360
+Tebi govorim.
+Moja odjeca i stvari su gore u sobi.
+
+325
+00:27:01,527 --> 00:27:05,406
+Naravno. Ja sam ih donio.
+
+326
+00:27:05,567 --> 00:27:10,118
+- Tako znaci?
+- Što je bilo? Zar nešto nedostaje?
+
+327
+00:27:10,287 --> 00:27:14,075
+- Tko ti je rekao da to napraviš?
+- Ja.
+
+328
+00:27:14,247 --> 00:27:17,842
+Ne znam zašto ste tako uzbudeni.
+Prestani svirati, Maxe.
+
+329
+00:27:18,007 --> 00:27:22,159
+To mi se cinilo kao dobra ideja,
+ako mislimo raditi zajedno.
+
+330
+00:27:22,807 --> 00:27:26,686
+Ja trebam popraviti vaš scenarij,
+ali nismo se dogovorili da živim ovdje.
+
+331
+00:27:26,847 --> 00:27:29,964
+- Svidjet ce vam se.
+- Hvala, ali imam ja i svoj stan.
+
+332
+00:27:30,127 --> 00:27:32,402
+Tri mjeseca niste platili stanarinu.
+
+333
+00:27:32,567 --> 00:27:36,401
+- Sredit cu ja to.
+- Sve je vec sredeno. Placeno je.
+
+334
+00:27:38,767 --> 00:27:40,917
+Odbit cemo to od moje place.
+
+335
+00:27:41,607 --> 00:27:45,202
+Necemo biti sitnicavi oko takvih stvari.
+
+336
+00:27:45,687 --> 00:27:50,317
+- Maxe, raspakiraj stvari g. Gillisa.
+- Vec jesam, madame.
+
+337
+00:27:50,487 --> 00:27:54,799
+- Onda ih spakiraj, jer ja odlazim!
+- Odlucite se.
+
+338
+00:27:54,967 --> 00:27:58,084
+Želite li vi ovaj posao ili ne?
+
+339
+00:27:59,887 --> 00:28:03,562
+<i>Htio sam i posao i novac,</i>
+<i>ali i što prije nestati odatle.</i>
+
+340
+00:28:05,687 --> 00:28:09,680
+<i>Mislio sam da cu, ako se stvarno dam</i>
+<i>na posao, za par tjedana biti gotov.</i>
+
+341
+00:28:09,847 --> 00:28:14,967
+<i>Ali nije bilo lako unijeti suvislost</i>
+<i>u njezine razuzdane halucinacije.</i>
+
+342
+00:28:15,127 --> 00:28:19,917
+<i>A sve je bilo još i teže jer mi je</i>
+<i>cijelo vrijeme visila nad glavom,</i>
+
+343
+00:28:20,087 --> 00:28:25,241
+<i>iz straha da bih mogao povrijediti</i>
+<i>njezino dragocjeno djelo.</i>
+
+344
+00:28:29,967 --> 00:28:31,923
+Što je ovo?
+
+345
+00:28:32,087 --> 00:28:35,079
+- Scena koju sam izbacio.
+- Koja scena?
+
+346
+00:28:35,247 --> 00:28:38,159
+Na tržnici robova.
+Bolje je odmah prijeci na...
+
+347
+00:28:38,327 --> 00:28:40,636
+Prebaciti kadar s mene?
+
+348
+00:28:40,807 --> 00:28:44,163
+Previše ste prisutni.
+Ne žele vas baš gledati u svakoj sceni.
+
+349
+00:28:44,327 --> 00:28:49,162
+Zašto mi onda svaki dan pišu
+i mole moje fotografije? Zašto?
+
+350
+00:28:49,327 --> 00:28:53,115
+Zato jer me žele vidjeti.
+Mene, Normu Desmond.
+
+351
+00:28:53,287 --> 00:28:55,403
+Vratite to natrag.
+
+352
+00:28:55,567 --> 00:28:58,320
+Dobro.
+
+353
+00:29:10,167 --> 00:29:11,964
+<i>Nisam se prepirao s njom.</i>
+
+354
+00:29:12,127 --> 00:29:16,564
+<i>Na mjesecara ne smijete vikati,</i>
+<i>jer može pasti i slomiti vrat.</i>
+
+355
+00:29:16,727 --> 00:29:21,642
+<i>Tako je. Još uvijek je mjesecarila</i>
+<i>vrtoglavim visinama izgubljene karijere.</i>
+
+356
+00:29:21,807 --> 00:29:26,483
+<i>Posve luda kada je u pitanju bila</i>
+<i>jedna tema: njezino celulodino bice.</i>
+
+357
+00:29:26,647 --> 00:29:28,956
+<i>Velika Norma Desmond.</i>
+
+358
+00:29:29,127 --> 00:29:33,439
+<i>Kako li je samo mogla disati u kuci</i>
+<i>pretrpanoj s toliko Normi Desmond?</i>
+
+359
+00:29:33,607 --> 00:29:39,762
+<i>Još Normi Desmond</i>
+<i>i još Normi Desmond.</i>
+
+360
+00:29:41,047 --> 00:29:43,277
+<i>Naravno, nije sve bio posao.</i>
+
+361
+00:29:43,447 --> 00:29:46,883
+<i>Dva, tri puta tjedno,</i>
+<i>Max bi podizao onu ogromnu sliku</i>
+
+362
+00:29:47,047 --> 00:29:50,005
+<i>koju joj je poklonila</i>
+<i>Trgovinska komora Nevade.</i>
+
+363
+00:29:50,807 --> 00:29:54,595
+<i>I onda bismo gledali neki film,</i>
+<i>tu, u dnevnoj sobi.</i>
+
+364
+00:29:54,767 --> 00:29:58,123
+<i>; ; Ovako je puno ljepše</i>
+<i>nego izaci vani; ;, rekla bi ona.</i>
+
+365
+00:29:58,287 --> 00:30:02,166
+<i>Bilo je posve jasno</i>
+<i>da se bojala vanjskog svijeta.</i>
+
+366
+00:30:02,327 --> 00:30:06,320
+<i>Bojala se da bi je mogao podsjetiti</i>
+<i>na vrijeme koje je prošlo.</i>
+
+367
+00:30:07,447 --> 00:30:11,963
+<i>Filmovi su bili nijemi,</i>
+<i>a projektorom je upravljao Max.</i>
+
+368
+00:30:12,127 --> 00:30:13,879
+<i>Što nije bilo tako loše.</i>
+
+369
+00:30:14,047 --> 00:30:18,563
+<i>Barem nije svirao</i>
+<i>pratnju na orguljama.</i>
+
+370
+00:30:19,927 --> 00:30:23,806
+<i>Sjedila bi mi vrlo blizu</i>
+<i>i mirisala na slatke ruže.</i>
+
+371
+00:30:23,967 --> 00:30:27,437
+<i>Što ni izdaleka nije bio</i>
+<i>moj omiljeni parfem.</i>
+
+372
+00:30:27,607 --> 00:30:31,600
+<i>Ponekad bi, dok bismo gledali film,</i>
+<i>uhvatila moju mišicu ili ruku,</i>
+
+373
+00:30:31,767 --> 00:30:33,837
+<i>zaboravljajuci da je moj poslodavac,</i>
+
+374
+00:30:34,007 --> 00:30:39,923
+<i>postavši na tren obican gledatelj,</i>
+<i>uzbudena zbog glumice na platnu.</i>
+
+375
+00:30:40,567 --> 00:30:44,003
+<i>Ne trebam vam uopce reci</i>
+<i>tko je bila ta zvijezda.</i>
+
+376
+00:30:44,167 --> 00:30:49,480
+<i>Uvijek su to bili njezini filmovi.</i>
+<i>To je bilo sve što je željela gledati.</i>
+
+377
+00:30:53,647 --> 00:30:58,516
+...OSLOBODI ME OVOG UŽASNOG
+SNA KOJI MI JE OBUZEO SRCE...
+
+378
+00:31:13,727 --> 00:31:18,596
+Još uvijek izgleda sjajno, zar ne?
+A nema nikakvog dijaloga.
+
+379
+00:31:18,767 --> 00:31:22,646
+Nama dijalog nije ni trebao.
+Mi smo imali lica.
+
+380
+00:31:22,807 --> 00:31:28,677
+Ali takvih lica jednostavno više nema.
+Možda jedno. Garbo.
+
+381
+00:31:29,647 --> 00:31:34,437
+Ti producentski idioti, ti imbecili!
+Zar oni nemaju oci?
+
+382
+00:31:34,607 --> 00:31:37,201
+Zar su zaboravili
+kako izgleda zvijezda?
+
+383
+00:31:37,367 --> 00:31:40,040
+Vratit cu se ja opet tamo,
+obecavam vam!
+
+384
+00:31:49,887 --> 00:31:52,879
+<i>Ponekad se u kuci igrao bridž.</i>
+
+385
+00:31:53,047 --> 00:31:57,165
+<i>Dvadeset centi za bod.</i>
+<i>Ja bih dobivao pola njezinog dobitka.</i>
+
+386
+00:31:57,327 --> 00:32:02,799
+<i>Jednom je to bilo 70 centi, što je bila</i>
+<i>jedina gotovina koju sam dobio.</i>
+
+387
+00:32:02,967 --> 00:32:05,720
+<i>Ostali igraci su bili</i>
+<i>njezini prijatelji glumci,</i>
+
+388
+00:32:05,887 --> 00:32:09,516
+<i>sumorni likovi kojih ste se mogli</i>
+<i>sjetiti iz doba nijemog filma.</i>
+
+389
+00:32:09,687 --> 00:32:12,247
+<i>Podsjecali su me na voštane figure.</i>
+
+390
+00:32:12,407 --> 00:32:15,604
+- Karo.
+- Srce.
+
+391
+00:32:17,367 --> 00:32:21,042
+- Pik.
+- Bez mene.
+
+392
+00:32:21,207 --> 00:32:24,324
+Tri, bez aduta.
+
+393
+00:32:24,487 --> 00:32:28,878
+- Bez mene.
+- Isprazni pepeljaru, Joe.
+
+394
+00:32:55,207 --> 00:32:57,801
+- Traže vas neki ljudi.
+- Nisam ovdje.
+
+395
+00:32:57,967 --> 00:32:59,844
+- To sam im i rekao.
+- Dobro.
+
+396
+00:33:00,007 --> 00:33:03,920
+Ali pronašli su vaš auto u garaži
+i sad ce ga odvuci.
+
+397
+00:33:04,087 --> 00:33:09,605
+Gdje je pepeljara?
+Joe, možemo li dobiti tu pepeljaru?
+
+398
+00:33:14,967 --> 00:33:18,482
+- Htio bih da nešto porazgovaramo.
+- Ne sada, imam dobre karte.
+
+399
+00:33:18,647 --> 00:33:20,638
+Došli su po moj auto.
+
+400
+00:33:20,807 --> 00:33:23,446
+Sad sam zaboravila
+koliko je pikova izašlo!
+
+401
+00:33:23,607 --> 00:33:26,917
+- Treba mi smjesta novac.
+- Ne možeš pricekati?
+
+402
+00:33:27,087 --> 00:33:29,840
+- Ne.
+- Molim te.
+
+403
+00:34:03,047 --> 00:34:06,801
+- Dobro, što je? Gdje gori?
+- Izgubio sam auto.
+
+404
+00:34:06,967 --> 00:34:09,197
+Mislila sam da se radi
+o životu i smrti.
+
+405
+00:34:09,367 --> 00:34:14,236
+I radi se. Zato sam i došao ovdje
+i prihvatio ovaj posao placenog pisca.
+
+406
+00:34:14,407 --> 00:34:17,922
+Baš si smiješan. Ne trebaju nam
+dva auta. Mi vec imamo jedan.
+
+407
+00:34:18,087 --> 00:34:22,558
+I to ne neku kromiranu jeftinocu,
+vec pravog "lsotta Fraschinija".
+
+408
+00:34:22,727 --> 00:34:25,195
+Jesi li kad cuo za auto
+"lsotta Fraschini"?
+
+409
+00:34:25,367 --> 00:34:29,485
+Rucni rad.
+Koštao me je 28000 dolara.
+
+410
+00:34:31,607 --> 00:34:36,681
+<i>Tako je onda Max izvukao vani</i>
+<i>taj stari autobus i dobro ga uglancao.</i>
+
+411
+00:34:36,847 --> 00:34:40,556
+<i>Vozili smo se</i>
+<i>brdima iznad Sunseta.</i>
+
+412
+00:34:40,727 --> 00:34:43,605
+<i>Auto je bio postavljen</i>
+<i>leopardovom kožom</i>
+
+413
+00:34:43,767 --> 00:34:47,396
+<i>i imao je telefon</i>
+<i>koji je cijeli bio obložen zlatom.</i>
+
+414
+00:34:49,567 --> 00:34:52,923
+- To je užasna košulja.
+- Što joj fali?
+
+415
+00:34:53,087 --> 00:34:59,356
+Ništa, ako radiš na benzinskoj pumpi.
+Dosadili su mi i taj sako i te hlace.
+
+416
+00:35:00,887 --> 00:35:04,277
+Max, koja je najbolja trgovina
+muške odjece u gradu?
+
+417
+00:35:04,447 --> 00:35:08,486
+Meni ne treba nikakva odjeca,
+a i ne želim da mi je ti kupuješ.
+
+418
+00:35:08,647 --> 00:35:12,879
+Zašto mi uskracuješ zabavu?
+Ja samo hocu da ti lijepo izgledaš.
+
+419
+00:35:13,047 --> 00:35:16,244
+I moraš li baš žvakati tu žvakacu?
+
+420
+00:35:21,487 --> 00:35:24,638
+Muškarcu ništa bolje ne pristaje
+od plavog flanela.
+
+421
+00:35:24,807 --> 00:35:26,604
+Ove, s obicnim kopcanjem.
+
+422
+00:35:26,767 --> 00:35:30,316
+Trebat ce nam i kaput.
+Da vidim što imate od devine dlake.
+
+423
+00:35:30,487 --> 00:35:33,081
+- A vecernje odijelo?
+- Ne treba mi smoking.
+
+424
+00:35:33,247 --> 00:35:37,798
+Naravno da ti treba. Smoking, frak,
+a pazi se da ne dobiješ i žaket.
+
+425
+00:35:37,967 --> 00:35:41,516
+- Frak?! Smiješno!
+- Treba ti za zabave i Novu godinu.
+
+426
+00:35:41,687 --> 00:35:45,362
+- Gdje su vam vecernja odijela?
+- Ovamo.
+
+427
+00:35:48,247 --> 00:35:51,876
+Ovo je devina dlaka,
+ali probajte samo ovu vikunju.
+
+428
+00:35:52,047 --> 00:35:56,484
+- Naravno, malo je skuplja...
+- I devina dlaka je u redu.
+
+429
+00:35:57,487 --> 00:36:02,322
+Kad vec dama placa,
+zašto ne biste uzeli vikunju?
+
+430
+00:36:11,447 --> 00:36:14,803
+<i>Poslednjeg tjedna u prosincu</i>
+<i>došle su kiše.</i>
+
+431
+00:36:14,967 --> 00:36:21,281
+<i>Jako puno kiše. Previše,</i>
+<i>kao i svega ostalog u Kaliforniji.</i>
+
+432
+00:36:21,447 --> 00:36:26,316
+<i>Procurila je kroz krov</i>
+<i>moje sobe iznad garaže.</i>
+
+433
+00:36:26,847 --> 00:36:29,805
+<i>Naredila je Maxu</i>
+<i>da me preseli u glavnu zgradu.</i>
+
+434
+00:36:29,967 --> 00:36:32,356
+<i>Ideja mi se baš i nije svidjela.</i>
+
+435
+00:36:32,527 --> 00:36:36,236
+<i>Jedino vrijeme koje sam mogao</i>
+<i>imati za sebe, imao sam u toj sobi.</i>
+
+436
+00:36:36,407 --> 00:36:40,878
+<i>Ipak, bolje to nego spavati</i>
+<i>u kišnom mantilu i kaljacama.</i>
+
+437
+00:37:15,607 --> 00:37:19,680
+- Kome je pripadala ova soba?
+- Suprugu.
+
+438
+00:37:19,847 --> 00:37:25,205
+Tocnije, supruzima.
+Madame se tri puta udavala.
+
+439
+00:37:29,327 --> 00:37:35,084
+Odavde se sigurno može vidjeti Catalina,
+samo što danas nije lijepo vrijeme.
+
+440
+00:37:46,967 --> 00:37:50,926
+Što je s ovim vratima?
+Nema nikakve brave.
+
+441
+00:37:51,087 --> 00:37:55,399
+Nigdje u kuci nema brava na vratima.
+
+442
+00:37:59,647 --> 00:38:02,878
+Kako to? Mora postojati
+neki razlog za to.
+
+443
+00:38:03,047 --> 00:38:05,607
+- Lijecnik je to predložio.
+- Kakav lijecnik?
+
+444
+00:38:05,767 --> 00:38:10,716
+Gospodin lijecnik.
+Ona pati od napada melankolije.
+
+445
+00:38:10,887 --> 00:38:14,436
+Imala je cak i nekoliko
+pokušaja samoubojstva.
+
+446
+00:38:14,607 --> 00:38:18,316
+Moramo biti jako pažljivi.
+Nema tableta za spavanje, žileta...
+
+447
+00:38:18,487 --> 00:38:22,002
+U njezinoj sobi smo i plin iskljucili.
+
+448
+00:38:22,167 --> 00:38:25,842
+Zašto? Zbog karijere?
+Pa, ona nije zaboravljena.
+
+449
+00:38:26,007 --> 00:38:32,401
+- Još uvijek dobiva pisma obožavatelja.
+- Ja ne bih pažljivije provjeravao žigove.
+
+450
+00:38:33,607 --> 00:38:36,883
+Ti ih šalješ. Je li tako, Maxe?
+
+451
+00:38:37,047 --> 00:38:39,641
+Moram otici ispeglati
+vaše vecernje odijelo.
+
+452
+00:38:39,807 --> 00:38:44,085
+G. Gillis nije zaboravio na
+gospodinu novogodišnju zabavu?
+
+453
+00:38:44,247 --> 00:38:48,445
+Ne, nisam. Pretpostavljam
+da dolaze sve voštane figure?
+
+454
+00:38:48,607 --> 00:38:53,442
+Ne znam, gospodine.
+Madame je sve organizirala.
+
+455
+00:39:10,807 --> 00:39:12,638
+<i>To je bilo to.</i>
+
+456
+00:39:12,807 --> 00:39:17,005
+<i>Ta njezina soba.</i>
+<i>Sva od baršuna i nabora.</i>
+
+457
+00:39:17,167 --> 00:39:19,761
+<i>I taj krevet, kao okiceni camac.</i>
+
+458
+00:39:19,927 --> 00:39:25,638
+<i>Savršeno okružje za</i>
+<i>kraljicu nijemih filmova. Jadnica.</i>
+
+459
+00:39:25,807 --> 00:39:30,801
+<i>Još uvijek ponosno odmahuje</i>
+<i>paradi koja je vec odavno prošla.</i>
+
+460
+00:39:33,807 --> 00:39:38,198
+<i>Na njezinoj novogodišnjoj zabavi</i>
+<i>saznao sam što osjeca za mene.</i>
+
+461
+00:39:38,367 --> 00:39:41,962
+<i>Možda sam bio idiot</i>
+<i>što to nisam predvidio.</i>
+
+462
+00:39:42,127 --> 00:39:45,722
+<i>Kakvo tužno, neugodno otkrice.</i>
+
+463
+00:39:49,847 --> 00:39:52,156
+Joe!
+
+464
+00:39:56,447 --> 00:40:00,406
+lzgledaš apsolutno božanstveno.
+Okreni se.
+
+465
+00:40:00,567 --> 00:40:02,364
+- Ma daj!
+- Hajde.
+
+466
+00:40:02,527 --> 00:40:06,315
+Savršeno! Divna ramena.
+A svida mi se i taj kroj.
+
+467
+00:40:06,487 --> 00:40:08,842
+- Obicni umetci, nemoj da te prevare.
+- Dodi.
+
+468
+00:40:09,527 --> 00:40:12,439
+Meni je dotjerivanje uvijek znacilo
+oblacenje plavog odijela.
+
+469
+00:40:12,607 --> 00:40:16,156
+Ne svida mi se ta manšeta.
+Voljela bih da imaš neki raskošni biser.
+
+470
+00:40:16,327 --> 00:40:18,443
+Naušnice sigurno necu nositi.
+
+471
+00:40:19,647 --> 00:40:22,844
+- Dodi da nešto popijemo.
+- A da pricekamo ostale?
+
+472
+00:40:23,007 --> 00:40:24,440
+Maxe, šampanjac.
+
+473
+00:40:25,527 --> 00:40:28,439
+Pažljivo, kliže se.
+Narucila sam da ga uglacaju.
+
+474
+00:40:30,247 --> 00:40:35,879
+Za nas! Ovo je bio drveni pod,
+ali sam ga ja dala promijeniti.
+
+475
+00:40:36,047 --> 00:40:41,724
+Valentino mi je rekao: "Za tango
+nema ništa bolje od plocica." Hajde.
+
+476
+00:40:41,887 --> 00:40:46,324
+- Ne na istom podu kao i Valentino.
+- Samo me prati.
+
+477
+00:41:02,807 --> 00:41:06,846
+- Ne savijaj se tako unatrag.
+- Ta me stvar škaklja.
+
+478
+00:41:07,007 --> 00:41:08,998
+Stvarno?
+
+479
+00:41:32,567 --> 00:41:36,242
+- Sada je 22:15. Kada bi trebali doci?
+- Tko?
+
+480
+00:41:36,407 --> 00:41:38,602
+- Drugi gosti.
+- Nema drugih gostiju.
+
+481
+00:41:38,767 --> 00:41:43,283
+Ovu noc ne želimo dijeliti s drugima.
+Ovo je samo za nas.
+
+482
+00:41:43,447 --> 00:41:46,200
+- Oh?
+- Cvršce me stisni.
+
+483
+00:41:46,367 --> 00:41:47,686
+Dobro.
+
+484
+00:41:49,127 --> 00:41:54,485
+Što kažeš da u ponoc orkestru vežemo
+oci i Maxu razbijamo caše o glavu?
+
+485
+00:41:54,647 --> 00:41:58,162
+- Tebi je sve ovo smiješno.
+- Pomalo.
+
+486
+00:42:05,367 --> 00:42:08,279
+<i>Sat se polako vukao.</i>
+
+487
+00:42:08,447 --> 00:42:13,726
+<i>Osjecao sam se zarobljen</i>
+<i>poput cigarete u toj njezinoj napravi.</i>
+
+488
+00:42:17,167 --> 00:42:22,161
+Sljedeca godina ce biti predivna.
+Kako li cemo se samo zabavljati.
+
+489
+00:42:22,327 --> 00:42:27,003
+Napunit cu ti bazen, ili otvoriti kucu
+u Malibuu, da imaš cijeli ocean.
+
+490
+00:42:27,167 --> 00:42:31,763
+Kada nam film bude gotov, kupit cu ti
+brod, otplovit cemo na Havaje...
+
+491
+00:42:31,927 --> 00:42:33,838
+Ništa ti meni više ne kupuješ.
+
+492
+00:42:34,007 --> 00:42:39,240
+Ne budi blesav. Izvoli.
+Htjela sam ti ovo dati u ponoc.
+
+493
+00:42:41,367 --> 00:42:43,403
+Ne mogu ovo primiti!
+Vec si mi dosta toga kupila.
+
+494
+00:42:43,567 --> 00:42:48,561
+Umukni! Bogata sam, bogatija od
+svog tog novog holivudskog smeca.
+
+495
+00:42:48,727 --> 00:42:50,445
+Imam milijun dolara.
+
+496
+00:42:50,607 --> 00:42:57,922
+Imam tri zgrade u gradu i naftu
+u Bakersfieldu koja samo tece i tece.
+
+497
+00:42:58,087 --> 00:43:00,396
+To i služi da bismo
+mogli kupiti bilo što.
+
+498
+00:43:00,567 --> 00:43:04,560
+- Prekini s tim "mi".
+- Što ti je?
+
+499
+00:43:04,727 --> 00:43:08,117
+Odakle ti pravo da me uzimaš
+zdravo za gotovo?
+
+500
+00:43:08,287 --> 00:43:11,120
+Odakle mi pravo?
+Hoceš da ti kažem?
+
+501
+00:43:13,047 --> 00:43:18,326
+Jesi li ikada pomislila da ja imam svoj
+život, djevojku u koju sam zaljubljen?
+
+502
+00:43:19,127 --> 00:43:22,642
+Koga?
+Neku kurvicu ili statisticu?
+
+503
+00:43:22,807 --> 00:43:25,241
+Hocu ti samo reci
+da ja nisam za tebe.
+
+504
+00:43:25,407 --> 00:43:29,002
+Ti želiš Valentina, nekoga tko ima
+ponije za polo, veliku zvjerku.
+
+505
+00:43:29,167 --> 00:43:35,606
+Hoceš reci da
+odbijaš moju ljubav. Reci.
+
+506
+00:44:48,487 --> 00:44:52,924
+<i>Nisam znao kamo idem,</i>
+<i>ali morao sam otici odatle.</i>
+
+507
+00:44:53,087 --> 00:44:58,957
+<i>Morao sam biti s ljudima</i>
+<i>mojih godina, iznova cuti smijeh.</i>
+
+508
+00:45:00,167 --> 00:45:01,964
+<i>Sjetio sam se Artiea Greena.</i>
+
+509
+00:45:02,127 --> 00:45:06,518
+<i>U njegovom stanu je morala biti</i>
+<i>neka novogodišnja zabava.</i>
+
+510
+00:45:06,687 --> 00:45:10,396
+<i>Pisci bez posla,</i>
+<i>skladatelji bez izdavaca,</i>
+
+511
+00:45:10,567 --> 00:45:14,560
+<i>glumice toliko mlade da još uvijek</i>
+<i>vjeruju dodjeljivacima uloga.</i>
+
+512
+00:45:14,727 --> 00:45:19,721
+<i>Gomila klinaca koje ništa nije briga</i>
+<i>sve dok dijele zajednicke antipatije.</i>
+
+513
+00:45:21,127 --> 00:45:25,200
+<i>Nama Hollywood nije bio tako dobar</i>
+<i>Nemamo bazen</i>
+
+514
+00:45:25,367 --> 00:45:32,079
+<i>I puno odjece</i>
+<i>Zaradimo samo za dugmad i pojas</i>
+
+515
+00:45:33,407 --> 00:45:34,965
+- Zdravo, Joe.
+- Tom.
+
+516
+00:45:35,127 --> 00:45:38,199
+- Kako si?
+- Zdravo, Joe.
+
+517
+00:45:40,087 --> 00:45:42,726
+- Vidi ti to, Joe Gillis!
+- Zdravo, Artie.
+
+518
+00:45:42,887 --> 00:45:47,915
+Gdje skrivaš tu zgodnu facu?
+Zamalo sam prijavio tvoj nestanak.
+
+519
+00:45:48,087 --> 00:45:51,796
+Svi znate Joea Gillisa,
+poznatog scenaristu, krijumcara urana
+
+520
+00:45:51,967 --> 00:45:54,276
+i osumnjicenika
+za ubojstvo "Crne Dalije".
+
+521
+00:45:55,247 --> 00:45:57,522
+- Daj mi kaput.
+- Neka, pusti.
+
+522
+00:45:57,687 --> 00:45:59,917
+- Ostat ceš malo?
+- Namjeravao sam.
+
+523
+00:46:00,087 --> 00:46:03,796
+Onda ga daj. Što je ovo, nerc?
+
+524
+00:46:05,447 --> 00:46:10,362
+Sveti Judo, od koga si to posudio?
+Adolphea Menjoua?
+
+525
+00:46:10,527 --> 00:46:13,678
+- Blizu si, ali nije.
+- Nisi valjda zaista postao krijumcar?
+
+526
+00:46:13,847 --> 00:46:16,361
+- Gdje je bar?
+- Dodi.
+
+527
+00:46:19,127 --> 00:46:20,640
+- Dobra zabava.
+- Najbolja.
+
+528
+00:46:20,807 --> 00:46:23,446
+Zovu me Elsa Maxwell
+pomocnika redatelja.
+
+529
+00:46:23,607 --> 00:46:28,237
+Polako s tim puncom. Budžet nam
+omugucava samo tri pica po statisti.
+
+530
+00:46:28,407 --> 00:46:31,524
+- Ostalo folirajte.
+- Znaci, mogu se malo zadržati?
+
+531
+00:46:31,687 --> 00:46:35,316
+- Svakako, ovo ce potrajati cijelu noc.
+- Mislio sam, par tjedana?
+
+532
+00:46:35,487 --> 00:46:38,160
+- Upravo imamo slobodan kauc.
+- Uzimam.
+
+533
+00:46:38,327 --> 00:46:43,606
+Nazvat cu nosaca da donese
+vašu prtljagu. Samo se ovdje potpišite.
+
+534
+00:46:45,007 --> 00:46:46,963
+- Zdravo, g. Gillis.
+- Zdravo.
+
+535
+00:46:47,127 --> 00:46:50,802
+- Vi se poznajete?
+- Betty Schaefer, Sheldrakeov ured.
+
+536
+00:46:50,967 --> 00:46:53,527
+- Naravno, "Opasne baze".
+- Samo malo.
+
+537
+00:46:53,687 --> 00:46:56,440
+Ja sam zaljubljen u ovu ženu.
+Što se dogada?
+
+538
+00:46:56,607 --> 00:46:58,916
+Ne brini, ona je samo
+ljubitelj mog stvaralaštva.
+
+539
+00:46:59,087 --> 00:47:01,647
+- "Odjel povrijedenih osjecaja".
+- Gdje je telefon?
+
+540
+00:47:01,807 --> 00:47:04,196
+Pokraj "sobe s dugom".
+
+541
+00:47:12,967 --> 00:47:16,676
+Kada završite s tim,
+mogu li ga ja dobiti?
+
+542
+00:47:19,607 --> 00:47:22,804
+- Hej, zaboravili ste ovo.
+- Hvala.
+
+543
+00:47:22,967 --> 00:47:27,802
+- Nadala sam se da cu vas opet sresti.
+- Da uzmete svoj nož iz mojih leda?
+
+544
+00:47:27,967 --> 00:47:30,959
+Osjecala sam se krivom, pa sam
+iskopala neke vaše stare scenarije.
+
+545
+00:47:31,127 --> 00:47:35,245
+- Baš fino od vas.
+- Jedan u nazivu ima rijec "prozor".
+
+546
+00:47:35,407 --> 00:47:40,162
+- "Tamni prozori". Svidio vam se?
+- Nije. Samo nekih 6 stranica.
+
+547
+00:47:40,327 --> 00:47:42,795
+Imate jednu scenu prisjecanja...
+
+548
+00:47:42,967 --> 00:47:45,527
+Možemo li negdje razgovarati?
+
+549
+00:47:45,687 --> 00:47:48,281
+Što kažete na "sobu s dugom"?
+
+550
+00:47:48,807 --> 00:47:52,686
+Joe, dao sam ti svoj kauc,
+ali ne i svoju djevojku.
+
+551
+00:47:52,847 --> 00:47:54,758
+Ovo je poslovni razgovor.
+
+552
+00:47:55,727 --> 00:47:59,720
+Ako sam dobro shvatio, postoji kraci
+dio moje proze koji vam se svidio?
+
+553
+00:47:59,887 --> 00:48:02,959
+Scena prisjecanja u kojoj lik
+govori o tome kako je biti ucitelj.
+
+554
+00:48:03,127 --> 00:48:06,483
+- Moj ucitelj je bio takav.
+- Možda je zato i dobra.
+
+555
+00:48:06,647 --> 00:48:10,481
+- Istinita je i dirljiva. Zašto ne?
+- Tko želi istinito i dirljivo?
+
+556
+00:48:10,647 --> 00:48:13,320
+Prestanite s tim.
+Vi imate nešto doista vrijedno.
+
+557
+00:48:13,487 --> 00:48:16,718
+- Hocete da odmah pocnem?
+- Ozbiljno, ja imam par zamisli.
+
+558
+00:48:16,887 --> 00:48:21,244
+I ja takoder. Nova je godina,
+idemo se malo zabaviti.
+
+559
+00:48:21,407 --> 00:48:25,685
+Na primjer? Da napravimo brodove
+od papira i organiziramo regatu?
+
+560
+00:48:25,847 --> 00:48:29,806
+- Ili da otvorimo tuš do kraja.
+- Ili da zauzmemo kuhinju.
+
+561
+00:48:29,967 --> 00:48:32,401
+- Gladni ste?
+- Gladan?
+
+562
+00:48:32,567 --> 00:48:36,640
+Nakon 12 godina u džunglama
+Burme, gladujem, Lady Agatha...
+
+563
+00:48:36,807 --> 00:48:40,402
+...za bijelim ramenom.
+- Phillipe, poludjeli ste.
+
+564
+00:48:40,567 --> 00:48:44,606
+Žudim za hladnocom vaših usana.
+
+565
+00:48:45,047 --> 00:48:48,084
+Možete sada uzeti telefon.
+
+566
+00:48:48,647 --> 00:48:50,842
+Ne, Phillipe, moramo biti jaki.
+
+567
+00:48:51,007 --> 00:48:53,077
+Vi još nosite uniformu
+kraljicine garde,
+
+568
+00:48:53,247 --> 00:48:56,045
+a osim toga,
+sada vam je slobodan telefon.
+
+569
+00:48:56,207 --> 00:48:58,323
+Dobro.
+
+570
+00:48:58,487 --> 00:49:00,876
+Odjednom se tako bojim
+da cu vas izgubiti.
+
+571
+00:49:01,047 --> 00:49:04,437
+Necete. Dosut cu nam još
+ove užasne tekucine.
+
+572
+00:49:04,607 --> 00:49:08,395
+- Cekat cete me?
+- Uzbudena srca.
+
+573
+00:49:08,567 --> 00:49:12,446
+Život može biti divan.
+
+574
+00:49:30,407 --> 00:49:33,046
+Halo, Maxe. Treba mi jedna usluga.
+
+575
+00:49:33,807 --> 00:49:36,367
+Žao mi je,
+ne mogu sada razgovarati.
+
+576
+00:49:36,527 --> 00:49:42,124
+Možeš. Stavi mi staru odjecu
+i pisaci stroj u moj kovceg.
+
+577
+00:49:42,287 --> 00:49:47,486
+- Netko ce doci po to.
+- Nemam vremena. Lijecnik je ovdje.
+
+578
+00:49:48,607 --> 00:49:50,484
+Kakav lijecnik? Što se dogada?
+
+579
+00:49:50,647 --> 00:49:54,799
+Madame je uzela britvu iz vaše sobe
+i prerezala vene.
+
+580
+00:49:54,967 --> 00:49:58,482
+Što? Maxe! Maxe!
+
+581
+00:50:08,887 --> 00:50:10,320
+Dobila sam recept.
+
+582
+00:50:10,487 --> 00:50:15,561
+Dva pakovanja tableta za kašalj
+rastopi se u mlakom soku od grožda...
+
+583
+00:50:21,847 --> 00:50:23,485
+Hej, Joe!
+
+584
+00:50:31,207 --> 00:50:33,323
+Sretna Nova godina!
+
+585
+00:50:37,367 --> 00:50:40,245
+- Kako je?
+- U svojoj je sobi.
+
+586
+00:50:40,407 --> 00:50:45,527
+Pažljivo, nemojte trcati. Glazbenici
+ne smiju znati što se dogodilo.
+
+587
+00:51:27,807 --> 00:51:29,923
+Odlazi.
+
+588
+00:51:38,927 --> 00:51:41,202
+Kakva je to bila glupost?
+
+589
+00:51:41,367 --> 00:51:45,326
+Zaljubiti se u tebe
+je bila glupost.
+
+590
+00:51:46,487 --> 00:51:49,240
+Naslovi u novinama
+bi sigurno bili dobri.
+
+591
+00:51:49,407 --> 00:51:51,762
+"Velika zvijezda se ubila
+zbog nepoznatog pisca."
+
+592
+00:51:52,567 --> 00:51:56,799
+Velike zvijezde imaju veliki ponos.
+
+593
+00:52:01,087 --> 00:52:05,399
+Odlazi. Idi toj svojoj djevojci.
+
+594
+00:52:09,487 --> 00:52:12,160
+Slušaj, ja sam to izmislio,
+
+595
+00:52:12,327 --> 00:52:16,002
+jer sam mislio
+da je cijela stvar pogrešna.
+
+596
+00:52:16,247 --> 00:52:19,956
+Nisam te htio povrijediti.
+Bila si dobra prema meni.
+
+597
+00:52:20,127 --> 00:52:23,802
+Jedina od svih ljudi
+u ovom smrdljivom gradu.
+
+598
+00:52:23,967 --> 00:52:27,198
+Zašto jednostavno
+ne kažeš hvala i odeš. Idi, idi!
+
+599
+00:52:27,367 --> 00:52:31,758
+Necu dok ne obecaš
+da ceš se ponašati kao razumno bice.
+
+600
+00:52:31,927 --> 00:52:34,999
+Opet cu to uciniti. Opet!
+
+601
+00:52:37,047 --> 00:52:40,084
+Opet cu to uciniti.
+
+602
+00:53:29,007 --> 00:53:31,282
+Sretna Nova godina, Norma.
+
+603
+00:53:41,327 --> 00:53:44,637
+Sretna Nova godina, dragi.
+
+604
+00:54:00,727 --> 00:54:05,278
+- Halo.
+- Da li je to Crest View 51733?
+
+605
+00:54:05,447 --> 00:54:09,645
+Žao mi je što opet smetam,
+ali moram razgovarati s g. Gillisom.
+
+606
+00:54:09,807 --> 00:54:13,004
+- Nije ovdje.
+- Gdje ga mogu pronaci?
+
+607
+00:54:13,167 --> 00:54:17,922
+- Možda netko drugi zna.
+- Ovdje vam to nitko ne može reci.
+
+608
+00:54:18,087 --> 00:54:21,875
+I, molim vas, nemojte više zvati.
+
+609
+00:54:22,847 --> 00:54:25,202
+Maxe!
+
+610
+00:54:26,487 --> 00:54:29,957
+Tko je to bio, Maxe? Što je?
+
+611
+00:54:30,927 --> 00:54:35,842
+Ništa, madame. Netko se raspitivao
+o nekom psu lutalici.
+
+612
+00:54:36,007 --> 00:54:39,636
+Mora da je naš broj
+slican broju štenare.
+
+613
+00:54:40,407 --> 00:54:44,605
+Cekaj tren. Uzmi auto i
+odnesi scenarij u "Paramount".
+
+614
+00:54:44,767 --> 00:54:48,362
+- Predaj ga osobno g. DeMilleu.
+- U redu, madame.
+
+615
+00:54:53,967 --> 00:54:57,516
+- Stvarno ga šalješ DeMilleu?
+- Da. Došao je taj dan.
+
+616
+00:54:57,687 --> 00:55:00,759
+Moja astrologinja je proucila
+i moj i DeMilleov horoskop.
+
+617
+00:55:00,927 --> 00:55:03,441
+- A scenarij?
+- DeMille je Lav, ja Škorpion.
+
+618
+00:55:03,607 --> 00:55:05,677
+Mars vec tjednima
+kruži oko Jupitera.
+
+619
+00:55:05,847 --> 00:55:09,681
+Danas je dan velikog susreta.
+
+620
+00:55:09,847 --> 00:55:12,805
+Okreni se, dragi, da te ja osušim.
+
+621
+00:55:14,927 --> 00:55:18,317
+Ti shvacaš da se scenariji ne prodaju
+prema astrološkim uputama?
+
+622
+00:55:18,487 --> 00:55:20,557
+Ja uz scenarij prodajem i sebe.
+
+623
+00:55:20,727 --> 00:55:23,400
+DeMille me uvijek nazivao
+svojom najvecom zvijezdom.
+
+624
+00:55:23,567 --> 00:55:26,240
+Kada je to bilo, Norma?
+
+625
+00:55:26,407 --> 00:55:31,276
+lstina, prije dosta godina, ali ja
+stvarno nisam nikad bolje izgledala.
+
+626
+00:55:31,447 --> 00:55:36,840
+A znaš zašto?
+Jer nikad nisam bila sretnija u životu.
+
+627
+00:55:39,607 --> 00:55:44,556
+<i>Par veceri kasnije, išli smo u posjetu</i>
+<i>jednoj od voštanih figura, na bridž.</i>
+
+628
+00:55:44,727 --> 00:55:50,165
+<i>Do tada me je vec naucila bridž,</i>
+<i>mnoge zahtjevne tango korake,</i>
+
+629
+00:55:50,327 --> 00:55:54,320
+<i>te koje vino ide uz koju ribu.</i>
+
+630
+00:55:55,287 --> 00:55:58,643
+Taj idiot! Zaboravio mi je
+napuniti tabakeru.
+
+631
+00:55:58,807 --> 00:56:03,278
+- Uzmi jednu moju.
+- Užasne su, od njih kašljem.
+
+632
+00:56:06,007 --> 00:56:09,079
+Zaustavi pred trgovinom, Maxe.
+Idem ti ih ja kupiti.
+
+633
+00:56:09,247 --> 00:56:11,761
+Baš si srce.
+
+634
+00:56:20,447 --> 00:56:24,281
+SCHWABOVA TRGOVINA
+
+635
+00:56:31,847 --> 00:56:36,204
+Dajte mi kutiju onih turskih cigareta...
+"Abdullas".
+
+636
+00:56:37,607 --> 00:56:41,361
+Ruke u vis, Gillis, ili pucam.
+
+637
+00:56:42,687 --> 00:56:44,439
+Artie.
+Gdice Schaefer.
+
+638
+00:56:44,607 --> 00:56:48,566
+- Tako mi vas je drago vidjeti.
+- Bježiš od mafije?
+
+639
+00:56:48,727 --> 00:56:52,322
+Oprostite za Novu godinu.
+Vjerujete li mi da sam bio uz bolesnika?
+
+640
+00:56:52,487 --> 00:56:55,684
+Netko iz visokog društva,
+s deset-karatnim kamenom u bubregu?
+
+641
+00:56:55,847 --> 00:56:58,805
+Prestani, Artie.
+Gdje ste se skrivali?
+
+642
+00:56:58,967 --> 00:57:04,121
+- Imam sjajne vijesti za vas.
+- Nisam se uopce skrivao.
+
+643
+00:57:04,287 --> 00:57:06,755
+Zvala sam vašeg agenta,
+Udruženje scenarista.
+
+644
+00:57:06,927 --> 00:57:09,077
+U vašem stanu su mi dali
+neki broj u Crest Viewu.
+
+645
+00:57:09,247 --> 00:57:13,206
+Uvijek bi mi se javio netko
+sa stranim naglaskom: Niste tamo.
+
+646
+00:57:13,367 --> 00:57:14,959
+Nisu cak ni culi za vas.
+
+647
+00:57:15,127 --> 00:57:17,800
+Tako znaci?
+A kakve su to sjajne vijesti?
+
+648
+00:57:17,967 --> 00:57:20,720
+- Sheldrakeu se svidjela prica o ucitelju.
+- Kakvom ucitelju?
+
+649
+00:57:20,887 --> 00:57:24,402
+"Tamni prozori". Misli da bi se
+od toga moglo nešto napraviti.
+
+650
+00:57:24,567 --> 00:57:27,479
+- Dobro, gdje je lova?
+- Gdje je prica?
+
+651
+00:57:27,647 --> 00:57:31,322
+Blefirala sam s par svojih zamisli,
+ali sad bi na tome trebalo raditi.
+
+652
+00:57:31,487 --> 00:57:35,480
+- Toga me i bilo strah.
+- Vec imam 20 stranica i dobar muški lik.
+
+653
+00:57:35,647 --> 00:57:38,684
+Dopišite još radnje,
+tako da uzmu pomocnog redatelja.
+
+654
+00:57:38,847 --> 00:57:42,157
+Prestani. Ako za dva tjedna
+uspijemo napisati pricu...
+
+655
+00:57:42,327 --> 00:57:45,205
+Žao mi je, ali prestao sam
+pisati bez ugovora.
+
+656
+00:57:45,367 --> 00:57:49,042
+- Ali, ovo je vec upola prodano!
+- Zapravo, skroz sam prestao pisati.
+
+657
+00:57:49,207 --> 00:57:54,804
+- Gospodine Gillis, spremni ste?
+- Stižem.
+
+658
+00:57:54,967 --> 00:57:58,277
+Naglasak! Pa da, shvacam!
+Njega placa neka strana vlada.
+
+659
+00:57:58,447 --> 00:58:01,359
+- Pogledaj mu ovratnik i manšete.
+- Moram ici.
+
+660
+00:58:01,527 --> 00:58:05,440
+- Hvala na zanimanju za moju karijeru.
+- Ne samo vašu, vec i moju.
+
+661
+00:58:05,607 --> 00:58:07,598
+Nadala sam se
+da cu i ja biti dio toga.
+
+662
+00:58:07,767 --> 00:58:10,839
+Ne želim citav život citati.
+Želim pisati.
+
+663
+00:58:11,007 --> 00:58:14,158
+- Žao mi je ako sam vas iznevjerio.
+- Jeste, itekako.
+
+664
+00:58:14,327 --> 00:58:16,363
+Vidimo se.
+
+665
+00:58:26,047 --> 00:58:30,040
+- Zaboga, dugo ti je trebalo.
+- Sreo sam neke poznanike.
+
+666
+00:58:30,207 --> 00:58:33,961
+- Gdje su moje cigarete?
+- Tvoje?
+
+667
+00:58:35,047 --> 00:58:37,607
+Norma, previše pušiš.
+
+668
+00:58:40,287 --> 00:58:43,120
+<i>Kad god bi pomislila</i>
+<i>da mi postaje dosadno,</i>
+
+669
+00:58:43,287 --> 00:58:45,721
+<i>priredila bi predstavu za mene.</i>
+
+670
+00:58:45,887 --> 00:58:48,196
+<i>Ludorije Norme Desmond.</i>
+
+671
+00:58:48,367 --> 00:58:52,440
+<i>Prva tocka bi uvijek bila</i>
+<i>; ; Lijepa kupacica; ; Macka Sennetta.</i>
+
+672
+00:59:00,327 --> 00:59:05,003
+Još uvijek se vidim u redu s njima:
+Marie Prevost, Mabel Normand...
+
+673
+00:59:05,167 --> 00:59:07,556
+Mabel mi je uvijek
+gazila po nogama.
+
+674
+00:59:07,727 --> 00:59:11,276
+Što nije u redu, dragi?
+Zašto si tako smrknut?
+
+675
+00:59:11,447 --> 00:59:15,281
+Nije mi ništa. Dobro se zabavljam.
+Pokaži mi još.
+
+676
+00:59:15,447 --> 00:59:21,886
+Dobro. Daj mi ovo.
+To mi treba za brkove. Zatvori oci.
+
+677
+00:59:27,807 --> 00:59:30,446
+<i>Nešto stvarno nije bilo u redu.</i>
+
+678
+00:59:30,607 --> 00:59:35,123
+<i>Mislio sam na onu Artievu djevojku,</i>
+<i>gospodicu Schaefer.</i>
+
+679
+00:59:35,287 --> 00:59:38,836
+<i>Bila je kao i svi mi ostali pisci</i>
+<i>kada smo stigli u Hollywood.</i>
+
+680
+00:59:39,007 --> 00:59:42,886
+<i>Gorila je od ambicije i
+<i>planova da svoje ime vidi na ekranu:</i>
+
+681
+00:59:43,047 --> 00:59:47,245
+<i>; ; Scenarij napisao; ;,</i>
+<i>; ; Originalna prica;; .
+
+682
+00:59:49,047 --> 00:59:52,926
+<i>Gledatelji ne znaju</i>
+<i>da netko sjedne i napiše film.</i>
+
+683
+00:59:53,087 --> 00:59:56,477
+<i>Oni misle da glumci</i>
+<i>dijalog izmišljaju tijekom snimanja.</i>
+
+684
+00:59:56,647 --> 00:59:59,923
+Otvori oci.
+
+685
+01:00:31,287 --> 01:00:34,802
+- Netko vas traži na telefon.
+- Nemoj me prekidati.
+
+686
+01:00:34,967 --> 01:00:36,844
+- "Paramount" zove.
+- Tko?
+
+687
+01:00:37,007 --> 01:00:39,601
+Studio "Paramount".
+
+688
+01:00:39,767 --> 01:00:43,442
+Je li mi sad vjeruješ? Rekla sam ti
+da ce DeMille ugrabiti scenarij.
+
+689
+01:00:43,607 --> 01:00:47,646
+Nije g. DeMille osobno,
+vec netko po imenu Gordon Cole.
+
+690
+01:00:47,807 --> 01:00:50,560
+- Kaže da je jako važno.
+- Naravno da jest.
+
+691
+01:00:50,727 --> 01:00:52,718
+Mogao me g. DeMille
+i sam nazvati.
+
+692
+01:00:52,887 --> 01:00:57,517
+I sama pomisao da me zove neki
+asistent...! Reci mu da sam zauzeta.
+
+693
+01:00:57,687 --> 01:01:00,042
+U redu, madame.
+
+694
+01:01:05,247 --> 01:01:08,717
+Što kažeš na ovo?
+Zajedno smo snimili 12 filmova.
+
+695
+01:01:08,887 --> 01:01:10,764
+Njegove najvece uspjehe!
+
+696
+01:01:10,927 --> 01:01:13,999
+- Možda je na snimanju.
+- Znam ja taj trik!
+
+697
+01:01:14,167 --> 01:01:17,477
+Pokušava me omalovažiti
+i spustiti mi cijenu.
+
+698
+01:01:17,647 --> 01:01:23,119
+20 godina sam cekala ovaj poziv.
+Sad može i DeMille mene pricekati.
+
+699
+01:01:26,727 --> 01:01:29,958
+<i>Tri dana poslije,</i>
+<i>bila je spremna.</i>
+
+700
+01:01:30,127 --> 01:01:35,645
+<i>Teško za povjerovati, ali usljedilo je još</i>
+<i>nekoliko hitnih poziva iz; ; Paramounta;; .
+
+701
+01:01:35,807 --> 01:01:40,039
+<i>Stavila je na sebe kilogram šminke,</i>
+<i>omotala se velom</i>
+
+702
+01:01:40,207 --> 01:01:43,597
+<i>i krenula osobno vidjeti DeMillea.</i>
+
+703
+01:01:45,527 --> 01:01:51,124
+Madame ce mi oprostiti, ali sjenilo
+iznad lijevog oka nije posve ravno.
+
+704
+01:01:51,287 --> 01:01:53,562
+Hvala, Maxe.
+
+705
+01:02:07,087 --> 01:02:09,726
+Prestani s tom bukom!
+
+706
+01:02:10,167 --> 01:02:13,876
+- Hej!
+- Imamo sastanak s g. DeMilleom.
+
+707
+01:02:14,047 --> 01:02:16,402
+Na snimanju je. Imate li zakazano?
+
+708
+01:02:16,567 --> 01:02:18,444
+Nije potrebno.
+
+709
+01:02:18,607 --> 01:02:21,838
+- Vozim Normu Desmond.
+- Koju Normu?
+
+710
+01:02:22,007 --> 01:02:26,319
+- Normu Desmond.
+- Jonesy, hej, Jonesy.
+
+711
+01:02:26,487 --> 01:02:31,607
+Da? Hej, pa to je gdica Desmond!
+
+712
+01:02:31,767 --> 01:02:34,804
+- Kako ste, gdice Desmond?
+- Otvorite.
+
+713
+01:02:34,967 --> 01:02:39,040
+- Svakako, gdice Desmond.
+- Ne mogu unutra bez dozvole.
+
+714
+01:02:39,207 --> 01:02:42,279
+Gdica Desmond može. Hajde.
+
+715
+01:02:51,207 --> 01:02:53,675
+- Gdje snima g. DeMille?
+- Studio 18.
+
+716
+01:02:53,847 --> 01:02:56,998
+Hvala, Jonesy.
+I nauci prijatelja lijepom ponašanju.
+
+717
+01:02:57,167 --> 01:03:00,876
+Da nema mene, ne bi imao posla,
+jer ne bi bilo ni "Paramounta".
+
+718
+01:03:01,047 --> 01:03:05,325
+- U pravu ste, gdice Desmond.
+- Idemo, Maxe.
+
+719
+01:03:12,247 --> 01:03:13,726
+Studio 18.
+
+720
+01:03:14,647 --> 01:03:20,677
+<i>Dobro, obavijestite Henrya Wilcoxona.</i>
+<i>Raširite to da mogu vidjeti.</i>
+
+721
+01:03:22,407 --> 01:03:24,637
+<i>Tišina tamo!</i>
+
+722
+01:03:24,807 --> 01:03:27,640
+Norma Desmond
+dolazi vidjeti g. DeMillea.
+
+723
+01:03:27,807 --> 01:03:32,085
+<i>Osvijetlite to</i>
+<i>da vidim kako izgleda.</i>
+
+724
+01:03:32,247 --> 01:03:36,684
+<i>Povucite se malo natrag.</i>
+<i>Sklonite se vi tamo otraga!</i>
+
+725
+01:03:36,847 --> 01:03:38,917
+Norma Desmond
+dolazi vidjeti g. DeMillea.
+
+726
+01:03:39,087 --> 01:03:41,476
+Norma Desmond?
+
+727
+01:03:42,247 --> 01:03:44,966
+- Pricekajte malo.
+- Harry Wilcoxon?
+
+728
+01:03:45,127 --> 01:03:49,757
+lsuci sablju i podigni ovu zavjesu.
+Samson tamo leži onesviješten.
+
+729
+01:03:49,927 --> 01:03:53,317
+Norma Desmond
+vas dolazi vidjeti, g. DeMille.
+
+730
+01:03:53,487 --> 01:03:57,036
+- Norma Desmond?
+- Mora da joj je milijun godina.
+
+731
+01:03:57,207 --> 01:04:00,563
+Koliko je tek onda meni?
+Mogao bih joj biti otac.
+
+732
+01:04:00,727 --> 01:04:05,642
+- Oprostite, g. DeMille.
+- Sigurno radi onog užasnog scenarija.
+
+733
+01:04:05,807 --> 01:04:07,957
+Što da joj kažem?
+
+734
+01:04:08,127 --> 01:04:12,245
+Mogu joj ja reci da ste u dvorani
+za projekcije i tako je odbaciti.
+
+735
+01:04:12,407 --> 01:04:15,638
+30 milijuna gledatelja je nju odbacilo.
+Zar to nije dovoljno?
+
+736
+01:04:15,807 --> 01:04:18,002
+- Nisam mislio...
+- Naravno da nisi.
+
+737
+01:04:18,167 --> 01:04:22,160
+Ti nisi poznavao Normu Desmond
+kao slatku malu 17-godišnjakinju,
+
+738
+01:04:22,327 --> 01:04:26,923
+s više hrabrosti, šarma i srca
+nego u bilo koga drugog tih godina.
+
+739
+01:04:27,087 --> 01:04:31,285
+- Cuo sam da nije bilo lako raditi s njom.
+- Samo pri kraju.
+
+740
+01:04:31,447 --> 01:04:34,837
+Nekolicina novinara
+koji oko necega zapnu
+
+741
+01:04:35,007 --> 01:04:38,795
+ljudskom duhu
+mogu nanijeti ogromnu štetu.
+
+742
+01:04:39,767 --> 01:04:41,405
+Stanka.
+
+743
+01:04:47,127 --> 01:04:50,961
+- Zar neceš sa mnom?
+- Tvoj scenarij, tvoja predstava.
+
+744
+01:04:51,127 --> 01:04:54,005
+- Sa srecom.
+- Hvala, najdraži.
+
+745
+01:04:56,967 --> 01:04:58,844
+Zdravo, mlada prijateljice.
+
+746
+01:04:59,007 --> 01:05:01,965
+- Zdravo, g. DeMille.
+- Drago mi te vidjeti.
+
+747
+01:05:02,127 --> 01:05:04,561
+Zadnji put sam vas vidjela
+na jednom veselom mjestu.
+
+748
+01:05:04,727 --> 01:05:07,287
+Sjecam se da sam plesala na stolu.
+
+749
+01:05:07,447 --> 01:05:12,885
+Mnogi su. Lindbergh je
+upravo bio sletio u Pariz. Dodi.
+
+750
+01:05:14,767 --> 01:05:17,998
+Norma, moram ti se
+ispricati što te nisam zvao.
+
+751
+01:05:18,167 --> 01:05:19,759
+I bolje, jako sam ljuta.
+
+752
+01:05:19,927 --> 01:05:23,237
+- Vidiš i sama da sam užasno zauzet.
+- To nije razlog.
+
+753
+01:05:23,407 --> 01:05:26,797
+- Ali, procitali ste scenarij?
+- Jesam.
+
+754
+01:05:26,967 --> 01:05:31,119
+Mogli ste me i sami nazvati,
+umjesto da to prepuštate asistentu.
+
+755
+01:05:31,287 --> 01:05:36,202
+- Kakvom asistentu?
+- Ne pravite se naivni. Gordonu Coleu.
+
+756
+01:05:36,367 --> 01:05:37,686
+Gordon Cole?
+
+757
+01:05:37,847 --> 01:05:40,236
+Da niste bili zainteresirani,
+
+758
+01:05:40,407 --> 01:05:45,606
+on me sigurno ne bi pokušavao
+10 puta dobiti na telefon.
+
+759
+01:05:45,767 --> 01:05:47,997
+Upravo mi je u tijeku proba.
+
+760
+01:05:48,167 --> 01:05:52,399
+Zašto ne bi malo sjela
+u moju stolicu i raskomotila se?
+
+761
+01:05:52,567 --> 01:05:57,357
+- Hvala.
+- Tako. Necu dugo.
+
+762
+01:05:57,527 --> 01:06:01,520
+Donesite mi telefon i
+nazovite Gordona Colea.
+
+763
+01:06:15,767 --> 01:06:18,964
+Hej, gdice Desmond.
+
+764
+01:06:19,607 --> 01:06:26,445
+- To sam ja, "Svinjsko oko".
+- Zdravo, "Svinjsko oko".
+
+765
+01:06:29,127 --> 01:06:32,164
+Moram vas dobro pogledati.
+
+766
+01:06:34,207 --> 01:06:36,118
+Pogledaj, Norma Desmond.
+
+767
+01:06:36,287 --> 01:06:38,926
+Norma Desmond!
+
+768
+01:06:39,087 --> 01:06:41,521
+- Norma Desmond!
+- Ja sam mislio da je ona umrla.
+
+769
+01:06:41,687 --> 01:06:45,202
+- Kako mi vas je drago vidjeti!
+- Dobrodošli. Sjecate se mene?
+
+770
+01:06:45,367 --> 01:06:48,677
+Svakako. Zdravo, Patsy.
+
+771
+01:06:48,847 --> 01:06:52,522
+- Poznajete li gdicu Desmond?
+- Zadovoljstvo mi je.
+
+772
+01:06:52,687 --> 01:06:56,919
+Gordone, ovdje C. B. DeMille.
+Jesi li ti zvao Normu Desmond?
+
+773
+01:06:57,087 --> 01:07:01,205
+Jesam, g. DeMille. Radi onog starog
+"lsotta Fraschini" auta.
+
+774
+01:07:01,367 --> 01:07:05,042
+Njezin vozac ga je ovdje bio doveo.
+Izgleda kao stvoren za Crosbyev film.
+
+775
+01:07:05,207 --> 01:07:10,406
+- Htjeli bismo ga unajmiti na par tjedana.
+- Oh, shvacam.
+
+776
+01:07:10,567 --> 01:07:13,525
+Pa, hvala puno.
+
+777
+01:07:28,127 --> 01:07:32,484
+"Svinjsko oko",
+usmjeri to svjetlo natrag na set.
+
+778
+01:07:45,927 --> 01:07:49,203
+Upravo sam razgovarao
+s Gordonom Coleom.
+
+779
+01:07:49,367 --> 01:07:51,801
+Jeste li vidjeli kako su mi prišli?
+
+780
+01:07:51,967 --> 01:07:56,597
+Znaš, lude se stvari
+dogadaju u ovom poslu.
+
+781
+01:07:56,767 --> 01:08:00,601
+Nadam se da nisi izgubila
+smisao za humor.
+
+782
+01:08:00,767 --> 01:08:03,281
+- Što je bilo?
+- Ništa.
+
+783
+01:08:03,447 --> 01:08:07,281
+Nisam znala kako ce izgledati
+opet se vratiti u studio.
+
+784
+01:08:07,447 --> 01:08:11,122
+- Nisam znala da mi toliko nedostaje.
+- I ti si nama nedostajala.
+
+785
+01:08:11,287 --> 01:08:14,279
+Opet cemo mi zajedno raditi.
+Snimit cemo naš najveci film.
+
+786
+01:08:14,447 --> 01:08:17,917
+- O tome bih i htio razgovarati.
+- Scenarij je dobar, zar ne?
+
+787
+01:08:18,087 --> 01:08:23,719
+lma nekih dobrih dijelova,
+ali bio bi to jako skup film.
+
+788
+01:08:23,887 --> 01:08:25,684
+Nije me briga.
+
+789
+01:08:25,847 --> 01:08:30,159
+Hocu opet raditi. Nemate pojma koliko
+mi znaci to što znam da me vi želite.
+
+790
+01:08:30,327 --> 01:08:34,115
+Ništa me ne bi ucinilo sretnijim,
+kada bi to bilo moguce.
+
+791
+01:08:34,287 --> 01:08:38,041
+Sjecate se, nikad ne radim
+prije 10 i nakon 16:30.
+
+792
+01:08:38,847 --> 01:08:41,998
+- Spremni smo, g. DeMille.
+- Dobro.
+
+793
+01:08:42,167 --> 01:08:49,164
+Sjedi tu i pogledaj još malo.
+Filmovi su se dosta promijenili.
+
+794
+01:08:49,327 --> 01:08:51,397
+U redu, idemo.
+
+795
+01:08:51,767 --> 01:08:53,883
+Pali svjetla.
+
+796
+01:08:55,167 --> 01:08:58,443
+Kamera. Idemo.
+
+797
+01:09:06,807 --> 01:09:10,004
+Vidite one urede gore,
+gospodine Gillis?
+
+798
+01:09:11,127 --> 01:09:15,200
+To je nekada bila
+gospodina garderoba. Citav niz.
+
+799
+01:09:15,447 --> 01:09:17,517
+Nisu puno ostavili
+za Wallacea Reida.
+
+800
+01:09:17,687 --> 01:09:20,599
+On je imao veliku, sjajnu
+kamp-kucicu.
+
+801
+01:09:20,767 --> 01:09:25,887
+I ja sam bio gore.
+Vidite gdje piše "Odjel citaca"?
+
+802
+01:09:26,047 --> 01:09:30,962
+Sjecam se da su zidovi u mojoj sobi
+bili prekriveni crnom kožom.
+
+803
+01:09:38,327 --> 01:09:41,080
+Vracam se za minutu.
+
+804
+01:09:52,287 --> 01:09:56,803
+Evo tog cudnog auta o kome je
+govorio Cole. Možemo li ga pogledati?
+
+805
+01:09:56,967 --> 01:09:59,640
+Što tu ima tako cudno?
+
+806
+01:10:05,567 --> 01:10:10,277
+Ako u "Tamnim prozorima" ima nešto
+što možete upotrijebiti, uzmite to.
+
+807
+01:10:10,447 --> 01:10:13,325
+Za Boga miloga!
+Udite, sjednite.
+
+808
+01:10:13,487 --> 01:10:17,275
+- Ozbiljno. Slobodno se poslužite.
+- Zašto biste to ucinili?
+
+809
+01:10:17,447 --> 01:10:21,565
+Ako dobijete 100000, dat cete mi
+cokoladu, a za Oskara, lijevu nogu.
+
+810
+01:10:21,727 --> 01:10:25,561
+Vrlo rado, ali ja to stvarno
+ne mogu sama napisati.
+
+811
+01:10:25,727 --> 01:10:29,800
+- A što je sa zamislima koje ste imali?
+- Poslušajte kako vam ovo zvuci.
+
+812
+01:10:29,967 --> 01:10:34,324
+Kao prvo, izbacite svu onu psihologiju,
+proucavanje ubojicinog bolesnog uma.
+
+813
+01:10:34,847 --> 01:10:36,565
+Psihopati se dobro prodaju.
+
+814
+01:10:36,727 --> 01:10:39,639
+Ovo je prica o uciteljima
+i njihovom svakodnevnom životu.
+
+815
+01:10:39,807 --> 01:10:43,038
+Ona predaje po danu,
+a on u vecernjoj školi.
+
+816
+01:10:43,207 --> 01:10:45,004
+Prvi put kada se sretnu...
+
+817
+01:10:45,167 --> 01:10:48,045
+- Nemam sad vremena sve slušati.
+- Skratit cu.
+
+818
+01:10:48,207 --> 01:10:51,040
+- To je sad vaše dijete.
+- Zar ne bismo mogli navecer raditi?
+
+819
+01:10:51,207 --> 01:10:54,722
+Šest ujutro? Iduci mjesec sam vam
+potpuno na raspolaganju.
+
+820
+01:10:54,887 --> 01:10:57,845
+- Artie nije u gradu.
+- Kakve on ima veze s tim?
+
+821
+01:10:58,007 --> 01:11:01,716
+- Mi smo zaruceni.
+- Oh... Drago mi je to cuti.
+
+822
+01:11:01,887 --> 01:11:04,401
+- Niste mogli boljega pronaci.
+- Slažem se.
+
+823
+01:11:04,567 --> 01:11:07,320
+U Arizoni snimaju neki vestern.
+
+824
+01:11:07,487 --> 01:11:12,515
+Slobodna sam svaku vecer i vikend.
+Ako hocete, možemo i kod vas raditi.
+
+825
+01:11:12,687 --> 01:11:16,885
+Nece ici. Prestanite biti kukavica
+i sami napišite pricu.
+
+826
+01:11:17,047 --> 01:11:19,925
+- Mrzim vas.
+- Nemojte samo da bude presumorna.
+
+827
+01:11:20,087 --> 01:11:23,682
+Što kažete na ovo. Rekli ste da ona
+predaje po danu, a on po noci.
+
+828
+01:11:23,847 --> 01:11:27,476
+Oni se uopce ne poznaju,
+ali dijele sobu jer je tako jeftinije.
+
+829
+01:11:27,647 --> 01:11:31,765
+Štoviše, spavaju u istom krevetu.
+U smjenama, naravno.
+
+830
+01:11:31,927 --> 01:11:34,760
+Šalite se? Ja stvarno mislim
+da to nije loše.
+
+831
+01:11:34,927 --> 01:11:37,919
+- I ja.
+- Pogledajte gdje se to može uklopiti.
+
+832
+01:11:38,087 --> 01:11:40,999
+- Dovidenja.
+- Oh...
+
+833
+01:11:46,127 --> 01:11:47,446
+Što je bilo?
+
+834
+01:11:47,607 --> 01:11:51,520
+Otkrio sam zašto su
+zvali iz "Paramounta".
+
+835
+01:11:51,687 --> 01:11:55,566
+Ne žele oni madame,
+vec njezin auto.
+
+836
+01:11:55,727 --> 01:11:57,843
+Što?
+
+837
+01:12:00,007 --> 01:12:03,124
+Dovidenja, Norma.
+Vidjet cemo što možemo uciniti.
+
+838
+01:12:03,287 --> 01:12:07,917
+Ne brinem se. Stara ekipa na okupu.
+Ništa nas ne može zaustaviti.
+
+839
+01:12:08,087 --> 01:12:11,124
+Stara ekipa? Da.
+
+840
+01:12:12,167 --> 01:12:15,159
+- Dovidenja, draga.
+- Dovidenja, g. DeMille.
+
+841
+01:12:23,287 --> 01:12:26,484
+- Kako je prošlo?
+- Nije moglo bolje.
+
+842
+01:12:26,647 --> 01:12:30,162
+Mora prvo završiti ovaj film,
+ali onda je moj na redu.
+
+843
+01:12:31,847 --> 01:12:36,125
+Nazovi Gordona Colea.
+Reci mu da zaboravi njezin auto.
+
+844
+01:12:36,287 --> 01:12:39,006
+Poruci mu da negdje drugdje
+nešto pronade.
+
+845
+01:12:39,167 --> 01:12:42,443
+Kupit cu mu ja
+pet starih auta ako treba.
+
+846
+01:12:48,887 --> 01:12:51,355
+<i>Nakon toga,</i>
+<i>vojska strucnjaka za uljepšavanje</i>
+
+847
+01:12:51,527 --> 01:12:54,644
+<i>okupirala je njezinu kucu</i>
+<i>na Sunset Boulevardu.</i>
+
+848
+01:12:54,807 --> 01:12:57,765
+<i>Prošla je nemilosrdnu seriju tretmana.</i>
+
+849
+01:12:57,927 --> 01:13:01,681
+<i>Kao sportaš pred Olimpijadu,</i>
+<i>brojala je svaku kaloriju</i>
+
+850
+01:13:01,847 --> 01:13:04,077
+<i>i svake veceri u 21 sat</i>
+<i>išla u krevet.</i>
+
+851
+01:13:04,247 --> 01:13:07,444
+<i>Bila je posve odlucna</i>
+<i>da bude spremna.</i>
+
+852
+01:13:07,607 --> 01:13:10,644
+<i>Spremna za kamere</i>
+<i>koje se nikad nece pokrenuti.</i>
+
+853
+01:13:45,687 --> 01:13:48,076
+- Dragi, tu si?
+- Da.
+
+854
+01:13:48,247 --> 01:13:52,638
+Ne okreci se.
+Gledaj u knjigu.
+
+855
+01:13:53,527 --> 01:13:57,202
+Došla sam ti poželjeti laku noc.
+Ne želim da me vidiš.
+
+856
+01:13:57,367 --> 01:14:00,245
+- Ne izgledam baš lijepo.
+- Laku noc.
+
+857
+01:14:00,407 --> 01:14:03,160
+- Izgubila sam pola kilograma.
+- Odlicno.
+
+858
+01:14:03,327 --> 01:14:07,036
+Bila sam malo zabrinuta za vrat,
+ali ona žena je napravila cudo.
+
+859
+01:14:07,207 --> 01:14:11,803
+- Odlicno.
+- Mogao bi i ti u krevet.
+
+860
+01:14:11,967 --> 01:14:17,803
+- Još cu malo citati.
+- Sinoc si išao vani, zar ne?
+
+861
+01:14:17,967 --> 01:14:20,401
+- Zašto to govoriš?
+- Jer znam.
+
+862
+01:14:20,567 --> 01:14:24,799
+Imala sam nocnu moru i zvala te.
+Gdje si bio?
+
+863
+01:14:24,967 --> 01:14:29,438
+- Izašao sam prošetati.
+- Nije istina. Uzeo si auto.
+
+864
+01:14:29,607 --> 01:14:34,635
+Odvezao sam se na plažu. Ne želiš
+valjda da se osjecam zatvorenim?
+
+865
+01:14:34,807 --> 01:14:38,641
+Naravno da ne.
+Ali ja jednostavno ne želim biti sama.
+
+866
+01:14:38,807 --> 01:14:42,800
+Ne, dok sam pod ovim pritiskom.
+Živci su mi napeti kao strune.
+
+867
+01:14:42,967 --> 01:14:47,643
+Sve što od tebe tražim je
+da budeš malo strpljiv i ljubazan.
+
+868
+01:14:48,927 --> 01:14:53,205
+- Norma, ja nisam ništa ucinio.
+- Naravno da nisi.
+
+869
+01:14:53,367 --> 01:14:57,042
+Ne bih ti ja dopustila. Laku noc, dragi.
+
+870
+01:15:24,967 --> 01:15:29,677
+<i>Da, svake noci sam</i>
+<i>iznova markirao.</i>
+
+871
+01:15:29,847 --> 01:15:35,604
+<i>Kao u doba kad sam se kao klinac</i>
+<i>iskradao gledati gangsterske filmove.</i>
+
+872
+01:15:35,767 --> 01:15:40,716
+<i>Samo ovaj put nisam išao gledati film,</i>
+<i>vec sam ga pokušavao napisati.</i>
+
+873
+01:15:40,887 --> 01:15:42,798
+<i>Prica koju je iskopala Betty Schaefer</i>
+
+874
+01:15:42,967 --> 01:15:46,960
+<i>tutnjala mi je kroz glavu</i>
+<i>poput lokomotive.</i>
+
+875
+01:15:47,127 --> 01:15:52,520
+<i>I tako smo poceli zajedno raditi,</i>
+<i>nocima kada je studio bio napušten,</i>
+
+876
+01:15:52,687 --> 01:15:55,759
+<i>u njezinom malom uredu.</i>
+
+877
+01:16:10,727 --> 01:16:13,002
+Dobila sam smiješno pismo od Artiea.
+
+878
+01:16:13,167 --> 01:16:15,886
+Otkako su stigli,
+svaki dan im pada kiša.
+
+879
+01:16:16,047 --> 01:16:19,722
+Cijeli scenarij su prilagodili kiši
+i snimili pola.
+
+880
+01:16:20,367 --> 01:16:23,359
+Sad je izašlo sunce i nitko ne zna
+kada ce se moci vratiti.
+
+881
+01:16:23,527 --> 01:16:27,440
+- Dobro.
+- Zašto je to dobro? Jako mi nedostaje.
+
+882
+01:16:27,607 --> 01:16:30,804
+- Hocu reci, ovo ce biti dobar dijalog.
+- Stvarno?
+
+883
+01:16:30,967 --> 01:16:35,119
+Da, narocito s dosta glazbe
+koja ce ga prigušiti.
+
+884
+01:16:35,287 --> 01:16:39,439
+- Zar vi ponekad ne mrzite sebe?
+- Stalno.
+
+885
+01:16:39,607 --> 01:16:42,405
+Ozbiljno, ovo je stvarno dobro.
+
+886
+01:16:42,567 --> 01:16:46,321
+- Zabavno je raditi s vama.
+- Oh, hvala.
+
+887
+01:16:57,047 --> 01:16:59,481
+LUDA ZA MLADlCEM, NORMA
+
+888
+01:16:59,647 --> 01:17:03,845
+- Tko je Norma?
+- Tko?
+
+889
+01:17:04,007 --> 01:17:07,238
+Žao mi je, obicno
+ne citam tude tabakere.
+
+890
+01:17:07,407 --> 01:17:11,764
+Oh, to. To je od prijateljice.
+
+891
+01:17:11,927 --> 01:17:15,283
+Sredovjecne dame,
+jako luckaste i darežljive.
+
+892
+01:17:15,447 --> 01:17:17,517
+Ovo je pravo zlato.
+
+893
+01:17:17,687 --> 01:17:20,281
+Pomogao sam joj
+oko njezinog idiotskog scenarija.
+
+894
+01:17:20,447 --> 01:17:24,645
+Stara prica.
+Pomognete nekom da prede ulicu.
+
+895
+01:17:24,807 --> 01:17:29,039
+Ispadne da je to neka milijunerka
+koja vam ostavi sav svoj novac.
+
+896
+01:17:29,207 --> 01:17:32,438
+To je problem s vama citacima.
+Poznate su vam sve price.
+
+897
+01:17:32,607 --> 01:17:36,316
+A da vi ipak pregledate 10. stranicu
+dok ne prokuha voda?
+
+898
+01:17:36,487 --> 01:17:38,842
+U redu.
+
+899
+01:18:00,327 --> 01:18:03,319
+<i>Ponekad kad bismo zapeli,</i>
+
+900
+01:18:03,487 --> 01:18:06,320
+<i>otišli bismo u kracu šetnju</i>
+<i>uspavanim studijem.</i>
+
+901
+01:18:06,487 --> 01:18:11,845
+<i>Ne bismo puno pricali,</i>
+<i>lutajuci prolazima izmedu setova,</i>
+
+902
+01:18:12,007 --> 01:18:16,046
+<i>ili izmedu kulisa koje bi se</i>
+<i>pripremale za sutrašnje snimanje.</i>
+
+903
+01:18:16,207 --> 01:18:21,361
+<i>Za vrijeme jedne takve šetnje</i>
+<i>ispricala mi je o svom nosu.</i>
+
+904
+01:18:21,527 --> 01:18:23,279
+Pogledajte ovu ulicu.
+
+905
+01:18:23,447 --> 01:18:27,759
+Od kartona, prazna i lažna,
+cijela je izradena uz pomoc ogledala.
+
+906
+01:18:27,927 --> 01:18:31,761
+Ali ipak, svida mi se više
+od bilo koje druge ulice na svijetu.
+
+907
+01:18:31,927 --> 01:18:35,761
+Možda zato jer sam se tu igrala
+još kao dijete.
+
+908
+01:18:35,927 --> 01:18:37,963
+Glumili ste kao dijete?
+
+909
+01:18:38,127 --> 01:18:42,803
+Ne, rodila sam se dva bloka odavde,
+u Lemon Grove aveniji.
+
+910
+01:18:42,967 --> 01:18:46,516
+Otac je ovdje bio elektricar,
+a majka još radi kao kostimografkinja.
+
+911
+01:18:46,687 --> 01:18:48,917
+- Druga generacija, ha?
+- Treca.
+
+912
+01:18:49,087 --> 01:18:52,682
+Baka je bila kaskaderka za
+Pearl White. Mi smo filmska obitelj.
+
+913
+01:18:52,847 --> 01:18:54,997
+Naravno, ocekivali su da ja
+postanem zvijezda.
+
+914
+01:18:55,167 --> 01:18:59,285
+10 godina sam provela
+uceci glumu, dikciju, ples.
+
+915
+01:18:59,447 --> 01:19:03,235
+Onda me je studio testirao.
+Nije im se svidio moj nos.
+
+916
+01:19:03,407 --> 01:19:06,797
+Malo je bio nakrivljen na ovu stranu.
+Zato sam ga i popravila.
+
+917
+01:19:06,967 --> 01:19:10,926
+Onda im se nos svidio,
+ali ne i moja gluma.
+
+918
+01:19:14,847 --> 01:19:18,806
+- Odlican rad.
+- Za 300 dolara i mora biti.
+
+919
+01:19:18,967 --> 01:19:21,197
+- To je jako tužno.
+- Nije.
+
+920
+01:19:21,367 --> 01:19:25,519
+To me je urazumilo. Napredovala sam
+od dostavljaca do citaca.
+
+921
+01:19:25,687 --> 01:19:29,965
+Budite iskreni. Po noci ipak placete za
+nesnimljenim kadrovima, premijerama.
+
+922
+01:19:30,127 --> 01:19:33,836
+Ne. Zašto je loše biti
+s druge strane kamere?
+
+923
+01:19:34,007 --> 01:19:37,841
+- Zapravo je još zabavnije.
+- Triput hura za Betty Schaefer.
+
+924
+01:19:38,007 --> 01:19:43,923
+- Sada cu vam poljubiti taj nos.
+- Ako želite.
+
+925
+01:19:45,687 --> 01:19:48,406
+Mogu li vam reci kako lijepo mirišete?
+
+926
+01:19:48,567 --> 01:19:53,846
+- To mora da je zbog novog šampona.
+- Nije to zbog šampona.
+
+927
+01:19:54,007 --> 01:19:57,204
+Više podsjeca na
+svježe oprane rupcice,
+
+928
+01:19:57,367 --> 01:20:00,325
+ili novi automobil.
+
+929
+01:20:00,487 --> 01:20:04,002
+- Koliko je vama godina?
+- 22.
+
+930
+01:20:04,167 --> 01:20:09,195
+Pametna devojka. Nema ništa bolje
+nego imati 22 godine.
+
+931
+01:20:09,367 --> 01:20:15,203
+Ako mi ikad mislimo završiti ovu pricu,
+morate uvijek biti metar dalje od mene.
+
+932
+01:20:15,367 --> 01:20:21,636
+Cim vidite da se imalo približavam,
+zviznite me cipelom po glavi.
+
+933
+01:20:21,807 --> 01:20:27,279
+A sad se vracamo pisacim strojevima,
+preko Washington Squarea.
+
+934
+01:21:10,207 --> 01:21:14,758
+Što je, Maxe?
+Namjeravaš oprati auto?
+
+935
+01:21:14,927 --> 01:21:17,805
+lli u slobodno vrijeme
+malo špijuniraš?
+
+936
+01:21:17,967 --> 01:21:22,643
+Budite jako pažljivi kad budete
+prelazili dvorište. Možda madame gleda.
+
+937
+01:21:22,807 --> 01:21:26,766
+A da se provucem kroz kuhinju
+i presvucem u mraku?
+
+938
+01:21:26,927 --> 01:21:29,680
+Ja se ne raspitujem
+gdje g. Gillis ide svake noci.
+
+939
+01:21:29,847 --> 01:21:35,444
+Zašto ne? Pišem scenarij
+i namjeravam ga završiti!
+
+940
+01:21:35,607 --> 01:21:39,759
+Ja sam samo zabrinut za madame.
+
+941
+01:21:39,927 --> 01:21:43,442
+Naravno da jesi.
+Ali oboje joj niti malo ne pomažemo.
+
+942
+01:21:43,607 --> 01:21:48,123
+Hranimo je lažima,
+a ona se sprema za snimanje.
+
+943
+01:21:48,287 --> 01:21:52,803
+- Što ce biti kad sazna?
+- Nece saznati.
+
+944
+01:21:52,967 --> 01:21:57,199
+To je moj posao vec dugo vremena.
+
+945
+01:21:57,367 --> 01:22:03,237
+Shvatite da sam ja nju otkrio
+kada je imala 16 g. i ucinio je zvijezdom.
+
+946
+01:22:03,407 --> 01:22:07,161
+Ne mogu dopustiti da propadne.
+
+947
+01:22:07,327 --> 01:22:13,277
+- Ti si od nje napravio zvijezdu?
+- Režirao sam sve njezine rane filmove.
+
+948
+01:22:13,447 --> 01:22:17,201
+U ono vrijeme su bila samo tri
+mlada redatelja koja su obecavala.
+
+949
+01:22:17,367 --> 01:22:22,646
+D. W. Griffith, Cecil B. DeMille
+i Max Von Mayerling.
+
+950
+01:22:24,527 --> 01:22:26,677
+A ona te je pretvorila u slugu.
+
+951
+01:22:26,847 --> 01:22:31,079
+Ja sam tražio da se vratim,
+ma kako ponižavajuce to zvucalo.
+
+952
+01:22:31,247 --> 01:22:33,841
+Mogao sam nastaviti svoju karijeru,
+
+953
+01:22:34,007 --> 01:22:38,956
+ali kada me je ona ostavila,
+sve je bilo nepodnošljivo.
+
+954
+01:22:39,127 --> 01:22:43,882
+Vidite, ja sam bio njezin prvi muž.
+
+955
+01:23:09,847 --> 01:23:12,407
+Tu si, Joe.
+
+956
+01:23:13,127 --> 01:23:15,243
+Kada si se vratio?
+
+957
+01:23:19,367 --> 01:23:24,282
+Oh, Joe, gdje si bio?
+Je li neka druga u pitanju?
+
+958
+01:23:24,447 --> 01:23:28,884
+Znam da jest, ali tko je ona?
+Zašto te to ne mogu pitati?
+
+959
+01:23:29,047 --> 01:23:32,039
+Moram znati.
+
+960
+01:23:59,167 --> 01:24:00,885
+LJUBAVNA PRlCA BEZ NASLOVA
+
+961
+01:24:01,047 --> 01:24:03,925
+NAPISALl: JOSEPH C. GILLIS
+I BETTY SCHAEFER
+
+962
+01:24:22,887 --> 01:24:25,196
+Što je bilo?
+
+963
+01:24:27,327 --> 01:24:32,242
+Betty, probudi se.
+Zašto tako buljiš u mene?
+
+964
+01:24:32,407 --> 01:24:35,319
+Oh, zar jesam? Oprosti.
+
+965
+01:24:35,487 --> 01:24:37,955
+Što ti je veceras?
+
+966
+01:24:38,127 --> 01:24:42,166
+- Što je bilo?
+- Nešto je iskrslo, ali ne bih o tome.
+
+967
+01:24:42,327 --> 01:24:44,716
+Zašto ne?
+
+968
+01:24:50,807 --> 01:24:53,321
+Jednostavno ne bih.
+
+969
+01:25:00,407 --> 01:25:05,197
+Što si cula?
+Hajde, da cujem.
+
+970
+01:25:05,367 --> 01:25:08,837
+Nešto o meni?
+
+971
+01:25:19,687 --> 01:25:24,681
+Betty, nema smisla bježati od toga.
+Reci, što god da je.
+
+972
+01:25:24,847 --> 01:25:31,036
+- Dobila sam brzojav od Artiea.
+- Od Artiea? Nešto nije u redu?
+
+973
+01:25:31,207 --> 01:25:33,960
+Želi da dodem u Arizonu.
+
+974
+01:25:34,127 --> 01:25:38,723
+Kaže da ce nas tamo
+vjencanje koštati samo dva dolara.
+
+975
+01:25:38,887 --> 01:25:41,606
+Tako bismo uštedjeli
+za medeni mjesec.
+
+976
+01:25:41,767 --> 01:25:47,125
+Zašto ne bi otišla?
+Scenarij možemo završiti do cetvrtka.
+
+977
+01:25:47,287 --> 01:25:50,643
+Prestani plakati.
+Udaješ se. To si i željela.
+
+978
+01:25:50,807 --> 01:25:53,765
+Sada to ne želim.
+
+979
+01:25:53,927 --> 01:26:00,400
+- Zašto, zar ne voliš Artiea?
+- Naravno da ga volim i uvijek cu.
+
+980
+01:26:00,567 --> 01:26:05,402
+Ali jednostavno više nisam
+zaljubljena u njega.
+
+981
+01:26:05,567 --> 01:26:07,637
+Što se dogodilo?
+
+982
+01:26:08,527 --> 01:26:11,041
+Ti.
+
+983
+01:26:22,807 --> 01:26:25,799
+<i>Tek kad sam se vratio</i>
+<i>u svoj neobicni zatvor</i>
+
+984
+01:26:25,967 --> 01:26:29,118
+<i>postao sam svjestan</i>
+<i>nekih cinjenica.</i>
+
+985
+01:26:30,287 --> 01:26:35,645
+<i>To je bilo to. Buducnost Betty Schaefer</i>
+<i>nalazila se na mom dlanu.</i>
+
+986
+01:26:35,807 --> 01:26:40,801
+<i>Betty Schaefer, zarucena za</i>
+<i>Artiea Greena, najboljeg tipa na svijetu,</i>
+
+987
+01:26:40,967 --> 01:26:43,401
+<i>sada se zaljubila u mene.</i>
+
+988
+01:26:43,567 --> 01:26:45,080
+<i>Mene.</i>
+
+989
+01:26:56,567 --> 01:27:00,719
+<i>Bila je naivna kada nije vidjela</i>
+<i>da kod mene postoji nešto lažno.</i>
+
+990
+01:27:00,887 --> 01:27:03,959
+<i>A ja sam bio nitkov</i>
+<i>jer joj to nisam rekao.</i>
+
+991
+01:27:04,127 --> 01:27:08,917
+<i>Ali to jednostavno nije lako reci</i>
+<i>nekome za kim ste poludjeli.</i>
+
+992
+01:27:09,087 --> 01:27:14,002
+<i>Možda i necu trebati.</i>
+<i>Možda uspijem umaknuti Normi.</i>
+
+993
+01:27:14,167 --> 01:27:18,797
+<i>Možda uspijem ukloniti</i>
+<i>svu ovu zbrku iz svog života.</i>
+
+994
+01:27:26,207 --> 01:27:29,517
+Halo, da li je to Gladstone 9281?
+
+995
+01:27:29,687 --> 01:27:33,839
+Mogu dobiti gdicu Betty Schaefer?
+Sada bi vec morala biti kod kuce.
+
+996
+01:27:34,407 --> 01:27:39,561
+Hej, Betty.
+Opet te traži ona cudna žena.
+
+997
+01:27:39,727 --> 01:27:44,755
+Ma, o cemu je uopce rijec?
+Betty Schaefer.
+
+998
+01:27:44,927 --> 01:27:49,205
+Oprostite što zovem ovako kasno,
+ali osjecam da mi je to dužnost.
+
+999
+01:27:49,367 --> 01:27:53,997
+Rijec je o gospodinu Gillisu.
+Poznajete ga?
+
+1000
+01:27:54,167 --> 01:27:58,001
+Koliko ga vi zapravo
+dobro poznajete?
+
+1001
+01:27:58,167 --> 01:28:04,720
+Znate li gdje on živi,
+kako živi i od cega živi?
+
+1002
+01:28:05,247 --> 01:28:09,206
+Tko ste vi? Što želite?
+I što se to vas uopce tice?
+
+1003
+01:28:09,367 --> 01:28:13,406
+Gospodice Schaefer,
+ja vam pokušavam uciniti uslugu
+
+1004
+01:28:13,567 --> 01:28:17,003
+i poštedjeti vas velikog jada.
+
+1005
+01:28:17,167 --> 01:28:21,763
+Možda ste vi premladi da biste i
+posumnjali da takvi muškarci postoje.
+
+1006
+01:28:21,927 --> 01:28:25,715
+Ne znam što vam je rekao,
+ali on ne živi s rodacima,
+
+1007
+01:28:25,887 --> 01:28:30,039
+niti s prijateljima,
+u uobicajenom smislu te rijeci.
+
+1008
+01:28:30,207 --> 01:28:33,324
+Pitajte ga. Ponovno ga pitajte.
+
+1009
+01:28:38,007 --> 01:28:41,158
+Tako je, Betty,
+ponovno me pitaj. Joe ovdje.
+
+1010
+01:28:41,687 --> 01:28:45,805
+Joe, gdje si to?
+O cemu se radi?
+
+1011
+01:28:47,607 --> 01:28:51,077
+lli još bolje,
+dodi sama vidjeti.
+
+1012
+01:28:51,247 --> 01:28:56,480
+Adresa je
+Sunset Boulevard 10086.
+
+1013
+01:29:09,847 --> 01:29:13,556
+Nemoj me mrziti, Joe.
+Ucinila sam to jer te trebam.
+
+1014
+01:29:13,727 --> 01:29:17,959
+Trebam te kao nikada prije.
+Pogledaj me.
+
+1015
+01:29:18,127 --> 01:29:22,439
+Pogledaj moje ruke, moje lice,
+pogledaj ispod mojih ociju.
+
+1016
+01:29:22,607 --> 01:29:25,519
+Kako cu opet raditi,
+ako se ovako trošim?
+
+1017
+01:29:25,687 --> 01:29:30,477
+Ne znaš ti kroz što sam ja prošla
+u posljednjih par tjedana.
+
+1018
+01:29:35,967 --> 01:29:40,882
+Kupila sam revolver. Stajala sam pred
+ogledalom, ali nisam to mogla uciniti.
+
+1019
+01:29:41,047 --> 01:29:43,436
+Nemoj samo tako stajati
+i mrziti me.
+
+1020
+01:29:43,607 --> 01:29:48,123
+Vici na mene, udari me,
+ali nemoj me mrziti.
+
+1021
+01:29:48,287 --> 01:29:51,120
+Reci da me ne mrziš, Joe.
+
+1022
+01:30:04,727 --> 01:30:08,800
+Ovdje je 10079, Connie.
+Mora da je tamo.
+
+1023
+01:30:17,967 --> 01:30:22,995
+- Betty, mogu li i ja s tobom?
+- Ne treba, bit ce sve u redu.
+
+1024
+01:30:29,087 --> 01:30:33,763
+Volim te, Joe.
+
+1025
+01:30:33,927 --> 01:30:36,122
+Volim te.
+
+1026
+01:30:39,367 --> 01:30:43,155
+Što ceš uciniti, Joe?
+Što ceš uciniti?
+
+1027
+01:30:50,447 --> 01:30:54,156
+U redu je, Maxe. Ja cu.
+Zdravo, Betty.
+
+1028
+01:30:54,327 --> 01:30:57,046
+Tako me je strah, Joe.
+Je li nešto užasno?
+
+1029
+01:30:57,207 --> 01:30:59,596
+Udi.
+
+1030
+01:31:04,887 --> 01:31:07,959
+Jesi li ikad bila u ovakvoj
+staroj holivudskoj vili?
+
+1031
+01:31:08,127 --> 01:31:11,642
+U to vrijeme glumci su zaradivali
+18000 tjedno, bez poreza.
+
+1032
+01:31:11,807 --> 01:31:16,085
+Pazi na plocice, klizave su.
+Nekada je ovdje i Valentino plesao.
+
+1033
+01:31:16,247 --> 01:31:19,796
+- Ovdje ti živiš?
+- Tako je.
+
+1034
+01:31:19,967 --> 01:31:23,004
+- Cija je ovo kuca?
+- Njezina.
+
+1035
+01:31:23,167 --> 01:31:26,239
+- Cija?
+- Samo pogledaj okolo, ona je posvuda.
+
+1036
+01:31:26,407 --> 01:31:31,800
+Ako se ne sjecaš lica, sigurno si
+cula za ime. Norma Desmond?
+
+1037
+01:31:31,967 --> 01:31:34,322
+- Ono je ona bila na telefonu?
+- Pice?
+
+1038
+01:31:34,487 --> 01:31:37,285
+Ovdje uvijek ima šampanjca
+i puno kavijara.
+
+1039
+01:31:37,447 --> 01:31:41,281
+- Zašto me je zvala?
+- Ljubomora.
+
+1040
+01:31:41,447 --> 01:31:45,565
+Jesi li ikad vidjela toliko smeca?
+Strop joj je donešen iz Portugala.
+
+1041
+01:31:45,727 --> 01:31:47,843
+A pogledaj ovo.
+
+1042
+01:31:50,007 --> 01:31:51,725
+Njezino vlastito kino.
+
+1043
+01:31:51,887 --> 01:31:57,200
+Nisam ja ovdje došla gledati kucu.
+Što je s Normom Desmond?
+
+1044
+01:31:57,367 --> 01:32:01,997
+To ti i pokušavam reci.
+Ovo je ogromno mjesto.
+
+1045
+01:32:02,167 --> 01:32:06,683
+Osam spavacih soba.
+Kada u svakoj kupaonici.
+
+1046
+01:32:06,847 --> 01:32:10,203
+Dvorana za kuglanje u podrumu.
+
+1047
+01:32:11,727 --> 01:32:16,005
+Bila je usamljena
+i onda je sebi pronašla društvo.
+
+1048
+01:32:16,167 --> 01:32:18,158
+Vrlo jednostavno.
+
+1049
+01:32:18,327 --> 01:32:21,603
+Starija dobrostojeca žena.
+
+1050
+01:32:21,767 --> 01:32:25,396
+Mladi muškarac
+kome ne ide baš najbolje.
+
+1051
+01:32:25,567 --> 01:32:28,400
+- Jesi li vec shvatila?
+- Ne.
+
+1052
+01:32:28,567 --> 01:32:34,119
+- U redu, još cu ti malo pomoci.
+- Ne, nisam ništa cula.
+
+1053
+01:32:34,287 --> 01:32:38,246
+Nitko me nije zvao telefonom
+i nikada nisam bila u ovoj kuci.
+
+1054
+01:32:38,407 --> 01:32:40,398
+Sad uzmi svoje stvari i idemo.
+
+1055
+01:32:42,487 --> 01:32:44,125
+Sve moje stvari?
+
+1056
+01:32:44,287 --> 01:32:48,041
+Svih 18 odijela, moje posebno
+izradene cipele, 60-ak košulja,
+
+1057
+01:32:48,207 --> 01:32:52,723
+manšete,
+privjeske od platine i tabakere?
+
+1058
+01:32:52,887 --> 01:32:56,516
+- Hajde, Joe.
+- "Hajde", gdje?
+
+1059
+01:32:56,687 --> 01:32:59,440
+U jednosobni stan
+kojeg ne mogu placati?
+
+1060
+01:32:59,607 --> 01:33:02,679
+Prici koja ce se možda prodati,
+ali najvjerojatnije nece?
+
+1061
+01:33:02,847 --> 01:33:07,204
+- Ako me voliš, Joe.
+- Dušo, budi prakticna.
+
+1062
+01:33:07,367 --> 01:33:11,406
+Ovdje imam povoljnu situaciju.
+Dugotrajan ugovor bez obveza.
+
+1063
+01:33:11,567 --> 01:33:15,845
+Svida mi se to.
+Možda nije vrijedno poštovanja...
+
+1064
+01:33:18,487 --> 01:33:22,685
+E pa, ti i Artie
+možete biti vrijedni poštovanja.
+
+1065
+01:33:24,647 --> 01:33:28,720
+Ne mogu te više gledati, Joe.
+
+1066
+01:33:31,007 --> 01:33:36,161
+A da pogledaš gdje je izlaz?
+Ovuda, Betty.
+
+1067
+01:33:50,167 --> 01:33:56,436
+Sa srecom, Betty. Scenarij
+možeš završiti na putu u Arizonu.
+
+1068
+01:33:56,607 --> 01:34:00,520
+Kad se ti i Artie vratite, ako ikada
+budete raspoloženi za plivanje...
+
+1069
+01:34:02,087 --> 01:34:04,647
+...bazen je tu.
+
+1070
+01:34:46,527 --> 01:34:49,519
+Hvala ti, dragi. Hvala ti, Joe.
+
+1071
+01:34:51,207 --> 01:34:53,163
+Joe.
+
+1072
+01:35:16,767 --> 01:35:20,237
+Mogu li uci, Joe?
+Prestala sam plakati.
+
+1073
+01:35:20,407 --> 01:35:24,002
+Opet sam dobro.
+Reci mi da nisi ljut.
+
+1074
+01:35:24,167 --> 01:35:27,876
+Reci mi da je sve kao i prije, Joe.
+
+1075
+01:35:30,047 --> 01:35:31,958
+Joe.
+
+1076
+01:35:34,607 --> 01:35:37,201
+Što to ciniš, Joe?
+
+1077
+01:35:42,287 --> 01:35:45,324
+- Što to ciniš?
+- Pakujem se.
+
+1078
+01:35:48,007 --> 01:35:51,443
+- Napuštaš me?
+- Da, Norma.
+
+1079
+01:35:51,607 --> 01:35:54,326
+Ne, nije istina. Maxe! Maxe!
+
+1080
+01:35:55,287 --> 01:36:01,203
+Hvala ti na ovoj krasnoj garderobi
+kao i na ostalim drangulijama.
+
+1081
+01:36:03,047 --> 01:36:05,880
+- Ostatak je u ladici.
+- To je sve tvoje.
+
+1082
+01:36:06,047 --> 01:36:10,438
+Ponio bih ja to, ali je suviše
+pomodno za novinarski stol u Daytonu.
+
+1083
+01:36:11,007 --> 01:36:16,286
+Ovo nije ništa.
+Ti možeš imati bilo što. Što želiš?
+
+1084
+01:36:16,447 --> 01:36:18,165
+Novac?
+
+1085
+01:36:18,327 --> 01:36:22,320
+To bi bilo isto kao da ga bacaš.
+Ja više ne obavljam taj posao.
+
+1086
+01:36:22,487 --> 01:36:27,242
+Ne možeš otici. Maxe!
+Ne mogu živjeti bez tebe.
+
+1087
+01:36:29,767 --> 01:36:33,840
+- A znaš da me smrti nije strah.
+- To je vec tvoja stvar.
+
+1088
+01:36:34,007 --> 01:36:38,319
+Ti misliš da sam ja ono
+o pištolju izmislila? U redu!
+
+1089
+01:36:46,327 --> 01:36:50,559
+Vidiš? Nisi mi vjerovao.
+Misliš da nemam hrabrosti?
+
+1090
+01:36:50,727 --> 01:36:53,639
+- Imaš, ali ako je u pitanju dobra scena.
+- Tebi nije stalo.
+
+1091
+01:36:53,807 --> 01:36:55,843
+Stotinama tisuca ljudi ce biti!
+
+1092
+01:36:56,007 --> 01:36:59,920
+Ubit ceš se za prazno kino.
+Publika je otišla prije 20 godina.
+
+1093
+01:37:00,087 --> 01:37:03,602
+- To je laž! Oni mene još uvijek žele.
+- Ne žele.
+
+1094
+01:37:03,767 --> 01:37:06,884
+- A DeMille?
+- Htio te je poštedjeti.
+
+1095
+01:37:07,047 --> 01:37:10,039
+- Studio je samo htio iznajmiti tvoj auto.
+- Što?
+
+1096
+01:37:10,207 --> 01:37:13,677
+DeMille nije imao srca da ti to kaže.
+Nitko od nas nije.
+
+1097
+01:37:13,847 --> 01:37:19,160
+To je laž. Oni mene žele.
+Svaki dan dobivam pisma.
+
+1098
+01:37:19,327 --> 01:37:24,082
+Ti joj reci, Maxe. Ucini joj uslugu.
+Reci joj da više nece biti filmova.
+
+1099
+01:37:24,247 --> 01:37:26,920
+Da su jedina pisma koja stižu
+ona koja ti pišeš.
+
+1100
+01:37:27,087 --> 01:37:30,318
+To nije istina. Maxe!
+
+1101
+01:37:30,487 --> 01:37:34,036
+Madame je najveca zvijezda
+koja postoji.
+
+1102
+01:37:34,207 --> 01:37:38,519
+Odnijet cu torbe
+gospodina Gillisa u auto.
+
+1103
+01:37:43,167 --> 01:37:47,285
+Cuo si ga. Ja sam zvijezda.
+
+1104
+01:37:47,447 --> 01:37:50,120
+Norma, ti imaš 50 godina. Odrasti.
+
+1105
+01:37:50,287 --> 01:37:54,599
+Nije tragicno imati 50 godina,
+osim ako ne pokušavaš imati 25.
+
+1106
+01:37:54,767 --> 01:37:58,123
+Najveca zvijezda koja postoji.
+
+1107
+01:38:03,287 --> 01:38:05,596
+Zbogom, Norma.
+
+1108
+01:38:06,967 --> 01:38:12,519
+Zvijezdu nitko ne napušta.
+To je i cini zvijezdom.
+
+1109
+01:38:18,327 --> 01:38:21,558
+Joe! Joe!
+
+1110
+01:38:22,927 --> 01:38:24,883
+Joe!
+
+1111
+01:38:30,127 --> 01:38:32,357
+Joe!
+
+1112
+01:39:03,687 --> 01:39:08,078
+Zvijezde su vjecne, zar ne?
+
+1113
+01:39:14,487 --> 01:39:17,957
+<i>Eto, ovdje ste se vi pojavili.</i>
+
+1114
+01:39:18,127 --> 01:39:22,723
+<i>Opet smo kod onog bazena.</i>
+<i>Bazena kojeg sam oduvijek želio.</i>
+
+1115
+01:39:22,887 --> 01:39:26,960
+<i>Zora je i do sada su me</i>
+<i>vjerojatno fotografirali tisucu puta.</i>
+
+1116
+01:39:27,127 --> 01:39:30,836
+<i>Pronašli su neko vrtno pruce</i>
+<i>i s njime me izvukli vani,</i>
+
+1117
+01:39:31,007 --> 01:39:33,237
+<i>vrlo nježno.</i>
+
+1118
+01:39:33,407 --> 01:39:37,525
+<i>Zanimljivo kako ljudi</i>
+<i>postanu nježni s vama kada umrete.</i>
+
+1119
+01:39:38,247 --> 01:39:41,319
+<i>Izvukli su me kao mladunce kita</i>
+<i>pogodeno harpunom.</i>
+
+1120
+01:39:41,487 --> 01:39:47,164
+<i>Poceli su provjeravati gdje je</i>
+<i>nastala šteta, cisto za svoj izvještaj.</i>
+
+1121
+01:39:47,727 --> 01:39:52,881
+<i>Mjesto je vec vrvjelo od policije,</i>
+<i>novinara, susjeda, prolaznika.</i>
+
+1122
+01:39:53,047 --> 01:39:56,722
+<i>Nastala je gužva kao kad se</i>
+<i>otvori supermarket.</i>
+
+1123
+01:39:56,887 --> 01:39:59,447
+<i>Cak su i tipovi iz</i>
+<i>; ; Filmskih novosti; ; dojurili.</i>
+
+1124
+01:39:59,607 --> 01:40:03,725
+<i>S ovim su se svi mogli</i>
+<i>lijepo zabavljati.</i>
+
+1125
+01:40:03,887 --> 01:40:09,200
+<i>Bezdušne ništarije.</i>
+<i>Što ce uciniti Normi?</i>
+
+1126
+01:40:09,367 --> 01:40:14,646
+<i>Cak ako se i izvuce na sudu, zlocin</i>
+<i>iz strasti, trenutacna neuracunljivost,</i>
+
+1127
+01:40:14,807 --> 01:40:17,401
+<i>naslovi u novinama</i>
+<i>ce je dokrajciti.</i>
+
+1128
+01:40:17,567 --> 01:40:20,365
+<i>; ; Zaboravljena zvijezda - ubojica. ; ;
+
+1129
+01:40:20,527 --> 01:40:24,884
+<i>; ; Ostarjela glumica. ; ;
+<i>; ; Jucerašnja kraljica glamura. ; ;
+
+1130
+01:40:34,887 --> 01:40:38,800
+Mrtvozornikov ured.
+Treba mi mrtvozornik.
+
+1131
+01:40:40,127 --> 01:40:43,278
+- Tko je to na telefonu?
+- Ja! Makni se!
+
+1132
+01:40:43,447 --> 01:40:45,039
+Ovo je puno važnije.
+
+1133
+01:40:45,207 --> 01:40:47,198
+Gradska rubrika "Timesa"?
+Hedda Hopper ovdje.
+
+1134
+01:40:47,367 --> 01:40:49,517
+Javljam vam se iz
+spavace sobe Norme Desmond.
+
+1135
+01:40:49,687 --> 01:40:53,316
+Ne brinite za preradu.
+Idite s ovim izravno. Spremni?
+
+1136
+01:40:53,487 --> 01:40:56,001
+Dok se iznad kuce smrti
+rada novi dan, Norma Desmond,
+
+1137
+01:40:56,167 --> 01:41:00,922
+nekadašnja zvijezda,
+u stanju je potpunog mentalnog šoka.
+
+1138
+01:41:01,087 --> 01:41:03,123
+Zid šutnje okružuje je
+
+1139
+01:41:03,287 --> 01:41:06,165
+u budoaru njezine kuce
+na Sunset Boulevardu...
+
+1140
+01:41:06,327 --> 01:41:10,036
+Je li to bila iznenadna svada?
+Jeste li ikada ranije imali problema?
+
+1141
+01:41:11,127 --> 01:41:14,039
+Otkud se ovaj pištolj stvorio ovdje?
+
+1142
+01:41:14,207 --> 01:41:18,837
+Gdje ste vi prvi put susreli ovog tipa?
+Otkud se on pojavio? Tko je on?
+
+1143
+01:41:19,007 --> 01:41:23,125
+Jeste li vec i prije pomišljali
+na ovako nešto?
+
+1144
+01:41:23,287 --> 01:41:27,838
+Je li u pitanju bila krada?
+Uhvatili ste ga kako nešto krade?
+
+1145
+01:41:28,007 --> 01:41:30,840
+- Kamere su stigle.
+- Recite im da odu.
+
+1146
+01:41:31,007 --> 01:41:33,601
+Ovo nije vrijeme za kamere.
+
+1147
+01:41:33,767 --> 01:41:38,557
+Gospodice Desmond,
+imate li nam što reci?
+
+1148
+01:41:38,727 --> 01:41:43,801
+Kamere? Što je bilo, Maxe?
+
+1149
+01:41:48,567 --> 01:41:52,082
+- Kamere su ovdje.
+- Da?
+
+1150
+01:41:52,247 --> 01:41:56,525
+- Recite DeMilleu da odmah stižem.
+- Što je ovo?
+
+1151
+01:42:01,207 --> 01:42:05,041
+Tako ce barem sici dolje.
+
+1152
+01:42:05,207 --> 01:42:10,042
+Neka auto bude spreman.
+Dobro.
+
+1153
+01:42:11,367 --> 01:42:15,519
+- Sve ce biti spremno, madame.
+- Hvala, Maxe.
+
+1154
+01:42:15,687 --> 01:42:21,045
+Ispricajte me, gospodo,
+ali moram se spremiti za svoju scenu.
+
+1155
+01:42:21,207 --> 01:42:23,357
+- Što se dogada?
+- Imate li neku izjavu?
+
+1156
+01:42:23,527 --> 01:42:25,882
+Je li priznala?
+
+1157
+01:42:26,047 --> 01:42:28,686
+- Sve je spremno?
+- Skoro.
+
+1158
+01:42:28,847 --> 01:42:31,441
+- Svjetlo?
+- Spremno.
+
+1159
+01:42:42,927 --> 01:42:45,725
+Polako, momci,
+samo malo!
+
+1160
+01:42:48,407 --> 01:42:50,796
+Tišina!
+
+1161
+01:42:53,087 --> 01:42:54,679
+Svjetla.
+
+1162
+01:42:58,807 --> 01:43:00,365
+Spremni ste, Norma?
+
+1163
+01:43:02,647 --> 01:43:06,959
+Što se dogada u ovoj sceni?
+Gdje sam to ja?
+
+1164
+01:43:09,447 --> 01:43:11,438
+Ovo su stepenice vile.
+
+1165
+01:43:14,167 --> 01:43:17,239
+Oh, da, da.
+
+1166
+01:43:17,407 --> 01:43:21,525
+Dolje svi išcekuju princezu.
+
+1167
+01:43:23,247 --> 01:43:24,680
+Ja sam spremna.
+
+1168
+01:43:25,487 --> 01:43:30,003
+U redu. Kamere! Akcija!
+
+1169
+01:43:32,567 --> 01:43:37,687
+<i>Kamere su se, dakle,</i>
+<i>na kraju ipak pokrenule.</i>
+
+1170
+01:43:37,847 --> 01:43:44,116
+<i>Život, ponekad tako cudno milostiv,</i>
+<i>sažalio se nad Normom Desmond.</i>
+
+1171
+01:43:44,287 --> 01:43:49,884
+<i>San, kojeg se tako ocajnicki držala,</i>
+<i>potpuno ju je obujmio.</i>
+
+1172
+01:44:16,727 --> 01:44:20,925
+Ne mogu nastaviti sa scenom,
+isuviše sam sretna.
+
+1173
+01:44:21,087 --> 01:44:25,683
+Gospodine DeMille,
+smijem li reci par rijeci? Hvala.
+
+1174
+01:44:25,847 --> 01:44:30,796
+<i>Želim vam samo reci koliko sam</i>
+<i>sretna što ponovno snimam za studio.</i>
+
+1175
+01:44:30,967 --> 01:44:36,678
+<i>Nemate pojma koliko ste mi nedostajali.</i>
+<i>Nikada vas više necu napustiti.</i>
+
+1176
+01:44:36,847 --> 01:44:41,204
+<i>Nakon; ; Salome; ;, snimit cemo mi</i>
+<i>još jedan i još jedan film.</i>
+
+1177
+01:44:41,367 --> 01:44:46,885
+<i>Znate, ovo je moj život.</i>
+<i>I uvijek ce i biti. Ne postoji ništa drugo.</i>
+
+1178
+01:44:47,047 --> 01:44:50,881
+<i>Samo mi, kamere</i>
+
+1179
+01:44:51,047 --> 01:44:55,598
+<i>i oni divni ljudi</i>
+<i>tamo u mraku.</i>
+
+1180
+01:44:56,887 --> 01:44:59,242
+U redu, g. DeMille,
+spremna sam za krupni plan.

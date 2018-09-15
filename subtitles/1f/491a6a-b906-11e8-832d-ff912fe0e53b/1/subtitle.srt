@@ -1,0 +1,3845 @@
+1
+00:00:05,567 --> 00:00:08,240
+Bienvenue sur <i>Sunset Boulevard,</i>
+je suis Ed Sikov,
+
+2
+00:00:08,407 --> 00:00:12,605
+auteur de <i>On Sunset Boulevard:</i>
+<i>The Life and Times of Billy Wilder.</i>
+
+3
+00:00:12,767 --> 00:00:17,841
+Cette version est celle qui a été montrée
+á la sortie du film en 1950.
+
+4
+00:00:18,007 --> 00:00:22,285
+Mais á l'origine, <i>Sunset Boulevard</i>
+ne commençait pas comme ça.
+
+5
+00:00:22,647 --> 00:00:27,846
+La Paramount avait organisé une
+projection-test á Evanston, Illinois.
+
+6
+00:00:28,007 --> 00:00:31,124
+On y montrait une scène
+d'ouverture très différente
+
+7
+00:00:31,287 --> 00:00:33,926
+que le public rejeta violemment.
+
+8
+00:00:34,087 --> 00:00:38,000
+Le générique défilait sur le même
+genre de mouvement de caméra,
+
+9
+00:00:38,167 --> 00:00:42,683
+mais Wilder nous emmenait alors
+á la morgue de Los Angeles,
+
+10
+00:00:42,847 --> 00:00:46,203
+où se trouve Joe Gillis,
+joué par William Holden.
+
+11
+00:00:46,367 --> 00:00:51,202
+Il a une étiquette avec son nom
+accrochée á l'orteil, car il est mort.
+
+12
+00:00:51,367 --> 00:00:54,245
+Une des premières versions
+du scénario disait:
+
+13
+00:00:56,167 --> 00:00:59,125
+"La pièce reste un moment
+dans la pénombre.
+
+14
+00:00:59,287 --> 00:01:04,805
+La musique devient plus aérienne
+et une lueur se dégage des corps.
+
+15
+00:01:04,967 --> 00:01:09,757
+La rangée d'étiquettes se balance
+au rythme du système de ventilation.
+
+16
+00:01:09,927 --> 00:01:14,443
+Une voix d'homme dit: 'N'ayez pas
+peur. Nous sommes nombreux ici.'
+
+17
+00:01:14,607 --> 00:01:17,360
+Gillis répond: 'Je n'ai pas peur.'
+
+18
+00:01:17,527 --> 00:01:21,315
+Sans bouger la tête, ses yeux
+se tournent vers un brancard.
+
+19
+00:01:21,487 --> 00:01:26,720
+Un gros homme, la soixantaine, y est
+recouvert d'une toile transparente.
+
+20
+00:01:26,887 --> 00:01:30,960
+Il a aussi les yeux ouverts.
+Il regarde Gillis.
+
+21
+00:01:31,127 --> 00:01:34,324
+Le gros homme dit:
+'Comment êtes-vous mort? '
+
+22
+00:01:34,487 --> 00:01:37,763
+Gillis: 'Qu'est-ce que ça peut faire? '
+
+23
+00:01:37,927 --> 00:01:40,077
+lls parlent de la mort du gros homme
+
+24
+00:01:40,247 --> 00:01:44,206
+et Gillis dit: 'Moi, je me suis noyé."'
+
+25
+00:01:44,367 --> 00:01:49,043
+Wilder devint alors encore
+plus morbide et audacieux, je cite:
+
+26
+00:01:49,207 --> 00:01:52,916
+"Sur un brancard en face,
+se trouve un garçon blond de 11 ans.
+
+27
+00:01:53,087 --> 00:01:57,160
+Il les scrute, le visage bouffi et
+couvert par la toile transparente.
+
+28
+00:01:57,327 --> 00:02:02,560
+Il dit: 'Moi aussi, je me suis noyé.
+Près de la jetée de Ocean Park.
+
+29
+00:02:02,727 --> 00:02:05,366
+C'est dur si on essaye
+de ne pas avaler.
+
+30
+00:02:05,527 --> 00:02:08,564
+Si on se laisse aller,
+ça ne fait pas mal du tout.
+
+31
+00:02:08,727 --> 00:02:11,480
+Si seulement mes parents
+venaient me chercher.'
+
+32
+00:02:11,647 --> 00:02:14,320
+Le gros dit á Gillis:
+'Vous, c'était á la mer? '
+
+33
+00:02:14,487 --> 00:02:17,047
+Gillis répond:
+'Non, dans une piscine.'
+
+34
+00:02:17,207 --> 00:02:19,675
+Le gros:
+'Un costaud comme vous! '
+
+35
+00:02:19,847 --> 00:02:26,639
+Gillis: 'J'étais plein de trous. Deux
+dans la poitrine et un dans le ventre."'
+
+36
+00:02:28,527 --> 00:02:33,203
+A Evanston, Illinois, des cadavres
+qui parlent, ça a fait rire le public.
+
+37
+00:02:33,367 --> 00:02:37,042
+Wilder, choqué, a dit:
+"Je suis resté assis lá un moment
+
+38
+00:02:38,767 --> 00:02:40,280
+avant de quitter le cinéma.
+
+39
+00:02:40,607 --> 00:02:44,839
+Je me suis assis sur les marches
+qui menaient aux toilettes.
+
+40
+00:02:45,007 --> 00:02:47,077
+C'était un moment terrible.
+
+41
+00:02:47,247 --> 00:02:51,525
+Une femme qui sortait est passée
+près de moi et m'a demandé
+
+42
+00:02:51,687 --> 00:02:56,602
+si j'avais déjá vu une daube pareille
+et j'ai répondu: 'Jamais."'
+
+43
+00:02:56,767 --> 00:02:59,645
+Wilder a donc refait la scène
+d'ouverture.
+
+44
+00:03:00,887 --> 00:03:07,235
+Wilder et ses collaborateurs,
+Charles Bracket et D. M. Marshman Jr.,
+
+45
+00:03:07,407 --> 00:03:10,319
+voulaient dévoiler
+les "coulisses d'Hollywood",
+
+46
+00:03:10,487 --> 00:03:13,285
+montrer l'envers du décor
+du 7 ème art.
+
+47
+00:03:13,447 --> 00:03:16,837
+Ils ont tourné sur place
+pour rendre l'esprit du lieu.
+
+48
+00:03:17,007 --> 00:03:20,761
+L'appartement de Joe Gillis est
+au coin des rues Franklin et lvar,
+
+49
+00:03:20,927 --> 00:03:24,203
+il y est toujours.
+L'immeuble s'appelle le "Alto Nido".
+
+50
+00:03:24,367 --> 00:03:27,359
+Wilder vivait á Hollywood
+depuis 1934.
+
+51
+00:03:27,527 --> 00:03:30,439
+Il était né en Pologne,
+avait grandit á Vienne,
+
+52
+00:03:30,647 --> 00:03:35,880
+avait été reporter et scénariste á Berlin
+avant d'aller á Paris puis á Hollywood.
+
+53
+00:03:36,047 --> 00:03:39,676
+Il adorait Hollywood,
+ce genre de ville lui convenait:
+
+54
+00:03:39,847 --> 00:03:46,116
+un peu dure et méchante. Une ville
+pour réussir ou crever á force d'essayer,
+
+55
+00:03:46,287 --> 00:03:50,439
+où les rêves peuvent se réaliser
+et s'évanouir en même temps.
+
+56
+00:03:50,607 --> 00:03:53,679
+C'est le cas de Joe Gillis,
+comme nous le verrons.
+
+57
+00:03:53,847 --> 00:03:57,999
+Les déboires de Gillis n'étaient pas
+inconnus á Billy Wilder.
+
+58
+00:03:58,167 --> 00:04:01,842
+Quand il a fait <i>Sunset Boulevard,</i>
+il était très prisé,
+
+59
+00:04:02,007 --> 00:04:08,321
+mais á ses débuts á Berlin, il n'arrivait
+pas á vendre ses scénarios.
+
+60
+00:04:08,487 --> 00:04:11,081
+Il a dû repartir á zéro á Hollywood,
+
+61
+00:04:11,247 --> 00:04:14,319
+essayant de placer des idées
+dont on ne voulait pas.
+
+62
+00:04:14,487 --> 00:04:18,162
+La scène dans l'appartement
+montre le Gillis magouilleur
+
+63
+00:04:18,327 --> 00:04:21,285
+qui parle comme un dur
+et se prend pour un crack.
+
+64
+00:04:21,447 --> 00:04:24,405
+"C'est pas gentil",
+dit-il á l'homme de main.
+
+65
+00:04:24,567 --> 00:04:27,923
+C'est le genre de chose
+que Wilder aurait pu dire.
+
+66
+00:04:28,087 --> 00:04:32,763
+Il parlait peu anglais en arrivant
+aux Etats-Unis, mais a appris très vite.
+
+67
+00:04:32,927 --> 00:04:35,077
+Il adorait le rythme
+de l'américain.
+
+68
+00:04:35,247 --> 00:04:40,116
+La réplique de Gillis sur Rudy, le cireur
+de chaussures, est un bon exemple:
+
+69
+00:04:40,287 --> 00:04:45,998
+"Rudy ne posait jamais de questions sur
+vos finances. Il regardait vos talons..."
+
+70
+00:04:46,167 --> 00:04:48,920
+C'est un style de poésie de la rue.
+
+71
+00:04:49,647 --> 00:04:55,165
+La Paramount est omniprésente dans
+le film, ce qui était assez audacieux,
+
+72
+00:04:55,327 --> 00:04:58,285
+car la vie á Hollywood
+y est très dure.
+
+73
+00:04:58,447 --> 00:05:02,963
+Quand Gillis entre á la Paramount,
+il ne prend pas la porte principale,
+
+74
+00:05:03,127 --> 00:05:07,803
+mais celle qui est plus jolie
+au coin de Melrose et Bronson.
+
+75
+00:05:08,007 --> 00:05:11,795
+Wilder avait fait ses six précédents
+films á la Paramount:
+
+76
+00:05:11,967 --> 00:05:16,245
+<i>Uniformes et jupons courts, Les Cinq</i>
+<i>secrets du désert, Assurance</i>
+
+77
+00:05:16,407 --> 00:05:20,719
+<i>sur la mort, Le Poison, La Valse de</i>
+<i>l; empereur</i> et <i>La Scandaleuse de Berlin.</i>
+
+78
+00:05:20,887 --> 00:05:25,403
+Qu'il ait pu faire ce film démontre
+que Wilder était quelqu'un d'important.
+
+79
+00:05:25,567 --> 00:05:29,242
+C'était le film le plus amer jamais
+réalisé sur Hollywood
+
+80
+00:05:29,407 --> 00:05:31,443
+et ça l'est toujours.
+
+81
+00:05:31,607 --> 00:05:35,759
+La Paramount aurait pu demander
+á Wilder d'inventer un studio.
+
+82
+00:05:35,927 --> 00:05:38,805
+Mais ce sont bien les studios
+Paramount qu'on voit.
+
+83
+00:05:38,967 --> 00:05:44,439
+Ils avaient pleinement confiance en lui
+en 1949, au moment du tournage.
+
+84
+00:05:44,607 --> 00:05:49,203
+Gillis dit de Sheldrake que c'est un bon
+producteur, son ulcère le prouve.
+
+85
+00:05:49,367 --> 00:05:56,079
+Wilder avait dû leur faire front, mais
+il savait qu'il était dur de monter un film.
+
+86
+00:05:56,247 --> 00:06:03,119
+C'est stressant. C'est pourquoi Sheldrake
+a des renvois et prend des médicaments.
+
+87
+00:06:04,847 --> 00:06:07,361
+Voici Betty Schaefer,
+jouée par Nancy Olson.
+
+88
+00:06:07,527 --> 00:06:11,884
+C'était seulement son deuxième film,
+mais elle fut nominée aux Oscars
+
+89
+00:06:12,047 --> 00:06:14,481
+pour le meilleur second rôle féminin.
+
+90
+00:06:14,647 --> 00:06:17,798
+Elle retrouva William Holden
+dans 3 autres films:
+
+91
+00:06:17,967 --> 00:06:22,916
+<i>Midi gare centrale, Duel sous la mer</i>
+et <i>Les Amants de l; enfer.</i>
+
+92
+00:06:23,087 --> 00:06:28,525
+Holden avait fait sensation en 1939
+dans <i>L; Esclave aux mains d; or,</i>
+
+93
+00:06:28,687 --> 00:06:32,885
+mais se retrouva abonné
+á des rôles insignifiants de gentil.
+
+94
+00:06:33,047 --> 00:06:36,357
+Il avait presque 25 films á son actif
+
+95
+00:06:36,527 --> 00:06:39,837
+et le public ne savait toujours pas
+qui il était.
+
+96
+00:06:40,007 --> 00:06:44,922
+Il était donc facile de le voir
+dans le rôle d'un petit scénariste obscur.
+
+97
+00:06:45,087 --> 00:06:51,003
+On peut se demander pourquoi Gillis
+trouve que Sheldrake est bon.
+
+98
+00:06:52,647 --> 00:06:58,244
+Il cherche un sujet pour Betty Hutton
+et demande si ça lui conviendrait.
+
+99
+00:06:58,407 --> 00:07:02,195
+Faire de Betty Hutton une sportive
+aux mauvaises fréquentations
+
+100
+00:07:02,367 --> 00:07:05,757
+est une blague de Wilder
+qui mérite d'être expliquée.
+
+101
+00:07:05,927 --> 00:07:10,045
+De toute évidence, le scénario de Gillis
+n'est pas pour Betty Hutton.
+
+102
+00:07:10,207 --> 00:07:15,565
+La charmante Hutton était célèbre
+pour son rôle dans <i>Miracle au village</i>
+
+103
+00:07:15,727 --> 00:07:19,003
+et dans la comédie musicale
+<i>Annie, la reine du cirque.</i>
+
+104
+00:07:21,127 --> 00:07:26,759
+Gillis comprend. Ces répliques
+donnent son aspect comique au film.
+
+105
+00:07:29,607 --> 00:07:32,679
+A Sheldrake qui suggère
+d'en faire un Betty Hutton,
+
+106
+00:07:32,847 --> 00:07:37,682
+Gillis répond: "Vous dites ça pour rire?
+J'ai pas le cœur á ça."
+
+107
+00:07:37,847 --> 00:07:41,317
+Gillis n'a peut-être pas le cœur á rire
+mais Wilder, si,
+
+108
+00:07:41,487 --> 00:07:44,081
+surtout avec <i>Sunset Boulevard.</i>
+
+109
+00:08:13,047 --> 00:08:15,117
+Nous voici maintenant chez Schwab.
+
+110
+00:08:15,287 --> 00:08:18,757
+Cette "cafétéria et salle d'attente"
+
+111
+00:08:18,927 --> 00:08:22,283
+est un autre endroit
+des coulisses d'Hollywood.
+
+112
+00:08:22,447 --> 00:08:27,760
+D'après la légende, Lana Turner
+y aurait été découverte, devant un soda.
+
+113
+00:08:27,927 --> 00:08:33,047
+A l'origine, il y avait une personnalité
+d'Hollywood dans la scène.
+
+114
+00:08:33,207 --> 00:08:37,997
+Wilder avait tourné cette scène
+avec l'échotier Sidney Skolsky,
+
+115
+00:08:38,167 --> 00:08:41,364
+mais elle a été coupée au montage.
+
+116
+00:09:05,607 --> 00:09:09,395
+Ce terrain de golf est aussi
+un autre lieu central d'Hollywood.
+
+117
+00:09:09,567 --> 00:09:14,846
+On y entretient les bonnes relations
+entre décideurs, agents et acteurs.
+
+118
+00:09:15,007 --> 00:09:18,966
+Gillis ne le comprend pas,
+il traite son agent de "sale hypocrite".
+
+119
+00:09:19,127 --> 00:09:23,325
+Il dit: "ll était en plein travail,
+á faire pression sur ses clubs..."
+
+120
+00:09:23,487 --> 00:09:27,366
+Gillis ne dirait pas:
+"A faire pression sur ses clubs".
+
+121
+00:09:27,527 --> 00:09:31,679
+C'est du Wilder tout craché:
+la syntaxe d'un ashkénaze,
+
+122
+00:09:31,847 --> 00:09:37,001
+pas celle du Midwest de Gillis ou
+du Los Angeles de William Holden.
+
+123
+00:09:37,167 --> 00:09:40,876
+Quand il parle d'aller
+aux "Mocambo Romanoff",
+
+124
+00:09:41,047 --> 00:09:43,766
+ce sont deux night-clubs très connus.
+
+125
+00:09:43,927 --> 00:09:47,681
+Leurs clients étaient des gens connus
+avec de gros moyens.
+
+126
+00:09:47,847 --> 00:09:51,920
+Wilder adorait ces endroits
+et le pouvoir qu'ils représentaient.
+
+127
+00:09:55,647 --> 00:09:58,002
+En ce qui concerne le titre,
+
+128
+00:09:58,167 --> 00:10:01,796
+Sunset Boulevard
+est un célèbre boulevard de Los Angeles.
+
+129
+00:10:01,967 --> 00:10:07,246
+Il va de Silverlake á la mer,
+où le ciel se couche chaque soir.
+
+130
+00:10:07,407 --> 00:10:11,241
+Mais <i>Sunset Boulevard</i> fait
+aussi référence aux personnages,
+
+131
+00:10:11,407 --> 00:10:13,682
+et surtout á celui
+qui va bientôt apparaître.
+
+132
+00:10:13,847 --> 00:10:17,157
+Cette femme est presque finie
+depuis pas mal de temps.
+
+133
+00:10:17,327 --> 00:10:20,000
+Gillis aussi est presque fini
+á Hollywood.
+
+134
+00:10:20,167 --> 00:10:25,799
+Il redoute de rentrer dans l'Ohio sans
+avoir accompli son rêve de cinéma.
+
+135
+00:10:27,447 --> 00:10:32,077
+On ne considère pas Billy Wilder
+comme un réalisateur de films d'action,
+
+136
+00:10:32,247 --> 00:10:35,000
+mais cette scène de poursuite
+est plutôt efficace
+
+137
+00:10:35,167 --> 00:10:38,682
+et elle est intensifiée par la musique
+de Franz Waxman.
+
+138
+00:10:38,847 --> 00:10:42,317
+Waxman avait rencontré Wilder
+á Berlin dans les années 30.
+
+139
+00:10:43,127 --> 00:10:46,676
+Comme lui, il était parti
+á cause des nazis.
+
+140
+00:10:46,847 --> 00:10:49,600
+Il s'était fait tabasser dans la rue,
+
+141
+00:10:49,767 --> 00:10:54,761
+ce qui l'avait incité á partir
+pour Paris dès que possible.
+
+142
+00:11:12,687 --> 00:11:16,566
+Est-ce le résultat du hasard,
+du destin ou des deux
+
+143
+00:11:16,727 --> 00:11:19,195
+qui conduit Joe Gillis
+dans cette allée?
+
+144
+00:11:19,367 --> 00:11:24,725
+II semble avoir de la chance car le pneu
+qui éclate lui permet de s'éclipser.
+
+145
+00:11:24,887 --> 00:11:28,675
+Mais ensuite...
+Nous n'en sommes pas encore lá.
+
+146
+00:11:33,767 --> 00:11:36,964
+L'étonnante maison utilisée
+pour les extérieurs
+
+147
+00:11:37,127 --> 00:11:40,403
+ne se trouvait pas
+au 10086 Sunset Boulevard
+
+148
+00:11:40,567 --> 00:11:42,478
+comme le dit le scénario,
+
+149
+00:11:42,647 --> 00:11:47,118
+mais au coin des boulevards
+Wilshire et lrving, á 10 km de lá.
+
+150
+00:11:47,287 --> 00:11:52,566
+Elle était á l'ex-femme de J. Paul
+Getty et était vide depuis longtemps.
+
+151
+00:11:52,727 --> 00:11:58,677
+Elle était "typique de la folie des gens
+de cinéma dans les années folles."
+
+152
+00:11:58,847 --> 00:12:03,716
+Malheureusement, elle a été détruite
+comme presque toutes les autres.
+
+153
+00:12:25,367 --> 00:12:29,485
+On va avoir un autre exemple
+du style "poésie de rue" de Wilder:
+
+154
+00:12:29,647 --> 00:12:31,717
+"Mlle Havisham en voulait
+
+155
+00:12:31,887 --> 00:12:34,276
+au monde entier
+de l'avoir rejetée."
+
+156
+00:12:34,447 --> 00:12:38,599
+Un enseignant ne décrirait pas
+le personnage de Dickens ainsi,
+
+157
+00:12:38,767 --> 00:12:42,316
+mais ça lui correspond vraiment
+et ça sonne très bien.
+
+158
+00:12:44,767 --> 00:12:47,998
+Regardez la façon détournée
+de faire les présentations
+
+159
+00:12:48,167 --> 00:12:52,718
+ou de refaire les présentations entre
+Gloria Swanson et le public de 1950.
+
+160
+00:13:06,287 --> 00:13:11,077
+La voilá, en plan large,
+derrière les stores,
+
+161
+00:13:11,247 --> 00:13:16,162
+avec des lunettes de soleil
+et un rayon de lumière sur le visage.
+
+162
+00:13:16,807 --> 00:13:19,401
+Wilder fait traîner,
+nous fait languir.
+
+163
+00:13:19,567 --> 00:13:22,798
+On se demande qui est cette femme.
+
+164
+00:13:23,727 --> 00:13:27,959
+A mon avis, c'est lá que le film
+devient comique.
+
+165
+00:13:28,127 --> 00:13:30,960
+C'est bizarre,
+mais comique malgré tout.
+
+166
+00:13:31,127 --> 00:13:34,005
+Gillis entre dans une maison de fous
+
+167
+00:13:34,167 --> 00:13:38,319
+et c'est cauchemardesque car,
+une fois entré, il ne peut plus sortir.
+
+168
+00:13:38,487 --> 00:13:41,843
+Max, c'est l'extraordinaire
+Erich von Stroheim,
+
+169
+00:13:42,007 --> 00:13:47,001
+réalisateur de classiques comme <i>La loi</i>
+<i>des montagnes, Folies de femmes</i>
+
+170
+00:13:47,167 --> 00:13:52,082
+et son chef-d'œuvre, <i>Les Rapaces</i>
+qui durait sept heures á l'origine.
+
+171
+00:13:52,247 --> 00:13:57,446
+On en fit un film de moins de 2 h
+et la carrière de Stroheim s'arrêta.
+
+172
+00:13:59,567 --> 00:14:03,606
+Dans les années 40, il en fut réduit
+á jouer dans des séries B
+
+173
+00:14:03,767 --> 00:14:09,842
+comme <i>Le Masque de Dijon,</i> où il finit
+la tête tranchée par sa propre guillotine.
+
+174
+00:14:10,007 --> 00:14:14,046
+Regardez Holden á ce moment-lá.
+C'est un temps d'arrêt de comédie.
+
+175
+00:14:30,207 --> 00:14:35,440
+La voilá: Norma Desmond.
+Regardez-la.
+
+176
+00:14:35,607 --> 00:14:40,078
+Regardez ses vêtements,
+regardez la pièce...
+
+177
+00:14:42,327 --> 00:14:46,400
+Regardez le cadavre sur la table
+de massage devant la cheminée.
+
+178
+00:14:46,567 --> 00:14:50,162
+"ll aimait les feux,
+il aimait y plonger le tisonnier."
+
+179
+00:14:50,327 --> 00:14:56,118
+Qui est-ce? C'est de l'humour noir,
+de la comédie pure mais pas si simple.
+
+180
+00:15:08,247 --> 00:15:12,126
+En réalité, Gloria Swanson était
+différente de Norma Desmond
+
+181
+00:15:12,287 --> 00:15:15,279
+même si elle connaissait bien
+son personnage
+
+182
+00:15:15,447 --> 00:15:18,166
+qui, á l'évidence,
+lui ressemblait beaucoup.
+
+183
+00:15:18,327 --> 00:15:23,401
+L'interprétation de Swanson est géniale.
+Ce n'était pas une folle diva,
+
+184
+00:15:23,567 --> 00:15:28,197
+elle travaillait dur et avait d'autres
+occupations depuis les années 20.
+
+185
+00:15:28,367 --> 00:15:31,279
+Elle avait sa société
+et son émission de radio.
+
+186
+00:15:31,447 --> 00:15:35,440
+Ce n'était certainement pas
+la folle recluse que l'on voit ici.
+
+187
+00:15:36,207 --> 00:15:40,723
+Cette réplique est une des meilleures
+et des plus célèbres:
+
+188
+00:15:42,967 --> 00:15:46,357
+Gillis dit:
+"Vous étiez une grande star du muet",
+
+189
+00:15:46,527 --> 00:15:49,758
+ce qui ne fait pas plaisir á Norma.
+
+190
+00:16:03,007 --> 00:16:06,761
+"Je suis une grande star.
+Ce sont les films qui sont petits"
+
+191
+00:16:06,927 --> 00:16:11,364
+Mais en général, les gens oublient
+de donner la chute:
+
+192
+00:16:11,527 --> 00:16:14,758
+"Je me disais bien
+que quelque chose clochait."
+
+193
+00:16:14,927 --> 00:16:16,997
+Norma Desmond fait dans le grand.
+
+194
+00:16:17,167 --> 00:16:20,682
+Elle fait de grands gestes
+et a des réactions excessives.
+
+195
+00:16:20,847 --> 00:16:25,875
+Elle est grandiloquente et apprêtée
+avec un maquillage excessif.
+
+196
+00:16:26,047 --> 00:16:30,723
+En 1950, le jeu était devenu
+plus naturel qu'á l'époque du muet
+
+197
+00:16:30,887 --> 00:16:35,836
+où les acteurs devaient en rajouter
+pour faire passer les émotions.
+
+198
+00:16:36,007 --> 00:16:41,445
+Holden avait passé les dix dernières
+années á jouer les types ordinaires.
+
+199
+00:16:41,607 --> 00:16:46,476
+Ses personnages et ses films étaient
+petits á côté de Norma Desmond.
+
+200
+00:16:46,647 --> 00:16:51,482
+Il ne lui faut pas grand-chose
+pour fulminer contre le cinéma.
+
+201
+00:16:51,647 --> 00:16:55,117
+Bien sûr, elle est folle de rage,
+mais elle n'a pas tort.
+
+202
+00:16:55,287 --> 00:16:59,963
+Gillis va faire une autre remarque,
+cette fois-ci sur le parlant:
+
+203
+00:17:00,127 --> 00:17:04,006
+"C'est á ça que sert le pop-corn,
+on se bouche les oreilles avec."
+
+204
+00:17:05,327 --> 00:17:09,036
+II fait une autre réflexion sarcastique,
+typique de Wilder:
+
+205
+00:17:09,207 --> 00:17:11,721
+"Chut. Vous allez réveiller le singe."
+
+206
+00:17:12,447 --> 00:17:15,837
+Mais en fin de compte,
+Joe Gillis est un vendu.
+
+207
+00:17:16,007 --> 00:17:18,805
+Il va travailler pour cette timbrée.
+
+208
+00:17:18,967 --> 00:17:23,961
+Elle lui offre un travail, il l'accepte
+et il n'en est vraiment pas fier.
+
+209
+00:17:24,127 --> 00:17:27,039
+C'est un thème récurrent
+dans l'œuvre de Wilder:
+
+210
+00:17:27,207 --> 00:17:30,005
+ceux qui se vendent
+d'une façon ou d'une autre.
+
+211
+00:17:30,167 --> 00:17:33,603
+Ce mépris de soi est très présent
+dans les films de Wilder.
+
+212
+00:17:33,767 --> 00:17:37,521
+Dans deux de ses films suivants,
+<i>Le Gouffre aux chimères,</i> en 1951,
+
+213
+00:17:37,687 --> 00:17:43,239
+et <i>Stalag 17,</i> en 1953, les personnages
+feraient tout pour arriver á leurs fins,
+
+214
+00:17:43,407 --> 00:17:47,241
+même si, ou surtout si,
+c'est quelque chose d'immoral.
+
+215
+00:17:57,247 --> 00:18:01,559
+Et voici les pages de son scénario.
+Beaucoup de pages.
+
+216
+00:18:14,007 --> 00:18:18,285
+La réplique de Norma au mot
+"come-back" est très connue aussi.
+
+217
+00:18:18,807 --> 00:18:22,402
+"Je déteste ce mot", s'écrie-t-elle.
+"C'est un retour."
+
+218
+00:18:22,567 --> 00:18:24,922
+Alors, c'est cela.
+
+219
+00:18:30,327 --> 00:18:35,276
+Dans cette scène, la caméra souligne
+le côté inquiétant de cette demeure.
+
+220
+00:18:35,447 --> 00:18:41,477
+Le côté pompier et suranné, l'absurdité
+des excès qu'elle symbolise.
+
+221
+00:18:41,647 --> 00:18:45,481
+La maison n'est qu'un prolongement
+du personnage de Norma.
+
+222
+00:18:45,647 --> 00:18:48,559
+C'est un reflet de sa personnalité.
+
+223
+00:18:50,047 --> 00:18:55,075
+Ecoutez de quoi elle parle.
+Elle dit: "Salomé, quelle femme!"
+
+224
+00:18:55,247 --> 00:19:01,004
+Ce qui est grotesque. Salomé finit
+par recevoir la tête de Jean-Baptiste,
+
+225
+00:19:01,167 --> 00:19:06,036
+et ça revient á ce que Norma
+Desmond... mais je m'avance trop.
+
+226
+00:19:07,327 --> 00:19:09,636
+Regardez comme ils se répondent:
+
+227
+00:19:09,807 --> 00:19:14,198
+Norma Desmond, d'un autre âge
+et Joe Gillis, du Hollywood de 1950.
+
+228
+00:19:14,367 --> 00:19:19,725
+La tension vient en grande partie
+de l'interaction des deux styles de jeu,
+
+229
+00:19:19,887 --> 00:19:21,798
+des interprétations opposées:
+
+230
+00:19:21,967 --> 00:19:25,164
+celle de Norma,
+avec toute l'éloquence du muet
+
+231
+00:19:25,327 --> 00:19:29,286
+et celle de Joe, le style tout en retenue
+du Hollywood d'après-guerre.
+
+232
+00:19:52,287 --> 00:19:55,006
+Norma a ici une posture étonnante.
+
+233
+00:19:55,167 --> 00:20:01,197
+Le fume-cigarette et ses mains telles
+des griffes font penser á un vampire.
+
+234
+00:20:01,367 --> 00:20:06,043
+Edith Head, la costumière, mérite
+une mention pour son travail étonnant.
+
+235
+00:20:06,207 --> 00:20:09,802
+Elle devait habiller un personnage
+totalement hors du temps,
+
+236
+00:20:09,967 --> 00:20:12,242
+mais qui peut se payer ce qu'elle veut,
+
+237
+00:20:12,407 --> 00:20:15,399
+en l'occurrence,
+les vêtements les plus chers.
+
+238
+00:20:15,567 --> 00:20:20,846
+Norma doit être habillée de façon chic
+tout en étant démodée.
+
+239
+00:20:21,007 --> 00:20:24,204
+Edith Head a mélangé le glamour
+de l'après-guerre
+
+240
+00:20:24,367 --> 00:20:26,801
+avec des accessoires rétro ici et lá:
+
+241
+00:20:26,967 --> 00:20:30,164
+un chapeau bordé de plumes
+de paon par exemple
+
+242
+00:20:30,327 --> 00:20:32,522
+et surtout, beaucoup de léopard.
+
+243
+00:20:34,487 --> 00:20:38,560
+On sonne et c'est "pour détendre
+l'atmosphère", dit Gillis.
+
+244
+00:20:38,727 --> 00:20:43,676
+Le croque-mort est arrivé pour ne pas
+qu'on oublie le corps, lá-haut.
+
+245
+00:20:53,767 --> 00:20:58,636
+Gillis prétend échafauder un plan
+en lisant le scénario.
+
+246
+00:20:58,807 --> 00:21:03,801
+Mais c'est faux.
+Norma Desmond l'a devancé.
+
+247
+00:21:03,967 --> 00:21:07,596
+Il est devenu prisonnier de l'univers
+de Norma dès son entrée.
+
+248
+00:21:07,767 --> 00:21:14,002
+Il a remplacé le vieux singe,
+c'est á son tour de faire des grimaces.
+
+249
+00:21:15,247 --> 00:21:17,681
+Pendant qu'elle le prend
+dans ses filets,
+
+250
+00:21:17,847 --> 00:21:23,365
+voici une anecdote: quand Wilder était
+fauché á Berlin dans les années 20,
+
+251
+00:21:23,527 --> 00:21:26,485
+il a travaillé comme taxi-boy
+á l'hôtel Eden,
+
+252
+00:21:26,647 --> 00:21:30,037
+il se faisait payer
+pour faire valser les dames.
+
+253
+00:21:30,207 --> 00:21:34,803
+Il avait trouvé ça avilissant.
+C'est un sujet récurrent chez lui.
+
+254
+00:21:34,967 --> 00:21:40,087
+Ceux qui font commerce d'eux-mêmes,
+au sens propre et au sens figuré.
+
+255
+00:21:40,247 --> 00:21:43,284
+Joe Gillis finit par faire les deux.
+
+256
+00:21:43,447 --> 00:21:49,682
+Norma a beau être folle, c'est elle
+qui commande, qui détient le pouvoir.
+
+257
+00:22:43,287 --> 00:22:48,486
+Elle prépare son piège
+et il avance tête baissée.
+
+258
+00:23:04,167 --> 00:23:08,843
+Ce que Max va raconter á Joe
+dans la scène au-dessus du garage
+
+259
+00:23:09,007 --> 00:23:13,125
+s'applique á la Gloria Swanson
+des années 20.
+
+260
+00:23:13,287 --> 00:23:17,041
+C'était une énorme vedette
+qu'on traitait comme une reine.
+
+261
+00:23:17,207 --> 00:23:19,277
+Ainsi que Wilder le racontait:
+
+262
+00:23:19,447 --> 00:23:25,044
+"C'était une vedette qu'on portait
+de sa loge au plateau."
+
+263
+00:23:30,447 --> 00:23:34,759
+Ce que dit Gillis sur Max s'appliquait
+aussi á Erich von Stroheim:
+
+264
+00:23:34,927 --> 00:23:37,680
+"Je le trouvais aussi un peu fêlé."
+
+265
+00:23:37,847 --> 00:23:40,441
+Stroheim était un peu fêlé.
+
+266
+00:23:40,607 --> 00:23:46,000
+Le réalisateur aimait les excentricités
+sexuelles dans ses films.
+
+267
+00:24:15,847 --> 00:24:18,805
+Wilder et ses co-auteurs,
+Bracket et Marshman,
+
+268
+00:24:18,967 --> 00:24:21,925
+ont créé une structure classique,
+en 3 actes.
+
+269
+00:24:22,087 --> 00:24:27,207
+Wilder va nous faire comprendre
+que le premier acte touche á sa fin.
+
+270
+00:25:09,207 --> 00:25:13,200
+Après nous avoir montré les rats
+dans la piscine...
+
+271
+00:25:16,767 --> 00:25:20,237
+Après nous avoir montré
+l'enterrement du singe...
+
+272
+00:25:27,767 --> 00:25:34,036
+Gillis l'a remplacé dans la vie de Norma,
+on peut donc lui faire nos adieux.
+
+273
+00:25:34,527 --> 00:25:41,205
+Gillis dit: "Tout cela était bien étrange,
+mais le plus étrange restait á venir."
+
+274
+00:25:43,047 --> 00:25:49,202
+Ainsi, le rideau tombe et le 1 er acte
+de <i>Sunset Boulevard</i> se termine.
+
+275
+00:25:50,607 --> 00:25:53,679
+Comme le 1 er, le 2ème acte
+démarre avec une voix-off.
+
+276
+00:25:53,847 --> 00:25:57,522
+Gillis nous explique sa situation.
+
+277
+00:26:46,927 --> 00:26:51,125
+Ce plan des mains sur le clavier
+est assez inhabituel chez Wilder,
+
+278
+00:26:51,287 --> 00:26:55,326
+du genre qui se veut artistique
+et stylé.
+
+279
+00:26:55,487 --> 00:26:58,160
+Il préférait les plans
+moins ostentatoires,
+
+280
+00:26:58,327 --> 00:27:01,160
+mais ici, il a voulu montrer le baroque
+
+281
+00:27:01,327 --> 00:27:05,161
+et même le grand-guignolesque
+de l'univers de Norma Desmond.
+
+282
+00:27:05,327 --> 00:27:10,879
+C'est l'univers de l'exagération,
+comme le montre ce gros plan.
+
+283
+00:27:12,167 --> 00:27:18,356
+Regardez la disposition d'ensemble,
+surtout le décor et les accessoires.
+
+284
+00:27:18,527 --> 00:27:23,282
+Norma s'est entourée de centaines
+de portraits d'elle-même.
+
+285
+00:27:23,447 --> 00:27:26,325
+Elle vit littéralement
+dans son propre monde.
+
+286
+00:27:26,487 --> 00:27:31,003
+Elle est narcissique, incapable de voir
+la différence entre ces images
+
+287
+00:27:31,167 --> 00:27:34,159
+et ce qu'elle est devenue.
+
+288
+00:27:44,447 --> 00:27:47,519
+Et que porte-t-elle autour du cou?
+
+289
+00:28:07,407 --> 00:28:10,524
+Pendant que Gillis corrige
+le scénario de Norma
+
+290
+00:28:10,687 --> 00:28:13,281
+et qu'elle prend mal
+ses changements,
+
+291
+00:28:13,447 --> 00:28:19,761
+rappelons que Wilder ne laissait pas
+les acteurs changer les répliques,
+
+292
+00:28:19,927 --> 00:28:25,479
+allant même parfois
+jusqu'á les chronométrer.
+
+293
+00:28:26,127 --> 00:28:29,358
+Plus tard, sur le tournage
+de <i>Certains l; aiment chaud,</i>
+
+294
+00:28:29,527 --> 00:28:33,645
+Wilder a tout arrêté durant 30 minutes
+se demandant si Jack Lemmon
+
+295
+00:28:33,807 --> 00:28:37,163
+pouvait répéter la phrase:
+"Ça, c'est une idée."
+
+296
+00:28:37,327 --> 00:28:41,718
+Même si Wilder était un grand
+scénariste, contrairement á Norma,
+
+297
+00:28:41,887 --> 00:28:45,516
+il est probable qu'il se sera un peu
+identifié á elle.
+
+298
+00:28:50,967 --> 00:28:55,279
+Regardez le numéro incroyable
+que fait Gloria Swanson.
+
+299
+00:28:55,447 --> 00:29:01,283
+Les travestis n'arrivent pas á rendre ça
+quand ils imitent Norma Desmond.
+
+300
+00:29:01,447 --> 00:29:06,441
+Elle est risible, même ridicule,
+mais ce n'est pas une caricature.
+
+301
+00:29:06,607 --> 00:29:09,724
+La Norma de Swanson
+est toujours une grande actrice.
+
+302
+00:29:09,887 --> 00:29:14,756
+Elle est immense
+et á la hauteur de sa démesure.
+
+303
+00:29:14,927 --> 00:29:17,122
+Norma avait raison plus tôt:
+
+304
+00:29:17,287 --> 00:29:20,882
+ce sont les films
+qui sont devenus petits après le muet.
+
+305
+00:29:21,047 --> 00:29:25,757
+Ça ne veut pas dire que son style
+de jeu ne peut pas être pris au sérieux.
+
+306
+00:29:51,927 --> 00:29:55,476
+Le film que Norma et Joe
+vont regarder est <i>Queen Kelly,</i>
+
+307
+00:29:55,647 --> 00:30:01,085
+avec Gloria Swanson dans le rôle
+principal et réalisé par Stroheim.
+
+308
+00:30:04,247 --> 00:30:09,401
+D'après Billy Wilder, c'est Stroheim
+qui a suggéré d'en utiliser un extrait.
+
+309
+00:30:44,687 --> 00:30:49,477
+On peut se rendre compte
+á quel point elle avait été belle
+
+310
+00:30:49,647 --> 00:30:51,842
+et photogénique.
+
+311
+00:30:53,367 --> 00:30:57,565
+"On avait des visages", dit-elle
+et elle a raison.
+
+312
+00:30:58,927 --> 00:31:02,283
+Rappelons que <i>Queen Kelly</i>
+n'a pas rapporté d'argent,
+
+313
+00:31:02,447 --> 00:31:04,756
+il n'a d'ailleurs jamais été achevé.
+
+314
+00:31:04,927 --> 00:31:08,363
+Il a contribué á finir
+la carrière de Gloria Swanson
+
+315
+00:31:08,527 --> 00:31:12,315
+et a sonné le glas de celle
+de Stroheim en tant que réalisateur.
+
+316
+00:31:15,847 --> 00:31:20,921
+Certains critiques ont dit de <i>Sunset</i>
+<i>Boulevard</i> que c'était un film noir...
+
+317
+00:31:22,607 --> 00:31:27,840
+mais par son éclairage, il peut aussi
+parfois passer pour un film d'horreur.
+
+318
+00:31:48,727 --> 00:31:52,640
+Voici les "statues de cire",
+les amis de Norma.
+
+319
+00:32:11,287 --> 00:32:15,599
+Il y a Anna Q. Nilsson, une actrice
+suédoise qui a précédé Greta Garbo,
+
+320
+00:32:15,767 --> 00:32:18,759
+H. B. Warner,
+un excellent acteur dramatique
+
+321
+00:32:18,927 --> 00:32:21,077
+et l'impassible Buster Keaton,
+
+322
+00:32:21,247 --> 00:32:25,320
+un des plus grands comiques
+du cinéma muet, l'autre étant Chaplin.
+
+323
+00:32:41,687 --> 00:32:44,804
+Wilder avait aussi rencontré
+William Haines,
+
+324
+00:32:44,967 --> 00:32:48,357
+qui était devenu
+un architecte d'intérieur réputé.
+
+325
+00:32:48,527 --> 00:32:52,202
+Mais Haines avait refusé,
+il ne voulait plus de mascara.
+
+326
+00:32:53,087 --> 00:32:57,717
+Au spectacle de ces énormes stars
+transformées en "statues de cire",
+
+327
+00:32:57,887 --> 00:33:01,641
+on peut ajouter la façon atroce
+qu'a Norma de dévaloriser Joe.
+
+328
+00:33:01,807 --> 00:33:07,279
+Elle le rabaisse devant ses amis
+alors qu'on vient lui enlever sa voiture.
+
+329
+00:33:07,447 --> 00:33:13,522
+Il dit que c'est vital et c'est vrai.
+Il faut une voiture á Los Angeles.
+
+330
+00:33:13,687 --> 00:33:18,966
+Cette scène marque la fin
+de l'indépendance qui pouvait lui rester.
+
+331
+00:33:19,127 --> 00:33:23,917
+Il doit accepter le fait qu'il est devenu
+un homme entretenu.
+
+332
+00:34:20,927 --> 00:34:25,842
+Et la voici: la fabuleuse
+lsotta Fraschini 1932 de Norma.
+
+333
+00:34:26,727 --> 00:34:30,402
+"L'intérieur était tapissé de léopard",
+dit Gillis.
+
+334
+00:34:30,567 --> 00:34:33,206
+C'est tape-á-l'œil,
+comme dans un bordel
+
+335
+00:34:33,367 --> 00:34:38,964
+et je pense que Wilder fait de Gillis
+le seul membre d'un harem masculin.
+
+336
+00:34:54,167 --> 00:34:58,797
+Elle se met á faire des commentaires
+sur ses vêtements. Elle chicane.
+
+337
+00:34:59,527 --> 00:35:02,166
+Il est humilié.
+
+338
+00:35:10,927 --> 00:35:12,997
+Et il n'a pas droit
+aux chewing-gums.
+
+339
+00:35:17,687 --> 00:35:19,723
+On se retrouve chez le tailleur
+
+340
+00:35:19,887 --> 00:35:24,517
+où Gillis recevra de nouveaux
+vêtements et d'autres humiliations.
+
+341
+00:35:31,247 --> 00:35:36,196
+Il est évident que les vendeurs
+savent très bien á quoi s'en tenir.
+
+342
+00:35:40,887 --> 00:35:43,924
+Ils semblent avoir déjá vu ça.
+
+343
+00:35:45,847 --> 00:35:49,726
+Celui-la dit á Joe de choisir la vigogne,
+"c'est la dame qui paye".
+
+344
+00:35:49,887 --> 00:35:54,165
+Wilder continuera sur la piste
+du manteau, bien plus loin.
+
+345
+00:35:54,327 --> 00:35:58,559
+C'est comique
+et le vendeur fait une de ces têtes!
+
+346
+00:35:58,727 --> 00:36:03,118
+Mais regardez l'expression
+de Holden. Il est très vexé.
+
+347
+00:36:03,287 --> 00:36:05,517
+C'est comique et pathétique.
+
+348
+00:36:05,687 --> 00:36:09,202
+Billy Wilder en trois mots:
+comique et pathétique.
+
+349
+00:36:11,567 --> 00:36:14,240
+Si vous aimez les symboles
+dans les films,
+
+350
+00:36:14,407 --> 00:36:19,322
+certains cinéastes se servent de l'eau
+pour nettoyer.
+
+351
+00:36:19,487 --> 00:36:22,877
+Dans <i>Psychose,</i> Janet Leigh
+décide de rendre l'argent
+
+352
+00:36:23,047 --> 00:36:26,517
+et prend une douche
+pour se laver de son crime.
+
+353
+00:36:26,687 --> 00:36:31,807
+Mais ici, la pluie ne sert qu'á forcer
+Gillis á s'installer dans la maison.
+
+354
+00:36:31,967 --> 00:36:36,677
+Cette eau a quelque chose de salissant,
+elle est souillée et lugubre.
+
+355
+00:36:54,447 --> 00:36:57,644
+Gillis est vraiment devenu
+un gigolo bien mis.
+
+356
+00:36:57,807 --> 00:37:00,640
+Comme les sièges en léopard
+dans la voiture,
+
+357
+00:37:00,807 --> 00:37:05,676
+cette maison trop chargée qui met
+mal á l'aise fait penser á un bordel.
+
+358
+00:37:07,047 --> 00:37:10,801
+Comme le dit Max:
+"C'était la chambre de son mari.
+
+359
+00:37:10,967 --> 00:37:13,686
+Ses maris, devrais-je dire."
+
+360
+00:37:13,847 --> 00:37:18,443
+En fait, c'est lá qu'on range
+les objets sexuels de Norma Desmond.
+
+361
+00:37:40,047 --> 00:37:44,404
+Wilder nous apprend autre chose:
+"Pourquoi les portes sont comme ça?"
+
+362
+00:37:44,567 --> 00:37:47,798
+Comme le dit Max,
+il a fallu ôter les serrures
+
+363
+00:37:47,967 --> 00:37:51,243
+car Madame
+"a des crises de mélancolie".
+
+364
+00:37:51,407 --> 00:37:53,682
+C'était aussi le cas de Billy Wilder.
+
+365
+00:37:53,847 --> 00:37:57,317
+Comme beaucoup de gens de comédie,
+il avait le cafard,
+
+366
+00:37:57,487 --> 00:37:59,921
+il était passionné
+mais lunatique.
+
+367
+00:38:00,087 --> 00:38:03,204
+Chez Wilder
+c'était juste des crises de déprime,
+
+368
+00:38:03,367 --> 00:38:07,406
+alors que Norma Desmond
+est suicidaire et presque folle.
+
+369
+00:39:22,647 --> 00:39:27,767
+Regardez sa chambre. Un autre
+prolongement de sa personnalité.
+
+370
+00:39:29,247 --> 00:39:30,805
+Le réveillon est capital.
+
+371
+00:39:32,807 --> 00:39:35,685
+C'est le début d'une série de scènes.
+
+372
+00:39:35,847 --> 00:39:39,999
+C'est un moment de grande transition
+pour Gillis et pour Norma.
+
+373
+00:39:40,167 --> 00:39:43,523
+Cette transition prend
+un peu de temps.
+
+374
+00:39:43,687 --> 00:39:47,362
+Dans l'escalier, Gillis dit
+que c'est le soir du réveillon
+
+375
+00:39:47,527 --> 00:39:51,440
+qu'il a compris ce que Norma éprouvait
+pour lui.
+
+376
+00:39:51,607 --> 00:39:54,041
+Je me demande où il était.
+
+377
+00:39:54,207 --> 00:39:58,405
+N'a-t-il pas regardé le même film
+que nous? Non, il est dedans.
+
+378
+00:39:58,567 --> 00:40:03,402
+Il a beau être le narrateur
+de cette histoire, il n'a rien compris.
+
+379
+00:40:03,567 --> 00:40:07,765
+Il s'est fait avoir, ce qu'il est sûrement
+prêt á admettre.
+
+380
+00:40:07,927 --> 00:40:11,761
+D'ailleurs, il admet lui-même
+qu'il est idiot.
+
+381
+00:40:19,847 --> 00:40:22,441
+Regardez la robe de Norma.
+
+382
+00:40:23,487 --> 00:40:26,160
+Elle a ce drapé sur le bras.
+
+383
+00:40:26,327 --> 00:40:28,761
+Ça ressemble un peu á un voile, non?
+
+384
+00:40:28,927 --> 00:40:31,043
+Je crois que c'est symbolique:
+
+385
+00:40:31,207 --> 00:40:35,917
+Edith Head a adapté la fameuse
+danse des 7 voiles de Salomé.
+
+386
+00:40:36,087 --> 00:40:39,124
+Pour Wilder, la danse
+que nous allons voir
+
+387
+00:40:39,287 --> 00:40:43,917
+sert également de prélude
+á la dernière scène du film.
+
+388
+00:40:48,247 --> 00:40:51,603
+Malgré le malaise qui se dégage,
+il en a plein la vue.
+
+389
+00:40:51,767 --> 00:40:55,726
+Du champagne á volonté,
+un gâteau énorme, un orchestre,
+
+390
+00:40:55,887 --> 00:40:58,321
+le carrelage de Valentino...
+
+391
+00:40:58,487 --> 00:41:03,641
+La situation de Gillis peut être sordide,
+mais il a des excuses pour l'accepter.
+
+392
+00:41:03,807 --> 00:41:08,835
+On nous fait la démonstration claire
+de ce qui l'incite á se prostituer.
+
+393
+00:41:09,007 --> 00:41:14,604
+Il a la belle vie. Quelle importance
+s'il doit se forcer de temps en temps?
+
+394
+00:41:19,607 --> 00:41:22,485
+Le film est un peu plus subtil que ça.
+
+395
+00:41:22,647 --> 00:41:27,084
+Regardez comme Norma est heureuse
+quand elle danse avec Joe Gillis.
+
+396
+00:41:27,247 --> 00:41:32,719
+Quand elle se calme et danse dans
+sa maison avec l'homme qu'elle aime,
+
+397
+00:41:32,887 --> 00:41:37,199
+Norma Desmond devient
+presque attirante, même belle.
+
+398
+00:41:38,007 --> 00:41:40,237
+Un peu, en tout cas.
+
+399
+00:42:24,087 --> 00:42:28,285
+Ce serait génial de pouvoir se permettre
+d'avoir un tel fume-cigarette.
+
+400
+00:42:28,447 --> 00:42:34,283
+Combien de personnes le peuvent?
+Elle est splendide, á sa manière.
+
+401
+00:42:34,447 --> 00:42:37,166
+Pour le cadeau de Joe,
+c'est autre chose.
+
+402
+00:42:37,327 --> 00:42:42,003
+C'est ce qui fait basculer Gillis.
+C'est la goutte d'eau.
+
+403
+00:42:46,567 --> 00:42:52,517
+Elle est maintenant ivre et jalouse,
+ce qui n'est pas très bon, vu sa démence.
+
+404
+00:42:52,687 --> 00:42:59,604
+Malgré sa scène mélodramatique,
+on a de la peine pour elle.
+
+405
+00:42:59,767 --> 00:43:02,486
+Même si elle a quelque chose
+de grotesque.
+
+406
+00:43:02,647 --> 00:43:06,959
+De son point de vue, et du nôtre
+si on a un peu d'indulgence,
+
+407
+00:43:07,127 --> 00:43:10,676
+c'est une belle femme riche
+d'une petite cinquantaine
+
+408
+00:43:10,847 --> 00:43:17,116
+qui est tombée amoureuse d'un très bel
+homme vigoureux et plus jeune.
+
+409
+00:43:17,287 --> 00:43:19,801
+Holden avait 31 ans á l'époque.
+
+410
+00:43:19,967 --> 00:43:24,483
+C'est très douloureux et humiliant
+pour Norma de se rendre compte
+
+411
+00:43:24,647 --> 00:43:27,957
+qu'elle n'est pas assez désirable
+pour lui.
+
+412
+00:43:28,127 --> 00:43:30,436
+Nous ressentons aussi cette douleur.
+
+413
+00:43:30,607 --> 00:43:35,237
+Je crois que Wilder veut qu'on ait
+de la sympathie pour elle á cet instant.
+
+414
+00:44:10,447 --> 00:44:15,282
+Regardez, le glissement subtil de Gillis,
+au 1 er plan, á Max, derrière.
+
+415
+00:44:15,447 --> 00:44:18,325
+Wilder fait la mise au point sur Max
+
+416
+00:44:18,487 --> 00:44:20,842
+car ce que fait Max le domestique
+
+417
+00:44:21,007 --> 00:44:26,320
+est ce que Gillis devrait faire,
+au sens figuré, s'il restait á la maison.
+
+418
+00:44:26,487 --> 00:44:29,524
+Wilder a aussi de la sympathie
+pour Gillis.
+
+419
+00:44:29,687 --> 00:44:35,444
+C'est normal qu'il parte.
+C'est ce qu'il a de mieux á faire.
+
+420
+00:44:35,607 --> 00:44:40,886
+Mais se retirer de la maison
+n'est pas aussi facile qu'il le voudrait.
+
+421
+00:44:41,047 --> 00:44:43,959
+Sa chaîne de montre se prend
+dans la poignée.
+
+422
+00:44:48,247 --> 00:44:53,321
+On voit immédiatement vers
+quel style de vie Joe Gillis retourne.
+
+423
+00:45:00,287 --> 00:45:04,200
+Il est seul et doit faire du stop
+sous la pluie battante.
+
+424
+00:45:04,767 --> 00:45:09,522
+Un sacré contraste avec cette maison,
+tout ce champagne et ce caviar.
+
+425
+00:45:19,887 --> 00:45:24,881
+Je dois avouer que je n'aime pas trop
+la scène de la soirée chez Artie Green.
+
+426
+00:45:25,047 --> 00:45:27,607
+Il y a un peu trop d'insouciance.
+
+427
+00:45:27,767 --> 00:45:31,680
+Je suis sûr que les jeunes fauchés
+d'Hollywood savent s'amuser,
+
+428
+00:45:31,847 --> 00:45:33,519
+mais ça fait un peu forcé.
+
+429
+00:45:33,687 --> 00:45:37,202
+Ils chantent "Buttons and Bows"
+qui avait obtenu un Oscar
+
+430
+00:45:37,367 --> 00:45:40,484
+et ce sont les auteurs,
+Jay Livingston et Ray Evans
+
+431
+00:45:40,647 --> 00:45:42,205
+qui sont au piano.
+
+432
+00:45:42,367 --> 00:45:44,756
+Encore les "coulisses" d'Hollywood.
+
+433
+00:45:44,927 --> 00:45:49,364
+Voici enfin Artie Green,
+que les téléspectateurs reconnaîtront:
+
+434
+00:45:49,527 --> 00:45:52,837
+c'est Jack Webb qui joue
+dans la série <i>Dragnet.</i>
+
+435
+00:45:53,007 --> 00:45:56,556
+Il n'en était pas que la vedette,
+il l'avait créée
+
+436
+00:45:56,727 --> 00:46:02,836
+d'abord pour la radio en 1949, l'année
+du tournage de <i>Sunset Boulevard.</i>
+
+437
+00:46:03,007 --> 00:46:06,317
+Adolphe Menjou, de la même époque
+que Gloria Swanson,
+
+438
+00:46:06,487 --> 00:46:09,365
+était dans <i>L; opinion publique</i>
+de Chaplin,
+
+439
+00:46:09,527 --> 00:46:11,438
+et dans <i>Cœurs brûlés</i> de Sternberg.
+
+440
+00:46:11,607 --> 00:46:15,919
+Il jouait presque toujours
+les dandys bien habillés.
+
+441
+00:46:16,087 --> 00:46:19,284
+C'est pourquoi Artie Green
+le compare á Joe Gillis.
+
+442
+00:46:41,527 --> 00:46:46,555
+Revoici Betty Schaefer qui se trouve
+être la petite amie d'Artie Green.
+
+443
+00:46:47,927 --> 00:46:52,318
+Mais regardez la façon dont Wilder
+met en scène le pauvre Artie.
+
+444
+00:46:52,487 --> 00:46:56,116
+Il n'a pas l'envergure de Gillis
+dans le genre tombeur.
+
+445
+00:46:56,287 --> 00:46:59,324
+Il parle d'abord
+de la belle petite gueule de Gillis,
+
+446
+00:46:59,487 --> 00:47:02,877
+puis il se compare
+á la mondaine Elsa Maxwell.
+
+447
+00:47:03,047 --> 00:47:08,599
+Wilder tente peut-être de dire que
+l'intérêt d'Artie pour Betty est limité.
+
+448
+00:47:08,767 --> 00:47:11,440
+On va bientôt voir,
+avant Betty elle-même,
+
+449
+00:47:11,607 --> 00:47:16,920
+qu'elle trouve Joe Gillis
+bien plus attirant qu'Artie Green.
+
+450
+00:47:20,407 --> 00:47:23,319
+Pendant que Betty et Joe
+parlent travail,
+
+451
+00:47:23,487 --> 00:47:25,842
+et je vais vous en dire plus
+sur Nancy Olson.
+
+452
+00:47:26,007 --> 00:47:29,556
+Elle a été nominée,
+mais l'Oscar est allé á Josephine Hull
+
+453
+00:47:29,727 --> 00:47:32,195
+pour <i>Harvey</i> avec James Stewart.
+
+454
+00:47:32,367 --> 00:47:36,155
+Nancy Olson a joué dans 9 films
+durant les 5 années suivantes.
+
+455
+00:47:36,327 --> 00:47:42,482
+Elle s'est arrêtée en 1955 puis s'est
+remise á faire des films plus tard.
+
+456
+00:47:42,647 --> 00:47:45,445
+Elle a été mariée
+au compositeur Alan J. Lerner,
+
+457
+00:47:45,607 --> 00:47:48,804
+puis au patron des disques Capitol,
+Alan Livingston.
+
+458
+00:47:50,167 --> 00:47:54,080
+William Holden a fait trois autres films
+avec Wilder:
+
+459
+00:47:54,247 --> 00:47:57,523
+<i>Stalag 17, Sabrina</i>
+et <i>Fedora.</i>
+
+460
+00:47:57,687 --> 00:48:00,724
+Il est devenu très ami
+avec Wilder.
+
+461
+00:48:00,887 --> 00:48:03,924
+Il a aussi joué dans <i>Picnic</i>
+de Joshua Logan
+
+462
+00:48:04,087 --> 00:48:06,920
+et <i>La Horde sauvage</i>
+de Sam Peckinpah.
+
+463
+00:48:15,207 --> 00:48:19,166
+Ce que dit Gillis est un peu graveleux,
+il demande où est le papier.
+
+464
+00:48:19,327 --> 00:48:22,637
+Ce qui veut dire: le papier-toilette.
+
+465
+00:48:22,807 --> 00:48:26,561
+Le Code Hays n'aurait
+pas permis qu'il le dise.
+
+466
+00:48:26,727 --> 00:48:30,322
+Il est clair que Wilder trouve
+que le papier-toilette
+
+467
+00:48:30,487 --> 00:48:33,843
+est un support amusant
+pour un scénario hollywoodien.
+
+468
+00:49:15,247 --> 00:49:18,205
+Joe croit être revenu
+dans le droit chemin,
+
+469
+00:49:18,367 --> 00:49:22,406
+mais son passé revient le hanter,
+comme souvent dans les films noirs.
+
+470
+00:49:22,567 --> 00:49:25,604
+Il a brisé le cœur
+de Norma Desmond...
+
+471
+00:49:35,567 --> 00:49:39,526
+En réponse,
+elle s'est ouvert les veines.
+
+472
+00:49:39,687 --> 00:49:44,442
+Et avec ses lames de rasoir. C'en est
+fini de son indépendance retrouvée.
+
+473
+00:49:44,607 --> 00:49:46,962
+Maintenant, en plus de sa honte,
+
+474
+00:49:47,127 --> 00:49:51,757
+il a un grand sentiment de culpabilité
+á ajouter á ses tourments.
+
+475
+00:50:15,967 --> 00:50:18,322
+Donc, il y retourne.
+
+476
+00:50:41,207 --> 00:50:43,767
+Confronté á la tentative
+de suicide de Norma,
+
+477
+00:50:43,927 --> 00:50:46,487
+Max continue á protéger son image.
+
+478
+00:50:46,647 --> 00:50:49,036
+Les musiciens ne doivent rien savoir.
+
+479
+00:50:49,207 --> 00:50:51,402
+Hollywood étouffe les affaires.
+
+480
+00:50:51,567 --> 00:50:54,001
+Wilder sait comment ça marche.
+
+481
+00:50:54,167 --> 00:50:57,523
+Ça fait assez longtemps
+qu'il y vit et qu'il y travaille.
+
+482
+00:51:00,887 --> 00:51:06,280
+Wilder a un ton assez subtil et tout
+en nuances pour la scène á venir.
+
+483
+00:51:06,447 --> 00:51:09,280
+Gillis a de la pitié pour Norma,
+mais il la méprise
+
+484
+00:51:09,447 --> 00:51:11,483
+et méprise ce qu'elle lui a fait.
+
+485
+00:51:41,727 --> 00:51:46,482
+Norma est humiliée
+mais elle garde la tête haute.
+
+486
+00:51:48,247 --> 00:51:51,762
+Quand elle dit: "Les grandes stars
+sont d'une grande fierté."
+
+487
+00:51:56,447 --> 00:51:58,563
+On croit ce qu'elle dit.
+
+488
+00:52:19,447 --> 00:52:22,245
+Le cadrage en légère plongée
+est important.
+
+489
+00:52:22,407 --> 00:52:25,365
+C'est Gillis qui raconte
+cette histoire morbide,
+
+490
+00:52:25,527 --> 00:52:30,362
+il se prend lui-même de haut
+alors qu'il va faire ce qui lui sera fatal.
+
+491
+00:52:30,527 --> 00:52:33,997
+C'est á dire, se retrouver
+dans les bras de Norma Desmond.
+
+492
+00:53:43,607 --> 00:53:47,486
+Et voici ce geste pathétique,
+laid et désespéré.
+
+493
+00:54:00,367 --> 00:54:03,245
+Le troisième acte débute
+sur Betty Schaefer
+
+494
+00:54:03,407 --> 00:54:05,557
+qui s'acharne á joindre Joe.
+
+495
+00:54:05,727 --> 00:54:10,164
+Max dit qu'il n'est pas lá alors
+que nous savons qu'il vit avec elle
+
+496
+00:54:10,327 --> 00:54:12,557
+et qu'ils ont une liaison.
+
+497
+00:54:48,407 --> 00:54:52,116
+Le "chien perdu" comme dit Max,
+montre ses pectoraux.
+
+498
+00:54:52,287 --> 00:54:55,324
+On voit bien pourquoi il plaît á Norma.
+
+499
+00:54:55,487 --> 00:54:57,762
+Joe est redevenu
+un homme entretenu
+
+500
+00:54:57,927 --> 00:55:00,964
+et Wilder nous montre
+la marchandise.
+
+501
+00:55:01,127 --> 00:55:04,597
+Joe s'est vraiment plongé
+dans le personnage
+
+502
+00:55:04,767 --> 00:55:08,726
+comme le montre son attitude
+décontractée envers Norma.
+
+503
+00:55:09,207 --> 00:55:13,678
+On nous montre qu'ils ont couché
+ensemble sans enfreindre le Code Hays.
+
+504
+00:55:41,807 --> 00:55:45,038
+Afin qu'il n'y ait aucun doute
+sur cette scène,
+
+505
+00:55:45,207 --> 00:55:49,086
+Franz Waxman a inclus
+un interlude salace au saxophone
+
+506
+00:55:49,247 --> 00:55:52,523
+quand Norma tend de l'argent á Joe.
+
+507
+00:55:55,087 --> 00:55:58,966
+Il est évident qu'elle ne paye pas
+que ses cigarettes.
+
+508
+00:56:20,087 --> 00:56:22,601
+Nous voici revenus chez Schwab.
+
+509
+00:56:37,447 --> 00:56:41,201
+Les répliques continuent
+á enfoncer le clou.
+
+510
+00:56:41,367 --> 00:56:43,961
+"Quel projet vous retenait?",
+demande Betty.
+
+511
+00:56:44,127 --> 00:56:47,642
+"Je n'étais sur aucun projet",
+lui répond-il.
+
+512
+00:57:48,247 --> 00:57:51,364
+Il est assez amusant
+que Betty devienne mordante
+
+513
+00:57:51,527 --> 00:57:55,156
+dès que Gillis menace
+ses ambitions professionnelles.
+
+514
+00:57:55,327 --> 00:57:59,764
+"Je ne serai pas toujours lectrice.
+Je veux écrire!"
+
+515
+00:57:59,927 --> 00:58:02,999
+Malgré son air innocent
+et charmant,
+
+516
+00:58:03,167 --> 00:58:08,116
+Betty est aussi ambitieuse que le reste
+d'Hollywood, Wilder y compris.
+
+517
+00:58:39,727 --> 00:58:44,164
+Ici, nous avons un autre symbole
+évident: le parapluie qui tourbillonne.
+
+518
+00:58:44,327 --> 00:58:46,966
+C'est le maelström
+dans lequel Joe est tombé.
+
+519
+00:58:47,127 --> 00:58:50,881
+L'univers insensé de Norma Desmond,
+de ses jours de gloire.
+
+520
+00:58:51,047 --> 00:58:53,242
+Les baigneuses de Mack Sennett,
+
+521
+00:58:53,407 --> 00:58:57,195
+Sennett produisait des comédies
+populaires du temps du muet.
+
+522
+00:58:57,367 --> 00:59:00,245
+Il est plus connu
+pour les <i>Keystone Cops.</i>
+
+523
+00:59:00,407 --> 00:59:04,036
+Norma évoque également
+Mabel Normand et Marie Prevost,
+
+524
+00:59:04,207 --> 00:59:07,597
+deux autres personnalités
+des débuts du cinéma.
+
+525
+00:59:07,767 --> 00:59:10,327
+La situation est plutôt absurde
+
+526
+00:59:10,487 --> 00:59:13,081
+et Gloria Swanson investit la scène,
+
+527
+00:59:13,247 --> 00:59:17,320
+avec un bonheur authentique
+de pouvoir jouer á nouveau.
+
+528
+00:59:38,167 --> 00:59:42,285
+Norma Desmond et Gloria Swanson
+sont de grandes actrices
+
+529
+00:59:42,447 --> 00:59:44,244
+et elles le savent.
+
+530
+00:59:46,767 --> 00:59:50,646
+Elles le prouvent
+avec ce que vous allez voir.
+
+531
+01:00:02,287 --> 01:00:04,243
+Charlie Chaplin en Charlot,
+
+532
+01:00:04,407 --> 01:00:08,605
+un des personnages de cinéma
+qui a été le plus imité.
+
+533
+01:00:08,767 --> 01:00:12,521
+Mais, comme pour les imitations
+de Norma Desmond,
+
+534
+01:00:12,687 --> 01:00:16,441
+elles sont assez superficielles,
+d'habitude.
+
+535
+01:00:16,607 --> 01:00:19,963
+Mais celle de Swanson
+est très très bonne.
+
+536
+01:00:20,127 --> 01:00:23,563
+Ça paraît simple et naturel,
+comme avec Chaplin.
+
+537
+01:00:23,727 --> 01:00:26,799
+Le pendant comique
+d'une grande danseuse.
+
+538
+01:00:40,127 --> 01:00:43,403
+Aussi étonnant que ça paraisse,
+la Paramount a appelé.
+
+539
+01:00:44,607 --> 01:00:47,917
+Et c'est lá que ça devient
+un peu grotesque.
+
+540
+01:00:48,087 --> 01:00:51,762
+Norma, toujours habillée en Charlot,
+redevient Norma.
+
+541
+01:00:51,927 --> 01:00:53,963
+Swanson est très bonne,
+
+542
+01:00:54,127 --> 01:00:58,439
+elle doit dire son texte
+avec sa fausse moustache
+
+543
+01:00:58,607 --> 01:01:00,757
+et ça marche.
+
+544
+01:01:00,927 --> 01:01:05,364
+Norma a du talent, du charme,
+elle est riche et célèbre
+
+545
+01:01:05,527 --> 01:01:09,520
+et il semble que son rêve de refaire
+du cinéma va se réaliser.
+
+546
+01:01:09,687 --> 01:01:13,202
+Cependant, il est évident
+qu'elle n'a pas toute sa tête.
+
+547
+01:01:27,727 --> 01:01:31,959
+Dans cette scène, Max remarque
+que son maquillage cloche.
+
+548
+01:01:32,127 --> 01:01:35,119
+Il le remarque dans le rétroviseur
+
+549
+01:01:35,287 --> 01:01:39,166
+car d'expérience,
+il sait de quoi il parle.
+
+550
+01:01:39,327 --> 01:01:42,080
+Mais on ne le sait pas encore.
+
+551
+01:02:01,207 --> 01:02:04,119
+Billy Wilder raconte
+qu'en jouant cette scène,
+
+552
+01:02:04,287 --> 01:02:09,122
+Erich von Stroheim est rentré dans
+le portail car il ne savait pas conduire.
+
+553
+01:02:09,287 --> 01:02:14,964
+Mais Wilder inventait des anecdotes
+et c'est probablement le cas ici.
+
+554
+01:02:22,007 --> 01:02:27,286
+Norma a de la chance que Jonesy,
+le garde, la reconnaisse.
+
+555
+01:02:27,447 --> 01:02:32,237
+Seuls les anciens la reconnaissent,
+comme on va le voir ensuite.
+
+556
+01:02:46,727 --> 01:02:49,400
+Je trouve, comme beaucoup de gens,
+
+557
+01:02:49,567 --> 01:02:54,960
+que c'est assez fascinant de pénétrer
+dans un studio et Wilder le sait.
+
+558
+01:03:16,727 --> 01:03:21,562
+Du plateau, il fait ce plan large
+en plongée qui englobe tout:
+
+559
+01:03:21,727 --> 01:03:26,960
+le décor, la caméra, la perche
+du micro, l'équipe, les éclairages
+
+560
+01:03:27,127 --> 01:03:30,802
+et il souligne son plan
+avec l'ampoule qui clignote
+
+561
+01:03:30,967 --> 01:03:33,606
+pour lui donner un peu plus
+de tonus.
+
+562
+01:03:33,767 --> 01:03:38,238
+Malgré son portrait acerbe, ce film
+est destiné aux amoureux du cinéma
+
+563
+01:03:38,407 --> 01:03:41,604
+et cette scène parle
+de l'amour pour le cinéma.
+
+564
+01:03:45,247 --> 01:03:46,805
+On tourne un De Mille,
+
+565
+01:03:46,967 --> 01:03:50,846
+alors on voit passer
+des personnages bibliques
+
+566
+01:03:51,007 --> 01:03:54,158
+dans d'incroyables
+costumes outranciers.
+
+567
+01:03:54,327 --> 01:03:57,922
+On remarque la hiérarchie
+pour arriver jusqu'á De Mille:
+
+568
+01:03:58,087 --> 01:04:00,237
+du 2ème assistant au 1 er assistant
+
+569
+01:04:00,407 --> 01:04:05,003
+qui est le seul á oser déranger
+le maître en personne.
+
+570
+01:04:05,167 --> 01:04:07,442
+Wilder tente de montrer De Mille
+sous un bon jour
+
+571
+01:04:07,607 --> 01:04:12,965
+en lui faisant parler des millions
+de fans qui ont rejeté Norma,
+
+572
+01:04:13,127 --> 01:04:16,085
+mais il reste quelqu'un d'acerbe,
+
+573
+01:04:16,247 --> 01:04:20,638
+un tyran manipulateur qui tourne
+une de ses superproductions risibles.
+
+574
+01:04:20,807 --> 01:04:26,200
+Pour ce rôle, De Mille a reçu un salaire
+conséquent et une Cadillac.
+
+575
+01:04:27,287 --> 01:04:31,997
+A l'origine, Wilder voulait
+Hedy Lamarr dans cette scène.
+
+576
+01:04:32,167 --> 01:04:35,921
+De Mille était sur le tournage
+de <i>Samson et Dalila,</i> en 1949,
+
+577
+01:04:36,087 --> 01:04:38,362
+avec Hedy Lamarr
+et Victor Mature.
+
+578
+01:04:38,527 --> 01:04:41,246
+Wilder a raconté
+que Lamarr avait demandé
+
+579
+01:04:43,367 --> 01:04:46,325
+25000 dollars. Ils ont donc renoncé.
+
+580
+01:05:23,167 --> 01:05:28,764
+Lá encore, c'est fascinant quand
+on n'est jamais entré dans un studio.
+
+581
+01:06:06,527 --> 01:06:10,805
+Regardez le dédain
+avec lequel elle repousse le micro.
+
+582
+01:06:23,287 --> 01:06:26,757
+Il y avait un type surnommé Hog-eye
+á la Paramount,
+
+583
+01:06:26,927 --> 01:06:30,283
+un vieil éclairagiste
+qui s'appelait John Hetman.
+
+584
+01:06:32,487 --> 01:06:36,639
+Ici, on voit que Norma Desmond
+est restée dans les mémoires.
+
+585
+01:06:36,807 --> 01:06:40,402
+Les autres anciens sont intimidés
+et admiratifs.
+
+586
+01:06:42,487 --> 01:06:45,047
+Billy Wilder se souvenait
+des stars du muet.
+
+587
+01:06:45,207 --> 01:06:49,405
+D'ailleurs, un de ses 1 ers articles
+quand il était journaliste á Vienne,
+
+588
+01:06:49,567 --> 01:06:54,038
+était une interview avec la grande star
+danoise, Asta Nielsen.
+
+589
+01:06:57,927 --> 01:07:00,885
+En fait, la Paramount ne veut pas
+de Norma.
+
+590
+01:07:01,047 --> 01:07:04,801
+Ils veulent sa voiture
+pour un film avec Bing Crosby.
+
+591
+01:07:04,967 --> 01:07:08,243
+Il avait joué dans <i>La Valse</i>
+<i>de l; empereur</i> de Wilder
+
+592
+01:07:08,407 --> 01:07:11,365
+qui n'avait pas trop aimé
+cette collaboration.
+
+593
+01:07:11,527 --> 01:07:14,758
+Crosby est la seule star
+qui, sous sa direction,
+
+594
+01:07:14,927 --> 01:07:17,646
+avait non seulement
+changé les dialogues,
+
+595
+01:07:17,807 --> 01:07:23,962
+mais il avait embauché des écrivaillons
+pour lui réécrire le scénario.
+
+596
+01:07:25,287 --> 01:07:30,600
+De Mille ne laisse pas Norma profiter
+de son bref retour dans la lumière.
+
+597
+01:07:35,367 --> 01:07:37,642
+Il demande á Hog-eye
+d'éteindre
+
+598
+01:07:37,807 --> 01:07:41,516
+et ses quelques réels admirateurs
+se dispersent.
+
+599
+01:07:41,687 --> 01:07:44,360
+De Mille n'est pas á son avantage.
+
+600
+01:07:44,527 --> 01:07:47,644
+Il n'a même pas le cran
+de dire la vérité á Norma.
+
+601
+01:09:31,727 --> 01:09:36,198
+C'est lá que Joe retrouve Betty,
+dans le bâtiment des scénaristes.
+
+602
+01:09:36,367 --> 01:09:40,724
+L'idée d'écrire un scénario
+á plusieurs était chère á Wilder.
+
+603
+01:09:40,887 --> 01:09:44,163
+Il travaillait toujours
+avec un collaborateur.
+
+604
+01:10:13,207 --> 01:10:16,165
+Elle est contente de le voir,
+peut-être trop.
+
+605
+01:10:16,327 --> 01:10:20,366
+Elle est quand même toujours fiancée
+á Artie Green.
+
+606
+01:10:47,567 --> 01:10:52,243
+Joe n'a pas que des mauvaises idées,
+pour écrire des intrigues.
+
+607
+01:10:52,407 --> 01:10:55,558
+L'idée de la rencontre
+des deux personnages est de lui,
+
+608
+01:10:55,727 --> 01:10:59,686
+c'est ce que Wilder appelait
+une "rencontre pipée" classique.
+
+609
+01:10:59,847 --> 01:11:02,361
+Par exemple, une rencontre
+dans un magasin
+
+610
+01:11:02,527 --> 01:11:06,645
+où un homme ne veut acheter
+que le bas du pyjama
+
+611
+01:11:06,807 --> 01:11:09,241
+et la femme ne veut acheter
+que le haut.
+
+612
+01:11:09,407 --> 01:11:13,366
+C'était la "rencontre pipée" de
+<i>La Huitième femme de Barbe-bleue</i>
+
+613
+01:11:13,527 --> 01:11:16,564
+dont Billy Wilder était le co-auteur.
+
+614
+01:12:48,567 --> 01:12:52,355
+Les soins esthétiques de Norma
+sont exagérés et ridicules,
+
+615
+01:12:52,527 --> 01:12:57,237
+mais aujourd'hui, toutes les stars
+vieillissantes passent sous le scalpel
+
+616
+01:12:57,407 --> 01:13:00,240
+et plus personne ne cherche
+á le cacher.
+
+617
+01:13:00,407 --> 01:13:03,604
+Elles pensent qu'il faut rester jeune
+pour réussir,
+
+618
+01:13:03,767 --> 01:13:05,678
+et c'est peut-être vrai.
+
+619
+01:13:06,407 --> 01:13:10,446
+Norma Desmond n'a
+que la cinquantaine,
+
+620
+01:13:10,607 --> 01:13:14,759
+ce qui rend son désir de paraître
+jeune encore plus pitoyable.
+
+621
+01:13:44,127 --> 01:13:45,958
+Dans la scène dans la chambre,
+
+622
+01:13:46,127 --> 01:13:50,678
+Norma joue le rôle de la grande actrice
+du muet qu'elle a été jadis.
+
+623
+01:13:50,847 --> 01:13:55,762
+Son jeu, avec son visage
+et ses mains, est très efficace.
+
+624
+01:13:55,927 --> 01:13:59,920
+Cela peut paraître exagéré
+pour un public de non-initiés,
+
+625
+01:14:00,087 --> 01:14:04,000
+mais c'est une grande interprétation
+de rôle muet.
+
+626
+01:14:04,927 --> 01:14:08,203
+S'il n'y avait pas
+les "mots et encore des mots..."
+
+627
+01:14:08,367 --> 01:14:12,406
+Par ses gestes outranciers,
+
+628
+01:14:12,567 --> 01:14:15,240
+Norma créé sa propre corde
+de mots.
+
+629
+01:14:15,407 --> 01:14:20,561
+La corde dont elle a déjá parlé
+et avec laquelle elle s'étrangle.
+
+630
+01:14:31,807 --> 01:14:37,837
+Le comportement de Norma pousse Joe
+á travailler avec Betty la nuit.
+
+631
+01:14:38,967 --> 01:14:41,276
+Billy Wilder ne travaillait pas seul.
+
+632
+01:14:41,447 --> 01:14:43,324
+Il aimait les échanges.
+
+633
+01:14:43,487 --> 01:14:47,275
+Mais ses échanges avec Bracket,
+co-auteur de <i>Sunset Boulevard,</i>
+
+634
+01:14:47,447 --> 01:14:52,567
+n'étaient pas aussi harmonieux
+que ceux de Joe Gillis et Betty Schaefer.
+
+635
+01:14:52,727 --> 01:14:56,242
+Ils se disputaient si fort
+qu'ils jetaient des annuaires dessus.
+
+636
+01:14:56,407 --> 01:15:01,356
+Leurs secrétaires étaient habituées
+aux cris et aux bruits sourds.
+
+637
+01:16:56,407 --> 01:17:01,606
+"Folle de lui", dit la dédicace de Norma.
+Et c'est vrai, elle l'est.
+
+638
+01:17:59,207 --> 01:18:03,166
+Ils se promènent dans le studio,
+tard dans la nuit.
+
+639
+01:18:03,327 --> 01:18:07,081
+L'histoire de Betty qui est née
+et a grandi á Hollywood
+
+640
+01:18:07,247 --> 01:18:12,401
+s'inspire d'une histoire vraie: celle
+de Mme Wilder, la jolie Audrey Young
+
+641
+01:18:12,567 --> 01:18:17,243
+dont la mère était employée au service
+costumes de la Paramount.
+
+642
+01:18:17,407 --> 01:18:20,717
+Audrey voulait faire du cinéma,
+mais sa voix superbe
+
+643
+01:18:20,887 --> 01:18:24,243
+fit d'elle une chanteuse
+avant d'épouser Billy
+
+644
+01:18:24,407 --> 01:18:26,523
+et de devenir Audrey Wilder.
+
+645
+01:20:23,287 --> 01:20:26,324
+Ils ont failli s'étreindre,
+
+646
+01:20:26,487 --> 01:20:30,400
+mais Joe n'a pas succombé.
+Il garde ça pour plus tard.
+
+647
+01:21:02,207 --> 01:21:07,759
+La révélation de Max
+est un commentaire mordant de Wilder.
+
+648
+01:21:07,927 --> 01:21:12,159
+C'est une réflexion sur le sort
+de ceux qui sont finis á Hollywood.
+
+649
+01:21:16,287 --> 01:21:21,645
+C'est aussi une référence amère
+au sort de Erich von Stroheim lui-même.
+
+650
+01:21:22,487 --> 01:21:26,400
+Stroheim n'est jamais devenu
+l'esclave masochiste d'une star,
+
+651
+01:21:26,567 --> 01:21:28,683
+mais il a laissé couler sa carrière
+
+652
+01:21:28,847 --> 01:21:32,681
+quand Swanson a arrêté de tourner
+avec lui après <i>Queen Kelly.</i>
+
+653
+01:21:57,087 --> 01:22:02,286
+L'image est très sombre dans cette
+scène, il n'y a presque pas de lumière.
+
+654
+01:23:10,647 --> 01:23:15,880
+Lá encore, le jeu de Norma,
+cette fois devant un Joe endormi,
+
+655
+01:23:16,047 --> 01:23:18,481
+est celui d'un mélodrame muet.
+
+656
+01:23:22,807 --> 01:23:27,244
+Elle fait de grands gestes,
+a des expressions outrancières...
+
+657
+01:23:27,407 --> 01:23:31,286
+C'est la seule façon
+qu'elle a de s'exprimer.
+
+658
+01:24:00,887 --> 01:24:04,721
+"Histoire d'amour sans titre":
+c'est ça qui l'effraie.
+
+659
+01:24:05,647 --> 01:24:09,879
+On les retrouve au bureau,
+mais Betty est préoccupée.
+
+660
+01:24:21,167 --> 01:24:27,163
+C'est vrai, elle ne ressent pas
+ce qu'elle devrait pour Artie Green
+
+661
+01:24:27,327 --> 01:24:31,445
+et á la place, elle succombe
+au charme du séduisant Joe Gillis.
+
+662
+01:24:40,727 --> 01:24:44,720
+D'une certaine façon,
+on s'en est aperçu avant elle.
+
+663
+01:25:33,487 --> 01:25:36,001
+Pour la scène du baiser sur le balcon,
+
+664
+01:25:36,167 --> 01:25:38,761
+Wilder était satisfait de la 1 ère prise,
+
+665
+01:25:38,927 --> 01:25:42,966
+mais il a voulu en faire une autre
+pour en être sûr.
+
+666
+01:25:47,887 --> 01:25:51,084
+La deuxième fois,
+il les a laissés s'embrasser
+
+667
+01:25:51,247 --> 01:25:52,999
+et s'embrasser
+
+668
+01:25:53,167 --> 01:25:54,919
+et s'embrasser
+
+669
+01:25:55,087 --> 01:25:56,725
+et s'embrasser.
+
+670
+01:25:56,887 --> 01:25:58,957
+Tout ça sans dire "coupez".
+
+671
+01:26:02,327 --> 01:26:05,046
+A la fin, l'équipe s'est mise
+á ricaner
+
+672
+01:26:05,207 --> 01:26:09,405
+et une des personnes qui assistaient
+au tournage a crié: "Coupez!".
+
+673
+01:26:09,567 --> 01:26:14,322
+C'était la femme de William Holden
+qui ne trouvait pas ça drôle.
+
+674
+01:27:12,567 --> 01:27:18,278
+Les jeunes, habitués aux téléphones
+á touches peuvent ne pas comprendre:
+
+675
+01:27:18,447 --> 01:27:23,396
+Norma compose un numéro
+de téléphone, c'est le bruit du cadran.
+
+676
+01:27:27,287 --> 01:27:30,597
+Cela va donner une scène
+où passe un grand malaise:
+
+677
+01:27:30,767 --> 01:27:34,282
+Norma est en rage, la jalousie
+l'a rendue méchante
+
+678
+01:27:34,447 --> 01:27:39,726
+et avec ces patchs sur le visage,
+elle commence á sortir son venin.
+
+679
+01:27:40,807 --> 01:27:45,597
+On comprend dans ce qu'elle dit
+á Betty Schaefer,
+
+680
+01:27:45,767 --> 01:27:49,123
+qu'elle méprise Joe pour ce qu'il est.
+
+681
+01:27:49,287 --> 01:27:52,245
+Comme elle le dit,
+les hommes tels que lui
+
+682
+01:27:52,407 --> 01:27:56,161
+sont, á son avis,
+bons á tourner en dérision.
+
+683
+01:27:59,967 --> 01:28:02,435
+Elle joue encore
+comme dans un film muet,
+
+684
+01:28:02,607 --> 01:28:06,043
+mais son émotion est réelle
+quand elle se fait prendre.
+
+685
+01:28:39,567 --> 01:28:41,922
+Elle est troublée,
+elle ne joue plus
+
+686
+01:28:42,087 --> 01:28:45,523
+le rôle qui lui donnait l'avantage.
+
+687
+01:29:27,527 --> 01:29:31,202
+Quand elle commence á dire
+"Ne me déteste pas, Joe",
+
+688
+01:29:31,367 --> 01:29:35,121
+ce n'est ni comique ni grotesque.
+
+689
+01:29:35,287 --> 01:29:40,236
+Ça sonne vrai et c'en est
+d'autant plus émouvant.
+
+690
+01:30:49,367 --> 01:30:51,323
+Quand Betty arrive,
+
+691
+01:30:51,487 --> 01:30:55,526
+Joe est assez irrévérencieux
+en lui montrant la maison,
+
+692
+01:30:55,687 --> 01:31:00,807
+peut-être parce qu'il a touché
+le fond dans l'avilissement.
+
+693
+01:31:02,887 --> 01:31:08,280
+Après tout, il montre á sa jeune amie
+le palais de sa vieille amie.
+
+694
+01:31:09,367 --> 01:31:14,521
+Il se met á lui parler de la maison
+et á expliquer pourquoi il vit lá.
+
+695
+01:31:14,687 --> 01:31:17,759
+"C'est un arrangement très simple", dit-il.
+
+696
+01:31:18,247 --> 01:31:21,523
+Wilder lui fait avoir
+cette superbe formule:
+
+697
+01:31:21,687 --> 01:31:27,603
+la femme plus trop jeune mais á l'aise
+avec l'homme jeune en difficulté.
+
+698
+01:31:30,527 --> 01:31:34,315
+Tout ce qui l'entoure semble avoir
+un sens pour lui.
+
+699
+01:31:34,487 --> 01:31:37,797
+Il a l'air d'admirer la décoration
+qu'il décrit,
+
+700
+01:31:37,967 --> 01:31:42,518
+mais son ton désinvolte nous pousse
+á douter de sa sincérité.
+
+701
+01:31:42,887 --> 01:31:47,961
+On sent, á sa dureté de ton, qu'il se
+débarrasse de Betty car il tient á elle.
+
+702
+01:31:48,127 --> 01:31:51,722
+Est-il amoureux d'elle?
+C'est encore autre chose.
+
+703
+01:31:51,887 --> 01:31:57,484
+L'amour véritable n'est peut-être pas
+dans le répertoire émotionnel de Gillis.
+
+704
+01:34:11,007 --> 01:34:12,918
+Betty s'en va.
+
+705
+01:34:22,207 --> 01:34:26,997
+La caméra remonte vers Norma.
+Comme dans sa première scène,
+
+706
+01:34:27,167 --> 01:34:31,240
+l'éclairage sur son visage
+est précis et intense.
+
+707
+01:34:31,407 --> 01:34:34,763
+Elle est au-dessus de lui,
+elle a le pouvoir.
+
+708
+01:35:06,487 --> 01:35:10,878
+Avant de jouer sa grande scène,
+elle vérifie son maquillage.
+
+709
+01:35:45,487 --> 01:35:49,878
+Ce gros plan sur Norma quand
+elle réalise qu'il la quitte est crucial.
+
+710
+01:35:50,047 --> 01:35:53,596
+Il est soudain et un peu effrayant
+car il nous rapproche
+
+711
+01:35:53,767 --> 01:35:56,156
+de quelqu'un en pleine crise de nerfs.
+
+712
+01:35:56,327 --> 01:36:01,526
+La violence de cette crise est le signe
+de la fin de la lucidité chez Norma.
+
+713
+01:36:22,847 --> 01:36:27,921
+Elle est devenue complètement folle
+et le restera jusqu'á la fin du film.
+
+714
+01:36:28,087 --> 01:36:32,160
+Wilder a fini par faire de Norma
+Desmond une figure grotesque.
+
+715
+01:36:32,327 --> 01:36:34,238
+Quoique, elle le mérite
+
+716
+01:36:34,407 --> 01:36:38,400
+et finalement,
+c'est la faute de Hollywood.
+
+717
+01:38:10,727 --> 01:38:12,479
+C'est une très belle réplique:
+
+718
+01:38:12,647 --> 01:38:16,560
+"Personne ne quitte une star.
+C'est ce qui en fait une star."
+
+719
+01:38:16,727 --> 01:38:18,240
+Pas exactement, Norma,
+
+720
+01:38:18,407 --> 01:38:22,320
+c'est peut-être de maintenir un lien
+avec un public invisible,
+
+721
+01:38:22,487 --> 01:38:25,524
+ce que Norma n'a pas fait
+depuis 20 ans.
+
+722
+01:38:25,687 --> 01:38:27,803
+Elle lui tire dans le dos.
+
+723
+01:38:27,967 --> 01:38:31,084
+Wilder détestait les westerns,
+mais reconnaissait
+
+724
+01:38:31,247 --> 01:38:33,636
+que cette violation
+du "code de l'Ouest"
+
+725
+01:38:33,807 --> 01:38:36,560
+montre la lâcheté du méchant,
+
+726
+01:38:36,727 --> 01:38:38,479
+en l'occurrence, Norma.
+
+727
+01:38:38,647 --> 01:38:41,115
+Wilder a bouclé la boucle,
+
+728
+01:38:41,287 --> 01:38:44,199
+on sait maintenant
+qui est l'homme de la piscine.
+
+729
+01:38:44,367 --> 01:38:47,200
+Certains l'avaient deviné dès le début,
+
+730
+01:38:47,367 --> 01:38:52,202
+mais moi, j'ai eu un choc
+la première fois que j'ai vu le film.
+
+731
+01:38:52,367 --> 01:38:57,043
+C'est comme une tragédie mais Wilder
+ne veut pas coller á cette ambiance.
+
+732
+01:38:57,207 --> 01:39:00,404
+Il lui faut une chute bizarre
+avec Norma qui dit:
+
+733
+01:39:00,567 --> 01:39:02,797
+"Les stars sont intemporelles,
+n'est-ce pas?"
+
+734
+01:39:06,487 --> 01:39:11,038
+C'est vrai, surtout quand elles
+deviennent des assassins célèbres.
+
+735
+01:39:13,847 --> 01:39:16,884
+On passe á Gillis dans la piscine,
+entouré de monde.
+
+736
+01:39:17,047 --> 01:39:19,925
+"Nous sommes revenus
+au point de départ", dit-il.
+
+737
+01:39:20,087 --> 01:39:22,885
+Il est habitué á son statut de mort,
+
+738
+01:39:23,047 --> 01:39:25,686
+il a eu tout le film pour s'y habituer.
+
+739
+01:39:25,847 --> 01:39:29,044
+La mort n'a pas affecté
+son ton ironique.
+
+740
+01:39:29,207 --> 01:39:34,076
+Il dit: "C'est drôle, comme les gens
+traitent les morts avec délicatesse."
+
+741
+01:39:58,327 --> 01:40:01,205
+Voici les gars des actualités
+de la Paramount.
+
+742
+01:40:01,367 --> 01:40:04,564
+"C'était un sujet qui allait divertir
+tout le monde."
+
+743
+01:40:04,727 --> 01:40:09,562
+C'est cynique mais vrai. On a vu, avec
+les cas O.J. Simpson et Robert Blake,
+
+744
+01:40:09,727 --> 01:40:11,922
+comme Hollywood est impitoyable.
+
+745
+01:40:12,087 --> 01:40:15,159
+Ces émissions de télé
+sur la misère humaine,
+
+746
+01:40:15,327 --> 01:40:17,602
+surtout celle des gens célèbres.
+
+747
+01:40:17,767 --> 01:40:21,282
+Nous aussi, sommes impitoyables
+envers les vedettes.
+
+748
+01:40:21,447 --> 01:40:23,915
+C'est nous qui regardons
+ces émissions.
+
+749
+01:40:24,087 --> 01:40:28,524
+On traitait Wilder de cynique,
+il était juste en avance sur son temps.
+
+750
+01:40:28,687 --> 01:40:31,838
+Regardez le policier
+qui essaye de téléphoner.
+
+751
+01:40:37,007 --> 01:40:40,716
+On passe á la commère Hedda
+Hopper qui reprend la narration,
+
+752
+01:40:40,887 --> 01:40:46,007
+mais elle s'exprime dans le jargon
+ampoulé du journalisme de ragots.
+
+753
+01:40:46,207 --> 01:40:51,201
+Wilder et Bracket connaissaient
+mieux l'autre célèbre commère,
+
+754
+01:40:51,367 --> 01:40:55,076
+Luella Parsons, mais Hedda Hopper
+avait débuté comme actrice
+
+755
+01:40:55,247 --> 01:40:58,762
+et ils savaient
+qu'elle serait bien meilleure.
+
+756
+01:41:14,567 --> 01:41:17,127
+Un autre gros plan
+de Norma est á venir,
+
+757
+01:41:17,287 --> 01:41:21,246
+pour montrer son expression
+quand elle entend le mot "caméras".
+
+758
+01:41:32,167 --> 01:41:36,763
+Wilder n'est pas coutumier
+d'un usage excessif des gros plans.
+
+759
+01:41:36,927 --> 01:41:39,566
+Il les réserve pour les moments-clés
+comme ici,
+
+760
+01:41:39,727 --> 01:41:43,197
+quand Norma réalise son rêve
+de faire du cinéma á nouveau.
+
+761
+01:41:43,367 --> 01:41:46,643
+Dans <i>Sunset Boulevard,</i>
+Gillis a sa piscine á la fin,
+
+762
+01:41:46,807 --> 01:41:51,164
+Norma obtient sa grande scène,
+pas un come-back mais un retour.
+
+763
+01:41:51,327 --> 01:41:54,000
+Même Max redevient
+metteur en scène.
+
+764
+01:41:54,167 --> 01:41:55,885
+Le résultat est pervers mais vrai:
+
+765
+01:41:56,047 --> 01:41:59,676
+les trois personnages principaux
+ont ce qu'ils veulent.
+
+766
+01:41:59,847 --> 01:42:03,681
+Seule Betty Schaefer ne profite pas
+de la distribution.
+
+767
+01:42:25,367 --> 01:42:27,642
+Max a beaucoup de chance.
+
+768
+01:42:27,807 --> 01:42:32,483
+Il réalise une des plus grandes scènes
+jamais enregistrées sur pellicule,
+
+769
+01:42:32,647 --> 01:42:37,675
+Norma Desmond descendant
+l'escalier á la fin de <i>Sunset Boulevard.</i>
+
+770
+01:42:39,287 --> 01:42:42,006
+Malgré ce maquillage
+et cette robe atroces,
+
+771
+01:42:42,167 --> 01:42:45,204
+on ne peut s'empêcher
+d'être attendri par Norma,
+
+772
+01:42:45,367 --> 01:42:49,076
+quand elle ne sait pas
+quelle scène elle doit jouer.
+
+773
+01:42:49,247 --> 01:42:53,206
+Comme dans un cauchemar, quand
+on a oublié ce qu'on doit savoir.
+
+774
+01:42:53,407 --> 01:42:56,877
+Bien qu'abominable et comique,
+
+775
+01:42:57,047 --> 01:42:59,356
+la situation est aussi émouvante.
+
+776
+01:43:35,847 --> 01:43:38,077
+Ce qui dit Gillis est révélateur.
+
+777
+01:43:38,247 --> 01:43:42,035
+Il dit du rêve de Norma
+qu'il l'a "emportée".
+
+778
+01:43:42,207 --> 01:43:46,644
+Elle l'a peut-être assassiné,
+mais Joe a encore pitié d'elle.
+
+779
+01:43:46,807 --> 01:43:50,516
+"Emportée", cela suggère
+que la folie de Norma Desmond
+
+780
+01:43:50,687 --> 01:43:53,201
+sert á la protéger.
+
+781
+01:43:53,367 --> 01:43:56,245
+Il faut peut-être ça á Hollywood.
+
+782
+01:44:14,287 --> 01:44:18,439
+On revient á la comédie quand Norma
+demande á De Mille, en fait, á Max,
+
+783
+01:44:18,607 --> 01:44:21,679
+si elle peut dire quelque chose.
+Elle n'attend pas
+
+784
+01:44:21,847 --> 01:44:24,759
+et se lance tout de suite
+dans son monologue.
+
+785
+01:44:26,567 --> 01:44:28,842
+Elle a totalement perdu la tête,
+
+786
+01:44:29,007 --> 01:44:33,797
+mais a cependant un très beau
+discours sur l'amour du cinéma.
+
+787
+01:44:33,967 --> 01:44:38,961
+Billy Wilder a aimé le cinéma
+jusqu'á sa mort, au printemps 2002.
+
+788
+01:44:52,927 --> 01:44:54,997
+"Rien que nous,
+
+789
+01:44:55,167 --> 01:44:59,399
+les caméras et tous ces gens
+merveilleux assis dans le noir."
+
+790
+01:44:59,567 --> 01:45:01,717
+Wilder ne peut pas s'empêcher
+
+791
+01:45:01,887 --> 01:45:05,004
+de lui demander d'avoir
+ce geste griffeur vers la caméra
+
+792
+01:45:05,167 --> 01:45:07,556
+quand elle dit cette belle réplique:
+
+793
+01:45:07,727 --> 01:45:10,002
+"M. De Mille, je suis prête
+pour le gros plan."
+
+794
+01:45:10,167 --> 01:45:13,045
+Une réplique souvent déformée.
+A la fin,
+
+795
+01:45:13,207 --> 01:45:16,040
+Norma n'obtient pas
+le gros plan tant désiré.
+
+796
+01:45:16,207 --> 01:45:19,119
+Wilder passe lentement au flou.
+
+797
+01:45:19,287 --> 01:45:22,085
+Il a raison, elle est dans le flou,
+hors du coup,
+
+798
+01:45:22,247 --> 01:45:25,444
+tout comme l'industrie
+qui en a fait ce qu'elle est.
+
+799
+01:45:25,607 --> 01:45:29,998
+C'était Ed Sikov.
+J'espère que vous avez aimé le film.

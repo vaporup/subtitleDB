@@ -1,0 +1,9 @@
+---
+filename: "Sunset-Blvd_WunSeeDee.de-Directors-Comments.srt"
+language: "de"
+format: "srt"
+
+matches:
+- filename: "Sunset-Blvd_WunSeeDee.avi"
+  hash: "806510e121d7afd4"
+  filesize: "734998528"
