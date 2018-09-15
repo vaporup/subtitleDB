@@ -1,0 +1,9 @@
+---
+filename: "Swades_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Swades_CD_2.avi"
+  hash: "650ea5c9aa05d722"
+  filesize: "735121408"
