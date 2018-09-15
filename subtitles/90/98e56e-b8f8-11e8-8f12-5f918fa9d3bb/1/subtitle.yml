@@ -1,0 +1,9 @@
+---
+filename: "BirdWatchers.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "BirdWatchers.avi"
+  hash: "7c8c92ebce6c5b50"
+  filesize: "733321216"
