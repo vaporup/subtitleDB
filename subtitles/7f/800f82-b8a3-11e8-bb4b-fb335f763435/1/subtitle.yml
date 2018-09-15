@@ -1,0 +1,9 @@
+---
+filename: "Scanners.fr.srt"
+language: "fr"
+format: "srt"
+
+matches:
+- filename: "Scanners.mp4"
+  hash: "41c575654ea32d8b"
+  filesize: "3175386729"
