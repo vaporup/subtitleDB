@@ -1,0 +1,9 @@
+---
+filename: "Get.Out.2017.1080p.BluRay.x264-[YTS.AG].srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Get.Out.2017.1080p.BluRay.x264-[YTS.AG].mp4"
+  hash: "ece5780061ae625e"
+  filesize: "1701379086"
