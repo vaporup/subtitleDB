@@ -1,0 +1,9 @@
+---
+filename: "S1m0ne 2002 720p HDTV X264-PLAYNOW.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "S1m0ne 2002 720p HDTV X264-PLAYNOW.mp4"
+  hash: "a82b96a2ad5e29d0"
+  filesize: "1252719074"
