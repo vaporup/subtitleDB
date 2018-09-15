@@ -1,0 +1,9 @@
+---
+filename: "THX 1138 (1971) DC 720p BRrip.x264 SUJAIDR.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "THX 1138 (1971) DC 720p BRrip.x264 SUJAIDR.mp4"
+  hash: "dad2f1ecf789e209"
+  filesize: "819789555"
