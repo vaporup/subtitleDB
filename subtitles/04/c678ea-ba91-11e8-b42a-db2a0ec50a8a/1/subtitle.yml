@@ -1,0 +1,9 @@
+---
+filename: "Ninja_Scroll.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Ninja_Scroll.avi"
+  hash: "85177738b0addb21"
+  filesize: "600098816"
