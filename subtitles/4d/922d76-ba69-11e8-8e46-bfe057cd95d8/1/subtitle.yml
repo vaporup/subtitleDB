@@ -1,0 +1,9 @@
+---
+filename: "Bird On A Wire 1990.sub"
+language: "en"
+format: "sub"
+
+matches:
+- filename: "Bird On A Wire 1990.avi"
+  hash: "c4445229362344eb"
+  filesize: "732029408"
