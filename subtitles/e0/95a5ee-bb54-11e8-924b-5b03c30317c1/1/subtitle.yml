@@ -1,0 +1,9 @@
+---
+filename: "The_Medallion.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Medallion.avi"
+  hash: "b41998deaf6afd56"
+  filesize: "731267072"

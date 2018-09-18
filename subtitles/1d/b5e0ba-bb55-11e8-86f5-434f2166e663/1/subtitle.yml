@@ -1,0 +1,9 @@
+---
+filename: "The_Medallion_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Medallion_CD_1.avi"
+  hash: "488cf88f786309ed"
+  filesize: "734359552"
