@@ -1,0 +1,9 @@
+---
+filename: "Spring_Breeze_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Spring_Breeze_CD_1.avi"
+  hash: "3adbd5464fe07f37"
+  filesize: "733601792"
