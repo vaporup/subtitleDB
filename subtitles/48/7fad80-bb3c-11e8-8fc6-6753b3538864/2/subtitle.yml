@@ -1,0 +1,9 @@
+---
+filename: "Versus_DC_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Versus_DC_CD_2.avi"
+  hash: "ed4ef02ff4bd7568"
+  filesize: "733528064"
