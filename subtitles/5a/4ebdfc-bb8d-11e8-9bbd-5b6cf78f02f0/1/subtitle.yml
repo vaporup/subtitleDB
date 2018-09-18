@@ -1,0 +1,9 @@
+---
+filename: "Kung_Fu_Hustle.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Kung_Fu_Hustle.avi"
+  hash: "f5e7814d7f0127ae"
+  filesize: "734222336"
