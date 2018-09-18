@@ -1,0 +1,9 @@
+---
+filename: "My_Tutor_Friend.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "My_Tutor_Friend.avi"
+  hash: "62c770e6400b6a79"
+  filesize: "732325888"
