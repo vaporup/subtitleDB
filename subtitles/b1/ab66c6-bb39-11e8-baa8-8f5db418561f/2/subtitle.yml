@@ -1,0 +1,9 @@
+---
+filename: "The_Legend_of_the_Evil_Lake_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Legend_of_the_Evil_Lake_CD_2.avi"
+  hash: "3d8764a40502d8f2"
+  filesize: "734228480"
