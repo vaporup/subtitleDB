@@ -1,0 +1,9 @@
+---
+filename: "Eternal_Sunshine_Of_The_Spotless_Mind_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Eternal_Sunshine_Of_The_Spotless_Mind_CD_2.avi"
+  hash: "6faa9873da401b72"
+  filesize: "734953472"
