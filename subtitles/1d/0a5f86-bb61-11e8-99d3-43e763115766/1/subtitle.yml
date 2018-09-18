@@ -1,0 +1,9 @@
+---
+filename: "Azumi_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Azumi_CD_1.avi"
+  hash: "34aeae959d447808"
+  filesize: "729829376"
