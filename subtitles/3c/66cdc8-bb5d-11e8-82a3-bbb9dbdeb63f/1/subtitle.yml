@@ -1,0 +1,9 @@
+---
+filename: "The_Romantic_President_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Romantic_President_CD_1.avi"
+  hash: "88db5a2ad1923e70"
+  filesize: "735479808"
