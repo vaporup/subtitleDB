@@ -1,0 +1,9 @@
+---
+filename: "Princess_Blade_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Princess_Blade_CD_1.avi"
+  hash: "9c4f0cdeb9901f28"
+  filesize: "404291584"

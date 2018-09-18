@@ -1,0 +1,9 @@
+---
+filename: "Princess_Blade.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Princess_Blade.ogm"
+  hash: "93b1488acfaf6d31"
+  filesize: "716680735"
