@@ -1,0 +1,9 @@
+---
+filename: "Il_Mare_SE_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Il_Mare_SE_CD_2.avi"
+  hash: "8f850d7a28baae33"
+  filesize: "733734912"

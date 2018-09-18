@@ -1,0 +1,9 @@
+---
+filename: "IL_MARE_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "IL_MARE_CD_2.avi"
+  hash: "3865bb8630161d32"
+  filesize: "672706560"
