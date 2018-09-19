@@ -1,0 +1,9 @@
+---
+filename: "Final_Fantasy_VII_Advent_Children_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Final_Fantasy_VII_Advent_Children_CD_1.avi"
+  hash: "fb9f93053bc8bcee"
+  filesize: "734529536"
