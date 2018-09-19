@@ -1,0 +1,9 @@
+---
+filename: "Troy_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Troy_CD_2.avi"
+  hash: "cd14af8259ea2a3a"
+  filesize: "734939136"
