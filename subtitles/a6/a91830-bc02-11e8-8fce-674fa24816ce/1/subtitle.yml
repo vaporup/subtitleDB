@@ -1,0 +1,9 @@
+---
+filename: "The_Tuxedo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Tuxedo.avi"
+  hash: "629da425b30a223e"
+  filesize: "730855424"

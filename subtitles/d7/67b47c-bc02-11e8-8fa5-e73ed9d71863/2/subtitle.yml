@@ -1,0 +1,9 @@
+---
+filename: "The_Tuxedo_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Tuxedo_CD_2.avi"
+  hash: "762d07287476577f"
+  filesize: "734476288"
