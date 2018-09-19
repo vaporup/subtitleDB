@@ -1,0 +1,9 @@
+---
+filename: "Night-At-The-Museum.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Night-At-The-Museum.avi"
+  hash: "306b812c5759dae5"
+  filesize: "734828544"
