@@ -1,0 +1,9 @@
+---
+filename: "Gorgeous_Cantonese_Version_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Gorgeous_Cantonese_Version_CD_1.avi"
+  hash: "444c60a9825ee030"
+  filesize: "732901376"

@@ -1,0 +1,9 @@
+---
+filename: "Gorgeous.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Gorgeous.avi"
+  hash: "681d8754bdd17f03"
+  filesize: "734266736"
