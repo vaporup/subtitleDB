@@ -1,0 +1,9 @@
+---
+filename: "Nabi_(aka_Mr_Butterfly)_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Nabi_(aka_Mr_Butterfly)_CD_1.avi"
+  hash: "be634a04da46dc88"
+  filesize: "734177280"
