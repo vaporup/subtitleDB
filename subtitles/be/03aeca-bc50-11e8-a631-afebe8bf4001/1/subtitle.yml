@@ -1,0 +1,9 @@
+---
+filename: "The_Dragon_from_Russia_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Dragon_from_Russia_CD_1.avi"
+  hash: "90ba734d5440b277"
+  filesize: "734244864"
