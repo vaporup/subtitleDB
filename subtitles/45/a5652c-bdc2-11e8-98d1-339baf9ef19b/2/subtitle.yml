@@ -1,0 +1,9 @@
+---
+filename: "Windstruck_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Windstruck_CD_2.avi"
+  hash: "94746ce9bfb1279c"
+  filesize: "734185472"
