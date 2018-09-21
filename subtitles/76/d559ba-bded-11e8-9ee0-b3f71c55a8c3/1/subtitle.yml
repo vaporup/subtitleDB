@@ -1,0 +1,9 @@
+---
+filename: "My_Sassy_Girl_CD_1.de.srt"
+language: "de"
+format: "srt"
+
+matches:
+- filename: "My_Sassy_Girl_CD_1.avi"
+  hash: "8c61f5cde11006f2"
+  filesize: "735537152"
