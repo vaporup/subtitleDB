@@ -1,0 +1,9 @@
+---
+filename: "A_Chinese_Oddysey_Part_Two - Cinderella.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "A_Chinese_Oddysey_Part_Two - Cinderella.avi"
+  hash: "56ed5bb157ad3575"
+  filesize: "734220288"
