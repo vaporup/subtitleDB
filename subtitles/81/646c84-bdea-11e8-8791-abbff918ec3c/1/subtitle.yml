@@ -1,0 +1,9 @@
+---
+filename: "Heroic_Trio.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Heroic_Trio.avi"
+  hash: "eab25178229e6616"
+  filesize: "733353984"
