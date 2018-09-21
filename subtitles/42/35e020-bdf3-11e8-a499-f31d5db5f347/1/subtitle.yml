@@ -1,0 +1,9 @@
+---
+filename: "Shanghai_Grand.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Shanghai_Grand.avi"
+  hash: "3e0123fdba7ec7f5"
+  filesize: "732103456"
