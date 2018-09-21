@@ -1,0 +1,9 @@
+---
+filename: "Greatest_Expectations_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Greatest_Expectations_CD_1.avi"
+  hash: "6b26926436871c29"
+  filesize: "734464000"
