@@ -1,0 +1,9 @@
+---
+filename: "whasango_cd_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "whasango_cd_2.avi"
+  hash: "3aaa4684071580e6"
+  filesize: "720422912"
