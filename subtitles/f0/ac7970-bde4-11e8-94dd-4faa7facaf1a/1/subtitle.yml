@@ -1,0 +1,9 @@
+---
+filename: "Snake_in_the_Eagle's_Shadow_Uncut.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Snake_in_the_Eagle's_Shadow_Uncut.avi"
+  hash: "0c726657409ffd36"
+  filesize: "712775680"
