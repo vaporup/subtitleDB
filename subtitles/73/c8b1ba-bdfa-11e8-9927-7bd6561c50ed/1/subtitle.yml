@@ -1,0 +1,9 @@
+---
+filename: "Kiss_Me_Much.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Kiss_Me_Much.avi"
+  hash: "f34a32c9973410c0"
+  filesize: "705953792"
