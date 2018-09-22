@@ -1,0 +1,9 @@
+---
+filename: "Love_Battlefield.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Love_Battlefield.avi"
+  hash: "5820834fad4333b5"
+  filesize: "734578688"
