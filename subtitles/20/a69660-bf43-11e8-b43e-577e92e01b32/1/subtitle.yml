@@ -1,0 +1,9 @@
+---
+filename: "Ghost_In_The_Shell.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Ghost_In_The_Shell.avi"
+  hash: "064297473833dc85"
+  filesize: "732184576"
