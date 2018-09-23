@@ -1,0 +1,9 @@
+---
+filename: "Dreadnaught.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Dreadnaught.avi"
+  hash: "93f7a3779c6e42aa"
+  filesize: "733456384"
