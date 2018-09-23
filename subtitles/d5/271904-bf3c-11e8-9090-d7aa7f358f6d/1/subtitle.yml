@@ -1,0 +1,9 @@
+---
+filename: "A_Chinese_Oddysey_Part_One - Pandora's_Box.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "A_Chinese_Oddysey_Part_One - Pandora's_Box.avi"
+  hash: "917c294460b9f85c"
+  filesize: "733976576"
