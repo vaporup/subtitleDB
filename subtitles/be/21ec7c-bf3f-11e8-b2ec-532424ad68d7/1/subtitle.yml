@@ -1,0 +1,9 @@
+---
+filename: "The_Tai_Chi_Master.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Tai_Chi_Master.avi"
+  hash: "c763f492ebf5060c"
+  filesize: "733669376"
