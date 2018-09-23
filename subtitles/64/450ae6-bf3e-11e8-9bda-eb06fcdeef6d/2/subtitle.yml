@@ -1,0 +1,9 @@
+---
+filename: "The_Evil_Cult_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Evil_Cult_CD_2.avi"
+  hash: "e214bd90b00ee40f"
+  filesize: "733440000"

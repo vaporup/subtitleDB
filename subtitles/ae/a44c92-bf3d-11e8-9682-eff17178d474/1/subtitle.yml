@@ -1,0 +1,12 @@
+---
+filename: "Evil_Cult.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Evil_Cult.avi"
+  hash: "d5bcfe95fa0ba88d"
+  filesize: "734099456"
+- filename: "The_Evil_Cult.avi"
+  hash: "c7fca7b393be3451"
+  filesize: "716095488"
