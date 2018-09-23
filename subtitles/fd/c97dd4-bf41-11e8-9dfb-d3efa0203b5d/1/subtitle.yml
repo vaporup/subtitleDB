@@ -1,0 +1,9 @@
+---
+filename: "King_of_Comedy.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "King_of_Comedy.avi"
+  hash: "a15a5c6ba4e9e180"
+  filesize: "734488576"
