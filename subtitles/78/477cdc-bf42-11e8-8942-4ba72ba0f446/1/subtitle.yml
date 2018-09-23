@@ -1,0 +1,9 @@
+---
+filename: "King_of_Beggars.smi"
+language: "en"
+format: "smi"
+
+matches:
+- filename: "King_of_Beggars.avi"
+  hash: "dc84fb847a1d65f7"
+  filesize: "735422464"
