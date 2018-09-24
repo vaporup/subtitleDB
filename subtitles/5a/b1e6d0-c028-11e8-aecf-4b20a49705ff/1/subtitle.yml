@@ -1,0 +1,9 @@
+---
+filename: "Ghost_In_The_Shell_2 - Innocence.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Ghost_In_The_Shell_2 - Innocence.avi"
+  hash: "6445aeb6c6977b6a"
+  filesize: "733224960"
