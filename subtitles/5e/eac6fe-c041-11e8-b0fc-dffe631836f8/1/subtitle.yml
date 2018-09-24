@@ -1,0 +1,9 @@
+---
+filename: "Once_Upon_A_Time_in_China_4.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Once_Upon_A_Time_in_China_4.avi"
+  hash: "d3be551396c16e43"
+  filesize: "726552576"
