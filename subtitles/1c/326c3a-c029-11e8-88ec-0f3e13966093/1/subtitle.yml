@@ -1,0 +1,9 @@
+---
+filename: "My_left_eye_sees_ghosts.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "My_left_eye_sees_ghosts.avi"
+  hash: "39e8960d260a5412"
+  filesize: "734330880"
