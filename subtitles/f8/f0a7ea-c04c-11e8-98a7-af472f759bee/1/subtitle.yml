@@ -1,0 +1,9 @@
+---
+filename: "The_Beast_and_The_Beauty.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Beast_and_The_Beauty.avi"
+  hash: "42047d508d099884"
+  filesize: "734285824"
