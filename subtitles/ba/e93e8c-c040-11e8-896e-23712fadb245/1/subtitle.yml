@@ -1,0 +1,9 @@
+---
+filename: "the_one.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "the_one.avi"
+  hash: "83603130d40e6f9c"
+  filesize: "733517824"
