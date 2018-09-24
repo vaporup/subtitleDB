@@ -1,0 +1,9 @@
+---
+filename: "2002.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "2002.avi"
+  hash: "739a50900665ae41"
+  filesize: "734488576"
