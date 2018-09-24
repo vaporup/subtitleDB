@@ -1,0 +1,9 @@
+---
+filename: "Swordsman_III - The_East_is_Red.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Swordsman_III - The_East_is_Red.avi"
+  hash: "7aa66d63d60d4ed4"
+  filesize: "724495808"
