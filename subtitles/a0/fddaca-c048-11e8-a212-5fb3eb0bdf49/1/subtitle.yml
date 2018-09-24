@@ -1,0 +1,9 @@
+---
+filename: "Justice,_My_Foot_!.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Justice,_My_Foot_!.avi"
+  hash: "e22166004149db90"
+  filesize: "734238720"
