@@ -1,0 +1,9 @@
+---
+filename: "Metade_Fumaca.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Metade_Fumaca.ogm"
+  hash: "712ba9b36c347275"
+  filesize: "731669588"
