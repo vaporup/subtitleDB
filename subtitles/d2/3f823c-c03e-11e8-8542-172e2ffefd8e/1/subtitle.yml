@@ -1,0 +1,9 @@
+---
+filename: "Christmas_In_August.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Christmas_In_August.avi"
+  hash: "16dacfc0ca96524f"
+  filesize: "734453760"
