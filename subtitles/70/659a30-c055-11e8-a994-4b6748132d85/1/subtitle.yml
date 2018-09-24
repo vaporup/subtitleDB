@@ -1,0 +1,9 @@
+---
+filename: "Eastern_Condors.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Eastern_Condors.avi"
+  hash: "6462532f65655b6d"
+  filesize: "733368320"
