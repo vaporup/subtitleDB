@@ -1,0 +1,9 @@
+---
+filename: "Duel_to_the_Death.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Duel_to_the_Death.avi"
+  hash: "e958e6004667d3d7"
+  filesize: "732166144"
