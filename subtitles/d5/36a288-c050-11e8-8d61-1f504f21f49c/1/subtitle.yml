@@ -1,0 +1,9 @@
+---
+filename: "A_True_Mob_Story.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "A_True_Mob_Story.ogm"
+  hash: "688233c676e47e77"
+  filesize: "740396313"
