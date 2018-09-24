@@ -1,0 +1,9 @@
+---
+filename: "3 Idiots 2009 DVDRip xRG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "3 Idiots 2009 DVDRip xRG.avi"
+  hash: "88ca7fc6b1a58859"
+  filesize: "995443784"
