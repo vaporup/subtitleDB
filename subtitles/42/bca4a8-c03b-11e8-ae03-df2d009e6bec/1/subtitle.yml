@@ -1,0 +1,9 @@
+---
+filename: "the_bride_with_white_hair_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "the_bride_with_white_hair_2.avi"
+  hash: "fd7738bcdb49571d"
+  filesize: "733521920"
