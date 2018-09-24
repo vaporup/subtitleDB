@@ -1,0 +1,9 @@
+---
+filename: "Legend_of_Gingko.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Legend_of_Gingko.avi"
+  hash: "2a6b716ce754655b"
+  filesize: "730302464"
