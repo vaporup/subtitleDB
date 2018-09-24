@@ -2,6 +2,7 @@
 filename: "Crocodile Dundee in Los Angeles (2001).sub"
 language: "en"
 format: "sub"
+type: "cc"
 
 matches:
 - filename: "Crocodile Dundee in Los Angeles (2001).avi"
