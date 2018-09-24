@@ -1,0 +1,9 @@
+---
+filename: "Royal_Tramp_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Royal_Tramp_1.avi"
+  hash: "8faaec752bfa2cf2"
+  filesize: "731674624"
