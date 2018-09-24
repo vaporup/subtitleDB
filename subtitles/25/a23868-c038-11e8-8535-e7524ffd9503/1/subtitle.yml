@@ -1,0 +1,9 @@
+---
+filename: "hitman.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "hitman.avi"
+  hash: "f0b3c794f74e6eec"
+  filesize: "731037696"
