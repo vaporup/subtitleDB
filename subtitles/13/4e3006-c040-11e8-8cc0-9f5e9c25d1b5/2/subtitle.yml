@@ -1,0 +1,9 @@
+---
+filename: "East_is_red_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "East_is_red_CD_2.avi"
+  hash: "32b1e98e00649e1a"
+  filesize: "731744410"
