@@ -1,0 +1,9 @@
+---
+filename: "Drunken_Master_2_Uncut.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Drunken_Master_2_Uncut.avi"
+  hash: "5ae46a1dce4be840"
+  filesize: "735076352"
