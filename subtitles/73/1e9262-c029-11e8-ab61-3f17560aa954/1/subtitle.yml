@@ -1,0 +1,9 @@
+---
+filename: "All_For_The_Winner.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "All_For_The_Winner.avi"
+  hash: "e35c1beb5c8b151f"
+  filesize: "734433280"
