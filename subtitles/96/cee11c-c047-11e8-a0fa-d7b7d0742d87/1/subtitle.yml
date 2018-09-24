@@ -1,0 +1,9 @@
+---
+filename: "Levity.sub"
+language: "en"
+format: "sub"
+
+matches:
+- filename: "Levity.avi"
+  hash: "47d97b0b824358d0"
+  filesize: "726917120"
