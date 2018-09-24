@@ -1,0 +1,9 @@
+---
+filename: "Once_Upon_A_Time_In_China_And_America.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Once_Upon_A_Time_In_China_And_America.avi"
+  hash: "7fdfb2d6aadc2783"
+  filesize: "734545920"
