@@ -1,0 +1,9 @@
+---
+filename: "Marry_A_Rich_Man.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Marry_A_Rich_Man.avi"
+  hash: "7864fef981451f29"
+  filesize: "732248064"
