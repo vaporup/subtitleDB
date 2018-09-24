@@ -1,0 +1,9 @@
+---
+filename: "Transformers.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Transformers.avi"
+  hash: "a47ada200821cd8b"
+  filesize: "943955968"
