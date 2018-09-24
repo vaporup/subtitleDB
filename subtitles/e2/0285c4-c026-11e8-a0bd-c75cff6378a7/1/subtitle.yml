@@ -1,0 +1,9 @@
+---
+filename: "Barefoot_Gen.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Barefoot_Gen.avi"
+  hash: "ee8854ac972d4731"
+  filesize: "731344896"
