@@ -1,0 +1,9 @@
+---
+filename: "Shanghai_Noon.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Shanghai_Noon.avi"
+  hash: "475827516ec7fcbc"
+  filesize: "733736960"
