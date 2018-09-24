@@ -1,0 +1,9 @@
+---
+filename: "Naked_Killer.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Naked_Killer.avi"
+  hash: "53740c57c0ffd986"
+  filesize: "734842880"
