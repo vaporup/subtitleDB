@@ -1,0 +1,10 @@
+---
+filename: "Operation_Condor_(Der_starke_Arm_der_Goetter).srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Operation_Condor_(Der_starke_Arm_der_Goetter).avi"
+  hash: "6a73fa28e59e5fa7"
+  filesize: "726984704"
