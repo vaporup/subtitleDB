@@ -1,0 +1,9 @@
+---
+filename: "The_Iron_Fisted_Monk.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Iron_Fisted_Monk.avi"
+  hash: "cfad2618ed860412"
+  filesize: "734103552"
