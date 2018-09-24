@@ -1,0 +1,9 @@
+---
+filename: "The_Champions.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Champions.ogm"
+  hash: "fd98b55771dcb0b7"
+  filesize: "735403631"
