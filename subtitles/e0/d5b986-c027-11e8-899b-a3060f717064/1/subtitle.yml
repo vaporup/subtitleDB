@@ -1,0 +1,9 @@
+---
+filename: "Sausalito.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Sausalito.avi"
+  hash: "c2091c1c67d165c5"
+  filesize: "734767104"
