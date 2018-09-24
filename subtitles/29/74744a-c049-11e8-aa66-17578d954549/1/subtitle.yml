@@ -1,0 +1,9 @@
+---
+filename: "Love_for_all_Seasons.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Love_for_all_Seasons.avi"
+  hash: "a46b220382f62d2e"
+  filesize: "733804544"
