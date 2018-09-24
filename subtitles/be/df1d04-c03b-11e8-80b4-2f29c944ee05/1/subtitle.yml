@@ -1,0 +1,9 @@
+---
+filename: "the_black_sheep_affair.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "the_black_sheep_affair.avi"
+  hash: "02f1a4053d9cbbd0"
+  filesize: "727267328"
