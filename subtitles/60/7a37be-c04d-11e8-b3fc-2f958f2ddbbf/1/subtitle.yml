@@ -1,0 +1,9 @@
+---
+filename: "The_Seventh_Curse.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Seventh_Curse.avi"
+  hash: "01f07b63061178b9"
+  filesize: "727085056"
