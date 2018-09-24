@@ -1,0 +1,9 @@
+---
+filename: "Magnificent_Warriors.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Magnificent_Warriors.avi"
+  hash: "2fbc0070a1854df8"
+  filesize: "732370944"
