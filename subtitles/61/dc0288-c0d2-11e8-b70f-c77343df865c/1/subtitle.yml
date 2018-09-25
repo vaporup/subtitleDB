@@ -1,0 +1,9 @@
+---
+filename: "Breakfast at Tiffany's.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Breakfast at Tiffany's.avi"
+  hash: "2620fe43221383e5"
+  filesize: "855207936"
