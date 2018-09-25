@@ -1,0 +1,10 @@
+---
+filename: "Side.Effects.2013.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Side.Effects.2013.720p.BluRay.x264.YIFY.mp4"
+  hash: "1c0fd6930ff615c6"
+  filesize: "850338858"
