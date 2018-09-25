@@ -1,0 +1,9 @@
+---
+filename: "Claws_of_Steel.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Claws_of_Steel.avi"
+  hash: "34008302a2a118e2"
+  filesize: "706256896"
