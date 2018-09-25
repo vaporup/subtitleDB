@@ -1,0 +1,9 @@
+---
+filename: "Annie-Hall.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Annie-Hall.avi"
+  hash: "7cc63947d9d1f2fd"
+  filesize: "730449920"
