@@ -1,0 +1,9 @@
+---
+filename: "Singles.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Singles.avi"
+  hash: "7b54660f8f4bdad7"
+  filesize: "733495296"
