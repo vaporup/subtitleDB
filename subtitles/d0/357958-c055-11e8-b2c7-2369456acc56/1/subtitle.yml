@@ -1,0 +1,9 @@
+---
+filename: "Love_In_Magic.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Love_In_Magic.avi"
+  hash: "c903980dce80c215"
+  filesize: "733427712"
