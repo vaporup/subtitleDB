@@ -1,0 +1,9 @@
+---
+filename: "The_Myth.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Myth.avi"
+  hash: "e7217db3df1723da"
+  filesize: "730431488"
