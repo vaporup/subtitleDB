@@ -1,0 +1,9 @@
+---
+filename: "Moon-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Moon-aXXo.avi"
+  hash: "d4c86bcb695541f6"
+  filesize: "735381504"
