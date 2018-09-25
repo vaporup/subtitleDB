@@ -1,0 +1,9 @@
+---
+filename: "l-127.hours.xvid.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "l-127.hours.xvid.avi"
+  hash: "c02d51d977608d3b"
+  filesize: "734121984"
