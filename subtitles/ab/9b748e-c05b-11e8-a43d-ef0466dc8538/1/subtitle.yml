@@ -1,0 +1,9 @@
+---
+filename: "Mr_Nice_Guy.mandarin_bits.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Mr_Nice_Guy.avi"
+  hash: "f82fddb643db8f3e"
+  filesize: "733960192"
