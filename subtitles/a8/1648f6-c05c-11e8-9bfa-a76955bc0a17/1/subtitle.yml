@@ -1,0 +1,9 @@
+---
+filename: "Dr_Wai_International_Version.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Dr_Wai_International_Version.avi"
+  hash: "104df5c9b09e3d52"
+  filesize: "721338368"
