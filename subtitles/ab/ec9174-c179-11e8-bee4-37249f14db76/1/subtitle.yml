@@ -1,0 +1,9 @@
+---
+filename: "Moana.2016.720p.BluRay.x264-[YTS.AG].srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Moana.2016.720p.BluRay.x264-[YTS.AG].mp4"
+  hash: "161122df540b4340"
+  filesize: "827832961"
