@@ -1,0 +1,9 @@
+---
+filename: "Anger Management.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Anger Management.avi"
+  hash: "72b50965ee01d0b0"
+  filesize: "718948352"
