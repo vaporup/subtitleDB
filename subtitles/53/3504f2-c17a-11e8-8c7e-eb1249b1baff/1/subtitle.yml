@@ -1,0 +1,9 @@
+---
+filename: "The.Bucket.List[2007]DvDrip-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Bucket.List[2007]DvDrip-aXXo.avi"
+  hash: "28654d2837af585b"
+  filesize: "735305728"
