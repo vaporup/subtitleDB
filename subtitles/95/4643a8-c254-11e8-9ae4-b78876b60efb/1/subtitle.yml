@@ -1,0 +1,9 @@
+---
+filename: "Speed.sub"
+language: "en"
+format: "sub"
+
+matches:
+- filename: "Speed.avi"
+  hash: "de3c23b6f21bf425"
+  filesize: "728174592"
