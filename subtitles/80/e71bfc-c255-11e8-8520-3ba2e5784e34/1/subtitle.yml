@@ -1,0 +1,10 @@
+---
+filename: "12.01-fragment.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "12.01-fragment.avi"
+  hash: "534fb9d65a399faa"
+  filesize: "734199808"
