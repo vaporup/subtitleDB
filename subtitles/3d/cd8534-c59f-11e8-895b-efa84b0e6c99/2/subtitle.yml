@@ -1,0 +1,9 @@
+---
+filename: "Please_Teach_Me_English_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Please_Teach_Me_English_CD_2.avi"
+  hash: "008bf9ff459e810e"
+  filesize: "727994368"
