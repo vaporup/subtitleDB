@@ -1,0 +1,9 @@
+---
+filename: "Crazy_First_Love_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Crazy_First_Love_CD_2.avi"
+  hash: "39aa8ccafb8f6d5c"
+  filesize: "734490624"
