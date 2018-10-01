@@ -1,0 +1,12 @@
+---
+filename: "The_Duel.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Duel.avi"
+  hash: "80702f607ab6a0fd"
+  filesize: "734545920"
+- filename: "The_Duel.avi"
+  hash: "2094251065ecb23a"
+  filesize: "672857134"

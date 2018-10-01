@@ -1,0 +1,9 @@
+---
+filename: "The_Duel_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Duel_CD_2.avi"
+  hash: "dd04ff3e18e1591c"
+  filesize: "738125824"
