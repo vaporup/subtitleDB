@@ -1,0 +1,9 @@
+---
+filename: "Failan_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Failan_CD_1.avi"
+  hash: "3fd0cfa68dede24f"
+  filesize: "734476288"
