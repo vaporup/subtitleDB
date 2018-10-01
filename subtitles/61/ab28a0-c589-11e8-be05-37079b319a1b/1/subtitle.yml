@@ -1,0 +1,9 @@
+---
+filename: "Event.Horizon.1997.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Event.Horizon.1997.720p.BrRip.x264.YIFY.mp4"
+  hash: "4e70110601977d4c"
+  filesize: "838884304"
