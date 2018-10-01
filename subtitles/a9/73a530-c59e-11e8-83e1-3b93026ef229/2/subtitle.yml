@@ -1,0 +1,9 @@
+---
+filename: "Sex_is_Zero_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Sex_is_Zero_CD_2.avi"
+  hash: "448cfb460c0608b2"
+  filesize: "734507008"
