@@ -1,0 +1,9 @@
+---
+filename: "Jack-Reacher_Jaybob.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Jack-Reacher_Jaybob.avi"
+  hash: "b6b7806aa763ef21"
+  filesize: "733893970"
