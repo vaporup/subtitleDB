@@ -1,0 +1,9 @@
+---
+filename: "vmt-darkstar-xvid.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "vmt-darkstar-xvid.avi"
+  hash: "4cd75023c43e82a6"
+  filesize: "734111744"
