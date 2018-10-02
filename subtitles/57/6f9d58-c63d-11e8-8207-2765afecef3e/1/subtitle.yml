@@ -1,0 +1,10 @@
+---
+filename: "Office-Space.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Office-Space.avi"
+  hash: "2f03a11d911625b0"
+  filesize: "733188096"
