@@ -1,0 +1,9 @@
+---
+filename: "Romper-Stomper.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Romper-Stomper.avi"
+  hash: "c5f6d159208f33d2"
+  filesize: "732176384"
