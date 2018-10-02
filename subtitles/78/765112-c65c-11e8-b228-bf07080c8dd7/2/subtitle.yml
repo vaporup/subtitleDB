@@ -1,0 +1,9 @@
+---
+filename: "Vexille-CD-2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Vexille-CD-2.avi"
+  hash: "2daf472b5754a022"
+  filesize: "730343424"
