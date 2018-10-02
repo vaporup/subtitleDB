@@ -1,0 +1,9 @@
+---
+filename: "Point.Break.1991.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Point.Break.1991.720p.BluRay.x264.YIFY.mp4"
+  hash: "edca2ca5a94b6372"
+  filesize: "908207616"
