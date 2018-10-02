@@ -1,0 +1,9 @@
+---
+filename: "Jaws_1975_DVDrip_XviD_Pt 1-Ekolb.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Jaws_1975_DVDrip_XviD_Pt 1-Ekolb.avi"
+  hash: "e4eca766bcefea37"
+  filesize: "729108480"
