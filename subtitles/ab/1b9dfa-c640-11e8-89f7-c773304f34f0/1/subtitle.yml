@@ -1,0 +1,9 @@
+---
+filename: "Fatal Attraction 1987 720p BRRiP Srkfan.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Fatal Attraction 1987 720p BRRiP Srkfan.mp4"
+  hash: "05f109eb32b3f6a9"
+  filesize: "628871784"
