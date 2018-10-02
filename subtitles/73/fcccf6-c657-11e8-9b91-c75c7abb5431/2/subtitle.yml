@@ -1,0 +1,9 @@
+---
+filename: "A_Moment_Of_Romance_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "A_Moment_Of_Romance_CD_2.avi"
+  hash: "654dff4ffa073a3f"
+  filesize: "698839040"
