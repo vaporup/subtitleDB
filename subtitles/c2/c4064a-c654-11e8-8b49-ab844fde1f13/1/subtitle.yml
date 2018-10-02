@@ -1,0 +1,9 @@
+---
+filename: "Between_Calm_and_Passion_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Between_Calm_and_Passion_CD_1.avi"
+  hash: "a786207c298b663c"
+  filesize: "733868032"
