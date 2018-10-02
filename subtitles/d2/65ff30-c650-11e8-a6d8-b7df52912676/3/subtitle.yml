@@ -1,0 +1,9 @@
+---
+filename: "Avatar-CD-3.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Avatar-CD-3.avi"
+  hash: "75d73d8b71b76192"
+  filesize: "734803968"

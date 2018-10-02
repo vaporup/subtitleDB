@@ -1,0 +1,9 @@
+---
+filename: "Avatar-CD-2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Avatar-CD-2.avi"
+  hash: "8f69d9552684944a"
+  filesize: "731951104"
