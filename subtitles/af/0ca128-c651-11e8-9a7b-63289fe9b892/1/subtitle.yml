@@ -1,0 +1,9 @@
+---
+filename: "stephen king -  it  cd1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "stephen king -  it  cd1.avi"
+  hash: "69b01381af62ec9a"
+  filesize: "721840128"
