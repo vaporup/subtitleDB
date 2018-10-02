@@ -1,0 +1,9 @@
+---
+filename: "The.Help.DVDRip.XviD-DiAMOND CD2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Help.DVDRip.XviD-DiAMOND CD2.avi"
+  hash: "dbc5ae89e9be4fa4"
+  filesize: "734617600"
