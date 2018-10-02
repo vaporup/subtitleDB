@@ -1,0 +1,9 @@
+---
+filename: "Mere_Yaar_Ki_Shaadi_Hai_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Mere_Yaar_Ki_Shaadi_Hai_CD_1.avi"
+  hash: "2fd0acbc177215fb"
+  filesize: "728049664"
