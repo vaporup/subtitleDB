@@ -1,0 +1,9 @@
+---
+filename: "The-Prestige_aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Prestige_aXXo.avi"
+  hash: "30c759c18e65f4dc"
+  filesize: "734777344"
