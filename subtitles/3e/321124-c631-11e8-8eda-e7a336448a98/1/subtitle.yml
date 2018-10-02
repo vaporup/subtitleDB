@@ -1,0 +1,9 @@
+---
+filename: "Carlito's.Way.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Carlito's.Way.YIFY.mp4"
+  hash: "9a0e89bfa3d82077"
+  filesize: "920868161"
