@@ -1,0 +1,9 @@
+---
+filename: "The Descent.2005.720pBrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Descent.2005.720pBrRip.x264.YIFY.mp4"
+  hash: "80d340619833d105"
+  filesize: "628424793"
