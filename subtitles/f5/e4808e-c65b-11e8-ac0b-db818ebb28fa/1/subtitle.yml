@@ -1,0 +1,9 @@
+---
+filename: "Aguirre, der Zorn Gottes (1972).en.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Aguirre, der Zorn Gottes (1972).avi"
+  hash: "5823a5c533fad15d"
+  filesize: "686673920"
