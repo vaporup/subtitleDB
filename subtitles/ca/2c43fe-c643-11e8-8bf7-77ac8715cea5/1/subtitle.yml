@@ -1,0 +1,9 @@
+---
+filename: "Boyz.n.The.Hood.1991.720p.BRrip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Boyz.n.The.Hood.1991.720p.BRrip.x264.YIFY.mp4"
+  hash: "fc4d39e685e8c4ad"
+  filesize: "838383943"
