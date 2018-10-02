@@ -1,0 +1,9 @@
+---
+filename: "Arahan_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Arahan_CD_1.avi"
+  hash: "122f2312801c7148"
+  filesize: "733700096"
