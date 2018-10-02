@@ -1,0 +1,9 @@
+---
+filename: "Gattaca.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Gattaca.avi"
+  hash: "c28ef550b8ff4c75"
+  filesize: "732814380"
