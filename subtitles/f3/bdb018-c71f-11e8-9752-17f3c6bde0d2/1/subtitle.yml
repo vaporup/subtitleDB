@@ -1,0 +1,9 @@
+---
+filename: "The.Specialist.1994.720p.BRrip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Specialist.1994.720p.BRrip.x264.YIFY.mp4"
+  hash: "d82ce2750b89e970"
+  filesize: "786594849"
