@@ -1,0 +1,9 @@
+---
+filename: "Crocodile Dundee II (1988) CD.1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Crocodile Dundee II (1988) CD.1.avi"
+  hash: "11b9c3dc8fcd1d6d"
+  filesize: "733997056"
