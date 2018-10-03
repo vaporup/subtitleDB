@@ -1,0 +1,9 @@
+---
+filename: "Ghostbusters[1984]DvDrip[Eng] HarrHarrr.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Ghostbusters[1984]DvDrip[Eng] HarrHarrr.avi"
+  hash: "4aad85f0e828b21a"
+  filesize: "734015488"
