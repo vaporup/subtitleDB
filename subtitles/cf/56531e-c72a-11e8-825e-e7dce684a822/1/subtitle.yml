@@ -1,0 +1,9 @@
+---
+filename: "Take-Shelter-CD-1.fr.srt"
+language: "fr"
+format: "srt"
+
+matches:
+- filename: "Take-Shelter-CD-1.avi"
+  hash: "0c7d5f0220c27324"
+  filesize: "733523968"
