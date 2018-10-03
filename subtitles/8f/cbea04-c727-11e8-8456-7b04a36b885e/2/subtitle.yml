@@ -1,0 +1,9 @@
+---
+filename: "14-Blades-XTM-CD-2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "14-Blades-XTM-CD-2.avi"
+  hash: "1e66a17aeef781cd"
+  filesize: "730345472"
