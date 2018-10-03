@@ -1,0 +1,10 @@
+---
+filename: "Waterworld[1995]DvDrip[Eng] HarrHarrr.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Waterworld[1995]DvDrip[Eng] HarrHarrr.avi"
+  hash: "b2af1ef7069b6791"
+  filesize: "838871040"
