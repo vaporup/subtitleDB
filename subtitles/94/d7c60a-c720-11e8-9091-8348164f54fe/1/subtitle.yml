@@ -1,0 +1,9 @@
+---
+filename: "Greenberg [2010] DvDRiP XviD - ExtraTorrentRG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Greenberg [2010] DvDRiP XviD - ExtraTorrentRG.avi"
+  hash: "caddc71c991cce92"
+  filesize: "742039800"
