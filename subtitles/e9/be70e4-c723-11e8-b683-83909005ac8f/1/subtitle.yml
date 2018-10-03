@@ -1,0 +1,9 @@
+---
+filename: "sparks-wnttak-xvid-cd1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "sparks-wnttak-xvid-cd1.avi"
+  hash: "b419a4f94c11252a"
+  filesize: "733556736"
