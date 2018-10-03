@@ -1,0 +1,9 @@
+---
+filename: "Half-Nelson-LMG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Half-Nelson-LMG.avi"
+  hash: "796ee78f8d96650e"
+  filesize: "734693376"
