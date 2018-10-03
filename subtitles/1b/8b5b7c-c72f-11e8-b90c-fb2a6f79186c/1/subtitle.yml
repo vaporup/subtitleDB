@@ -1,0 +1,9 @@
+---
+filename: "Hear.Me.2009.DVDRip.XviD-CoWRY.cd1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Hear.Me.2009.DVDRip.XviD-CoWRY.cd1.avi"
+  hash: "88ca5d32932315a3"
+  filesize: "731824128"
