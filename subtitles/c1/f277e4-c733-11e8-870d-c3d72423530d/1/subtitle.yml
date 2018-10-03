@@ -1,0 +1,9 @@
+---
+filename: "The.Phantom.Menace[1999]DvDrip-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Phantom.Menace[1999]DvDrip-aXXo.avi"
+  hash: "0013d75aa50c9f0d"
+  filesize: "797794304"
