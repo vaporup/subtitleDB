@@ -1,0 +1,9 @@
+---
+filename: "Ogamdo-CD-1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Ogamdo-CD-1.avi"
+  hash: "bd11163384a803b7"
+  filesize: "734932992"
