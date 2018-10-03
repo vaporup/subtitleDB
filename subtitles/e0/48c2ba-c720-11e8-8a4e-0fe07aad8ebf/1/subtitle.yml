@@ -1,0 +1,9 @@
+---
+filename: "Basic.Instinct.1992.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Basic.Instinct.1992.720p.BrRip.x264.YIFY.mp4"
+  hash: "a33277bb784275ab"
+  filesize: "892333463"
