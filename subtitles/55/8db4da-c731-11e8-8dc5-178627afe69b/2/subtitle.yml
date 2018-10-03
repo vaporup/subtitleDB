@@ -1,0 +1,9 @@
+---
+filename: "upsidedownb-xvid-sml.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "upsidedownb-xvid-sml.avi"
+  hash: "022630a63de6826c"
+  filesize: "733343744"
