@@ -1,0 +1,10 @@
+---
+filename: "Powder.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Powder.avi"
+  hash: "59f6a194ea4000ce"
+  filesize: "809780004"
