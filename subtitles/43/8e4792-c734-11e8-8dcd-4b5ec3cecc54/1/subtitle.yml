@@ -1,0 +1,10 @@
+---
+filename: "The.Change.Up.2011.BrRip.720p.x264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "The.Change.Up.2011.BrRip.720p.x264.YIFY.mp4"
+  hash: "f3ac0716d376f02c"
+  filesize: "787768148"
