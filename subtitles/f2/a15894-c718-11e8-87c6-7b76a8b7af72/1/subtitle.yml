@@ -1,0 +1,9 @@
+---
+filename: "Jurassic.Park.III[2001]DvDrip-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Jurassic.Park.III[2001]DvDrip-aXXo.avi"
+  hash: "c87f5a30db43bc4b"
+  filesize: "734959616"
