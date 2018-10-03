@@ -1,0 +1,9 @@
+---
+filename: "bestdivx-gringo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "bestdivx-gringo.avi"
+  hash: "6d22c548674b767d"
+  filesize: "733794304"
