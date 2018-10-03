@@ -1,0 +1,9 @@
+---
+filename: "The Stepford Wives 1975 DVDRip GoGo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Stepford Wives 1975 DVDRip GoGo.avi"
+  hash: "e15881cdf0c08e6c"
+  filesize: "838746112"
