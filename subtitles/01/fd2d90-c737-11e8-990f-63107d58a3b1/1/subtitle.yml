@@ -1,0 +1,9 @@
+---
+filename: "Waiting-for-Superman.limited-lpd.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Waiting-for-Superman.limited-lpd.avi"
+  hash: "561b0aa808ca99f0"
+  filesize: "732669952"
