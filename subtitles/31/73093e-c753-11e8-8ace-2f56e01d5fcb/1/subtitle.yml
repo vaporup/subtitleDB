@@ -1,0 +1,9 @@
+---
+filename: "Planet-of-the-Apes.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Planet-of-the-Apes.avi"
+  hash: "fe211df6ca921a88"
+  filesize: "734035968"
