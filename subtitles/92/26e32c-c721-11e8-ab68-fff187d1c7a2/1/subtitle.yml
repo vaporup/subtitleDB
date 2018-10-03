@@ -1,0 +1,10 @@
+---
+filename: "The Chronicles of Riddick-FXG.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "The Chronicles of Riddick-FXG.avi"
+  hash: "987dfd2b7ca30509"
+  filesize: "733882368"
