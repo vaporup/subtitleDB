@@ -1,0 +1,9 @@
+---
+filename: "dmd-tgwtdt-cd1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "dmd-tgwtdt-cd1.avi"
+  hash: "404c649ffed1827f"
+  filesize: "735256576"
