@@ -1,0 +1,9 @@
+---
+filename: "sparks-tdnr-xvid.cd1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "sparks-tdnr-xvid.cd1.avi"
+  hash: "2d45fbcd14de769d"
+  filesize: "731742208"
