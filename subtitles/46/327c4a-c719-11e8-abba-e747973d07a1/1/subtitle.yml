@@ -1,0 +1,10 @@
+---
+filename: "s4a-indie.game.the.movie.webrip.xvid.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "s4a-indie.game.the.movie.webrip.xvid.avi"
+  hash: "85b86fc5af9a70ea"
+  filesize: "741946216"
