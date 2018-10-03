@@ -1,0 +1,9 @@
+---
+filename: "Castaway-on-the-Moon-CD-1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Castaway-on-the-Moon-CD-1.avi"
+  hash: "b32a94dd70dd4407"
+  filesize: "734744576"
