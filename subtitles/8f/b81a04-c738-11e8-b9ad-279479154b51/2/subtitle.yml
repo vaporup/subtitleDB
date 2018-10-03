@@ -1,0 +1,9 @@
+---
+filename: "Satorare_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Satorare_CD_2.avi"
+  hash: "2732e89625a63240"
+  filesize: "722829312"
