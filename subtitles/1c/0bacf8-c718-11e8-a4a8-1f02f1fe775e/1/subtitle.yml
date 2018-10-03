@@ -1,0 +1,9 @@
+---
+filename: "The-Imposter_YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Imposter_YIFY.mp4"
+  hash: "dbfee50b24a6034a"
+  filesize: "793246193"
