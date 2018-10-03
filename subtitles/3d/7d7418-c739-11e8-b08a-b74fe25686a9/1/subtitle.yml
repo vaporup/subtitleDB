@@ -1,0 +1,9 @@
+---
+filename: "Bad.Lieutenant.[1992].DVDrip.XviD-FBR.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Bad.Lieutenant.[1992].DVDrip.XviD-FBR.avi"
+  hash: "b8ab3462eb2021c0"
+  filesize: "734666752"
