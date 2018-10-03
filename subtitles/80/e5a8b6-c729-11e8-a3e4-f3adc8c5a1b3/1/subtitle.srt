@@ -1,0 +1,4481 @@
+1
+00:01:20,296 --> 00:01:22,287
+[Church bells chiming]
+
+2
+00:01:31,073 --> 00:01:32,938
+BOTH: Bonjour, monsieur.
+
+3
+00:01:34,910 --> 00:01:36,400
+Bonjour.
+
+4
+00:01:36,445 --> 00:01:38,572
+Bonjour, monsieur.
+Say bonjour.
+
+5
+00:01:38,614 --> 00:01:41,014
+Bonjour.
+
+6
+00:01:41,050 --> 00:01:42,642
+Ahem.
+
+7
+00:01:43,753 --> 00:01:45,721
+<i>STORYTELLER:</i>
+<i>Once upon a time...</i>
+
+8
+00:01:45,755 --> 00:01:46,915
+<i>there was</i>
+<i>a quiet little village...</i>
+
+9
+00:01:46,956 --> 00:01:48,856
+<i>in the French countryside...</i>
+
+10
+00:01:48,891 --> 00:01:51,985
+<i>whose people believed</i>
+<i>in tranquilite.</i>
+
+11
+00:01:52,028 --> 00:01:53,723
+[Doors bang shut]
+
+12
+00:01:53,763 --> 00:01:56,129
+<i>Tranquility.</i>
+
+13
+00:01:56,165 --> 00:01:57,530
+[Organ playing]
+
+14
+00:01:57,566 --> 00:01:59,431
+<i>CONGREGATION SINGING:</i>
+<i>Come Holy Ghost</i>
+
+15
+00:01:59,468 --> 00:02:02,096
+<i>Creator come</i>
+
+16
+00:02:02,138 --> 00:02:07,269
+<i>From Thy bright</i>
+<i>heavenly throne</i>
+
+17
+00:02:07,310 --> 00:02:13,180
+<i>Come take possession</i>
+<i>of our souls</i>
+
+18
+00:02:13,215 --> 00:02:20,587
+<i>And make them all Thine own</i>
+
+19
+00:02:20,623 --> 00:02:23,353
+<i>Far from us drive our...</i>
+
+20
+00:02:23,392 --> 00:02:25,724
+<i>STORYTELLER:</i>
+<i>If you lived in this village...</i>
+
+21
+00:02:25,761 --> 00:02:28,252
+<i>you understood</i>
+<i>what was expected of you.</i>
+
+22
+00:02:28,297 --> 00:02:31,994
+<i>CONGREGATION SINGING:</i>
+<i>...unto us bring</i>
+
+23
+00:02:32,034 --> 00:02:33,934
+<i>And through all...</i>
+
+24
+00:02:33,969 --> 00:02:38,235
+<i>STORYTELLER: You knew your</i>
+<i>place in the scheme of things.</i>
+
+25
+00:02:38,274 --> 00:02:42,904
+<i>And if you happened to forget,</i>
+<i>someone would help remind you.</i>
+
+26
+00:02:42,945 --> 00:02:43,934
+[Snorts]
+
+27
+00:02:55,458 --> 00:02:57,653
+The season of Lent is upon us.
+
+28
+00:02:57,693 --> 00:03:01,993
+This is, of course,
+a time of abstinence.
+
+29
+00:03:02,031 --> 00:03:06,297
+Hopefully,
+also a time of reflection.
+
+30
+00:03:06,335 --> 00:03:09,361
+Above all,
+let this be for us a time...
+
+31
+00:03:10,673 --> 00:03:13,574
+<i>PERE:</i>
+<i>a time of sincere penitence.</i>
+
+32
+00:03:13,609 --> 00:03:15,076
+[Dog whimpers]
+
+33
+00:03:15,111 --> 00:03:18,080
+<i>PERE: It is a time</i>
+<i>to stand up and be counted.</i>
+
+34
+00:03:18,114 --> 00:03:19,479
+<i>STORYTELLER: In this village...</i>
+
+35
+00:03:19,515 --> 00:03:23,076
+<i>if you saw something</i>
+<i>you weren't supposed to see...</i>
+
+36
+00:03:23,119 --> 00:03:25,019
+<i>you learned</i>
+<i>to look the other way.</i>
+
+37
+00:03:25,054 --> 00:03:26,783
+<i>PERE:</i>
+<i>This is a time for Christ.</i>
+
+38
+00:03:26,822 --> 00:03:29,689
+<i>When you reflect,</i>
+<i>he knows what you reflect on.</i>
+
+39
+00:03:29,725 --> 00:03:30,919
+<i>STORYTELLER: If by chance...</i>
+
+40
+00:03:30,960 --> 00:03:34,054
+<i>your hopes</i>
+<i>had been disappointed...</i>
+
+41
+00:03:34,096 --> 00:03:37,827
+<i>you learned</i>
+<i>never to ask for more.</i>
+
+42
+00:03:37,867 --> 00:03:40,893
+<i>PERE: He knows for what</i>
+<i>you must be forgiven.</i>
+
+43
+00:03:40,936 --> 00:03:42,233
+[Wind whistling]
+
+44
+00:03:42,271 --> 00:03:45,502
+<i>So in this Year of Our Lord,</i>
+<i>1959, things...</i>
+
+45
+00:03:45,541 --> 00:03:49,136
+<i>STORYTELLER: So,</i>
+<i>through good times and bad...</i>
+
+46
+00:03:49,178 --> 00:03:50,975
+<i>famine and feast...</i>
+
+47
+00:03:51,013 --> 00:03:54,847
+<i>the villagers held fast</i>
+<i>to their traditions.</i>
+
+48
+00:03:54,884 --> 00:03:56,784
+<i>Until...</i>
+
+49
+00:03:56,819 --> 00:03:57,790
+<i>one winter day...</i>
+
+50
+00:03:57,825 --> 00:03:58,762
+<i>one winter day...</i>
+
+51
+00:03:58,803 --> 00:04:02,637
+<i>a sly wind</i>
+<i>blew in from the north.</i>
+
+52
+00:04:08,646 --> 00:04:10,944
+<i>PERE: Where will we find truth?</i>
+
+53
+00:04:10,982 --> 00:04:12,779
+[Wind blowing]
+
+54
+00:04:12,817 --> 00:04:14,580
+Where do we start looking?
+
+55
+00:04:14,619 --> 00:04:16,587
+[Wind whistling]
+
+56
+00:04:16,621 --> 00:04:18,282
+<i>PERE: Where will we find truth?</i>
+
+57
+00:04:18,323 --> 00:04:19,756
+<i>We will find it...</i>
+
+58
+00:05:11,109 --> 00:05:13,703
+[Door closes]
+
+59
+00:05:19,450 --> 00:05:20,712
+Who the hell are you?
+
+60
+00:05:20,752 --> 00:05:23,812
+Oh, uh...
+
+61
+00:05:23,855 --> 00:05:27,291
+We're here about the patisserie.
+
+62
+00:05:27,325 --> 00:05:29,759
+We'd like to rent it...
+
+63
+00:05:29,794 --> 00:05:31,557
+<i>VIANNE:</i>
+<i>and the apartment above.</i>
+
+64
+00:05:31,596 --> 00:05:32,995
+Where are you from?
+
+65
+00:05:33,031 --> 00:05:37,331
+Well, we lived in Andalucia
+for a while.
+
+66
+00:05:37,368 --> 00:05:41,168
+Let me see.
+Before that, Vienna...
+
+67
+00:05:41,206 --> 00:05:44,369
+and before that...
+
+68
+00:05:44,409 --> 00:05:46,536
+- Athens.
+- Pavia.
+
+69
+00:05:46,578 --> 00:05:48,705
+<i>ANOUK:</i>
+<i>Pantoufle hated it there.</i>
+
+70
+00:05:48,746 --> 00:05:51,112
+Pantoufle is her kangaroo.
+
+71
+00:05:51,149 --> 00:05:53,014
+But he can't hop.
+
+72
+00:05:53,051 --> 00:05:56,316
+Bad leg. War injury, huh?
+
+73
+00:06:12,937 --> 00:06:15,929
+I'll expect you to keep it
+in good condition.
+
+74
+00:06:20,945 --> 00:06:22,708
+[Door slams]
+
+75
+00:06:22,747 --> 00:06:24,214
+[Vianne chuckles]
+
+76
+00:06:24,249 --> 00:06:26,240
+[Humming]
+
+77
+00:06:33,558 --> 00:06:35,753
+<i>ANOUK:</i>
+<i>What a nice town this is.</i>
+
+78
+00:06:35,793 --> 00:06:37,420
+Don't you think so, Mama?
+
+79
+00:06:37,462 --> 00:06:39,521
+It's a lovely town.
+
+80
+00:06:41,299 --> 00:06:44,962
+Mama, Pantoufle wants to know
+how long we can stay.
+
+81
+00:06:45,003 --> 00:06:48,871
+<i>VIANNE: Oh, tell Pantoufle</i>
+<i>not to worry.</i>
+
+82
+00:06:48,906 --> 00:06:50,373
+[Whispering]
+
+83
+00:06:50,408 --> 00:06:52,808
+Time for bed.
+What story tonight?
+
+84
+00:06:52,844 --> 00:06:57,247
+Pantoufle wants to hear
+about grandmere and grandpere.
+
+85
+00:06:57,282 --> 00:06:59,580
+Not tonight, Anouska.
+
+86
+00:06:59,617 --> 00:07:01,983
+<i>ANOUK: You always say that.</i>
+
+87
+00:07:02,020 --> 00:07:04,580
+Tell about
+grandmere and grandpere.
+
+88
+00:07:04,622 --> 00:07:07,147
+Not tonight.
+
+89
+00:07:07,191 --> 00:07:10,285
+How about the princess
+and the pirates?
+
+90
+00:07:10,328 --> 00:07:11,920
+<i>ANOUK: OK.</i>
+
+91
+00:07:13,331 --> 00:07:14,923
+<i>ANOUK: Prepare to fire!</i>
+
+92
+00:07:14,966 --> 00:07:17,628
+All hands on deck!
+
+93
+00:07:17,669 --> 00:07:20,570
+<i>ANOUK: Ready, aim...</i>
+
+94
+00:07:20,605 --> 00:07:21,902
+fire!
+
+95
+00:07:24,208 --> 00:07:26,802
+<i>REYNAUD: Forgive the intrusion.</i>
+
+96
+00:07:26,844 --> 00:07:28,675
+<i>VIANNE: It's a pleasure.</i>
+
+97
+00:07:31,316 --> 00:07:33,284
+ANOUK: Sorry, monsieur.
+
+98
+00:07:33,318 --> 00:07:36,651
+- Pirate attack.
+- Of course.
+
+99
+00:07:36,688 --> 00:07:38,155
+What is your name?
+
+100
+00:07:38,189 --> 00:07:40,350
+Anouk. What's yours?
+
+101
+00:07:40,391 --> 00:07:43,326
+I am the Comte de Reynaud
+at your service.
+
+102
+00:07:43,361 --> 00:07:44,988
+<i>ANOUK: A real one?</i>
+
+103
+00:07:45,029 --> 00:07:47,190
+Like the Comte de Monte Cristo?
+
+104
+00:07:47,231 --> 00:07:49,791
+Ah-ah!
+He was not a real one.
+
+105
+00:07:49,834 --> 00:07:52,302
+<i>VIANNE: To what do we owe</i>
+<i>the honor of your visit?</i>
+
+106
+00:07:52,337 --> 00:07:54,635
+Well, as mayor of Lansquenet...
+
+107
+00:07:54,672 --> 00:07:57,072
+I want to welcome you
+to the community...
+
+108
+00:07:57,108 --> 00:08:00,709
+and to invite you to worship
+with us at mass on Sunday.
+
+109
+00:08:00,744 --> 00:08:04,311
+That's very kind of you,
+but actually we don't attend.
+
+110
+00:08:07,285 --> 00:08:09,981
+<i>VIANNE: We're glad to be</i>
+<i>so near the church, though.</i>
+
+111
+00:08:10,021 --> 00:08:12,285
+We'll enjoy
+singing with the bells.
+
+112
+00:08:12,323 --> 00:08:15,952
+The bells are not intended
+as an entertainment, Madame.
+
+113
+00:08:15,993 --> 00:08:17,893
+They are a solemn call
+to worship for...
+
+114
+00:08:17,929 --> 00:08:19,794
+<i>VIANNE: Mademoiselle.</i>
+
+115
+00:08:19,831 --> 00:08:20,957
+I beg your pardon?
+
+116
+00:08:20,998 --> 00:08:22,989
+Mademoiselle.
+I've never been married...
+
+117
+00:08:23,034 --> 00:08:25,798
+but feel free to call me Vianne.
+
+118
+00:08:28,172 --> 00:08:31,403
+I hope you'll stop by when
+I open for business next week.
+
+119
+00:08:31,442 --> 00:08:34,138
+Yes.
+
+120
+00:08:34,178 --> 00:08:37,909
+Yes, opening a patisserie
+during the holy Lenten fast.
+
+121
+00:08:37,949 --> 00:08:39,644
+I could imagine better timing.
+
+122
+00:08:39,684 --> 00:08:42,152
+Oh, but it's not going
+to be a patisserie.
+
+123
+00:08:42,186 --> 00:08:43,813
+Then what do you intend to...
+
+124
+00:08:43,855 --> 00:08:45,755
+It's a surprise.
+
+125
+00:08:45,790 --> 00:08:48,384
+It was sweet of you to drop by.
+
+126
+00:08:56,401 --> 00:08:57,834
+<i>STORYTELLER:</i>
+<i>The Comte de Reynaud...</i>
+
+127
+00:08:57,869 --> 00:09:02,670
+<i>was a student of history,</i>
+<i>and therefore a patient man.</i>
+
+128
+00:09:02,707 --> 00:09:06,905
+<i>He trusted the wisdom</i>
+<i>of generations past.</i>
+
+129
+00:09:06,944 --> 00:09:11,711
+<i>Like his ancestors, he watched</i>
+<i>over the little village...</i>
+
+130
+00:09:11,749 --> 00:09:14,240
+<i>and led by his own example...</i>
+
+131
+00:09:14,285 --> 00:09:18,244
+<i>hard work, modesty...</i>
+
+132
+00:09:18,289 --> 00:09:20,257
+<i>self-discipline.</i>
+
+133
+00:09:32,670 --> 00:09:35,104
+I have completed
+the 18th Century.
+
+134
+00:09:35,139 --> 00:09:37,539
+[Sniffling]
+
+135
+00:09:37,575 --> 00:09:39,202
+Madame Clairmont.
+
+136
+00:09:41,078 --> 00:09:43,979
+Your letter to the editor,
+Monsieur le Comte.
+
+137
+00:09:44,015 --> 00:09:47,473
+This paragraph about family
+and tradition, it's...
+
+138
+00:09:47,518 --> 00:09:49,611
+it's beautiful.
+
+139
+00:09:49,654 --> 00:09:51,451
+Oh! Ha ha.
+
+140
+00:09:51,489 --> 00:09:53,821
+Well, thank you.
+
+141
+00:09:53,858 --> 00:09:55,655
+I value your opinion.
+
+142
+00:09:55,693 --> 00:09:57,558
+[Dog barking]
+
+143
+00:09:57,595 --> 00:09:59,722
+[Door closes]
+
+144
+00:10:01,866 --> 00:10:04,027
+<i>VIANNE: Bonjour! Hello!</i>
+
+145
+00:10:04,068 --> 00:10:05,296
+<i>REYNAUD: May I ask...</i>
+
+146
+00:10:05,336 --> 00:10:08,965
+<i>have you been in contact</i>
+<i>with your mother recently?</i>
+
+147
+00:10:09,006 --> 00:10:10,837
+<i>CAROLINE: Why?</i>
+
+148
+00:10:10,875 --> 00:10:12,934
+She seems to have
+rented out the patisserie.
+
+149
+00:10:12,977 --> 00:10:15,411
+<i>CAROLINE: Oh.</i>
+
+150
+00:10:15,446 --> 00:10:19,576
+I haven't talked to my mother
+in quite a while.
+
+151
+00:10:19,617 --> 00:10:21,642
+I'm sorry.
+I did not mean to pry.
+
+152
+00:10:21,686 --> 00:10:24,416
+Oh, don't be silly.
+
+153
+00:10:24,455 --> 00:10:26,616
+I have no secrets from you.
+
+154
+00:10:28,125 --> 00:10:30,787
+How is the comtesse
+enjoying Venice?
+
+155
+00:10:30,828 --> 00:10:34,855
+The comtesse?
+Oh, she's fine, thank you.
+
+156
+00:10:34,899 --> 00:10:37,561
+Yes,
+she's enjoying it very much.
+
+157
+00:10:38,903 --> 00:10:41,235
+Venice.
+
+158
+00:10:44,208 --> 00:10:45,675
+[Sighs]
+
+159
+00:10:51,616 --> 00:10:54,176
+<i>WOMAN: I heard she was</i>
+<i>some kind of radical.</i>
+
+160
+00:11:18,942 --> 00:11:20,910
+I heard she's an atheist.
+
+161
+00:11:20,944 --> 00:11:22,639
+What's that?
+
+162
+00:11:22,679 --> 00:11:24,977
+Don't know.
+
+163
+00:11:34,258 --> 00:11:35,623
+<i>GUILLAUME: Come on, Charly.</i>
+
+164
+00:11:35,659 --> 00:11:36,648
+[Whimpering]
+
+165
+00:11:37,995 --> 00:11:39,986
+Come on.
+
+166
+00:12:04,088 --> 00:12:05,578
+Oh!
+
+167
+00:12:31,782 --> 00:12:33,943
+Uhh! Oh!
+
+168
+00:12:33,984 --> 00:12:35,451
+You should be more careful!
+
+169
+00:12:35,486 --> 00:12:38,387
+- So sorry, Madame.
+- I'm sorry.
+
+170
+00:12:38,422 --> 00:12:39,650
+VIANNE: Are you all right?
+
+171
+00:12:39,690 --> 00:12:41,282
+CAROLINE: I'm fine, I'm fine.
+
+172
+00:12:41,325 --> 00:12:44,158
+VIANNE: I'm sorry. Do you want
+to come in and sit down?
+
+173
+00:12:44,194 --> 00:12:46,219
+CAROLINE: Please don't
+trouble yourself. I'm fine.
+
+174
+00:12:46,263 --> 00:12:48,891
+VIANNE: No, it's no trouble.
+I'm Vianne Rocher.
+
+175
+00:12:48,932 --> 00:12:50,456
+Caroline Clairmont.
+
+176
+00:12:50,501 --> 00:12:51,866
+I'm the daughter
+of your landlady.
+
+177
+00:12:51,902 --> 00:12:52,869
+This is my son Luc.
+
+178
+00:12:52,903 --> 00:12:55,269
+VIANNE: Hello.
+And this is my Anouk.
+
+179
+00:12:55,305 --> 00:12:57,500
+Come in, please,
+where it's warm.
+
+180
+00:12:57,541 --> 00:12:59,099
+Try this.
+
+181
+00:12:59,143 --> 00:13:01,407
+I bet you've never
+had hot chocolate...
+
+182
+00:13:01,445 --> 00:13:03,936
+made from
+a 2,000-year-old recipe.
+
+183
+00:13:03,981 --> 00:13:05,471
+Thank you, but no. Luc.
+
+184
+00:13:06,650 --> 00:13:07,981
+<i>CAROLINE: No.</i>
+
+185
+00:13:10,687 --> 00:13:11,654
+<i>WOMAN: What's this?</i>
+
+186
+00:13:11,688 --> 00:13:14,350
+What do you see, Madame,
+in this?
+
+187
+00:13:14,391 --> 00:13:15,756
+Sorry?
+
+188
+00:13:15,792 --> 00:13:17,384
+VIANNE:
+What does it look like to you?
+
+189
+00:13:17,427 --> 00:13:19,987
+Just say the first thing
+that comes into your mind.
+
+190
+00:13:23,167 --> 00:13:24,464
+<i>WOMAN: Um...</i>
+
+191
+00:13:24,501 --> 00:13:27,334
+A woman riding a wild horse?
+
+192
+00:13:27,371 --> 00:13:28,531
+Ha!
+
+193
+00:13:28,572 --> 00:13:30,540
+- Ooh!
+- Oh, silly answer.
+
+194
+00:13:30,574 --> 00:13:32,098
+Oh, no.
+There are no silly answers.
+
+195
+00:13:32,142 --> 00:13:34,042
+The pepper triangle,
+that's for you.
+
+196
+00:13:34,077 --> 00:13:36,102
+A tiny hint of chili pepper...
+
+197
+00:13:36,146 --> 00:13:38,842
+<i>VIANNE:</i>
+<i>to play against the sweetness.</i>
+
+198
+00:13:39,850 --> 00:13:42,375
+Tangy, adventurous.
+
+199
+00:13:51,428 --> 00:13:53,396
+What do you see?
+
+200
+00:13:55,832 --> 00:13:57,561
+I see teeth.
+
+201
+00:13:58,569 --> 00:14:00,366
+<i>LUC: I see blood...</i>
+
+202
+00:14:00,404 --> 00:14:02,964
+<i>and a skull.</i>
+
+203
+00:14:05,409 --> 00:14:07,172
+<i>Very dark.</i>
+
+204
+00:14:07,211 --> 00:14:09,679
+<i>VIANNE: Bitter chocolate.</i>
+<i>That's your favorite.</i>
+
+205
+00:14:09,713 --> 00:14:12,773
+<i>CAROLINE: Which will</i>
+<i>have to wait five weeks more.</i>
+
+206
+00:14:12,816 --> 00:14:14,647
+Lent. Thank you.
+
+207
+00:14:16,253 --> 00:14:19,654
+We must run along.
+It's been nice to meet you.
+
+208
+00:14:20,691 --> 00:14:21,953
+My pleasure.
+
+209
+00:14:21,992 --> 00:14:24,324
+<i>ANOUK: Pantoufle, come on!</i>
+<i>Pirate attack!</i>
+
+210
+00:14:25,596 --> 00:14:28,724
+<i>WOMAN: How much are</i>
+<i>those chili things, please?</i>
+
+211
+00:14:28,765 --> 00:14:30,357
+<i>VIANNE: 4.50 a box.</i>
+
+212
+00:14:30,400 --> 00:14:31,833
+Could you put a ribbon on it?
+
+213
+00:14:31,868 --> 00:14:33,199
+Mm-hmm.
+
+214
+00:14:33,237 --> 00:14:34,795
+<i>WOMAN: Then I can pretend</i>
+<i>they are from my husband.</i>
+
+215
+00:14:34,838 --> 00:14:36,430
+Of course.
+
+216
+00:14:36,473 --> 00:14:38,839
+[Woman laughing]
+
+217
+00:14:38,875 --> 00:14:41,400
+[Whispering]
+
+218
+00:14:41,445 --> 00:14:43,504
+<i>WOMAN: Josephine Muscat.</i>
+
+219
+00:14:43,547 --> 00:14:45,708
+<i>She waltzes to her own tune.</i>
+
+220
+00:14:47,517 --> 00:14:50,384
+And these are for your husband...
+
+221
+00:14:50,420 --> 00:14:53,583
+unrefined coco nips
+from Guatemala...
+
+222
+00:14:53,624 --> 00:14:55,421
+to awaken the passions.
+
+223
+00:14:55,459 --> 00:14:57,518
+Ha!
+
+224
+00:14:57,561 --> 00:15:00,257
+You've obviously
+never met my husband.
+
+225
+00:15:00,297 --> 00:15:03,789
+You've obviously
+never tried these.
+
+226
+00:15:09,172 --> 00:15:10,935
+[Snoring]
+
+227
+00:15:10,974 --> 00:15:12,965
+[Music plays on radio]
+
+228
+00:15:24,988 --> 00:15:27,752
+Don't be pathetic.
+
+229
+00:15:30,360 --> 00:15:32,351
+[Kids shouting]
+
+230
+00:15:38,001 --> 00:15:39,992
+[Kids shouting and laughing]
+
+231
+00:15:51,948 --> 00:15:53,210
+[Door opens]
+
+232
+00:15:53,250 --> 00:15:54,683
+<i>CAROLINE: Luc.</i>
+
+233
+00:15:54,718 --> 00:15:57,278
+<i>You've got a tiny error</i>
+<i>in problem six... Oh!</i>
+
+234
+00:15:57,321 --> 00:15:59,789
+<i>Luc! Oh.</i>
+
+235
+00:15:59,823 --> 00:16:01,757
+It's nothing.
+
+236
+00:16:04,494 --> 00:16:06,257
+It already stopped.
+
+237
+00:16:06,296 --> 00:16:09,459
+Mother, the new teacher...
+
+238
+00:16:09,499 --> 00:16:11,899
+wants us to correct
+our own mistakes.
+
+239
+00:16:11,935 --> 00:16:14,460
+I didn't tell you
+how to correct the mistake...
+
+240
+00:16:14,504 --> 00:16:16,631
+I just told you
+that you made one.
+
+241
+00:17:01,451 --> 00:17:03,476
+[Knock on door]
+
+242
+00:17:11,395 --> 00:17:13,386
+[Moaning]
+
+243
+00:17:25,340 --> 00:17:27,331
+[Footsteps]
+
+244
+00:17:36,552 --> 00:17:38,281
+<i>WOMAN:</i>
+<i>Not hungry, Monsieur le Comte?</i>
+
+245
+00:17:38,320 --> 00:17:40,220
+The Lenten fast, Madame Rivet.
+
+246
+00:17:40,255 --> 00:17:42,951
+Are you not supposed
+to eat something?
+
+247
+00:17:45,594 --> 00:17:47,289
+It's all right. Leave it.
+
+248
+00:18:25,634 --> 00:18:27,625
+[Whispering]
+
+249
+00:18:44,686 --> 00:18:46,153
+<i>VIANNE: Hello.</i>
+
+250
+00:18:47,756 --> 00:18:48,745
+May I help you?
+
+251
+00:18:51,059 --> 00:18:53,823
+It's expensive.
+I don't waste money.
+
+252
+00:18:53,862 --> 00:18:56,854
+I have a knack for
+guessing people's favorites.
+
+253
+00:18:58,333 --> 00:19:03,293
+These are your favorites.
+Am I right?
+
+254
+00:19:03,338 --> 00:19:04,430
+<i>VIANNE: On the house.</i>
+
+255
+00:19:04,473 --> 00:19:07,135
+I think I'd better...
+[Mumbling]
+
+256
+00:19:19,021 --> 00:19:20,750
+WOMAN: Well...
+
+257
+00:19:20,789 --> 00:19:22,620
+SECOND WOMAN:
+This certainly is different.
+
+258
+00:19:22,658 --> 00:19:24,853
+THIRD WOMAN:
+Yes. Very different.
+
+259
+00:19:24,893 --> 00:19:26,485
+<i>WOMAN: Look at that.</i>
+
+260
+00:19:26,528 --> 00:19:27,995
+[Dog barks]
+
+261
+00:19:28,030 --> 00:19:29,691
+WOMAN: Oh!
+
+262
+00:19:29,731 --> 00:19:31,995
+Oh. I'm so sorry.
+
+263
+00:19:32,034 --> 00:19:34,059
+Bonjour, Monsieur Blerot.
+
+264
+00:19:34,102 --> 00:19:37,071
+Bonjour, Madame Audel.
+
+265
+00:19:47,282 --> 00:19:49,273
+[Dog barking]
+
+266
+00:19:51,119 --> 00:19:52,143
+<i>GUILLAUME:</i>
+<i>No. Not that way, Charly.</i>
+
+267
+00:19:52,187 --> 00:19:53,518
+<i>Come on.</i>
+
+268
+00:19:53,555 --> 00:19:55,648
+Come in! Please.
+
+269
+00:19:55,691 --> 00:19:58,353
+Come on, boy.
+
+270
+00:19:58,393 --> 00:19:59,655
+I've got something for you.
+
+271
+00:20:06,368 --> 00:20:07,426
+VIANNE: What's your name?
+
+272
+00:20:07,469 --> 00:20:10,029
+GUILLAUME: Charly.
+He's fourteen years old.
+
+273
+00:20:10,072 --> 00:20:12,666
+That's ninety-eight
+in human years.
+
+274
+00:20:12,708 --> 00:20:14,642
+No, I meant your name.
+
+275
+00:20:14,676 --> 00:20:17,611
+Oh! Guillaume Blerot.
+
+276
+00:20:17,646 --> 00:20:19,705
+You're very kind.
+
+277
+00:20:19,748 --> 00:20:22,012
+He has so few pleasures left.
+
+278
+00:20:22,050 --> 00:20:25,178
+Would you care...
+
+279
+00:20:25,220 --> 00:20:27,347
+<i>VIANNE:</i>
+<i>Would you care to buy...</i>
+
+280
+00:20:27,389 --> 00:20:30,381
+something special
+for your lady friend?
+
+281
+00:20:30,425 --> 00:20:32,222
+Lady friend?
+
+282
+00:20:32,260 --> 00:20:35,354
+<i>VIANNE: The lovely woman</i>
+<i>your dog was so fond of.</i>
+
+283
+00:20:35,397 --> 00:20:37,490
+Oh.
+
+284
+00:20:37,532 --> 00:20:39,432
+<i>VIANNE: Her favorite</i>
+<i>is chocolate seashells.</i>
+
+285
+00:20:39,468 --> 00:20:40,765
+That's my guess.
+
+286
+00:20:40,802 --> 00:20:43,396
+Oh, no. I mustn't.
+
+287
+00:20:43,438 --> 00:20:46,373
+Madame Audel is in mourning
+for her husband.
+
+288
+00:20:46,408 --> 00:20:48,808
+Oh, I'm sorry.
+
+289
+00:20:48,844 --> 00:20:50,539
+When did he pass away?
+
+290
+00:20:50,579 --> 00:20:53,878
+The war. German grenade.
+
+291
+00:20:53,915 --> 00:20:55,906
+Hmm.
+
+292
+00:20:55,951 --> 00:20:58,784
+Well, it's been fifteen years
+since the war, so...
+
+293
+00:20:58,820 --> 00:21:00,378
+Not that war.
+
+294
+00:21:00,422 --> 00:21:03,721
+Monsieur Audel was killed
+on January 12, 1917.
+
+295
+00:21:05,193 --> 00:21:07,923
+It was quite a blow
+to Madame Audel.
+
+296
+00:21:07,963 --> 00:21:09,988
+Apparently so.
+
+297
+00:21:10,031 --> 00:21:12,556
+- Hmm.
+- Hmm.
+
+298
+00:21:14,002 --> 00:21:15,731
+Bonjour, Mesdames!
+
+299
+00:21:15,771 --> 00:21:18,968
+ALL: Bonjour, Monsieur le Comte.
+
+300
+00:21:23,111 --> 00:21:24,601
+I wish all my tenants...
+
+301
+00:21:24,646 --> 00:21:26,944
+were as reliable as you,
+Madame Drou.
+
+302
+00:21:28,917 --> 00:21:31,249
+How is the comtesse
+enjoying Italy?
+
+303
+00:21:32,487 --> 00:21:36,446
+Uh... She may be
+extending her trip.
+
+304
+00:21:36,491 --> 00:21:39,255
+<i>MADAME DROU: Ah, very nice.</i>
+
+305
+00:21:41,696 --> 00:21:44,824
+Have either of you seen
+the new shop across the square?
+
+306
+00:21:44,866 --> 00:21:47,300
+The chocolaterie? Yes.
+
+307
+00:21:47,335 --> 00:21:49,769
+Shameless, isn't it?
+
+308
+00:21:49,805 --> 00:21:51,602
+[Clicks off]
+
+309
+00:21:51,640 --> 00:21:53,267
+<i>REYNAUD:</i>
+<i>The sheer nerve of the woman...</i>
+
+310
+00:21:53,308 --> 00:21:58,177
+opening a chocolaterie
+just in time for Lent.
+
+311
+00:22:00,248 --> 00:22:03,046
+REYNAUD: The woman is brazen.
+
+312
+00:22:03,084 --> 00:22:05,848
+My heart
+goes out to that poor...
+
+313
+00:22:05,887 --> 00:22:08,117
+illegitimate child of hers.
+
+314
+00:22:09,157 --> 00:22:10,146
+Mmm.
+
+315
+00:22:13,762 --> 00:22:15,195
+Bonjour.
+
+316
+00:22:18,066 --> 00:22:21,866
+<i>[Singing] You ain't nothin'</i>
+<i>but a hound dog</i>
+
+317
+00:22:21,903 --> 00:22:24,633
+<i>Cryin' all the time</i>
+
+318
+00:22:24,673 --> 00:22:27,335
+<i>PERE SINGING: You ain't nothin'</i>
+<i>but a hound dog</i>
+
+319
+00:22:27,375 --> 00:22:29,434
+<i>Cryin' all the time</i>
+
+320
+00:22:29,477 --> 00:22:31,809
+<i>Well, you ain't never</i>
+<i>caught no rabbit</i>
+
+321
+00:22:31,847 --> 00:22:34,008
+<i>You ain't no friend of mine</i>
+
+322
+00:22:34,049 --> 00:22:35,277
+Ooh, yeah!
+
+323
+00:22:35,317 --> 00:22:37,615
+<i>REYNAUD:</i>
+<i>A new addition to the liturgy?</i>
+
+324
+00:22:39,087 --> 00:22:41,487
+I have a weakness
+for American music...
+
+325
+00:22:41,523 --> 00:22:43,388
+Monsieur le Comte.
+
+326
+00:22:43,425 --> 00:22:45,757
+How long have you been with us,
+Pere Henri?
+
+327
+00:22:45,794 --> 00:22:48,763
+It will be five weeks.
+
+328
+00:22:48,797 --> 00:22:54,326
+Your predecessor, Pere Michel,
+he was with us for five decades.
+
+329
+00:22:54,369 --> 00:22:56,234
+Yes, well...
+
+330
+00:22:56,271 --> 00:22:59,672
+I only pray I can live up
+to Pere Michel's example.
+
+331
+00:22:59,708 --> 00:23:03,109
+Yes, that's my prayer also.
+
+332
+00:23:03,144 --> 00:23:05,408
+I looked at your sermon,
+as you requested.
+
+333
+00:23:05,447 --> 00:23:07,244
+I've made one or two notes.
+
+334
+00:23:11,686 --> 00:23:13,051
+You're very kind.
+
+335
+00:23:13,088 --> 00:23:15,784
+Not at all.
+
+336
+00:23:15,824 --> 00:23:19,157
+Oh, one more thing.
+
+337
+00:23:19,194 --> 00:23:21,526
+If you haven't seen
+the new chocolaterie...
+
+338
+00:23:21,563 --> 00:23:23,997
+perhaps you might
+like to take a look.
+
+339
+00:23:24,032 --> 00:23:26,125
+It's important
+to know one's enemy.
+
+340
+00:23:26,167 --> 00:23:29,068
+Don't you think?
+
+341
+00:23:31,640 --> 00:23:34,074
+<i>VIANNE: Hey, where's my kiss?</i>
+
+342
+00:23:36,211 --> 00:23:38,008
+Aah! Ugh!
+
+343
+00:23:39,781 --> 00:23:40,975
+Watch where you're going!
+
+344
+00:23:41,016 --> 00:23:41,983
+<i>ANOUK: Excuse me!</i>
+
+345
+00:23:42,017 --> 00:23:44,247
+Hello. Morning.
+
+346
+00:23:45,253 --> 00:23:49,212
+What's the decor,
+Early Mexican Brothel?
+
+347
+00:23:59,734 --> 00:24:02,828
+No! If I need help,
+I'll ask for it.
+
+348
+00:24:10,278 --> 00:24:11,973
+What do you see in it?
+
+349
+00:24:12,013 --> 00:24:13,844
+Not a damn thing.
+
+350
+00:24:13,881 --> 00:24:15,405
+Come on. It's a game.
+
+351
+00:24:15,450 --> 00:24:17,941
+<i>VIANNE: What do you see?</i>
+
+352
+00:24:17,986 --> 00:24:21,615
+I see a cranky old woman
+too tired to play games.
+
+353
+00:24:21,656 --> 00:24:24,989
+<i>VIANNE: Hmm. I've got</i>
+<i>just the thing for you.</i>
+
+354
+00:24:27,562 --> 00:24:30,463
+<i>ARMANDE: That little girl</i>
+<i>of yours, does she mind it?</i>
+
+355
+00:24:30,498 --> 00:24:31,692
+Mind what?
+
+356
+00:24:31,733 --> 00:24:34,167
+The way you move her
+from place to place.
+
+357
+00:24:34,202 --> 00:24:38,605
+Oh. She's doing fine.
+I think it's good for her.
+
+358
+00:24:38,640 --> 00:24:42,041
+<i>VIANNE: Seeing new places,</i>
+<i>meeting new people.</i>
+
+359
+00:24:46,047 --> 00:24:48,379
+Your cinnamon looks rancid.
+
+360
+00:24:48,416 --> 00:24:50,111
+Well, it's not cinnamon.
+
+361
+00:24:50,151 --> 00:24:51,948
+It's a special kind
+of chili pepper.
+
+362
+00:24:51,986 --> 00:24:54,216
+Chili pepper in hot chocolate?
+
+363
+00:24:54,255 --> 00:24:56,348
+<i>VIANNE: Mm-hmm.</i>
+<i>It'll give you a lift.</i>
+
+364
+00:24:57,358 --> 00:24:58,620
+There.
+
+365
+00:25:06,934 --> 00:25:08,026
+[Sniffing]
+
+366
+00:25:16,878 --> 00:25:19,938
+It tastes like...
+
+367
+00:25:21,883 --> 00:25:23,510
+I don't know.
+
+368
+00:25:25,186 --> 00:25:27,177
+[Chuckles]
+
+369
+00:25:29,891 --> 00:25:31,085
+<i>BOY: Hop, hop, hop, hop!</i>
+
+370
+00:25:31,125 --> 00:25:32,990
+<i>SECOND BOY:</i>
+<i>Where's your kangaroo?</i>
+
+371
+00:25:33,027 --> 00:25:34,221
+<i>ANOUK: Uhh!</i>
+
+372
+00:25:34,262 --> 00:25:37,060
+BO Y: Hop, hop, hop!
+I'm your kangaroo now!
+
+373
+00:25:37,098 --> 00:25:39,066
+[All yelling]
+
+374
+00:25:39,100 --> 00:25:40,328
+Stop it!
+
+375
+00:25:40,368 --> 00:25:43,565
+Stop it! Unh!
+
+376
+00:25:43,604 --> 00:25:46,505
+Anouk! In this school,
+we are civilized.
+
+377
+00:25:46,541 --> 00:25:48,441
+We do not strike one another!
+
+378
+00:25:48,476 --> 00:25:50,307
+ANOUK:
+But they insulted Pantoufle!
+
+379
+00:25:50,344 --> 00:25:52,710
+TEACHER: I don't care.
+Didi, Dedou, come along!
+
+380
+00:25:54,982 --> 00:25:56,040
+[Slams door]
+
+381
+00:25:56,084 --> 00:25:57,642
+<i>TEACHER: And be quiet.</i>
+
+382
+00:25:59,320 --> 00:26:01,618
+Where's Pantoufle?
+
+383
+00:26:01,656 --> 00:26:03,146
+Shh!
+
+384
+00:26:04,492 --> 00:26:07,461
+My mother says
+you don't have a father.
+
+385
+00:26:07,495 --> 00:26:09,690
+Sure I do.
+
+386
+00:26:09,731 --> 00:26:11,460
+We just don't know who he is.
+
+387
+00:26:13,901 --> 00:26:15,459
+I was out all night with him.
+
+388
+00:26:16,571 --> 00:26:19,005
+We swam naked in the Tannes.
+
+389
+00:26:20,541 --> 00:26:23,237
+At dawn, when I returned
+to my house in my bed...
+
+390
+00:26:23,277 --> 00:26:25,609
+my mother poked her head
+in and said...
+
+391
+00:26:25,646 --> 00:26:27,705
+"Wake up sleepyhead."
+
+392
+00:26:27,749 --> 00:26:29,512
+[Laughing]
+
+393
+00:26:29,550 --> 00:26:31,381
+She had no idea I'd been gone.
+
+394
+00:26:31,419 --> 00:26:33,080
+[Laughing]
+
+395
+00:26:48,903 --> 00:26:51,235
+Sure you didn't
+put booze in there?
+
+396
+00:26:51,272 --> 00:26:54,002
+Nah. Something better.
+
+397
+00:26:54,041 --> 00:26:56,635
+Perhaps you should
+give it to my daughter.
+
+398
+00:26:56,677 --> 00:27:00,374
+<i>ARMANDE: Melt that chilly</i>
+<i>disposition of hers.</i>
+
+399
+00:27:00,414 --> 00:27:02,405
+You and Caroline have a problem?
+
+400
+00:27:02,450 --> 00:27:05,476
+Do we have a problem?
+
+401
+00:27:06,888 --> 00:27:10,085
+She won't let me
+see my grandson.
+
+402
+00:27:10,124 --> 00:27:12,490
+I'm cut off from him.
+
+403
+00:27:12,527 --> 00:27:14,791
+<i>VIANNE: Why is that?</i>
+
+404
+00:27:14,829 --> 00:27:17,389
+<i>Armande, why is that?</i>
+
+405
+00:27:18,699 --> 00:27:21,167
+Oh, I'm a bad influence.
+
+406
+00:27:21,202 --> 00:27:24,933
+'Cause I don't like her treating
+him like a trained poodle.
+
+407
+00:27:24,972 --> 00:27:29,068
+I swear, that boy doesn't piss
+without her permission.
+
+408
+00:27:31,913 --> 00:27:33,505
+<i>ARMANDE:</i>
+<i>Ever since her husband died...</i>
+
+409
+00:27:33,548 --> 00:27:35,448
+she's been so...
+
+410
+00:27:40,822 --> 00:27:43,985
+The way she frets
+and fusses over that boy.
+
+411
+00:27:44,025 --> 00:27:46,323
+If only she'd let him run,
+let him breathe...
+
+412
+00:27:46,360 --> 00:27:48,726
+let him live.
+
+413
+00:27:48,763 --> 00:27:52,756
+But she worries
+that he will overexert himself.
+
+414
+00:27:54,001 --> 00:27:55,400
+Not much danger of that.
+
+415
+00:27:55,436 --> 00:27:57,870
+She won't even let
+the poor kid ride a bicycle.
+
+416
+00:28:00,541 --> 00:28:03,374
+Do you think
+he'd like to see you?
+
+417
+00:28:05,680 --> 00:28:08,547
+Do you have more of
+those bean thingies, please?
+
+418
+00:28:08,583 --> 00:28:10,312
+Oh, sure.
+
+419
+00:28:11,519 --> 00:28:13,612
+<i>VIANNE: How many do you want?</i>
+
+420
+00:28:13,654 --> 00:28:14,985
+How many have you got?
+
+421
+00:28:20,261 --> 00:28:22,422
+Jack of hearts is a better
+hunter than you, eh?
+
+422
+00:28:22,463 --> 00:28:25,955
+Shoots the trump
+from right out under your nose.
+
+423
+00:28:37,678 --> 00:28:39,145
+Are you Serge Muscat?
+
+424
+00:28:39,180 --> 00:28:41,614
+The one and only.
+What's your pleasure?
+
+425
+00:28:41,649 --> 00:28:44,675
+- Is your wife here?
+- Josephine?
+
+426
+00:28:44,719 --> 00:28:48,780
+Well, it depends what
+you want with Josephine.
+
+427
+00:28:48,823 --> 00:28:52,224
+Oh, she left this at my shop.
+
+428
+00:28:52,260 --> 00:28:55,627
+Well, let me have it.
+I'll give it to her.
+
+429
+00:28:55,663 --> 00:28:59,099
+Oh, no. I'll give it
+to her myself, thanks.
+
+430
+00:28:59,133 --> 00:29:02,796
+<i>MAN: Got to go.</i>
+<i>I'm late for supper.</i>
+
+431
+00:29:02,837 --> 00:29:05,533
+<i>SECOND MAN:</i>
+<i>But the game's not over yet.</i>
+
+432
+00:29:06,941 --> 00:29:08,135
+Do you want to play?
+
+433
+00:29:09,510 --> 00:29:11,102
+You know Belote?
+
+434
+00:29:11,145 --> 00:29:13,375
+Of course I do.
+
+435
+00:29:13,414 --> 00:29:15,245
+Sit down.
+
+436
+00:29:15,283 --> 00:29:17,046
+[Footsteps]
+
+437
+00:29:17,084 --> 00:29:18,449
+<i>VIANNE: Josephine.</i>
+
+438
+00:29:18,486 --> 00:29:20,078
+[Clatter]
+
+439
+00:29:20,121 --> 00:29:21,884
+What do you want?
+
+440
+00:29:21,923 --> 00:29:24,153
+You forgot this.
+
+441
+00:29:24,191 --> 00:29:26,557
+What do you want?
+
+442
+00:29:28,362 --> 00:29:29,920
+To be your friend.
+
+443
+00:29:29,964 --> 00:29:33,730
+I don't have friends.
+Does Serge know you're here?
+
+444
+00:29:33,768 --> 00:29:35,998
+Does it matter?
+
+445
+00:29:37,071 --> 00:29:40,006
+Do me a favor.
+Try one of these rose creams.
+
+446
+00:29:40,041 --> 00:29:44,239
+Tell me if you think it's
+a little heavy on the Cointreau.
+
+447
+00:29:58,926 --> 00:30:01,190
+<i>SERGE: Josephine!</i>
+
+448
+00:30:08,602 --> 00:30:10,126
+I'm coming!
+
+449
+00:30:10,171 --> 00:30:12,605
+<i>JOSEPHINE: He talks about you.</i>
+
+450
+00:30:13,708 --> 00:30:14,868
+He says you're indecent.
+
+451
+00:30:14,909 --> 00:30:16,774
+He says you're an influence.
+
+452
+00:30:16,811 --> 00:30:19,302
+You're a bad influence
+for someone like me...
+
+453
+00:30:19,347 --> 00:30:22,373
+I don't have to listen to a word
+your husband has to say.
+
+454
+00:30:22,416 --> 00:30:24,782
+JOSEPHINE: No, not Serge.
+
+455
+00:30:24,819 --> 00:30:26,309
+Not him.
+
+456
+00:30:26,354 --> 00:30:28,652
+Reynaud, the mayor.
+
+457
+00:30:30,091 --> 00:30:32,889
+He... he talks about you.
+
+458
+00:30:38,866 --> 00:30:40,128
+Time to go.
+
+459
+00:30:41,702 --> 00:30:43,932
+Look what I won.
+
+460
+00:30:43,971 --> 00:30:46,599
+That's good. Come on.
+
+461
+00:30:50,578 --> 00:30:52,273
+[Man laughs]
+
+462
+00:30:56,450 --> 00:30:58,611
+<i>MAN: Bonsoir.</i>
+
+463
+00:30:58,652 --> 00:31:00,847
+<i>SECOND MAN: You see?</i>
+<i>I said they'd be here.</i>
+
+464
+00:31:09,029 --> 00:31:11,020
+[Birds chirping]
+
+465
+00:31:16,070 --> 00:31:19,164
+Luc, mind if I take a peek?
+
+466
+00:31:19,206 --> 00:31:22,437
+Oh, um...
+It's not really...
+
+467
+00:31:22,476 --> 00:31:23,841
+Show me.
+
+468
+00:31:23,877 --> 00:31:24,969
+Oh.
+
+469
+00:31:26,346 --> 00:31:29,213
+Well, I exaggerated
+the angle of the head.
+
+470
+00:31:29,249 --> 00:31:31,444
+You draw beautifully.
+
+471
+00:31:31,485 --> 00:31:33,180
+What's your going rate?
+
+472
+00:31:33,220 --> 00:31:34,278
+What?
+
+473
+00:31:34,321 --> 00:31:36,221
+To do a portrait.
+
+474
+00:31:36,256 --> 00:31:38,121
+How much would you charge?
+
+475
+00:31:38,158 --> 00:31:39,125
+Oh, I...
+
+476
+00:31:39,159 --> 00:31:40,126
+[Insect buzzing]
+
+477
+00:31:40,160 --> 00:31:43,618
+I couldn't.
+I'm not really a...
+
+478
+00:31:43,664 --> 00:31:47,259
+Fifty francs?
+Sound reasonable?
+
+479
+00:31:47,301 --> 00:31:48,825
+It'd be great.
+
+480
+00:31:48,869 --> 00:31:49,836
+[Vianne chuckles]
+
+481
+00:31:49,870 --> 00:31:52,202
+When could you come by my shop?
+
+482
+00:31:53,340 --> 00:31:54,432
+Oh.
+
+483
+00:31:54,475 --> 00:31:57,444
+I'm... I'm really sorry, but...
+
+484
+00:31:57,478 --> 00:31:59,275
+the comte forbids it.
+
+485
+00:32:03,317 --> 00:32:05,911
+He spoke to Mama this morning...
+
+486
+00:32:05,953 --> 00:32:07,648
+and a lot of others.
+
+487
+00:32:10,858 --> 00:32:12,120
+Whatever you say.
+
+488
+00:32:12,159 --> 00:32:16,152
+I wish I could. I really do.
+
+489
+00:32:17,865 --> 00:32:20,163
+Thanks for showing me
+your drawing.
+
+490
+00:32:25,672 --> 00:32:26,900
+Wait.
+
+491
+00:32:39,620 --> 00:32:40,746
+[Door slams]
+
+492
+00:32:45,826 --> 00:32:48,795
+Am I breaking any laws?
+
+493
+00:32:48,829 --> 00:32:52,526
+Tell me?
+Am I hurting anyone?
+
+494
+00:32:52,566 --> 00:32:54,966
+You're asking me my opinion?
+
+495
+00:32:55,002 --> 00:32:58,563
+What exactly have you been
+telling people about me?
+
+496
+00:32:58,605 --> 00:33:00,698
+Only the truth, mademoiselle.
+
+497
+00:33:00,741 --> 00:33:03,266
+Well...
+
+498
+00:33:03,310 --> 00:33:05,369
+if you're expecting me...
+
+499
+00:33:05,412 --> 00:33:09,109
+to just shrivel up
+and blow away...
+
+500
+00:33:09,149 --> 00:33:11,310
+you're going to be
+highly disappointed.
+
+501
+00:33:17,925 --> 00:33:20,758
+Let me try and put this
+into perspective for you.
+
+502
+00:33:20,794 --> 00:33:23,194
+<i>REYNAUD:</i>
+<i>The first Comte de Reynaud...</i>
+
+503
+00:33:23,230 --> 00:33:27,564
+expelled all the radical
+Huguenots from this village.
+
+504
+00:33:27,601 --> 00:33:32,664
+You and your truffles
+present a far lesser challenge.
+
+505
+00:33:33,974 --> 00:33:36,841
+<i>REYNAUD: You'll be</i>
+<i>out of business by Easter.</i>
+
+506
+00:33:36,877 --> 00:33:38,845
+I promise you that.
+
+507
+00:33:53,760 --> 00:33:54,886
+Aah!
+
+508
+00:33:56,263 --> 00:33:57,594
+Uhh!
+
+509
+00:33:57,631 --> 00:33:59,792
+Aah! Aah!
+
+510
+00:34:01,001 --> 00:34:02,866
+Uhh!
+
+511
+00:34:02,903 --> 00:34:04,894
+[Baby crying]
+
+512
+00:34:07,808 --> 00:34:10,402
+VIANNE: How long have you
+been standing here?
+
+513
+00:34:12,479 --> 00:34:14,709
+I forgot to pay you
+for something the other day.
+
+514
+00:34:14,748 --> 00:34:16,045
+I'm sorry.
+
+515
+00:34:16,083 --> 00:34:17,710
+No, it was a gift.
+
+516
+00:34:17,751 --> 00:34:20,276
+No. People talk.
+
+517
+00:34:20,320 --> 00:34:23,619
+No, people would lie about me.
+
+518
+00:34:25,225 --> 00:34:27,250
+I don't steal.
+
+519
+00:34:27,294 --> 00:34:30,388
+Not on purpose. I...
+
+520
+00:34:30,430 --> 00:34:31,897
+VIANNE: Yes, I know.
+
+521
+00:34:33,233 --> 00:34:35,463
+It's nice to see you.
+
+522
+00:34:35,502 --> 00:34:38,471
+Would you like to come in
+for some chocolate?
+
+523
+00:34:50,951 --> 00:34:53,146
+This is for you.
+
+524
+00:34:53,186 --> 00:34:54,483
+How sweet of you.
+
+525
+00:34:54,521 --> 00:34:56,682
+<i>VIANNE: Thank you.</i>
+
+526
+00:35:00,527 --> 00:35:02,119
+Hmm, it's lovely.
+
+527
+00:35:06,867 --> 00:35:09,301
+I heard you don't go to church.
+
+528
+00:35:10,771 --> 00:35:12,636
+That's right.
+
+529
+00:35:13,807 --> 00:35:16,275
+You won't last long here.
+
+530
+00:35:17,744 --> 00:35:19,974
+<i>JOSEPHINE: People talk.</i>
+
+531
+00:35:22,182 --> 00:35:23,843
+Oh, sorry.
+
+532
+00:35:23,884 --> 00:35:26,250
+I'm behaving badly, aren't I?
+
+533
+00:35:26,286 --> 00:35:27,719
+<i>VIANNE: No, it's OK.</i>
+
+534
+00:35:27,754 --> 00:35:29,278
+<i>JOSEPHINE:</i>
+<i>You don't misbehave here.</i>
+
+535
+00:35:29,323 --> 00:35:32,053
+It's just not done,
+did you know that?
+
+536
+00:35:33,560 --> 00:35:35,926
+If you don't go to Confession...
+
+537
+00:35:35,962 --> 00:35:38,692
+or if you don't
+dig your flower beds...
+
+538
+00:35:38,732 --> 00:35:43,192
+or if you don't pretend...
+
+539
+00:35:43,236 --> 00:35:46,728
+that you want nothing
+more in your life...
+
+540
+00:35:46,773 --> 00:35:49,139
+than to serve your husband
+three meals a day...
+
+541
+00:35:49,176 --> 00:35:52,009
+and give him children
+and vacuum under his ass...
+
+542
+00:35:52,045 --> 00:35:55,981
+then... then you're crazy.
+
+543
+00:36:02,356 --> 00:36:06,816
+You must think I'm stupid
+to stay with him.
+
+544
+00:36:09,229 --> 00:36:12,392
+No, I don't think you're stupid.
+
+545
+00:36:12,432 --> 00:36:16,630
+Well, I am. I'm weak.
+
+546
+00:36:16,670 --> 00:36:19,002
+I don't love my husband,
+and I lie.
+
+547
+00:36:21,108 --> 00:36:25,135
+Things could be different
+for you, Josephine.
+
+548
+00:36:25,178 --> 00:36:28,079
+Serge doesn't run the world.
+
+549
+00:36:28,115 --> 00:36:30,777
+He might as well.
+
+550
+00:36:30,817 --> 00:36:32,910
+<i>VIANNE:</i>
+<i>Is that what you believe?</i>
+
+551
+00:36:32,953 --> 00:36:35,046
+I know it.
+
+552
+00:36:35,088 --> 00:36:37,579
+Oh.
+
+553
+00:36:37,624 --> 00:36:40,752
+Then it must be true.
+
+554
+00:36:40,794 --> 00:36:42,284
+My mistake.
+
+555
+00:36:47,834 --> 00:36:50,530
+You make the most
+wonderful chocolate.
+
+556
+00:36:51,972 --> 00:36:53,371
+[Sips]
+
+557
+00:36:57,277 --> 00:36:59,211
+Pantoufle wants
+to hear the story...
+
+558
+00:36:59,246 --> 00:37:00,577
+of grandmere and grandpere.
+
+559
+00:37:00,614 --> 00:37:02,047
+Ohh!
+
+560
+00:37:02,082 --> 00:37:06,348
+Don't say, "Not tonight."
+You always say, "Not tonight."
+
+561
+00:37:06,386 --> 00:37:09,150
+All right, all right.
+
+562
+00:37:09,189 --> 00:37:10,281
+Oh.
+
+563
+00:37:12,826 --> 00:37:15,124
+Your grandfather...
+
+564
+00:37:15,162 --> 00:37:18,131
+George Rocher...
+
+565
+00:37:18,165 --> 00:37:22,795
+was the young apothecary
+of the town of Aulus-les-Bains.
+
+566
+00:37:22,836 --> 00:37:23,885
+<i>STORYTELLER:</i>
+<i>It was Anouk's favorite story.</i>
+
+567
+00:37:23,920 --> 00:37:24,934
+<i>STORYTELLER:</i>
+<i>It was Anouk's favorite story.</i>
+
+568
+00:37:24,970 --> 00:37:28,167
+<i>Always told in the same words.</i>
+
+569
+00:37:28,207 --> 00:37:31,574
+<i>George was honest,</i>
+<i>prosperous...</i>
+
+570
+00:37:31,610 --> 00:37:34,738
+<i>and trusted by his customers.</i>
+
+571
+00:37:34,780 --> 00:37:37,510
+<i>But George was not content.</i>
+
+572
+00:37:37,550 --> 00:37:39,518
+<i>He felt there</i>
+<i>should be more to life...</i>
+
+573
+00:37:39,552 --> 00:37:41,816
+<i>than dispensing liver oil.</i>
+
+574
+00:37:43,722 --> 00:37:46,589
+<i>In the spring of 1927...</i>
+
+575
+00:37:46,625 --> 00:37:48,490
+<i>the Societe Pharmeceutique...</i>
+
+576
+00:37:48,527 --> 00:37:51,291
+<i>formed an expedition</i>
+<i>to Central America...</i>
+
+577
+00:37:51,330 --> 00:37:53,491
+<i>to study</i>
+<i>the medicinal properties...</i>
+
+578
+00:37:53,532 --> 00:37:56,126
+<i>of certain natural compounds.</i>
+
+579
+00:37:58,070 --> 00:38:01,904
+<i>George was the expedition's</i>
+<i>most eager volunteer.</i>
+
+580
+00:38:04,577 --> 00:38:08,104
+<i>But his adventure</i>
+<i>took a turn he did not expect.</i>
+
+581
+00:38:11,317 --> 00:38:15,344
+<i>One night, he was invited</i>
+<i>to drink unrefined cacao...</i>
+
+582
+00:38:15,387 --> 00:38:17,014
+<i>with a pinch of chili.</i>
+
+583
+00:38:17,056 --> 00:38:21,254
+<i>The very same drink</i>
+<i>the ancient Maya...</i>
+
+584
+00:38:21,293 --> 00:38:23,761
+<i>used in their sacred</i>
+<i>ceremonies.</i>
+
+585
+00:38:25,865 --> 00:38:28,698
+<i>The Maya believed</i>
+<i>cacao held the power...</i>
+
+586
+00:38:28,734 --> 00:38:31,259
+<i>to unlock hidden yearnings...</i>
+
+587
+00:38:33,506 --> 00:38:36,236
+<i>and reveal destinies.</i>
+
+588
+00:38:39,011 --> 00:38:43,471
+<i>And so it was</i>
+<i>that George first saw Chitza.</i>
+
+589
+00:38:48,420 --> 00:38:51,389
+<i>Now, George had been raised</i>
+<i>a good Catholic...</i>
+
+590
+00:38:51,423 --> 00:38:55,086
+<i>but in his romance</i>
+<i>with Chitza...</i>
+
+591
+00:38:55,127 --> 00:38:57,357
+<i>he was willing</i>
+<i>to slightly bend the rules...</i>
+
+592
+00:38:57,396 --> 00:38:59,421
+<i>of Christian courtship.</i>
+
+593
+00:39:01,167 --> 00:39:04,625
+<i>The tribal elders</i>
+<i>tried to warn George about her.</i>
+
+594
+00:39:04,670 --> 00:39:07,161
+<i>She was one of the wanderers.</i>
+
+595
+00:39:07,206 --> 00:39:10,004
+<i>Her people moved</i>
+<i>with the North Wind...</i>
+
+596
+00:39:10,042 --> 00:39:11,600
+<i>from village to village...</i>
+
+597
+00:39:11,644 --> 00:39:14,374
+<i>dispensing ancient remedies...</i>
+
+598
+00:39:14,413 --> 00:39:16,813
+<i>never settling down.</i>
+
+599
+00:39:16,849 --> 00:39:19,317
+<i>Not a good choice for a bride.</i>
+
+600
+00:39:20,486 --> 00:39:23,421
+<i>George did not</i>
+<i>heed their warning...</i>
+
+601
+00:39:23,455 --> 00:39:25,889
+<i>and for a while,</i>
+<i>it seemed that he and Chitza...</i>
+
+602
+00:39:25,925 --> 00:39:28,450
+<i>might lead a happy life</i>
+<i>together in France.</i>
+
+603
+00:39:28,494 --> 00:39:31,224
+[Wind blowing]
+
+604
+00:39:31,263 --> 00:39:35,791
+<i>Alas, the clever North Wind</i>
+<i>had other plans.</i>
+
+605
+00:39:37,836 --> 00:39:40,236
+[Banging]
+
+606
+00:39:43,709 --> 00:39:47,304
+<i>One morning,</i>
+<i>George awoke to discover...</i>
+
+607
+00:39:47,346 --> 00:39:50,873
+<i>that Chitza</i>
+<i>and the little girl Vianne...</i>
+
+608
+00:39:50,916 --> 00:39:52,406
+<i>had gone away.</i>
+
+609
+00:39:55,788 --> 00:39:57,346
+<i>Mother and daughter...</i>
+
+610
+00:39:57,389 --> 00:40:00,517
+<i>were fated to wander</i>
+<i>from village to village...</i>
+
+611
+00:40:00,559 --> 00:40:04,586
+<i>dispensing</i>
+<i>ancient cacao remedies...</i>
+
+612
+00:40:04,630 --> 00:40:06,825
+<i>traveling with the wind.</i>
+
+613
+00:40:08,167 --> 00:40:10,635
+<i>Just as Chitza's people</i>
+<i>had done...</i>
+
+614
+00:40:10,669 --> 00:40:11,795
+<i>for generations.</i>
+
+615
+00:40:11,837 --> 00:40:14,101
+VIANNE:
+Just as Chitza's people...
+
+616
+00:40:14,139 --> 00:40:16,300
+had done for generations.
+
+617
+00:40:18,644 --> 00:40:21,442
+Will it just go on forever?
+
+618
+00:40:27,019 --> 00:40:28,509
+Night, Mama.
+
+619
+00:40:46,472 --> 00:40:48,702
+I appreciate your coming in,
+Armande.
+
+620
+00:40:48,740 --> 00:40:53,109
+What's so important
+that I had to postpone my nap?
+
+621
+00:40:53,145 --> 00:40:55,511
+I've got some chocolate cake.
+
+622
+00:41:06,592 --> 00:41:07,889
+Grandmother.
+
+623
+00:41:07,926 --> 00:41:10,656
+Grandmother... bonjour.
+
+624
+00:41:13,165 --> 00:41:14,860
+May I...
+
+625
+00:41:17,236 --> 00:41:19,534
+Would you like a cup of...?
+
+626
+00:41:19,571 --> 00:41:21,436
+No, thank you.
+
+627
+00:41:21,473 --> 00:41:24,374
+I'm just here to do a portrait.
+
+628
+00:41:24,409 --> 00:41:25,967
+Mm-hmm.
+
+629
+00:41:26,011 --> 00:41:27,808
+Whose?
+
+630
+00:41:27,846 --> 00:41:30,713
+Yours, actually.
+
+631
+00:41:30,749 --> 00:41:33,217
+<i>VIANNE: Is the light OK</i>
+<i>where she's sitting?</i>
+
+632
+00:41:37,523 --> 00:41:41,550
+I have something for you, boy.
+
+633
+00:41:41,593 --> 00:41:44,494
+I've been carrying it around
+since your last birthday.
+
+634
+00:41:48,267 --> 00:41:50,201
+It's a book of poetry.
+
+635
+00:41:53,539 --> 00:41:55,700
+Oh.
+
+636
+00:41:55,741 --> 00:41:56,969
+Thank you.
+
+637
+00:41:57,009 --> 00:41:59,705
+You don't like poetry?
+
+638
+00:41:59,745 --> 00:42:02,976
+Oh, no. Of course I do.
+
+639
+00:42:03,015 --> 00:42:04,243
+Yes.
+
+640
+00:42:04,283 --> 00:42:05,978
+Neither do I.
+
+641
+00:42:07,352 --> 00:42:09,946
+It's not that kind of poetry.
+
+642
+00:42:13,358 --> 00:42:16,657
+And in a moment of weakness...
+
+643
+00:42:16,695 --> 00:42:18,686
+I prayed to the Virgin Mother...
+
+644
+00:42:18,730 --> 00:42:21,665
+to soothe Charly's soul
+in his hour of suffering.
+
+645
+00:42:21,700 --> 00:42:26,660
+You understand an animal
+has no immortal soul.
+
+646
+00:42:26,705 --> 00:42:29,697
+I understand, mon pere.
+
+647
+00:42:29,741 --> 00:42:32,266
+Yet you flout God's law.
+
+648
+00:42:32,311 --> 00:42:35,246
+<i>GUILLAUME:</i>
+<i>I'm weak and a sinner.</i>
+
+649
+00:42:35,280 --> 00:42:37,009
+PERE: What else?
+
+650
+00:42:39,284 --> 00:42:41,775
+Impure thoughts.
+
+651
+00:42:41,820 --> 00:42:44,846
+<i>GUILLAUME: The woman</i>
+<i>who runs the chocolaterie.</i>
+
+652
+00:42:44,890 --> 00:42:46,187
+Vianne Rocher?
+
+653
+00:42:46,225 --> 00:42:48,716
+She suggested
+I buy chocolate seashells...
+
+654
+00:42:48,760 --> 00:42:51,285
+for the widow Audel.
+
+655
+00:42:51,330 --> 00:42:54,094
+And, well...
+
+656
+00:42:54,132 --> 00:42:57,124
+I guess that got me to thinking
+about the widow Audel.
+
+657
+00:42:57,169 --> 00:43:01,071
+At her age? At your age?
+
+658
+00:43:01,106 --> 00:43:04,906
+Yes. And yes.
+
+659
+00:43:04,943 --> 00:43:09,471
+And just what were you doing
+in a chocolaterie during Lent?
+
+660
+00:43:09,514 --> 00:43:12,574
+It was for Charly.
+
+661
+00:43:12,618 --> 00:43:15,746
+Again you flout God's law.
+
+662
+00:43:18,023 --> 00:43:22,687
+Well, but if Charly
+has no soul...
+
+663
+00:43:22,728 --> 00:43:26,129
+then there's no harm
+in him breaking Lent.
+
+664
+00:43:26,164 --> 00:43:28,598
+<i>GUILLAUME:</i>
+<i>Isn't that so, mon pere?</i>
+
+665
+00:43:30,802 --> 00:43:33,293
+Ten Hail Marys,
+twenty Our Fathers.
+
+666
+00:43:34,840 --> 00:43:37,434
+"Will she never have done,
+then...
+
+667
+00:43:37,476 --> 00:43:42,106
+"that ghoul queen of
+a million dead bodies?
+
+668
+00:43:42,147 --> 00:43:44,775
+"I see myself again...
+
+669
+00:43:44,816 --> 00:43:47,979
+"skin rotten
+with mud and pest...
+
+670
+00:43:48,020 --> 00:43:53,356
+"worms in my armpits
+and in my hair."
+
+671
+00:43:53,392 --> 00:43:55,758
+It's perfectly wretched,
+isn't it?
+
+672
+00:43:55,794 --> 00:43:57,455
+Perfectly.
+
+673
+00:44:00,132 --> 00:44:03,431
+<i>VIANNE:</i>
+<i>Would you like some cake?</i>
+
+674
+00:44:03,468 --> 00:44:05,993
+Ahem. I'm not supposed to.
+
+675
+00:44:06,038 --> 00:44:09,633
+Don't worry so much
+about not supposed to.
+
+676
+00:44:17,015 --> 00:44:18,505
+ARMANDE: Hmm?
+
+677
+00:44:18,550 --> 00:44:20,211
+Live a little.
+
+678
+00:44:23,088 --> 00:44:25,556
+Oh, her hair appointment's
+almost done.
+
+679
+00:44:27,426 --> 00:44:28,723
+I have to go.
+
+680
+00:44:28,760 --> 00:44:31,991
+- What about my picture?
+- Next time.
+
+681
+00:44:34,032 --> 00:44:35,932
+<i>LUC: Thank you for the cake.</i>
+
+682
+00:44:39,071 --> 00:44:41,801
+Don't look so damn pleased
+with yourself.
+
+683
+00:44:44,409 --> 00:44:46,707
+[Knock on door]
+
+684
+00:44:50,716 --> 00:44:52,650
+Stay here.
+
+685
+00:44:52,684 --> 00:44:56,552
+[Pounding on door]
+
+686
+00:44:56,588 --> 00:44:58,613
+[Pounding louder]
+
+687
+00:45:00,192 --> 00:45:03,593
+JOSEPHINE: I did it.
+[Laughs]
+
+688
+00:45:03,628 --> 00:45:06,563
+I did it. He...
+
+689
+00:45:06,598 --> 00:45:08,566
+He was so drunk.
+
+690
+00:45:08,600 --> 00:45:12,832
+[Giggles]
+He woke up.
+
+691
+00:45:12,871 --> 00:45:15,897
+He woke up.
+He saw me packing, but...
+
+692
+00:45:15,941 --> 00:45:17,374
+So he tried to come after me...
+
+693
+00:45:17,409 --> 00:45:21,175
+but I had already tied his feet
+with his belt, and...
+
+694
+00:45:21,213 --> 00:45:22,874
+Ha ha ha ha ha.
+
+695
+00:45:25,650 --> 00:45:28,346
+Boom! Right on his face.
+
+696
+00:45:28,387 --> 00:45:29,820
+[Laughing]
+
+697
+00:45:29,855 --> 00:45:34,258
+Right there
+on his big, red face.
+
+698
+00:45:34,292 --> 00:45:35,782
+VIANNE: Mmm.
+
+699
+00:45:39,431 --> 00:45:41,558
+VIANNE: Oh.
+
+700
+00:45:41,600 --> 00:45:43,761
+Tsk. Ohh.
+
+701
+00:45:43,802 --> 00:45:47,795
+It is so stupid, isn't it?
+
+702
+00:45:47,839 --> 00:45:50,933
+I never blame him.
+
+703
+00:45:50,976 --> 00:45:55,743
+Sometimes I even forget
+what really happened.
+
+704
+00:45:59,017 --> 00:46:00,848
+VIANNE: Now, now, now.
+
+705
+00:46:00,886 --> 00:46:02,820
+[Crying]
+
+706
+00:46:04,756 --> 00:46:06,348
+<i>VIANNE: Shh.</i>
+
+707
+00:46:08,260 --> 00:46:09,852
+I saved her!
+
+708
+00:46:09,895 --> 00:46:12,989
+You remember her father
+collaborated with the Germans?
+
+709
+00:46:13,031 --> 00:46:16,967
+Nobody wanted to touch her.
+Except for me.
+
+710
+00:46:17,002 --> 00:46:18,902
+And this is the way
+she repays me?!
+
+711
+00:46:18,937 --> 00:46:20,302
+Your anger is understandable.
+
+712
+00:46:20,338 --> 00:46:22,465
+Anger?
+Everybody's laughing at me!
+
+713
+00:46:22,507 --> 00:46:24,941
+REYNAUD:
+That is not your concern.
+
+714
+00:46:24,976 --> 00:46:27,308
+Your concern is
+the sacrament of marriage.
+
+715
+00:46:28,480 --> 00:46:31,574
+SERGE: Yeah, of course.
+The sacrament.
+
+716
+00:46:31,616 --> 00:46:34,278
+<i>VIANNE: Dip the ganshbe</i>
+<i>into the white chocolate.</i>
+
+717
+00:46:35,620 --> 00:46:37,247
+Like this?
+
+718
+00:46:37,289 --> 00:46:40,383
+Good.
+Yes, shake it, a little.
+
+719
+00:46:40,425 --> 00:46:41,414
+Good.
+
+720
+00:46:41,460 --> 00:46:43,792
+Put it on the parchment sheet.
+
+721
+00:46:43,829 --> 00:46:46,059
+You're doing great.
+
+722
+00:46:46,097 --> 00:46:47,428
+[Door opens]
+
+723
+00:46:47,466 --> 00:46:50,560
+Oh. I'll be right back.
+
+724
+00:46:57,943 --> 00:47:00,309
+Oh. Good morning.
+
+725
+00:47:00,345 --> 00:47:04,042
+Can I interest you
+in some Nipples of Venus?
+
+726
+00:47:04,082 --> 00:47:06,846
+Rumor has it that you are
+harboring Madame Muscat.
+
+727
+00:47:06,885 --> 00:47:09,012
+<i>REYNAUD: Is that true?</i>
+
+728
+00:47:09,054 --> 00:47:10,817
+You make her sound
+like a fugitive.
+
+729
+00:47:10,856 --> 00:47:13,324
+She is a fugitive,
+from her marriage vows...
+
+730
+00:47:13,358 --> 00:47:15,758
+which have been
+sanctified by God.
+
+731
+00:47:17,429 --> 00:47:18,987
+Josephine?
+
+732
+00:47:19,030 --> 00:47:21,521
+<i>VIANNE:</i>
+<i>Come out here a minute.</i>
+
+733
+00:47:24,669 --> 00:47:27,467
+Let His Radiance
+have a look at you, hmm?
+
+734
+00:47:32,844 --> 00:47:35,574
+<i>VIANNE: Is that sanctified</i>
+<i>enough for you?</i>
+
+735
+00:47:35,614 --> 00:47:36,740
+<i>It's not the first time.</i>
+
+736
+00:47:36,781 --> 00:47:38,646
+I'm truly sorry.
+
+737
+00:47:40,652 --> 00:47:43,086
+<i>REYNAUD:</i>
+<i>You should have come to me.</i>
+
+738
+00:47:43,121 --> 00:47:46,682
+Your husband will be made
+to repent for this.
+
+739
+00:47:46,725 --> 00:47:51,029
+Tell him to repent
+on someone else's head.
+
+740
+00:47:51,162 --> 00:47:53,062
+REYNAUD: Come on. In!
+
+741
+00:47:53,097 --> 00:47:54,086
+SERGE: Monsieur le Comte!
+
+742
+00:47:54,132 --> 00:47:56,327
+I'm going to make
+an example of you.
+
+743
+00:47:56,367 --> 00:48:00,098
+In there. He's ready.
+
+744
+00:48:00,138 --> 00:48:02,436
+Well, but confession
+must be made...
+
+745
+00:48:02,473 --> 00:48:04,532
+in the spirit of contrition.
+
+746
+00:48:04,575 --> 00:48:07,066
+Have you come
+in the spirit of contrition?
+
+747
+00:48:07,111 --> 00:48:08,442
+Contrition, yes.
+
+748
+00:48:08,479 --> 00:48:10,242
+He's ready.
+
+749
+00:48:10,281 --> 00:48:11,771
+[Sighs]
+
+750
+00:48:13,284 --> 00:48:17,186
+<i>BAPTISTE: Licentiousness,</i>
+<i>idolatry, sorcery...</i>
+
+751
+00:48:17,221 --> 00:48:19,212
+gluttony, and drunkenness.
+
+752
+00:48:19,257 --> 00:48:21,748
+Correct.
+
+753
+00:48:21,793 --> 00:48:25,456
+And what are the three
+conditions for mortal sin?
+
+754
+00:48:25,496 --> 00:48:27,794
+Serge?
+
+755
+00:48:27,832 --> 00:48:29,527
+Mortal sin...
+
+756
+00:48:31,536 --> 00:48:35,370
+is sin whose object is...
+
+757
+00:48:36,641 --> 00:48:38,472
+committed by...
+
+758
+00:48:38,509 --> 00:48:42,172
+deliberate... consequence.
+
+759
+00:48:42,213 --> 00:48:44,374
+Incorrect. Didi?
+
+760
+00:48:44,415 --> 00:48:48,408
+Mortal sin is sin
+whose object is grave matter...
+
+761
+00:48:48,453 --> 00:48:50,921
+which is committed
+with full knowledge...
+
+762
+00:48:50,955 --> 00:48:52,684
+and deliberate consent.
+
+763
+00:48:52,723 --> 00:48:53,712
+<i>PERE: Correct.</i>
+
+764
+00:48:53,758 --> 00:48:55,020
+Gah!
+
+765
+00:49:04,235 --> 00:49:05,702
+VIANNE:
+So, how do you know...
+
+766
+00:49:05,736 --> 00:49:07,795
+if the coverture
+is properly tempered?
+
+767
+00:49:07,839 --> 00:49:13,436
+JOSEPHINE: You check to see
+if it's at body temperature.
+
+768
+00:49:13,478 --> 00:49:15,912
+Then you dip
+the palette knife...
+
+769
+00:49:15,947 --> 00:49:18,507
+to see that the coverture
+hardens on it evenly.
+
+770
+00:49:18,549 --> 00:49:19,573
+Correct.
+
+771
+00:49:21,018 --> 00:49:22,212
+Closer.
+
+772
+00:49:25,256 --> 00:49:26,814
+Aah.
+
+773
+00:49:26,858 --> 00:49:29,622
+<i>STORYTELLER:</i>
+<i>In the village, time passed.</i>
+
+774
+00:49:34,832 --> 00:49:38,461
+<i>And the chocolaterie</i>
+<i>did not go out of business.</i>
+
+775
+00:49:45,877 --> 00:49:47,037
+[Drops package]
+
+776
+00:49:53,451 --> 00:49:54,543
+[Charly yelps]
+
+777
+00:49:57,288 --> 00:49:59,222
+<i>STORYTELLER:</i>
+<i>The Comte de Reynaud...</i>
+
+778
+00:49:59,257 --> 00:50:02,624
+<i>felt himself being drawn</i>
+<i>into a strange crusade.</i>
+
+779
+00:50:05,963 --> 00:50:09,831
+<i>His struggle to transform Serge</i>
+<i>into a gentleman...</i>
+
+780
+00:50:09,867 --> 00:50:13,735
+<i>became more</i>
+<i>than an act of good will.</i>
+
+781
+00:50:13,771 --> 00:50:16,365
+<i>It became a test...</i>
+
+782
+00:50:16,407 --> 00:50:20,138
+<i>a holy war between chateau...</i>
+
+783
+00:50:20,178 --> 00:50:22,476
+<i>and chocolaterie.</i>
+
+784
+00:50:43,100 --> 00:50:45,261
+[Charly howls]
+
+785
+00:50:45,303 --> 00:50:46,827
+<i>LUC: Each time, I...</i>
+
+786
+00:50:46,871 --> 00:50:49,772
+I tell myself
+it's the last time.
+
+787
+00:50:49,807 --> 00:50:51,900
+But then I...
+
+788
+00:50:51,943 --> 00:50:54,844
+I get a whiff
+of a hot chocolate.
+
+789
+00:50:54,879 --> 00:50:57,643
+Or those moon things.
+
+790
+00:50:57,682 --> 00:50:58,979
+<i>AUDEL: Chocolate seashells.</i>
+
+791
+00:50:59,016 --> 00:51:02,850
+So small, so plain, so innocent.
+
+792
+00:51:02,887 --> 00:51:05,219
+I thought,
+just one little taste...
+
+793
+00:51:05,256 --> 00:51:07,247
+it can't do any harm.
+
+794
+00:51:07,291 --> 00:51:08,986
+But it turned out
+that they were filled...
+
+795
+00:51:09,026 --> 00:51:11,460
+with rich, sinful...
+
+796
+00:51:11,495 --> 00:51:12,587
+YVETTE: Buttery filling...
+
+797
+00:51:12,630 --> 00:51:14,996
+and it melts,
+God forgive me...
+
+798
+00:51:15,032 --> 00:51:17,728
+it melts ever-so-slowly
+on your tongue...
+
+799
+00:51:17,768 --> 00:51:19,963
+and tortures you with pleasure.
+
+800
+00:51:20,004 --> 00:51:22,495
+<i>PERE: Against You alone,</i>
+<i>have I sinned...</i>
+
+801
+00:51:22,540 --> 00:51:25,100
+<i>and done what is evil</i>
+<i>in Your sight.</i>
+
+802
+00:51:25,142 --> 00:51:27,440
+[Plastic crinkling]
+
+803
+00:51:27,478 --> 00:51:29,002
+[Crinkling stops]
+
+804
+00:51:29,046 --> 00:51:31,207
+<i>Indeed I was born guilty...</i>
+
+805
+00:51:31,249 --> 00:51:34,844
+<i>a sinner when my mother</i>
+<i>conceived me.</i>
+
+806
+00:51:34,885 --> 00:51:36,750
+<i>You desire truth</i>
+<i>in the inward being...</i>
+
+807
+00:51:36,787 --> 00:51:40,314
+<i>therefore teach me wisdom</i>
+<i>in my secret heart.</i>
+
+808
+00:51:40,358 --> 00:51:41,484
+[Swallows]
+
+809
+00:51:43,861 --> 00:51:45,795
+<i>STORYTELLER:</i>
+<i>Now, the comte was no fool.</i>
+
+810
+00:51:45,830 --> 00:51:48,765
+<i>Though he hoped</i>
+<i>to redeem Serge...</i>
+
+811
+00:51:48,799 --> 00:51:50,824
+<i>he knew that</i>
+<i>this redemption alone...</i>
+
+812
+00:51:50,868 --> 00:51:52,165
+<i>would not be enough...</i>
+
+813
+00:51:52,203 --> 00:51:54,535
+<i>to regain control</i>
+<i>over the village.</i>
+
+814
+00:51:54,572 --> 00:51:57,564
+<i>He understood</i>
+<i>that some larger lesson...</i>
+
+815
+00:51:57,608 --> 00:51:59,235
+<i>needed to be taught.</i>
+
+816
+00:52:03,981 --> 00:52:05,812
+<i>Some greater problem...</i>
+
+817
+00:52:05,850 --> 00:52:10,082
+<i>needed to be identified</i>
+<i>and solved.</i>
+
+818
+00:52:12,523 --> 00:52:16,323
+<i>Little did the comte suspect</i>
+<i>that his greater problem...</i>
+
+819
+00:52:16,360 --> 00:52:18,726
+<i>would arrive</i>
+<i>one quiet afternoon...</i>
+
+820
+00:52:18,763 --> 00:52:21,630
+<i>in the dull green waters</i>
+<i>of the river Tannes.</i>
+
+821
+00:52:21,666 --> 00:52:23,930
+[Children playing]
+
+822
+00:52:25,636 --> 00:52:27,069
+You're it!
+
+823
+00:52:28,773 --> 00:52:29,933
+You're it!
+
+824
+00:52:29,974 --> 00:52:31,464
+Hey, look!
+
+825
+00:52:36,147 --> 00:52:37,774
+<i>BOY: I'm over here!</i>
+
+826
+00:52:47,491 --> 00:52:50,119
+<i>VIANNE: You've never really</i>
+<i>told me what the problem is...</i>
+
+827
+00:52:50,161 --> 00:52:51,958
+between you and Caroline.
+
+828
+00:52:51,996 --> 00:52:54,294
+'Cause it's none of
+your damn business.
+
+829
+00:52:55,533 --> 00:52:57,592
+[Armande sighs]
+
+830
+00:52:57,635 --> 00:52:59,762
+<i>ARMANDE:</i>
+<i>I'm an embarrassment to her.</i>
+
+831
+00:53:01,872 --> 00:53:06,832
+I swear, I read dirty books.
+
+832
+00:53:06,877 --> 00:53:09,607
+I eat and drink what I like.
+
+833
+00:53:11,282 --> 00:53:12,977
+And sin of sins...
+
+834
+00:53:13,017 --> 00:53:16,509
+I refuse to go to Les Mimosas.
+
+835
+00:53:16,554 --> 00:53:21,116
+<i>JOSEPHINE: When I was a kid,</i>
+<i>we called it Le Mortoir.</i>
+
+836
+00:53:21,158 --> 00:53:25,060
+<i>It's a nursing home for old...</i>
+
+837
+00:53:25,096 --> 00:53:26,893
+It's in Toulouse.
+
+838
+00:53:26,931 --> 00:53:28,398
+Mmm.
+
+839
+00:53:28,432 --> 00:53:30,764
+<i>ARMANDE: Caroline loves</i>
+<i>the thought of a nurse...</i>
+
+840
+00:53:30,801 --> 00:53:34,396
+with a clipboard
+recording my bowel movements.
+
+841
+00:53:34,438 --> 00:53:36,668
+<i>ANOUK:</i>
+<i>Mama, Mama, come quick!</i>
+
+842
+00:53:36,707 --> 00:53:38,868
+They're here!
+They've come to Lansquenet!
+
+843
+00:53:38,909 --> 00:53:42,208
+- Slow down, Anouk. Who's here?
+- Pirates!
+
+844
+00:53:42,246 --> 00:53:43,213
+Come on!
+
+845
+00:53:43,247 --> 00:53:45,442
+- Why can't we stay?
+- Come on!
+
+846
+00:53:45,483 --> 00:53:47,917
+<i>BOY: But why can't we stay?</i>
+
+847
+00:53:47,952 --> 00:53:48,919
+OK, enough.
+
+848
+00:53:48,953 --> 00:53:52,184
+BO Y: But, Mama,
+just a little bit.
+
+849
+00:53:52,223 --> 00:53:54,316
+<i>MAMA: Come on.</i>
+
+850
+00:53:54,358 --> 00:53:56,724
+VIANNE: Hello. How are you?
+
+851
+00:53:58,396 --> 00:54:00,261
+ANOUK:
+Anybody got a sweet tooth?
+
+852
+00:54:00,297 --> 00:54:02,231
+[Guitar playing]
+
+853
+00:54:12,610 --> 00:54:14,601
+[Guitar continues playing]
+
+854
+00:54:19,984 --> 00:54:21,975
+I bet he's the captain.
+
+855
+00:54:25,289 --> 00:54:27,382
+<i>VIANNE: Anouk, don't do that.</i>
+
+856
+00:54:27,425 --> 00:54:30,121
+<i>Anouk, don't do that, please.</i>
+
+857
+00:54:30,161 --> 00:54:32,527
+- How do you do?
+- Sorry.
+
+858
+00:54:32,563 --> 00:54:34,292
+<i>ROUX: I'd like to apologize.</i>
+
+859
+00:54:34,331 --> 00:54:37,391
+For all of us. Sincerely.
+
+860
+00:54:37,435 --> 00:54:38,766
+What for?
+
+861
+00:54:38,803 --> 00:54:42,204
+ROUX: For whatever it is
+you're here to accuse us of.
+
+862
+00:54:42,239 --> 00:54:44,070
+Why would I do that?
+
+863
+00:54:44,108 --> 00:54:48,807
+Well, because we river rats
+are the dregs of society.
+
+864
+00:54:48,846 --> 00:54:51,144
+With horrible diseases
+and criminal impulses.
+
+865
+00:54:51,182 --> 00:54:54,151
+[Chuckles]
+Sounds terrifying.
+
+866
+00:54:54,185 --> 00:54:55,812
+Is it true?
+
+867
+00:54:55,853 --> 00:54:59,414
+It's what you townspeople
+always seem to think, isn't it?
+
+868
+00:54:59,457 --> 00:55:02,187
+This is not my town.
+Sorry.
+
+869
+00:55:02,226 --> 00:55:03,510
+<i>ROUX: Well, then,</i>
+<i>what do you want?</i>
+
+870
+00:55:03,545 --> 00:55:04,794
+<i>ROUX: Well, then,</i>
+<i>what do you want?</i>
+
+871
+00:55:04,828 --> 00:55:06,489
+Are you here to save us?
+
+872
+00:55:06,529 --> 00:55:08,793
+Are you
+the Catholic Aid Society?
+
+873
+00:55:08,832 --> 00:55:11,198
+French Family League?
+Communist Workers?
+
+874
+00:55:11,234 --> 00:55:12,758
+Which idea are you selling?
+
+875
+00:55:12,802 --> 00:55:14,269
+Chocolate.
+
+876
+00:55:14,304 --> 00:55:16,033
+I'm sorry, chocolate?
+
+877
+00:55:16,072 --> 00:55:17,937
+<i>ANOUK: What's a river rat?</i>
+
+878
+00:55:17,974 --> 00:55:19,874
+Is it like a pirate?
+
+879
+00:55:19,909 --> 00:55:20,967
+[Vianne chuckles]
+
+880
+00:55:21,010 --> 00:55:22,409
+Yeah, you could say that.
+
+881
+00:55:22,445 --> 00:55:24,413
+You could.
+
+882
+00:55:24,447 --> 00:55:26,972
+Have a look
+at my treasure chest.
+
+883
+00:55:27,016 --> 00:55:29,246
+VIANNE: Oh.
+
+884
+00:55:29,285 --> 00:55:31,344
+Let me guess, they're for sale.
+
+885
+00:55:31,387 --> 00:55:32,854
+ROUX: As a matter of fact,
+they are.
+
+886
+00:55:32,889 --> 00:55:35,414
+For a mere thirty francs apiece.
+
+887
+00:55:35,458 --> 00:55:37,722
+You laugh? I can get fifty
+for them in Paris.
+
+888
+00:55:37,760 --> 00:55:40,490
+Then go to Paris.
+
+889
+00:55:48,705 --> 00:55:50,138
+We'll take two, please.
+
+890
+00:55:50,173 --> 00:55:51,140
+You'll take two?
+
+891
+00:55:51,174 --> 00:55:52,732
+Yes, please, absolutely.
+
+892
+00:55:52,775 --> 00:55:55,335
+<i>ROUX: OK.</i>
+
+893
+00:55:55,378 --> 00:55:58,074
+<i>VIANNE: I don't know</i>
+<i>if I have the right change.</i>
+
+894
+00:55:58,114 --> 00:55:59,081
+<i>Just a minute.</i>
+
+895
+00:55:59,115 --> 00:56:00,912
+They're beautiful.
+
+896
+00:56:00,950 --> 00:56:03,384
+<i>ROUX: Ireland's finest.</i>
+
+897
+00:56:03,419 --> 00:56:04,545
+Thanks.
+
+898
+00:56:04,587 --> 00:56:06,646
+Thank you. Listen...
+
+899
+00:56:06,689 --> 00:56:08,850
+I should probably warn you.
+
+900
+00:56:08,892 --> 00:56:12,658
+You make friends with us,
+you'll make enemies of others.
+
+901
+00:56:12,695 --> 00:56:14,629
+That a promise?
+
+902
+00:56:17,734 --> 00:56:19,634
+It's a guarantee.
+
+903
+00:56:28,478 --> 00:56:30,469
+[Laughing]
+
+904
+00:56:32,248 --> 00:56:34,546
+<i>ALPHONSE: What's he up to?</i>
+
+905
+00:56:34,584 --> 00:56:37,553
+<i>JEAN-MARC:</i>
+<i>Maybe he's joining the circus.</i>
+
+906
+00:56:40,490 --> 00:56:42,822
+[Door rattles]
+
+907
+00:56:42,859 --> 00:56:44,724
+Sorry, we're closed!
+
+908
+00:56:58,708 --> 00:57:01,700
+Josephine, you look different.
+
+909
+00:57:01,744 --> 00:57:04,406
+So do you.
+
+910
+00:57:06,950 --> 00:57:10,317
+I just want to tell you
+that I am so sorry.
+
+911
+00:57:10,353 --> 00:57:13,083
+<i>SERGE: For everything.</i>
+
+912
+00:57:13,122 --> 00:57:15,056
+<i>But I've changed.</i>
+
+913
+00:57:15,091 --> 00:57:18,458
+You see,
+God has made me a new man.
+
+914
+00:57:20,530 --> 00:57:23,897
+I ask you, I beg you...
+
+915
+00:57:23,933 --> 00:57:26,458
+please accept my apology.
+
+916
+00:57:38,114 --> 00:57:39,604
+I accept.
+
+917
+00:57:42,685 --> 00:57:46,951
+I promise, from now on,
+everything will be different.
+
+918
+00:57:49,092 --> 00:57:51,583
+Everything already
+is different, Serge.
+
+919
+00:57:51,627 --> 00:57:53,094
+[Chuckles]
+
+920
+00:57:53,129 --> 00:57:55,597
+Well, I mean,
+when you come home.
+
+921
+00:57:55,631 --> 00:57:57,292
+Home?
+
+922
+00:57:59,969 --> 00:58:04,201
+Thanks for the apology.
+The flowers are lovely.
+
+923
+00:58:04,240 --> 00:58:06,333
+No, please don't, Josephine.
+
+924
+00:58:06,376 --> 00:58:09,140
+We are still married
+in the eyes of God.
+
+925
+00:58:09,178 --> 00:58:11,738
+Then he must be blind.
+
+926
+00:58:14,183 --> 00:58:15,946
+[Locks door]
+
+927
+00:58:18,287 --> 00:58:21,188
+<i>JEAN-MARC: The council</i>
+<i>has no legal authority...</i>
+
+928
+00:58:21,224 --> 00:58:22,816
+to force them to move.
+
+929
+00:58:22,859 --> 00:58:25,657
+The riverbank is public land.
+
+930
+00:58:25,695 --> 00:58:27,822
+[Grumbling]
+
+931
+00:58:29,432 --> 00:58:32,595
+The mayor wishes
+to say a few words.
+
+932
+00:58:32,635 --> 00:58:33,932
+REYNAUD: If I may...
+
+933
+00:58:33,970 --> 00:58:35,938
+ladies and gentlemen
+of the council.
+
+934
+00:58:37,473 --> 00:58:41,910
+These people are
+rootless, godless drifters.
+
+935
+00:58:41,944 --> 00:58:43,775
+<i>MAN: That's right!</i>
+
+936
+00:58:43,813 --> 00:58:45,781
+<i>REYNAUD: Theirs is the way</i>
+<i>of slovenly pleasure.</i>
+
+937
+00:58:45,815 --> 00:58:47,214
+<i>MAN: Yes.</i>
+
+938
+00:58:47,250 --> 00:58:51,380
+They would contaminate
+the spirit of our quiet town.
+
+939
+00:58:51,421 --> 00:58:54,652
+<i>REYNAUD:</i>
+<i>The innocence of our children.</i>
+
+940
+00:58:54,690 --> 00:58:57,420
+Now, the chairman of the council
+is quite right.
+
+941
+00:58:57,460 --> 00:59:00,691
+We cannot force them to leave.
+
+942
+00:59:00,730 --> 00:59:02,163
+<i>MAN: Why not?</i>
+
+943
+00:59:02,198 --> 00:59:05,292
+But we can help them
+to understand...
+
+944
+00:59:05,334 --> 00:59:07,325
+that they are not welcome.
+
+945
+00:59:07,370 --> 00:59:09,873
+[Muttering]
+
+946
+00:59:11,574 --> 00:59:14,042
+[Glass shatters]
+
+947
+00:59:15,144 --> 00:59:16,634
+Josephine?
+
+948
+00:59:19,482 --> 00:59:23,509
+Josephine, you think
+you can just walk out on me?
+
+949
+00:59:23,553 --> 00:59:25,453
+<i>SERGE: You stupid woman!</i>
+
+950
+00:59:25,488 --> 00:59:28,980
+<i>Worthless cow!</i>
+<i>You're nothing without me.</i>
+
+951
+00:59:29,025 --> 00:59:31,493
+<i>You can't even use a skillet!</i>
+
+952
+00:59:32,896 --> 00:59:36,457
+<i>Can't even put</i>
+<i>a goddamn meal on the table.</i>
+
+953
+00:59:36,499 --> 00:59:38,126
+He's inside.
+
+954
+00:59:38,167 --> 00:59:40,727
+<i>JOSEPHINE:</i>
+<i>He's here. Oh, God.</i>
+
+955
+00:59:40,770 --> 00:59:42,328
+<i>SERGE:</i>
+<i>I need to talk to you.</i>
+
+956
+00:59:43,773 --> 00:59:45,798
+Please open the door.
+I know...
+
+957
+00:59:45,842 --> 00:59:48,276
+<i>- Mama!</i>
+<i>- Come help me!</i>
+
+958
+00:59:48,311 --> 00:59:50,745
+<i>SERGE: Open the door.</i>
+
+959
+00:59:50,780 --> 00:59:54,409
+<i>Open the door.</i>
+<i>I just want to talk to you.</i>
+
+960
+00:59:54,450 --> 00:59:56,315
+VIANNE:
+Go sleep it off, Serge!
+
+961
+00:59:56,352 --> 00:59:58,820
+<i>SERGE: Ah, you shut up,</i>
+<i>you bitch!</i>
+
+962
+00:59:58,855 --> 01:00:01,824
+You've caused enough
+trouble already!
+
+963
+01:00:01,858 --> 01:00:02,825
+You...
+
+964
+01:00:02,859 --> 01:00:04,451
+[Pounding on door]
+
+965
+01:00:04,494 --> 01:00:05,552
+Unh!
+
+966
+01:00:05,595 --> 01:00:06,562
+<i>SERGE: Open this door!</i>
+
+967
+01:00:06,596 --> 01:00:07,790
+Mama!
+
+968
+01:00:07,830 --> 01:00:10,298
+Aah! Aah!
+
+969
+01:00:10,333 --> 01:00:11,300
+<i>JOSEPHINE: Oh, my God!</i>
+
+970
+01:00:11,334 --> 01:00:13,302
+[Shouting]
+
+971
+01:00:13,336 --> 01:00:15,236
+Stay away from me.
+
+972
+01:00:16,940 --> 01:00:18,498
+Aah!
+
+973
+01:00:18,541 --> 01:00:21,567
+- Come here now!
+- Aah!
+
+974
+01:00:21,611 --> 01:00:23,203
+SERGE: Aah!
+
+975
+01:00:23,246 --> 01:00:25,441
+Why, you meddling bitch!
+
+976
+01:00:31,187 --> 01:00:32,518
+You...
+
+977
+01:00:33,523 --> 01:00:35,514
+[Choking]
+
+978
+01:00:37,827 --> 01:00:39,158
+Ahh!
+
+979
+01:00:39,195 --> 01:00:41,993
+VIANNE: Aah! Aah!
+
+980
+01:00:42,031 --> 01:00:43,862
+Aah! Aah!
+
+981
+01:00:45,935 --> 01:00:48,495
+Who says I can't use a skillet?
+
+982
+01:00:48,538 --> 01:00:49,800
+[Drops skillet]
+
+983
+01:00:49,839 --> 01:00:51,830
+[Laughs]
+
+984
+01:00:53,509 --> 01:00:55,670
+[Bell tolling]
+
+985
+01:00:58,614 --> 01:00:59,774
+Bonjour, monsieur.
+
+986
+01:00:59,816 --> 01:01:01,477
+Bonjour, monsieur.
+
+987
+01:01:08,358 --> 01:01:10,223
+Bonjour.
+
+988
+01:01:13,329 --> 01:01:15,297
+Wonderful.
+
+989
+01:01:15,331 --> 01:01:16,457
+Come on.
+
+990
+01:01:16,499 --> 01:01:19,696
+Up. Come on. Up.
+
+991
+01:01:19,736 --> 01:01:20,828
+[Groans]
+
+992
+01:01:20,870 --> 01:01:22,804
+Come on.
+
+993
+01:01:22,839 --> 01:01:24,431
+[Laughter]
+
+994
+01:01:24,474 --> 01:01:27,341
+His skull can't be
+as thick as we thought.
+
+995
+01:01:27,377 --> 01:01:29,208
+[All laugh]
+
+996
+01:01:29,245 --> 01:01:32,737
+<i>VIANNE:</i>
+<i>It was like swatting a fly.</i>
+
+997
+01:01:36,853 --> 01:01:40,550
+Ohh. The worst is over.
+
+998
+01:01:40,590 --> 01:01:42,649
+He found out
+what you're made of.
+
+999
+01:01:42,692 --> 01:01:44,683
+[Laughs] So did I.
+
+1000
+01:01:47,897 --> 01:01:50,058
+- Hi.
+- Hey.
+
+1001
+01:01:50,099 --> 01:01:51,191
+Mmm!
+
+1002
+01:01:52,668 --> 01:01:53,999
+How long have we got?
+
+1003
+01:01:54,037 --> 01:01:55,902
+She's at the hairdresser
+for an hour.
+
+1004
+01:01:55,938 --> 01:01:57,166
+[Gasps]
+
+1005
+01:01:57,206 --> 01:01:59,071
+Fuffi?
+
+1006
+01:01:59,108 --> 01:02:00,507
+<i>CAROLINE: Fuffi.</i>
+
+1007
+01:02:00,543 --> 01:02:02,010
+I'm so sorry, but I have
+to break the appointment.
+
+1008
+01:02:02,045 --> 01:02:03,535
+FRANCOISE: Is something wrong?
+
+1009
+01:02:03,579 --> 01:02:05,069
+CAROLINE: No. I volunteered
+to distribute these.
+
+1010
+01:02:05,114 --> 01:02:08,174
+I promised the comte I'd have
+them out by the end of the day.
+
+1011
+01:02:08,217 --> 01:02:10,185
+FRANCOISE: Count me in.
+
+1012
+01:02:10,219 --> 01:02:13,086
+Not that I expect any of them
+to stop by for a hairstyle.
+
+1013
+01:02:13,122 --> 01:02:14,282
+<i>CAROLINE: It's not just that.</i>
+
+1014
+01:02:14,323 --> 01:02:15,654
+<i>The comte feels</i>
+<i>we must stand firm.</i>
+
+1015
+01:02:15,691 --> 01:02:17,886
+<i>We cannot trust these people.</i>
+
+1016
+01:02:17,927 --> 01:02:20,225
+<i>Before you know it,</i>
+<i>they'll be doing jobs for food.</i>
+
+1017
+01:02:20,263 --> 01:02:21,287
+<i>They'll be begging</i>
+<i>at our doors.</i>
+
+1018
+01:02:21,330 --> 01:02:23,230
+<i>FRANCOISE: Not at this door.</i>
+
+1019
+01:02:23,266 --> 01:02:25,791
+<i>CAROLINE: Good, Fuffi, good.</i>
+
+1020
+01:02:25,835 --> 01:02:26,802
+[Exhales]

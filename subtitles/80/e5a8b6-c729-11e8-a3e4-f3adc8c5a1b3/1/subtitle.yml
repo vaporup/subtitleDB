@@ -1,0 +1,10 @@
+---
+filename: "Chocolat-CD-1_DOMiNiON.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Chocolat-CD-1_DOMiNiON.avi"
+  hash: "36d61539225981e1"
+  filesize: "713369600"
