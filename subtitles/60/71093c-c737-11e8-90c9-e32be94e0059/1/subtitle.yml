@@ -1,0 +1,9 @@
+---
+filename: "Pretty.Woman.1990.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Pretty.Woman.1990.720p.BluRay.x264.YIFY.mp4"
+  hash: "f44a0670669fa808"
+  filesize: "913419104"
