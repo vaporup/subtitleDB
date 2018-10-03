@@ -1,0 +1,9 @@
+---
+filename: "Mind_Game_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Mind_Game_CD_1.avi"
+  hash: "2a65769c5c748da3"
+  filesize: "726157312"
