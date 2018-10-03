@@ -1,0 +1,9 @@
+---
+filename: "Runner.Runner.2013.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Runner.Runner.2013.720p.BluRay.x264.YIFY.mp4"
+  hash: "57634fe4ce19a473"
+  filesize: "787933018"
