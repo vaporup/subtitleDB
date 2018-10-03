@@ -1,0 +1,9 @@
+---
+filename: "Agneepath - DVDRip - XviD - 1CDRip - [DDR].srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Agneepath - DVDRip - XviD - 1CDRip - [DDR].avi"
+  hash: "b84894fffad48bd7"
+  filesize: "730955776"
