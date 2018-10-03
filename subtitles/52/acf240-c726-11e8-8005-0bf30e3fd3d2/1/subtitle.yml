@@ -1,0 +1,9 @@
+---
+filename: "Jurassic.Park[1993]DvDrip-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Jurassic.Park[1993]DvDrip-aXXo.avi"
+  hash: "6fe5736988f27d2e"
+  filesize: "839145472"
