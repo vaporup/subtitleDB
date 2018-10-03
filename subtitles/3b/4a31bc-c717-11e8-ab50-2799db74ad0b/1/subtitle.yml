@@ -1,0 +1,9 @@
+---
+filename: "Tomorrowland.2015.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Tomorrowland.2015.720p.BluRay.x264.YIFY.mp4"
+  hash: "e7d5a8382657130d"
+  filesize: "914578217"
