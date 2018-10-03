@@ -1,0 +1,10 @@
+---
+filename: "The.One.I.Love.2014.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "The.One.I.Love.2014.720p.BluRay.x264.YIFY.mp4"
+  hash: "dc64a98f516aa3c6"
+  filesize: "786395490"
