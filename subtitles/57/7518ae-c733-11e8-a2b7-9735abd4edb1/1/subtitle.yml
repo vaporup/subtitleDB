@@ -1,0 +1,9 @@
+---
+filename: "Action-Jackson.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Action-Jackson.avi"
+  hash: "6fe59ef03fa22032"
+  filesize: "736811008"
