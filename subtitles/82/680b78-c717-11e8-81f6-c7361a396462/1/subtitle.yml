@@ -1,0 +1,9 @@
+---
+filename: "The.shining.1980.720p.x264.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.shining.1980.720p.x264.mkv"
+  hash: "2b86793ae934d223"
+  filesize: "681584145"
