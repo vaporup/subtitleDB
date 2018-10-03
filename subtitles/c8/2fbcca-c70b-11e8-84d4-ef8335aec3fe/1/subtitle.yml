@@ -1,0 +1,9 @@
+---
+filename: "Ex.Machina.2015.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Ex.Machina.2015.720p.BluRay.x264.YIFY.mp4"
+  hash: "42f198cedec67c56"
+  filesize: "847344617"
