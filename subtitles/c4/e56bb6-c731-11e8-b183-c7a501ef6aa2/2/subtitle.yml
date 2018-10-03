@@ -1,0 +1,9 @@
+---
+filename: "Tokyo-Sonata-CD-2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Tokyo-Sonata-CD-2.avi"
+  hash: "a56c45a8442f0c63"
+  filesize: "734769152"
