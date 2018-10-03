@@ -1,0 +1,9 @@
+---
+filename: "Mask (AC3-6ch) (3of3).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Mask (AC3-6ch) (3of3).avi"
+  hash: "d37023607b94e859"
+  filesize: "733743368"
