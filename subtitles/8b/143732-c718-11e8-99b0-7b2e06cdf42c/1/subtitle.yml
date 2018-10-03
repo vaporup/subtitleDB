@@ -1,0 +1,9 @@
+---
+filename: "Punch-Drunk.Love.2002.720p.HDTV.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Punch-Drunk.Love.2002.720p.HDTV.x264.YIFY.mp4"
+  hash: "45b19f5936938980"
+  filesize: "682275456"
