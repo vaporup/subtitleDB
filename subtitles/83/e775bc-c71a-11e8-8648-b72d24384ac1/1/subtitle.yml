@@ -1,0 +1,10 @@
+---
+filename: "Despicable.Me.2.2013.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Despicable.Me.2.2013.720p.BluRay.x264.YIFY.mp4"
+  hash: "aae355722a9718cd"
+  filesize: "795401790"
