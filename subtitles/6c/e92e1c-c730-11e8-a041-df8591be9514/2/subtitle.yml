@@ -1,0 +1,9 @@
+---
+filename: "robocop.2.cd2-criterion.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "robocop.2.cd2-criterion.avi"
+  hash: "d0be740642705f1e"
+  filesize: "735684608"
