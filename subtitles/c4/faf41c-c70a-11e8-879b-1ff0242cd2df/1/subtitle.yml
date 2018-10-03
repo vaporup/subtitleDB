@@ -1,0 +1,9 @@
+---
+filename: "2001.A.Space.Odyssey.1968-YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "2001.A.Space.Odyssey.1968-YIFY.mp4"
+  hash: "8e8c76d02027a231"
+  filesize: "895030064"
