@@ -1,0 +1,9 @@
+---
+filename: "Generation.Um.2012.DVDRip.XViD-PLAYNOW.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Generation.Um.2012.DVDRip.XViD-PLAYNOW.avi"
+  hash: "2597fc7bba636dca"
+  filesize: "733984768"
