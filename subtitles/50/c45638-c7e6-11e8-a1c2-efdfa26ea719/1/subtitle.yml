@@ -1,0 +1,9 @@
+---
+filename: "The.Babadook.2014.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Babadook.2014.720p.BluRay.x264.YIFY.mp4"
+  hash: "30b93cfc6d723782"
+  filesize: "738185493"
