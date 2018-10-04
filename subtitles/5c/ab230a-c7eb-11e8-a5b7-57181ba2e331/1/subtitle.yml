@@ -1,0 +1,9 @@
+---
+filename: "ltu-raf.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "ltu-raf.avi"
+  hash: "b7e9f3e7a7f6e573"
+  filesize: "735775706"
