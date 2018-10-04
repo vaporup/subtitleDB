@@ -1,0 +1,9 @@
+---
+filename: "The King of Kong.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The King of Kong.avi"
+  hash: "04054d9bad345fab"
+  filesize: "733843456"
