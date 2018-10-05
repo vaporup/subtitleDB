@@ -1,0 +1,10 @@
+---
+filename: "Training-Day-DiSSOLVE.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Training-Day-DiSSOLVE.avi"
+  hash: "659aa84fe2e4919f"
+  filesize: "733900800"
