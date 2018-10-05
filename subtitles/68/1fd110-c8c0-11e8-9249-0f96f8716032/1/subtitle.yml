@@ -1,0 +1,9 @@
+---
+filename: "born4july.divx.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "born4july.divx.avi"
+  hash: "5b087141ef21a04e"
+  filesize: "734337024"
