@@ -1,0 +1,9 @@
+---
+filename: "Lars-and-The-Real-Girl_FXG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Lars-and-The-Real-Girl_FXG.avi"
+  hash: "58190573df79b76e"
+  filesize: "734971904"
