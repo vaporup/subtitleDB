@@ -1,0 +1,10 @@
+---
+filename: "Warcraft.2016.720p.BluRay.x264-[YTS.AG].srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Warcraft.2016.720p.BluRay.x264-[YTS.AG].mp4"
+  hash: "fc9745fdf30a562e"
+  filesize: "952660568"
