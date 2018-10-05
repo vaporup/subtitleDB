@@ -1,0 +1,9 @@
+---
+filename: "Blind-Date.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Blind-Date.avi"
+  hash: "d1753b4a7b2653b2"
+  filesize: "735078400"
