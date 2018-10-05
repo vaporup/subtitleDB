@@ -1,0 +1,9 @@
+---
+filename: "The_Scorpion_King_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Scorpion_King_CD_2.avi"
+  hash: "5d7c8cd967da66ed"
+  filesize: "674179072"

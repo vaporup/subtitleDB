@@ -1,0 +1,9 @@
+---
+filename: "The_Scorpion_King.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Scorpion_King.avi"
+  hash: "d797e76e9d7a6625"
+  filesize: "733489152"
