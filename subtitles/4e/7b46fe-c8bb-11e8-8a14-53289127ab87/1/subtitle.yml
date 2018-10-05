@@ -1,0 +1,9 @@
+---
+filename: "Edward-Scissorhands.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Edward-Scissorhands.avi"
+  hash: "e1d73fcbdd6d3bbf"
+  filesize: "733274258"
