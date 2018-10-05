@@ -1,0 +1,10 @@
+---
+filename: "Jumper[2008]DvDrip.AC3-aXXo.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Jumper[2008]DvDrip.AC3-aXXo.avi"
+  hash: "b2bbe74035bacda5"
+  filesize: "733829120"
