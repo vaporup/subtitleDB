@@ -1,0 +1,9 @@
+---
+filename: "12.Monkeys.1995-YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "12.Monkeys.1995-YIFY.mp4"
+  hash: "937b5734bdf66786"
+  filesize: "789277873"
