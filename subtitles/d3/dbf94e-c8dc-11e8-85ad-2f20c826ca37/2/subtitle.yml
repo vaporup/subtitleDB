@@ -1,0 +1,9 @@
+---
+filename: "Death-Note_Part_1_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Death-Note_Part_1_CD_2.avi"
+  hash: "d67b3001590aedcb"
+  filesize: "733773824"
