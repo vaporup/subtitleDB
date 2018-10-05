@@ -1,0 +1,9 @@
+---
+filename: "Leon [The Professional].srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Leon [The Professional].avi"
+  hash: "ac914a022ade78b5"
+  filesize: "784349184"
