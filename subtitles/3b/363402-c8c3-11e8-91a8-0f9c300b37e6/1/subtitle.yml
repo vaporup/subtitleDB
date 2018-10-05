@@ -1,0 +1,12 @@
+---
+filename: "The_Bride_with_white_Hair.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Bride_with_white_Hair.avi"
+  hash: "103ec7d28f28ec33"
+  filesize: "733802496"
+- filename: "the_bride_with_white_hair.avi"
+  hash: "0e296b6bf00ef335"
+  filesize: "707858432"
