@@ -1,0 +1,9 @@
+---
+filename: "Valley-Girl_1983.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Valley-Girl_1983.mp4"
+  hash: "5c592a02ab8982a0"
+  filesize: "995523762"
