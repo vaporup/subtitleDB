@@ -1,0 +1,10 @@
+---
+filename: "Split.2016.720p.BRRip.x264.AAC-ETRG.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Split.2016.720p.BRRip.x264.AAC-ETRG.mp4"
+  hash: "0ee6cae2a99640d7"
+  filesize: "919385208"
