@@ -1,0 +1,9 @@
+---
+filename: "Appleseed_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Appleseed_CD_2.avi"
+  hash: "f309a794d86cde33"
+  filesize: "730394624"
