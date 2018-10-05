@@ -1,0 +1,9 @@
+---
+filename: "Fearless_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Fearless_CD_1.avi"
+  hash: "85f80bc39a6312c0"
+  filesize: "734459904"
