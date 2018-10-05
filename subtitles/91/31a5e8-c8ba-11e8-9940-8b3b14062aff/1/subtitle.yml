@@ -1,0 +1,9 @@
+---
+filename: "Mr.Brooks.2007.720p.BRrip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Mr.Brooks.2007.720p.BRrip.x264.YIFY.mp4"
+  hash: "5e66141c9ef98d21"
+  filesize: "838841322"
