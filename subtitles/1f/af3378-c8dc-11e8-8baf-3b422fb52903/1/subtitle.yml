@@ -1,0 +1,9 @@
+---
+filename: "Kabhi-Alvida-Na-Kehna_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Kabhi-Alvida-Na-Kehna_CD_1.avi"
+  hash: "2b37f708c5fa81d9"
+  filesize: "733657088"
