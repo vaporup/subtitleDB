@@ -1,0 +1,9 @@
+---
+filename: "Conman_In_Tokyo_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Conman_In_Tokyo_CD_1.avi"
+  hash: "60bd30f42de280f4"
+  filesize: "732178432"
