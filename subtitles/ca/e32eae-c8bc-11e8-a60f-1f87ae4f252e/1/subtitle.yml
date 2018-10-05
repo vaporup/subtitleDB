@@ -1,0 +1,9 @@
+---
+filename: "Inside.Out.2015.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Inside.Out.2015.720p.BluRay.x264.YIFY.mp4"
+  hash: "a69d003b140b469f"
+  filesize: "791242383"
