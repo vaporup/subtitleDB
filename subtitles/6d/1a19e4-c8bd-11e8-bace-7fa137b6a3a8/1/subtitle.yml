@@ -1,0 +1,9 @@
+---
+filename: "Looper.2012.DVDRip.XviD-PTpOWeR.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Looper.2012.DVDRip.XviD-PTpOWeR.avi"
+  hash: "0a754914405a2e79"
+  filesize: "746907464"
