@@ -1,0 +1,9 @@
+---
+filename: "The-Long-Hot-Summer_1958.no.srt"
+language: "no"
+format: "srt"
+
+matches:
+- filename: "The-Long-Hot-Summer_1958.avi"
+  hash: "b57e608b929ca18b"
+  filesize: "727838720"

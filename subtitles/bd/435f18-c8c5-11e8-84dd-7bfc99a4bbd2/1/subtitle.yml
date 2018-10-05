@@ -1,0 +1,9 @@
+---
+filename: "Cocoon (1985)_Kuth.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Cocoon (1985)_Kuth.avi"
+  hash: "b4e3e681d9a454da"
+  filesize: "730822656"
