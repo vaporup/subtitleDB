@@ -1,0 +1,9 @@
+---
+filename: "Nuts [Barbra Streisand] (1987) DVDRip Oldies.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Nuts [Barbra Streisand] (1987) DVDRip Oldies.avi"
+  hash: "af9f86d7af69512f"
+  filesize: "731193085"
