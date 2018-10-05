@@ -1,0 +1,9 @@
+---
+filename: "The-Getaway_1994_Kuth.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Getaway_1994_Kuth.avi"
+  hash: "84ab8a13af817cd5"
+  filesize: "728643584"
