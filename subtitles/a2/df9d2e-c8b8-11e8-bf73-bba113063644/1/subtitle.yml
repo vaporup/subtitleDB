@@ -1,0 +1,10 @@
+---
+filename: "Pulp.Fiction.1994.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Pulp.Fiction.1994.720p.BrRip.x264.YIFY.mp4"
+  hash: "e999fc6fbbc53c57"
+  filesize: "787788079"
