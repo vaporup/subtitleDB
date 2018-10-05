@@ -1,0 +1,9 @@
+---
+filename: "Crocodile Dundee (1986).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Crocodile Dundee (1986).avi"
+  hash: "260146044c13f812"
+  filesize: "729405440"
