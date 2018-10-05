@@ -1,0 +1,10 @@
+---
+filename: "Supergirl 1984 DVDRip GoGo.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Supergirl 1984 DVDRip GoGo.avi"
+  hash: "45ed037306e818ad"
+  filesize: "838633472"
