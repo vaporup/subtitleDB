@@ -1,0 +1,9 @@
+---
+filename: "Gravity.2013.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Gravity.2013.720p.BluRay.x264.YIFY.mp4"
+  hash: "c4b1da01a2d11f5e"
+  filesize: "739104069"
