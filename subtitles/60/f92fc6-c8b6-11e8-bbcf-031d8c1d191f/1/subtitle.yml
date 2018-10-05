@@ -1,0 +1,9 @@
+---
+filename: "Enemy.2013.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Enemy.2013.720p.BluRay.x264.YIFY.mp4"
+  hash: "c72dcb220c6a2229"
+  filesize: "739082350"
