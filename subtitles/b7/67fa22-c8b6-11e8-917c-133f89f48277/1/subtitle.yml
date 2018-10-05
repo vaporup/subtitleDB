@@ -1,0 +1,9 @@
+---
+filename: "Agneepath 1990 DVDRip XviD E-SuB xRG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Agneepath 1990 DVDRip XviD E-SuB xRG.avi"
+  hash: "ebcf29650710bcee"
+  filesize: "942651172"
