@@ -1,0 +1,9 @@
+---
+filename: "Paterson.2016.720p.BRRip.x264.AAC-ETRG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Paterson.2016.720p.BRRip.x264.AAC-ETRG.mp4"
+  hash: "9b6544307f87caa1"
+  filesize: "969845676"
