@@ -1,0 +1,9 @@
+---
+filename: "Stealth[2005]DvDrip[Eng]-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Stealth[2005]DvDrip[Eng]-aXXo.avi"
+  hash: "7197c3a7c89a2b1e"
+  filesize: "735641600"
