@@ -1,0 +1,9 @@
+---
+filename: "Divergent.2014.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Divergent.2014.720p.BluRay.x264.YIFY.mp4"
+  hash: "5a4a0c920cbb9ecf"
+  filesize: "977272262"
