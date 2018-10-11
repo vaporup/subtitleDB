@@ -1,0 +1,9 @@
+---
+filename: "Short Circuit.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Short Circuit.avi"
+  hash: "82167a815cb9ebc6"
+  filesize: "734148608"
