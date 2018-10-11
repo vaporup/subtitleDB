@@ -1,0 +1,9 @@
+---
+filename: "Hudson Hawk.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Hudson Hawk.avi"
+  hash: "0d838a84d520edf6"
+  filesize: "827432960"
