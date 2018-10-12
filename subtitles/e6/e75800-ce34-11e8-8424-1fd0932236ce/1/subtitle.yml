@@ -1,0 +1,9 @@
+---
+filename: "Kick-Ass.2.2013.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Kick-Ass.2.2013.720p.BluRay.x264.YIFY.mp4"
+  hash: "03e8efc3174b2869"
+  filesize: "843275479"
