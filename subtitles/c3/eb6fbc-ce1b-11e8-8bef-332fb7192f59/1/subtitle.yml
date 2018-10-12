@@ -1,0 +1,9 @@
+---
+filename: "Ace Ventura - Pet Detective.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Ace Ventura - Pet Detective.avi"
+  hash: "cb7804257cbab94a"
+  filesize: "719507456"
