@@ -1,0 +1,9 @@
+---
+filename: "The-Graduate.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Graduate.avi"
+  hash: "71bf6f19d5795b23"
+  filesize: "733989888"
