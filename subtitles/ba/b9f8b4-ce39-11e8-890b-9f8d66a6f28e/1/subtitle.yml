@@ -1,0 +1,9 @@
+---
+filename: "Some-Like-It-Hot_1959_WunSeeDee.fi.srt"
+language: "fi"
+format: "srt"
+
+matches:
+- filename: "Some-Like-It-Hot_1959_WunSeeDee.avi"
+  hash: "aa1f94a1e0f69aba"
+  filesize: "735184896"
