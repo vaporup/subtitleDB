@@ -1,0 +1,9 @@
+---
+filename: "Constantine.2005.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Constantine.2005.720p.BrRip.x264.YIFY.mp4"
+  hash: "125e920448c433f8"
+  filesize: "840279447"
