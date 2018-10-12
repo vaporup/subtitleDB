@@ -1,0 +1,9 @@
+---
+filename: "Liar Liar.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Liar Liar.avi"
+  hash: "171d61c4ac2738ea"
+  filesize: "644882944"
