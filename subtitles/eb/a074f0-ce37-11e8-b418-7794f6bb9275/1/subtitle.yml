@@ -1,0 +1,9 @@
+---
+filename: "Ghostbusters 2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Ghostbusters 2.avi"
+  hash: "45fa783c209d0593"
+  filesize: "785180672"
