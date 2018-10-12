@@ -1,0 +1,9 @@
+---
+filename: "psig-premium.rush.2012.dvdrip.xvid.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "psig-premium.rush.2012.dvdrip.xvid.avi"
+  hash: "d95c5876f0fbbcd3"
+  filesize: "731240448"
