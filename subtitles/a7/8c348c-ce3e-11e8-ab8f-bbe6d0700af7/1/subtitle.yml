@@ -1,0 +1,9 @@
+---
+filename: "shame.2011.limited.dvdrip.xvid-amiable.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "shame.2011.limited.dvdrip.xvid-amiable.avi"
+  hash: "15dc777d08165d82"
+  filesize: "733978624"
