@@ -2,6 +2,7 @@
 filename: "Moon-aXXo.srt"
 language: "en"
 format: "srt"
+type: "cc"
 
 matches:
 - filename: "Moon-aXXo.avi"
