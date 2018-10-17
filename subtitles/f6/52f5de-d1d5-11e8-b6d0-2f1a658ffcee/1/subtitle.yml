@@ -1,0 +1,10 @@
+---
+filename: "Grease[1978]DvDrip[Eng]-FiddleGoose.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Grease[1978]DvDrip[Eng]-FiddleGoose.avi"
+  hash: "ad4c65dd72bb8cb8"
+  filesize: "842620260"
