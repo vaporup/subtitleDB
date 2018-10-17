@@ -1,0 +1,10 @@
+---
+filename: "Platoon.1986.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Platoon.1986.720p.BrRip.x264.YIFY.mp4"
+  hash: "d1824bac78cb713f"
+  filesize: "839654955"
