@@ -1,0 +1,9 @@
+---
+filename: "Brake.2012.BluRay.720p.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Brake.2012.BluRay.720p.x264.YIFY.mp4"
+  hash: "a94f0cb5756d350c"
+  filesize: "630456483"
