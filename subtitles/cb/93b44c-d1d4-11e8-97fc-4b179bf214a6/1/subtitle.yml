@@ -1,0 +1,10 @@
+---
+filename: "Stone.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Stone.avi"
+  hash: "8b5523a6839c7c1d"
+  filesize: "734515200"
