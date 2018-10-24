@@ -1,0 +1,9 @@
+---
+filename: "Akira (1988) 720p BRrip_sujaidr (pimprg).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Akira (1988) 720p BRrip_sujaidr (pimprg).mkv"
+  hash: "4af44988ab7a0c13"
+  filesize: "838044496"
