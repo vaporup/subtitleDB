@@ -1,0 +1,9 @@
+---
+filename: "twiz-betterlife-xvid.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "twiz-betterlife-xvid.avi"
+  hash: "29fde5f7ca4c0b6c"
+  filesize: "734343168"
