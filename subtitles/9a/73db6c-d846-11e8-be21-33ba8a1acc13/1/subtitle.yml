@@ -1,0 +1,10 @@
+---
+filename: "American Beauty-Stealthmaster.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "American Beauty-Stealthmaster.avi"
+  hash: "ae6c2629fee91fec"
+  filesize: "733995008"
