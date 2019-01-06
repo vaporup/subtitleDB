@@ -33,12 +33,13 @@ sys.stdout.write("\b" * (toolbar_width+1)) # return to start of line, after '['
 
 
 schema = Schema(
-                        sub_count = ID(stored=True),
+                     sub_count = NUMERIC(stored=True),
                         sub_id = ID(stored=True),
                       sub_lang = ID(stored=True),
                     movie_hash = ID(stored=True),
                 movie_filesize = ID(stored=True),
                 movie_title    = TEXT(stored=True),
+                movie_title_orig    = TEXT(stored=True),
                 movie_year     = ID(stored=True)
                )
 
@@ -72,13 +73,23 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
           meta_data      = open(meta_data_file).read()
           subtitle_info  = yaml.load(meta_data)
 
+          if subtitle_info.has_key("year"):
+            year = subtitle_info['year']
+          else:
+            year = ""
+
+          if subtitle_info.has_key("original_title"):
+            title_orig = subtitle_info['original_title']
+          else:
+            title_orig = ""
+
           subtitle_info['subtitle_id'] = subtitle_folder
 
           subtitle_info["subtitles"] = []
 
           subtitle_dirs = [name for name in os.listdir(uuid_folder) if os.path.isdir( uuid_folder + "/" + name)]
 
-          num_subs = str(len(subtitle_dirs))
+          num_subs = len(subtitle_dirs)
 
           for subtitle_dir in subtitle_dirs:
 
@@ -92,17 +103,14 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
 
             if "matches" in subtitle:
               for match in subtitle["matches"]:
-                if subtitle_info.has_key("year"):
-                    year = subtitle_info['year']
-                else:
-                    year = ""
                 writer.add_document(
                         sub_id=unicode(subtitle_info["subtitle_id"]),
                         sub_lang=unicode(subtitle['language']),
                         movie_hash=unicode(match['hash']),
                         movie_filesize=unicode(match['filesize']),
                         movie_title=unicode(subtitle_info['title']),
-                        sub_count=unicode(num_subs),
+                        movie_title_orig=unicode(title_orig),
+                        sub_count=num_subs,
                         movie_year=unicode(year),
                         )
   

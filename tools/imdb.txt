@@ -1,2 +1,8 @@
 https://www.pythonforbeginners.com/code-snippets-source-code/imdb-crawler
 https://gist.github.com/jayrambhia/1678382
+
+https://linuxconfig.org/how-to-install-python3-beautiful-soup-environment-on-debian-linux
+
+use
+
+import from bs4
