@@ -25,17 +25,23 @@ uuid_prefix_foldernames = os.listdir("subtitles")
 alle = len(uuid_prefix_foldernames)
 count = float(alle)
 
-# setup toolbar
+#
+# Setup progressbar
+#
+
 sys.stdout.write("\nIndexing subtitles ")
 sys.stdout.write("[%s]" % (" " * toolbar_width))
 sys.stdout.flush()
 sys.stdout.write("\b" * (toolbar_width+1)) # return to start of line, after '['
 
+#
+# woosh index schema
+#
 
 schema = Schema(
-                        id = STORED,
-                      lang = ID(stored=True),
-                    hash = ID(stored=True),
+                id       = STORED,
+                lang     = ID(stored=True),
+                hash     = ID(stored=True),
                 filesize = ID(stored=True),
                 title    = STORED,
                 year     = STORED
@@ -46,6 +52,10 @@ if not os.path.exists("index"):
 
 ix = create_in("index", schema, indexname="by_hash_filesize")
 writer = ix.writer()
+
+#
+# Iterate over all subtitles
+#
 
 for uuid_prefix_foldername in uuid_prefix_foldernames:
 
@@ -60,9 +70,9 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
 
       for uuid_foldername in uuid_foldernames:
 
-        uuid_folder = os.path.join(uuid_prefix_folder, uuid_foldername)
-
         subtitle_folder = os.path.join(uuid_prefix_foldername, uuid_foldername)
+
+        uuid_folder = os.path.join(uuid_prefix_folder, uuid_foldername)
 
         if os.path.isdir(uuid_folder):
 
@@ -93,16 +103,17 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
             subtitle_id = os.path.join(subtitle_folder, subtitle_dir)
 
             if "matches" in subtitle_data:
+
               for match in subtitle_data["matches"]:
+
                 writer.add_document(
-                        id=unicode(subtitle_id),
-                        lang=unicode(subtitle_data['language']),
-                        hash=unicode(match['hash']),
-                        filesize=unicode(match['filesize']),
-                        title=unicode(subtitle_info['title']),
-                        year=unicode(year),
-                        )
-  
+                                    id       = unicode(subtitle_id),
+                                    lang     = unicode(subtitle_data['language']),
+                                    hash     = unicode(match['hash']),
+                                    filesize = unicode(match['filesize']),
+                                    title    = unicode(subtitle_info['title']),
+                                    year     = unicode(year)
+                                   )
 
     count = count -1
     percent = 100 - count / alle * 100
