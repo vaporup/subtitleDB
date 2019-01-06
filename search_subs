@@ -11,12 +11,11 @@ if not os.path.exists("index"):
     print "Please create index first"
     sys.exit()
 
-ix = index.open_dir("index")
+ix = index.open_dir("index", indexname="by_hash_filesize")
 
 with ix.searcher() as searcher:
-    #query = QueryParser("imdb", ix.schema).parse("tt0303678")
-    query = QueryParser("movie_title", ix.schema).parse("*")
-    results = searcher.search(query)
+    query = QueryParser("hash", ix.schema).parse(sys.argv[1])
+    results = searcher.search(query, limit=100)
     for result in results:
         print result
 

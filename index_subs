@@ -33,20 +33,18 @@ sys.stdout.write("\b" * (toolbar_width+1)) # return to start of line, after '['
 
 
 schema = Schema(
-                     sub_count = NUMERIC(stored=True),
-                        sub_id = ID(stored=True),
-                      sub_lang = ID(stored=True),
-                    movie_hash = ID(stored=True),
-                movie_filesize = ID(stored=True),
-                movie_title    = TEXT(stored=True),
-                movie_title_orig    = TEXT(stored=True),
-                movie_year     = ID(stored=True)
+                        id = STORED,
+                      lang = ID(stored=True),
+                    hash = ID(stored=True),
+                filesize = ID(stored=True),
+                title    = STORED,
+                year     = STORED
                )
 
 if not os.path.exists("index"):
     os.mkdir("index")
 
-ix = create_in("index", schema)
+ix = create_in("index", schema, indexname="by_hash_filesize")
 writer = ix.writer()
 
 for uuid_prefix_foldername in uuid_prefix_foldernames:
@@ -68,7 +66,6 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
 
         if os.path.isdir(uuid_folder):
 
-
           meta_data_file = os.path.join(uuid_folder, "meta.yml")
           meta_data      = open(meta_data_file).read()
           subtitle_info  = yaml.load(meta_data)
@@ -83,10 +80,6 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
           else:
             title_orig = ""
 
-          subtitle_info['subtitle_id'] = subtitle_folder
-
-          subtitle_info["subtitles"] = []
-
           subtitle_dirs = [name for name in os.listdir(uuid_folder) if os.path.isdir( uuid_folder + "/" + name)]
 
           num_subs = len(subtitle_dirs)
@@ -97,21 +90,17 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
             subtitle_meta_data      = open(subtitle_meta_data_file).read()
             subtitle_data           = yaml.load(subtitle_meta_data)
 
-            subtitle_info["subtitles"].append(subtitle_data)
+            subtitle_id = os.path.join(subtitle_folder, subtitle_dir)
 
-          for subtitle in subtitle_info["subtitles"]:
-
-            if "matches" in subtitle:
-              for match in subtitle["matches"]:
+            if "matches" in subtitle_data:
+              for match in subtitle_data["matches"]:
                 writer.add_document(
-                        sub_id=unicode(subtitle_info["subtitle_id"]),
-                        sub_lang=unicode(subtitle['language']),
-                        movie_hash=unicode(match['hash']),
-                        movie_filesize=unicode(match['filesize']),
-                        movie_title=unicode(subtitle_info['title']),
-                        movie_title_orig=unicode(title_orig),
-                        sub_count=num_subs,
-                        movie_year=unicode(year),
+                        id=unicode(subtitle_id),
+                        lang=unicode(subtitle_data['language']),
+                        hash=unicode(match['hash']),
+                        filesize=unicode(match['filesize']),
+                        title=unicode(subtitle_info['title']),
+                        year=unicode(year),
                         )
   
 
