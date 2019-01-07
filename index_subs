@@ -38,7 +38,7 @@ sys.stdout.write("\b" * (toolbar_width+1)) # return to start of line, after '['
 # woosh index schema
 #
 
-schema = Schema(
+schema1 = Schema(
                 id       = STORED,
                 lang     = ID(stored=True),
                 hash     = ID(stored=True),
@@ -47,11 +47,23 @@ schema = Schema(
                 year     = STORED
                )
 
+schema2 = Schema(
+                id         = STORED,
+                lang       = ID(stored=True),
+                title      = TEXT(stored=True),
+                title_orig = TEXT(stored=True),
+                year       = NUMERIC(stored=True),
+                imdb_id    = ID(stored=True),
+                num_subs   = NUMERIC(stored=True)
+               )
+
 if not os.path.exists("index"):
     os.mkdir("index")
 
-ix = create_in("index", schema, indexname="by_hash_filesize")
-writer = ix.writer()
+ix1 = create_in("index", schema1, indexname="by_hash_filesize")
+ix2 = create_in("index", schema2, indexname="by_movie")
+writer1 = ix1.writer()
+writer2 = ix2.writer()
 
 #
 # Iterate over all subtitles
@@ -90,9 +102,23 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
           else:
             title_orig = ""
 
+          if subtitle_info.has_key("imdb_id"):
+            imdb_id = subtitle_info['imdb_id']
+          else:
+            imdb_id = ""
+
           subtitle_dirs = [name for name in os.listdir(uuid_folder) if os.path.isdir( uuid_folder + "/" + name)]
 
           num_subs = len(subtitle_dirs)
+
+          writer2.add_document(
+                                    title       = unicode(subtitle_info['title']),
+                                    title_orig  = unicode(title_orig),
+                                    imdb_id     = unicode(imdb_id),
+                                    year        = year,
+                                    num_subs    = num_subs,
+                                    id          = subtitle_folder
+                                   )
 
           for subtitle_dir in subtitle_dirs:
 
@@ -106,7 +132,7 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
 
               for match in subtitle_data["matches"]:
 
-                writer.add_document(
+                writer1.add_document(
                                     id       = unicode(subtitle_id),
                                     lang     = unicode(subtitle_data['language']),
                                     hash     = unicode(match['hash']),
@@ -172,4 +198,5 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
 sys.stdout.write("\n")
 sys.stdout.write("\n")
 
-writer.commit()
+writer1.commit()
+writer2.commit()

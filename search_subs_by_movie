@@ -1,0 +1,21 @@
+#!/usr/bin/env python
+
+import os
+import sys
+
+from whoosh.fields import *
+from whoosh import index
+from whoosh.qparser import QueryParser
+
+if not os.path.exists("index"):
+    print "Please create index first"
+    sys.exit()
+
+ix = index.open_dir("index", indexname="by_movie")
+
+with ix.searcher() as searcher:
+    query = QueryParser("title", ix.schema).parse(sys.argv[1])
+    results = searcher.search(query, limit=100)
+    for result in results:
+        print result
+
