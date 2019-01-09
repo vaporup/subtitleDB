@@ -1,4 +1,4 @@
-# a gitributed subtitle database
+# a gitdistributed subtitle database
 
 ## Requirements
 
