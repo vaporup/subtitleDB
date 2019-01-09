@@ -38,32 +38,35 @@ sys.stdout.write("\b" * (toolbar_width+1)) # return to start of line, after '['
 # woosh index schema
 #
 
-schema1 = Schema(
-                id       = STORED,
-                lang     = ID(stored=True),
-                hash     = ID(stored=True),
-                filesize = ID(stored=True),
-                title    = STORED,
-                year     = STORED
-               )
+schema_by_hash_filesize = Schema(
 
-schema2 = Schema(
-                id         = STORED,
-                lang       = ID(stored=True),
-                title      = TEXT(stored=True),
-                title_orig = TEXT(stored=True),
-                year       = NUMERIC(stored=True),
-                imdb_id    = ID(stored=True),
-                num_subs   = NUMERIC(stored=True)
-               )
+    id       = STORED,
+    lang     = ID(stored=True),
+    hash     = ID(stored=True),
+    filesize = ID(stored=True),
+    title    = STORED,
+    year     = STORED
+)
+
+schema_by_movie = Schema(
+
+    id         = STORED,
+    lang       = ID(stored=True),
+    title      = TEXT(stored=True),
+    title_orig = TEXT(stored=True),
+    year       = NUMERIC(stored=True),
+    imdb_id    = ID(stored=True),
+    num_subs   = NUMERIC(stored=True)
+)
 
 if not os.path.exists("index"):
     os.mkdir("index")
 
-ix1 = create_in("index", schema1, indexname="by_hash_filesize")
-ix2 = create_in("index", schema2, indexname="by_movie")
-writer1 = ix1.writer()
-writer2 = ix2.writer()
+ix_by_hash_filesize = create_in("index", schema_by_hash_filesize, indexname="by_hash_filesize")
+ix_by_movie         = create_in("index", schema_by_movie, indexname="by_movie")
+
+writer_by_hash_filesize = ix_by_hash_filesize.writer()
+writer_by_movie         = ix_by_movie.writer()
 
 #
 # Iterate over all subtitles
@@ -111,7 +114,7 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
 
           num_subs = len(subtitle_dirs)
 
-          writer2.add_document(
+          writer_by_movie.add_document(
                                     title       = unicode(subtitle_info['title']),
                                     title_orig  = unicode(title_orig),
                                     imdb_id     = unicode(imdb_id),
@@ -132,7 +135,7 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
 
               for match in subtitle_data["matches"]:
 
-                writer1.add_document(
+                writer_by_hash_filesize.add_document(
                                     id       = unicode(subtitle_id),
                                     lang     = unicode(subtitle_data['language']),
                                     hash     = unicode(match['hash']),
@@ -198,5 +201,5 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
 sys.stdout.write("\n")
 sys.stdout.write("\n")
 
-writer1.commit()
-writer2.commit()
+writer_by_hash_filesize.commit()
+writer_by_movie.commit()
