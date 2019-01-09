@@ -1,0 +1,97 @@
+#!/usr/bin/env python
+
+import os
+import sys
+import struct
+
+from whoosh.fields import *
+from whoosh import index
+from whoosh.qparser import QueryParser
+
+def hashFile(name):
+    try:
+
+        longlongformat = '<q'  # little-endian long long
+        bytesize = struct.calcsize(longlongformat)
+
+        f = open(name, "rb")
+
+        filesize = os.path.getsize(name)
+        hash = filesize
+
+        if filesize < 65536 * 2:
+            return "SizeError"
+
+        for x in range(65536/bytesize):
+            buffer = f.read(bytesize)
+            (l_value,)= struct.unpack(longlongformat, buffer)
+            hash += l_value
+            hash = hash & 0xFFFFFFFFFFFFFFFF #to remain as 64bit number  
+
+        f.seek(max(0,filesize-65536),0)
+
+        for x in range(65536/bytesize):
+            buffer = f.read(bytesize)
+            (l_value,)= struct.unpack(longlongformat, buffer)
+            hash += l_value
+            hash = hash & 0xFFFFFFFFFFFFFFFF
+
+        f.close()
+        returnedhash =  "%016x" % hash
+
+        query_string = "hash:%s filesize:%s" % ( returnedhash, filesize )
+
+        return query_string
+
+    except(IOError):
+        return "IOError"
+
+if not os.path.exists("index"):
+    print "Please create index first"
+    sys.exit()
+
+if len(sys.argv) < 2:
+    print "See usage"
+    sys.exit()
+
+if os.path.isfile(sys.argv[1]):
+    # use by_hash_filesize
+
+    if len(sys.argv) > 2:
+        params = sys.argv[2]
+    else:
+        params = ""
+
+    query_string = hashFile(sys.argv[1])
+
+    ix = index.open_dir("index", indexname="by_hash_filesize")
+
+    with ix.searcher() as searcher:
+        query = QueryParser("hash", ix.schema).parse( " ".join([query_string, params]) )
+    	results = searcher.search(query, limit=100)
+        if not results:
+            print "No subtitle(s) found."
+        else:
+            for result in results:
+                print result
+else:
+    # use by_movie
+
+    title  = sys.argv[1]
+
+    if len(sys.argv) > 2:
+        params = sys.argv[2]
+    else:
+        params = ""
+
+    ix = index.open_dir("index", indexname="by_movie")
+
+    with ix.searcher() as searcher:
+        query = QueryParser("title", ix.schema).parse( " ".join([title, params]) )
+        results = searcher.search(query, limit=100)
+        if not results:
+            print "No subtitle(s) found."
+        else:
+            for result in results:
+                print result
+
