@@ -1,11 +1,11 @@
-a gitributed subtitle database
+# a gitributed subtitle database
 
-# Requirements
+## Requirements
 
 - python-whoosh
 - python-yaml
 
-# Usage
+## Usage
 
 1. Create index via `index_subs`
 2. Search subtitle via `search_subs`
