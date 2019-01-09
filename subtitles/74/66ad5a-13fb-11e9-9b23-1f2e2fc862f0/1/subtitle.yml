@@ -1,0 +1,9 @@
+---
+filename: "breakdance.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "breakdance.avi"
+  hash: "8e245d9679d31e12"
+  filesize: "12909756"
