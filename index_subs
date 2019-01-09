@@ -41,22 +41,22 @@ sys.stdout.write("\b" * (toolbar_width+1)) # return to start of line, after '['
 schema_by_hash_filesize = Schema(
 
     id       = STORED,
+    year     = ID(stored=True),
     lang     = ID(stored=True),
-    hash     = ID(stored=True),
-    filesize = ID(stored=True),
     title    = STORED,
-    year     = STORED
+    hash     = ID(stored=True),
+    filesize = ID(stored=True)
 )
 
 schema_by_movie = Schema(
 
     id         = STORED,
+    year       = ID(stored=True),
     lang       = ID(stored=True),
     title      = TEXT(stored=True),
     title_orig = TEXT(stored=True),
-    year       = NUMERIC(stored=True),
     imdb_id    = ID(stored=True),
-    num_subs   = NUMERIC(stored=True)
+    num_subs   = ID(stored=True)
 )
 
 if not os.path.exists("index"):
@@ -118,9 +118,9 @@ for uuid_prefix_foldername in uuid_prefix_foldernames:
                                     title       = unicode(subtitle_info['title']),
                                     title_orig  = unicode(title_orig),
                                     imdb_id     = unicode(imdb_id),
-                                    year        = year,
-                                    num_subs    = num_subs,
-                                    id          = subtitle_folder
+                                    year        = unicode(year),
+                                    num_subs    = unicode(num_subs),
+                                    id          = unicode(subtitle_folder)
                                    )
 
           for subtitle_dir in subtitle_dirs:
