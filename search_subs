@@ -53,7 +53,8 @@ if not os.path.exists("index"):
 if len(sys.argv) < 2:
     print "\n%s [ FILENAME | STRING_OF_MOVIENAME ] [ SEARCH_PARAMS ] " % sys.argv[0] 
     print "\n\t Examples:\n"
-    print "\t\t%s ~/Downloads/breakdance.avi\n"  % sys.argv[0]
+    print "\t\twget http://opensubtitles.org/addons/avi/breakdance.avi\n"
+    print "\t\t%s breakdance.avi\n"  % sys.argv[0]
     print "\t\t%s matrix\n"  % sys.argv[0]
     print "\t\t%s '*' 'num_subs:3 year:2003'\n"  % sys.argv[0]
     print "\t\t%s '*' 'year:2017 OR year:2018'\n"  % sys.argv[0]
