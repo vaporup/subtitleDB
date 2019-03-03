@@ -1,0 +1,12 @@
+---
+filename: "Breakin.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Breakin.avi"
+  hash: "5ad69d532107c01f"
+  filesize: "734011392"
+- filename: "Breakin AKA Breakdance - DVDRip.avi"
+  hash: "396362e39a0769ef"
+  filesize: "719073538"
