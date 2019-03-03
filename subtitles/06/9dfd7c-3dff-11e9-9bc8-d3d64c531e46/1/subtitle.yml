@@ -1,0 +1,10 @@
+---
+filename: "Revenge 2018.HDRip.XviD.AC3-EVO.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Revenge 2018.HDRip.XviD.AC3-EVO.avi"
+  hash: "5ee8eca4bec46148"
+  filesize: "1493319546"
