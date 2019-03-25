@@ -1,0 +1,9 @@
+---
+filename: "Battlefield Earth 2000 720p BDRip x264-PLAYNOW.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Battlefield Earth 2000 720p BDRip x264-PLAYNOW.mp4"
+  hash: "5cc09b19f5cf296f"
+  filesize: "963248403"
