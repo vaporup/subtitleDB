@@ -1,0 +1,9 @@
+---
+filename: "Distorted.2018.720p.BluRay.x264-[YTS.AM].srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Distorted.2018.720p.BluRay.x264-[YTS.AM].mp4"
+  hash: "1091bc03cc083fd9"
+  filesize: "789767442"
