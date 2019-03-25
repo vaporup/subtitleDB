@@ -1,0 +1,10 @@
+---
+filename: "Domain.2017.720p.WEBRip.x264-[YTS.AM].srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Domain.2017.720p.WEBRip.x264-[YTS.AM].mp4"
+  hash: "0b05b9593205cdae"
+  filesize: "860780638"
