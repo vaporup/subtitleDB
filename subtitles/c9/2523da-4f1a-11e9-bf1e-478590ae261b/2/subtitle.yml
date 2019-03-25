@@ -1,0 +1,9 @@
+---
+filename: "Fly_Me_To_Polaris_CD_2.de.srt"
+language: "de"
+format: "srt"
+
+matches:
+- filename: "Fly_Me_To_Polaris_CD_2.avi"
+  hash: "a712e5487bce8edf"
+  filesize: "726972416"
