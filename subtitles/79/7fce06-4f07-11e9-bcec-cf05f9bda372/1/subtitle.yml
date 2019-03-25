@@ -1,0 +1,9 @@
+---
+filename: "Knight.Of.Cups.2015.720p.BluRay.x264-[YTS.AG].srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Knight.Of.Cups.2015.720p.BluRay.x264-[YTS.AG].mp4"
+  hash: "25d12ce9e934112a"
+  filesize: "919030617"
