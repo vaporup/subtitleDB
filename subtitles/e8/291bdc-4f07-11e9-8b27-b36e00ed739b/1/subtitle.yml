@@ -1,0 +1,9 @@
+---
+filename: "Identity.2003.720p.BrRip.x264.BOKUTOX.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Identity.2003.720p.BrRip.x264.BOKUTOX.YIFY.mp4"
+  hash: "e774a947a444a064"
+  filesize: "629493031"
