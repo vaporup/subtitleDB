@@ -1,0 +1,9 @@
+---
+filename: "Capricorn.One.1977.720p.BluRay.H264.AAC-RARBG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Capricorn.One.1977.720p.BluRay.H264.AAC-RARBG.mp4"
+  hash: "202d0d072d3bb815"
+  filesize: "1597780827"
