@@ -1,0 +1,9 @@
+---
+filename: "Cruel.Intentions.1999.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Cruel.Intentions.1999.720p.BluRay.x264.YIFY.mp4"
+  hash: "953c1c01250a8ce1"
+  filesize: "791017865"
