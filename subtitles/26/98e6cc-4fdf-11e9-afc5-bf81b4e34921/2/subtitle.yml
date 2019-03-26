@@ -1,0 +1,9 @@
+---
+filename: "The_Twins_Effect_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Twins_Effect_CD_2.avi"
+  hash: "da049de9df8dfa4e"
+  filesize: "734902272"
