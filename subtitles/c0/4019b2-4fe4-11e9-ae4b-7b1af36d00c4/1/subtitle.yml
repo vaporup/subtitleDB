@@ -1,0 +1,12 @@
+---
+filename: "The_Lion_Roars.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Lion_Roars.avi"
+  hash: "5eba66765a0dbfdd"
+  filesize: "731199488"
+- filename: "The_Lion_Roars.avi"
+  hash: "0cb1579abc332b23"
+  filesize: "733259776"
