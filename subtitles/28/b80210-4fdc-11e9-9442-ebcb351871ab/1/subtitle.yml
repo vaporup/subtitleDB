@@ -1,0 +1,9 @@
+---
+filename: "the_legend_of_zu_cd_1.smi"
+language: "en"
+format: "smi"
+
+matches:
+- filename: "the_legend_of_zu_cd_1.avi"
+  hash: "343c808806b31d58"
+  filesize: "719816704"

@@ -1,0 +1,9 @@
+---
+filename: "The_Legend_Of_Zu.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Legend_Of_Zu.avi"
+  hash: "6a9c603d220befd7"
+  filesize: "731965440"
