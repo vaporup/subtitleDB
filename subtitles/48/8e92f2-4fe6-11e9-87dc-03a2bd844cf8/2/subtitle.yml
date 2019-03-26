@@ -1,0 +1,9 @@
+---
+filename: "Platonic_Sex_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Platonic_Sex_CD_2.avi"
+  hash: "02b4b8ffd4571a3b"
+  filesize: "733648896"
