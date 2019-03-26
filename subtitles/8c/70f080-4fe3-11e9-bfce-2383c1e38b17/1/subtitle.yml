@@ -1,0 +1,9 @@
+---
+filename: "Miracles.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Miracles.avi"
+  hash: "4fa21e0603cd548e"
+  filesize: "733437952"
