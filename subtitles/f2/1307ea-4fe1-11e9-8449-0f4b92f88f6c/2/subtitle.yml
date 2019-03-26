@@ -1,0 +1,9 @@
+---
+filename: "Kiss_Of_The_Dragon_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Kiss_Of_The_Dragon_CD_2.avi"
+  hash: "edfea14872b6db11"
+  filesize: "715460608"
