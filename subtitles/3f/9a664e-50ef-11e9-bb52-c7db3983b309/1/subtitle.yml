@@ -1,0 +1,9 @@
+---
+filename: "hero.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "hero.avi"
+  hash: "1a8bd28bfa4f2122"
+  filesize: "711262208"
