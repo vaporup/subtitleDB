@@ -1,0 +1,9 @@
+---
+filename: "Matrix_Reloaded_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Matrix_Reloaded_CD_1.avi"
+  hash: "9c9efeff9e924780"
+  filesize: "727296000"
