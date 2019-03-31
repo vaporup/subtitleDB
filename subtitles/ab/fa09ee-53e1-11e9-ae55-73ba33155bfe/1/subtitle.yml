@@ -1,0 +1,9 @@
+---
+filename: "My_little_Bride_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "My_little_Bride_CD_1.avi"
+  hash: "1da2e6ff1fa9a07d"
+  filesize: "734216192"
