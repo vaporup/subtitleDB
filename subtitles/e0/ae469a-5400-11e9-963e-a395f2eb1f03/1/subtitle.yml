@@ -1,0 +1,10 @@
+---
+filename: "All.Is.Lost.2013.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "All.Is.Lost.2013.720p.BluRay.x264.YIFY.mp4"
+  hash: "614c245e03d82e62"
+  filesize: "851050064"
