@@ -1,0 +1,9 @@
+---
+filename: "Madeleine_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Madeleine_CD_1.avi"
+  hash: "94c02475466ef2ab"
+  filesize: "734707712"
