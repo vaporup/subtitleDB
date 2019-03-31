@@ -1,0 +1,9 @@
+---
+filename: "A_Man_Who_Went_To_Mars_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "A_Man_Who_Went_To_Mars_CD_2.avi"
+  hash: "4a4e5e183e974875"
+  filesize: "734304256"
