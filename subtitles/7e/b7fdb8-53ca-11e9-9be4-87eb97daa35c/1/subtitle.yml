@@ -1,0 +1,9 @@
+---
+filename: "Drunken_Master.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Drunken_Master.avi"
+  hash: "47a4447c9a680c05"
+  filesize: "735733760"
