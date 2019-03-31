@@ -1,0 +1,9 @@
+---
+filename: "Idiots_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Idiots_CD_1.avi"
+  hash: "43f612709253d3fd"
+  filesize: "734986240"
