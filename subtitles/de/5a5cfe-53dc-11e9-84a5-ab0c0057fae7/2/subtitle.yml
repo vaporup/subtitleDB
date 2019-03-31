@@ -1,0 +1,9 @@
+---
+filename: "Dilwale_Dulhania_Le_Jayenge_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Dilwale_Dulhania_Le_Jayenge_CD_2.avi"
+  hash: "f46fa9cd9c5780f3"
+  filesize: "731301888"
