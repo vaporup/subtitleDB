@@ -1,0 +1,9 @@
+---
+filename: "First_Kiss_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "First_Kiss_CD_1.avi"
+  hash: "6799630eaaf3a921"
+  filesize: "733661184"
