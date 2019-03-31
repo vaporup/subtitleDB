@@ -1,0 +1,9 @@
+---
+filename: "the_storm_riders_cd_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "the_storm_riders_cd_2.avi"
+  hash: "92ea61896dbf0c37"
+  filesize: "694030336"
