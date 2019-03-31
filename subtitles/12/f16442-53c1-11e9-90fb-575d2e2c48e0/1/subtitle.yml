@@ -1,0 +1,9 @@
+---
+filename: "sparks-thisis40-xvid.cd1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "sparks-thisis40-xvid.cd1.avi"
+  hash: "8a7bb7fde3400e7f"
+  filesize: "730710016"
