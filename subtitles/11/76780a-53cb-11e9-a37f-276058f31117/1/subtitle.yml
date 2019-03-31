@@ -1,0 +1,13 @@
+---
+filename: "Drunken_Monkey.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Drunken_Monkey.avi"
+  hash: "130db89fcf4afd43"
+  filesize: "729585664"
+matches:
+- filename: "Drunken_Monkey.avi"
+  hash: "9a22467157ddf9f5"
+  filesize: "739723264"
