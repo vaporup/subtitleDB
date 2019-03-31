@@ -1,0 +1,9 @@
+---
+filename: "Para_Para_Sakura_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Para_Para_Sakura_CD_2.avi"
+  hash: "737654a24bfd53c5"
+  filesize: "730716160"
