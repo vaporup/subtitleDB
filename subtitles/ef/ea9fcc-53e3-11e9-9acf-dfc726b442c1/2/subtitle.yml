@@ -1,0 +1,9 @@
+---
+filename: "Armour_Of_God_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Armour_Of_God_CD_2.avi"
+  hash: "737e312b5c8446cc"
+  filesize: "733386752"
