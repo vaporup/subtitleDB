@@ -1,0 +1,9 @@
+---
+filename: "Cradle_2_The_Grave_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Cradle_2_The_Grave_CD_2.avi"
+  hash: "cfa1ca0d0faaaa32"
+  filesize: "733597696"
