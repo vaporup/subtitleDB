@@ -1,0 +1,9 @@
+---
+filename: "Project_A_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Project_A_CD_2.avi"
+  hash: "d6de621b2efd9eeb"
+  filesize: "734513152"
