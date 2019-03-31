@@ -1,0 +1,9 @@
+---
+filename: "Shaolin_Temple_I_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Shaolin_Temple_I_CD_1.avi"
+  hash: "c08631afb5046188"
+  filesize: "733382656"
