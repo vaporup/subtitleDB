@@ -1,0 +1,9 @@
+---
+filename: "Across-the-Universe-FXG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Across-the-Universe-FXG.avi"
+  hash: "8e921878003a5ec1"
+  filesize: "733214720"
