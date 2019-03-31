@@ -1,0 +1,9 @@
+---
+filename: "Deep_Loves_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Deep_Loves_CD_1.avi"
+  hash: "6d0931c5c8dd555d"
+  filesize: "732463616"
