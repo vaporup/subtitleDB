@@ -1,0 +1,9 @@
+---
+filename: "Spy_Girl_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Spy_Girl_CD_2.avi"
+  hash: "3c49e10ae29eea06"
+  filesize: "734015488"
