@@ -1,0 +1,9 @@
+---
+filename: "Once_Upon_A_Time_In_China_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Once_Upon_A_Time_In_China_CD_1.avi"
+  hash: "fa3584d22db49265"
+  filesize: "728602624"
