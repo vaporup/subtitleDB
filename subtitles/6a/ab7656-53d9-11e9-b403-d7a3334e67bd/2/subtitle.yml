@@ -1,0 +1,9 @@
+---
+filename: "Police_Story_2_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Police_Story_2_CD_2.avi"
+  hash: "54942f3651777811"
+  filesize: "735682560"

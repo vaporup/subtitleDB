@@ -1,0 +1,9 @@
+---
+filename: "Police_Story_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Police_Story_2.ogm"
+  hash: "f115fc946b15c260"
+  filesize: "737655763"
