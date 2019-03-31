@@ -1,0 +1,9 @@
+---
+filename: "Shaolin_Soccer_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Shaolin_Soccer_CD_2.avi"
+  hash: "c81732a5e03b62e5"
+  filesize: "732461056"
