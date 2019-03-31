@@ -1,0 +1,9 @@
+---
+filename: "Swordsman_II_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Swordsman_II_CD_1.avi"
+  hash: "3557709b301318e4"
+  filesize: "584083456"
