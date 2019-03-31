@@ -1,0 +1,9 @@
+---
+filename: "Kuch_Kuch_Hota_Hai_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Kuch_Kuch_Hota_Hai_CD_1.avi"
+  hash: "4ee4b817c9146cc6"
+  filesize: "727517184"
