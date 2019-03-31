@@ -1,0 +1,9 @@
+---
+filename: "The_Tricky_Master_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The_Tricky_Master_CD_1.avi"
+  hash: "ae032cd406cb0d25"
+  filesize: "733925376"
