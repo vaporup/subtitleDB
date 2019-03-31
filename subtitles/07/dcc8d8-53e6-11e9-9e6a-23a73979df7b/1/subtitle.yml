@@ -1,0 +1,9 @@
+---
+filename: "Say-Hello-for-Me-CD-1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Say-Hello-for-Me-CD-1.avi"
+  hash: "1c231ea46b147a72"
+  filesize: "734560256"
