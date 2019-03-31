@@ -1,0 +1,9 @@
+---
+filename: "Crouching_Tiger_Hidden_Dragon_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Crouching_Tiger_Hidden_Dragon_CD_2.avi"
+  hash: "730be8744444ae28"
+  filesize: "732309504"
