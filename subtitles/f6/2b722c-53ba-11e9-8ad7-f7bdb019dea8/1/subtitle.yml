@@ -1,0 +1,12 @@
+---
+filename: "Executioners.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Executioners.avi"
+  hash: "0de5494d2f82574c"
+  filesize: "732987392"
+- filename: "Executioners.avi"
+  hash: "a497633e24bd47ed"
+  filesize: "731766784"
