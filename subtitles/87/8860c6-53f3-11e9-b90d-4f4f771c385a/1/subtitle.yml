@@ -1,0 +1,9 @@
+---
+filename: "Devdas_CD_1.de.srt"
+language: "de"
+format: "srt"
+
+matches:
+- filename: "Devdas_CD_1.avi"
+  hash: "0575ec7601d43d71"
+  filesize: "734174666"
