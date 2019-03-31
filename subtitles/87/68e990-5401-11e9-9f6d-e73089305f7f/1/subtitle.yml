@@ -1,0 +1,10 @@
+---
+filename: "All-That-Heaven-Allows.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "All-That-Heaven-Allows.avi"
+  hash: "434d274b2c1f1f8e"
+  filesize: "792430592"
