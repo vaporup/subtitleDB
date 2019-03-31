@@ -1,0 +1,9 @@
+---
+filename: "fist_power_cd_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "fist_power_cd_2.avi"
+  hash: "5b53b67089fd70df"
+  filesize: "731412480"
