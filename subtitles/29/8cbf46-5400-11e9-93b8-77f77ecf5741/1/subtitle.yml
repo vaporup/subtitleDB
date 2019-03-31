@@ -1,0 +1,9 @@
+---
+filename: "Faces.in.the.Crowd.2011.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Faces.in.the.Crowd.2011.720p.BluRay.x264.YIFY.mp4"
+  hash: "08d6b60250062345"
+  filesize: "847443992"
