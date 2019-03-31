@@ -1,0 +1,9 @@
+---
+filename: "Dil_Ka_Rishta_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Dil_Ka_Rishta_CD_2.avi"
+  hash: "cd7f623f98cd1197"
+  filesize: "735449992"
