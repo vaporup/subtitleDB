@@ -1,0 +1,9 @@
+---
+filename: "New_Dragon_Inn_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "New_Dragon_Inn_CD_1.avi"
+  hash: "52b6ff9e4a4b24ff"
+  filesize: "734377984"
