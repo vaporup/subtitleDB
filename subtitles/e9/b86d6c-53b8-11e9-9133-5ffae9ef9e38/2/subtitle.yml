@@ -1,0 +1,9 @@
+---
+filename: "Winners_and_Sinners_CD_2.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Winners_and_Sinners_CD_2.avi"
+  hash: "87462852be956413"
+  filesize: "732698624"
