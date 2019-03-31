@@ -1,0 +1,9 @@
+---
+filename: "Hero_Directors_Cut_CD_1.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Hero_Directors_Cut_CD_1.avi"
+  hash: "0c79b2eb757ceba4"
+  filesize: "733767680"
