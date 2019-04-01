@@ -1,0 +1,10 @@
+---
+filename: "Batman Begins 2005-greenbud1969.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Batman Begins 2005-greenbud1969.avi"
+  hash: "478d651920d3b821"
+  filesize: "838862848"
