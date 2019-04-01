@@ -1,0 +1,9 @@
+---
+filename: "Apollo.13.1995.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Apollo.13.1995.720p.BluRay.x264.YIFY.mp4"
+  hash: "5e066d54176b1d23"
+  filesize: "893092755"
