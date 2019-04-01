@@ -1,0 +1,10 @@
+---
+filename: "Balls-of-Fury_FXG.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Balls-of-Fury_FXG.avi"
+  hash: "4bb8ab24151379a7"
+  filesize: "734052352"
