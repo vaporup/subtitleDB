@@ -6,7 +6,9 @@ import urllib2
 
 from bs4 import BeautifulSoup
 
-URL = 'https://www.imdb.com/find?q=%s&s=tt' % sys.argv[1]
+URL = 'https://www.imdb.com/find?q=%s&s=tt' % urllib2.quote(sys.argv[1])
+print
+print "Searching via %s" % URL
 oururl= urllib2.urlopen(URL).read()
 soup = BeautifulSoup(oururl, 'lxml')
 
@@ -14,8 +16,13 @@ foo = {}
 
 data_raw = soup.find_all('td', class_='result_text')
 
+print
+print "%s result(s) - Just press ENTER to page trough results" % len(data_raw)
+print
+
 for data in data_raw:
-  index = data_raw.index(data)
+
+  index = data_raw.index(data) + 1
 
   foo[index] = {}
 
@@ -29,38 +36,42 @@ for data in data_raw:
 
   if small:
     foo[index]['descr'] = data.contents[2]
-    print index, url, title, data.contents[2]
+    print index, title, data.contents[2]
   else:
     foo[index]['descr'] = data.contents[-1]
-    print index, url, title, data.contents[-1]
+    print index, title, data.contents[-1]
 
-print
+  if index % 10 == 0 or index == len(data_raw):
+    try:
+        print
+        chosen = input("Select the input: ")
+        print
 
-chosen = input("Select the input: ")
+        URL = "https://www.imdb.com%s" % foo[chosen]['url'] 
 
-print
+        oururl= urllib2.urlopen(URL).read()
+        soup = BeautifulSoup(oururl, 'lxml')
 
-URL = "https://www.imdb.com%s" % foo[chosen]['url'] 
+        data = json.loads(soup.find('script', type='application/ld+json').text)
 
+        print "title: ".ljust(20)   , data['name']
 
-oururl= urllib2.urlopen(URL).read()
-soup = BeautifulSoup(oururl, 'lxml')
+        if data.has_key('datePublished'):
+            print "year: ".ljust(20)    , data['datePublished'].split("-")[0]
 
-data = json.loads(soup.find('script', type='application/ld+json').text)
+        if data.has_key('type'):
+            print "type: ".ljust(20) , data['@type']
 
-print "title :"   , data['name']
+        print "url: ".ljust(20) , URL
+        print "id: ".ljust(20) , URL.split('/')[-2]
 
-if data.has_key('datePublished'):
-  print "year :"    , data['datePublished'].split("-")[0]
+        if data.has_key('description'):
+            print "description: ".ljust(20), data['description']
 
+        print
+        sys.exit()
 
-if data.has_key('type'):
-  print "type :" , data['@type']
+    except SyntaxError:
+        print
+        continue
 
-print "url :" , URL
-print "id :" , URL.split('/')[-2]
-
-if data.has_key('description'):
-  print "description :", data['description']
-
-print
