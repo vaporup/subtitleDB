@@ -1,9 +1,12 @@
+#!/usr/bin/env python
+
 import json
+import sys
 import urllib2
 
 from bs4 import BeautifulSoup
 
-URL = 'https://www.imdb.com/find?q=matrix&s=tt'
+URL = 'https://www.imdb.com/find?q=%s&s=tt' % sys.argv[1]
 oururl= urllib2.urlopen(URL).read()
 soup = BeautifulSoup(oururl, 'lxml')
 
