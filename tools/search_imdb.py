@@ -5,6 +5,16 @@ import urllib2
 
 from bs4 import BeautifulSoup
 
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
 URL = 'https://www.imdb.com/find?q=%s&s=tt' % urllib2.quote(sys.argv[1])
 print
 print "Searching via %s" % URL
@@ -37,10 +47,10 @@ while True:
 
       if small:
         foo[index]['descr'] = data.contents[2]
-        print index, title, data.contents[2]
+        print bcolors.WARNING + str(index) + ")" + bcolors.ENDC, title, data.contents[2]
       else:
         foo[index]['descr'] = data.contents[-1]
-        print index, title, data.contents[-1]
+        print bcolors.WARNING + str(index) + ")" + bcolors.ENDC, title, data.contents[-1]
 
       if index % 10 == 0 or index == len(data_raw):
         try:
@@ -51,7 +61,6 @@ while True:
             URL = "https://www.imdb.com%s" % foo[chosen]['url'] 
 
             URL_AKAS = URL + "releaseinfo"
-
 
             oururl= urllib2.urlopen(URL).read()
             soup = BeautifulSoup(oururl, 'lxml')
@@ -85,19 +94,18 @@ while True:
             #  <div class="summary_text">
             summary = soup.find('div', class_='summary_text').contents[0].strip()
 
-            print "title: ".ljust(20), title['content'].replace(" - IMDb", "")
-            print "title_orig: ".ljust(20) , orig_title
+            print bcolors.OKGREEN + "title: ".ljust(20) + bcolors.ENDC, bcolors.FAIL + title['content'].replace(" - IMDb", "") + bcolors.ENDC
+            print bcolors.OKGREEN +  "title_orig: ".ljust(20) + bcolors.ENDC , bcolors.FAIL + orig_title + bcolors.ENDC
 
+            print bcolors.OKGREEN + "year: ".ljust(20)  + bcolors.ENDC   , bcolors.FAIL +  year.strip("(").strip(")") + bcolors.ENDC
 
-            print "year: ".ljust(20)    , year.strip("(").strip(")")
-
-            print "url: ".ljust(20) , URL
-            print "id: ".ljust(20) , URL.split('/')[-2]
+            print bcolors.OKGREEN + "url: ".ljust(20) + bcolors.ENDC , bcolors.FAIL + URL + bcolors.ENDC
+            print bcolors.OKGREEN +  "id: ".ljust(20) + bcolors.ENDC , bcolors.FAIL + URL.split('/')[-2] + bcolors.ENDC
 
             for aka in bla:
-              print "title_aka: ".ljust(20), aka.text
+              print bcolors.OKGREEN +  "title_aka: ".ljust(20) + bcolors.ENDC, bcolors.FAIL + aka.text + bcolors.ENDC
 
-            print "summary: ".ljust(20), summary
+            print bcolors.OKGREEN +  "summary: ".ljust(20) + bcolors.ENDC, bcolors.FAIL + summary + bcolors.ENDC
 
             print
 
