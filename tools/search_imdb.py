@@ -13,6 +13,7 @@ class bcolors:
     FAIL = '\033[91m'
     ENDC = '\033[0m'
     BOLD = '\033[1m'
+    CYAN = '\033[36m'
     UNDERLINE = '\033[4m'
 
 URL = 'https://www.imdb.com/find?q=%s&s=tt' % urllib2.quote(sys.argv[1])
@@ -94,18 +95,18 @@ while True:
             #  <div class="summary_text">
             summary = soup.find('div', class_='summary_text').contents[0].strip()
 
-            print bcolors.OKGREEN + "title: ".ljust(20) + bcolors.ENDC, bcolors.FAIL + title['content'].replace(" - IMDb", "") + bcolors.ENDC
-            print bcolors.OKGREEN +  "title_orig: ".ljust(20) + bcolors.ENDC , bcolors.FAIL + orig_title + bcolors.ENDC
+            print bcolors.CYAN + "title: ".ljust(20) + bcolors.ENDC, bcolors.OKGREEN + title['content'].replace(" - IMDb", "") + bcolors.ENDC
+            print bcolors.CYAN +  "title_orig: ".ljust(20) + bcolors.ENDC , bcolors.OKGREEN + orig_title + bcolors.ENDC
 
-            print bcolors.OKGREEN + "year: ".ljust(20)  + bcolors.ENDC   , bcolors.FAIL +  year.strip("(").strip(")") + bcolors.ENDC
+            print bcolors.CYAN + "year: ".ljust(20)  + bcolors.ENDC   , bcolors.OKGREEN +  year.strip("(").strip(")") + bcolors.ENDC
 
-            print bcolors.OKGREEN + "url: ".ljust(20) + bcolors.ENDC , bcolors.FAIL + URL + bcolors.ENDC
-            print bcolors.OKGREEN +  "id: ".ljust(20) + bcolors.ENDC , bcolors.FAIL + URL.split('/')[-2] + bcolors.ENDC
+            print bcolors.CYAN + "url: ".ljust(20) + bcolors.ENDC , bcolors.OKGREEN + URL + bcolors.ENDC
+            print bcolors.CYAN +  "id: ".ljust(20) + bcolors.ENDC , bcolors.OKGREEN + URL.split('/')[-2] + bcolors.ENDC
 
             for aka in bla:
-              print bcolors.OKGREEN +  "title_aka: ".ljust(20) + bcolors.ENDC, bcolors.FAIL + aka.text + bcolors.ENDC
+              print bcolors.CYAN +  "title_aka: ".ljust(20) + bcolors.ENDC, bcolors.OKGREEN + aka.text + bcolors.ENDC
 
-            print bcolors.OKGREEN +  "summary: ".ljust(20) + bcolors.ENDC, bcolors.FAIL + summary + bcolors.ENDC
+            print bcolors.CYAN +  "summary: ".ljust(20) + bcolors.ENDC, bcolors.OKGREEN + summary + bcolors.ENDC
 
             print
 
