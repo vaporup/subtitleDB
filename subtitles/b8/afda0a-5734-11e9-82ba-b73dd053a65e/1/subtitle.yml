@@ -1,0 +1,9 @@
+---
+filename: "Blindfold.1965.DVDRip.x264-OP.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Blindfold.1965.DVDRip.x264-OP.mkv"
+  hash: "381f293e0c369471"
+  filesize: "734776310"
