@@ -1,0 +1,9 @@
+---
+filename: "Confessions.2010.JAP.DVDRip.XviD-MOC.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Confessions.2010.JAP.DVDRip.XviD-MOC.avi"
+  hash: "1d3e1147332d78b4"
+  filesize: "734201856"
