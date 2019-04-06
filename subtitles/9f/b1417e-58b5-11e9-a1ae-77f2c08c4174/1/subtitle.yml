@@ -1,0 +1,10 @@
+---
+filename: "Hachiko A Dog's Story-FXG.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Hachiko A Dog's Story-FXG.avi"
+  hash: "ec0029a542873372"
+  filesize: "733263872"
