@@ -1,0 +1,10 @@
+---
+filename: "Chronicle_Jaybob.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Chronicle_Jaybob.avi"
+  hash: "945dc030b119c712"
+  filesize: "732497320"
