@@ -1,0 +1,9 @@
+---
+filename: "Roxanne_1987_WunSeeDee.sr.srt"
+language: "sr"
+format: "srt"
+
+matches:
+- filename: "Roxanne_1987_WunSeeDee.avi"
+  hash: "c0a991bf1fc0da4d"
+  filesize: "735571968"
