@@ -1,0 +1,9 @@
+---
+filename: "Carnage.2011.BrRip.720p.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Carnage.2011.BrRip.720p.x264.YIFY.mp4"
+  hash: "80613eaed7f02a8d"
+  filesize: "578378970"
