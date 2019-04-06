@@ -1,0 +1,9 @@
+---
+filename: "Robocop.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Robocop.avi"
+  hash: "e45448f2d3703f7a"
+  filesize: "755846656"
