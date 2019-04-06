@@ -1,0 +1,9 @@
+---
+filename: "Disclosure.1994.srt"
+language: "es"
+format: "srt"
+
+matches:
+- filename: "Disclosure.1994.avi"
+  hash: "a51900cb1245e930"
+  filesize: "735449088"
