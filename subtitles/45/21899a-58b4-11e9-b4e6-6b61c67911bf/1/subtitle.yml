@@ -1,0 +1,9 @@
+---
+filename: "Easy Rider_1969_DVDrip_XviD-Ekolb.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Easy Rider_1969_DVDrip_XviD-Ekolb.avi"
+  hash: "f24e4f960db6ba25"
+  filesize: "733001728"
