@@ -1,0 +1,10 @@
+---
+filename: "Commando.[1985].DVDRIP.XVID.[Eng]-DUQA.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Commando.[1985].DVDRIP.XVID.[Eng]-DUQA.avi"
+  hash: "eafd3ed9e4e43a87"
+  filesize: "733106176"
