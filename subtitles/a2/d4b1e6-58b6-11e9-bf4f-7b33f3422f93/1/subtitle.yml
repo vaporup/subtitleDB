@@ -1,0 +1,9 @@
+---
+filename: "Hud.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Hud.avi"
+  hash: "7558cf68426f40e2"
+  filesize: "734554112"
