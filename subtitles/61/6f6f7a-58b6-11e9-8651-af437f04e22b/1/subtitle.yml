@@ -1,0 +1,10 @@
+---
+filename: "He-Was-a-Quiet-Man.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "He-Was-a-Quiet-Man.avi"
+  hash: "54b10662373d329a"
+  filesize: "733712384"
