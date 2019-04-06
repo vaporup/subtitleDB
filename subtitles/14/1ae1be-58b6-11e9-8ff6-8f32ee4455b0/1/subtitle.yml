@@ -1,0 +1,9 @@
+---
+filename: "Hackers.1995.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Hackers.1995.720p.BrRip.x264.YIFY.mp4"
+  hash: "18e5c7974c21fa6e"
+  filesize: "734896840"
