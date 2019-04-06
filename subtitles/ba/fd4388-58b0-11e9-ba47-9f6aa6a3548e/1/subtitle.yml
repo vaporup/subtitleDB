@@ -1,0 +1,9 @@
+---
+filename: "Convoy.1978-CyBeRDeMoN.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Convoy.1978-CyBeRDeMoN.avi"
+  hash: "b391344301103722"
+  filesize: "734017536"
