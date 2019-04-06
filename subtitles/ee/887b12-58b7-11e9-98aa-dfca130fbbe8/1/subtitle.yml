@@ -1,0 +1,9 @@
+---
+filename: "Whiplash.2014.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Whiplash.2014.720p.BluRay.x264.YIFY.mp4"
+  hash: "5600acca207aa3cc"
+  filesize: "851939105"
