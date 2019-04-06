@@ -1,0 +1,9 @@
+---
+filename: "Mr Destiny (1990).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Mr Destiny (1990).avi"
+  hash: "998e628994431d22"
+  filesize: "734038016"
