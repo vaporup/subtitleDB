@@ -1,0 +1,9 @@
+---
+filename: "Brokeback-Mountain-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Brokeback-Mountain-aXXo.avi"
+  hash: "a8a504ad29883870"
+  filesize: "734967808"
