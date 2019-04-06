@@ -1,0 +1,9 @@
+---
+filename: "Kingpin.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Kingpin.avi"
+  hash: "c7cb6afbf4233e7d"
+  filesize: "891910144"
