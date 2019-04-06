@@ -1,0 +1,10 @@
+---
+filename: "Choke-FXG.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Choke-FXG.avi"
+  hash: "6dca92f94f9310ce"
+  filesize: "733849656"
