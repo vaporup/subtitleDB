@@ -1,0 +1,9 @@
+---
+filename: "WarGames.1983.DVDRip.XviD-DiSSOLVE.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "WarGames.1983.DVDRip.XviD-DiSSOLVE.avi"
+  hash: "68546b68bc0bd2e6"
+  filesize: "733902848"
