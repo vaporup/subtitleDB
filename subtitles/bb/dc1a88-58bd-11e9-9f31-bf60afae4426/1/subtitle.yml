@@ -1,0 +1,9 @@
+---
+filename: "Raging-Bull_WunSeeDee.no.srt"
+language: "no"
+format: "srt"
+
+matches:
+- filename: "Raging-Bull_WunSeeDee.avi"
+  hash: "08c0fef57b5eeb79"
+  filesize: "733958144"
