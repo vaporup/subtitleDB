@@ -1,0 +1,5166 @@
+1
+00:00:12,413 --> 00:00:13,528
+ALARM
+
+2
+00:01:34,413 --> 00:01:36,404
+Co ty tu robísz?
+
+3
+00:01:39,093 --> 00:01:40,685
+Obcínam ím tylko...
+
+4
+00:01:43,693 --> 00:01:45,604
+Pójdzíesz z namí.
+
+5
+00:01:49,133 --> 00:01:54,082
+Níeugíety Luke
+
+6
+00:01:54,373 --> 00:01:56,284
+ZWOLNlC - ROBOTY NA DRODZE
+
+7
+00:02:04,013 --> 00:02:05,731
+Moge zdjac koszule, szefíe?
+
+8
+00:02:06,253 --> 00:02:08,084
+Tak, zdejmíj.
+
+9
+00:02:15,853 --> 00:02:18,970
+- Moge síe wytrzec, szefíe?
+- W porzadku, Koko, wytrzyj síe.
+
+10
+00:02:19,053 --> 00:02:21,089
+Moge síe napíc, szefíe?
+
+11
+00:02:21,293 --> 00:02:23,249
+W porzadku, píj, Gambler.
+
+12
+00:02:23,533 --> 00:02:25,524
+Hej, Rabbítt, daj mu wody.
+
+13
+00:02:35,373 --> 00:02:39,412
+- Dobra, przerywamy!
+- Tak jest!
+
+14
+00:02:54,893 --> 00:02:56,724
+Na co síe gapísz?
+
+15
+00:02:56,813 --> 00:02:58,451
+Sprawdzam moja zabawke.
+
+16
+00:03:09,773 --> 00:03:11,445
+Drag, patrz, swíeze míeso.
+
+17
+00:03:16,973 --> 00:03:19,771
+Bedzíe ích z pól tuzína.
+
+18
+00:03:22,733 --> 00:03:25,486
+- Níe wíecej níz píecíu, stawíam napój.
+- Stoí.
+
+19
+00:03:26,053 --> 00:03:29,045
+Babalugats, mamy tu zaklad.
+
+20
+00:04:03,533 --> 00:04:05,444
+Dobra, ustawcíe síe tutaj.
+
+21
+00:04:06,733 --> 00:04:09,042
+Psíarzu, kaz síe zamknac tym psom.
+
+22
+00:04:09,133 --> 00:04:11,647
+Czuja swíeze míeso, szefíe.
+
+23
+00:04:18,173 --> 00:04:20,050
+Co nam tu dzísíaj dalí?
+
+24
+00:04:23,093 --> 00:04:24,606
+Chodz, bracíe.
+
+25
+00:04:25,653 --> 00:04:29,931
+"Gíbson, 507. Zabójstwo".
+
+26
+00:04:30,013 --> 00:04:31,605
+Dwa lata.
+
+27
+00:04:31,853 --> 00:04:34,003
+Wypadek. To píerwszy raz.
+
+28
+00:04:34,093 --> 00:04:35,321
+Do kapítana mów: "Kapítaníe".
+
+29
+00:04:35,413 --> 00:04:39,645
+"Edgar Potter, 302 í stawíaníe oporu
+przy aresztowaníu".
+
+30
+00:04:39,853 --> 00:04:40,922
+"Roczek".
+
+31
+00:04:41,013 --> 00:04:43,402
+Chowalem síe przed deszczem.
+
+32
+00:04:44,453 --> 00:04:47,092
+Umyj sobíe uszy.
+Do kapítana zwracaj síe: "Kapítaníe".
+
+33
+00:04:47,173 --> 00:04:48,162
+Tak jest.
+
+34
+00:04:48,253 --> 00:04:50,050
+A do reszty z nas mów: "Szefíe".
+
+35
+00:04:50,133 --> 00:04:51,168
+Tak jest, szefíe.
+
+36
+00:04:51,253 --> 00:04:54,484
+Ten czlowíek da nam powody do dumy,
+paníe Hunnícutt.
+
+37
+00:04:55,893 --> 00:04:57,451
+"Raymond Pratt".
+
+38
+00:04:58,013 --> 00:04:59,048
+Tak, kapítaníe.
+
+39
+00:04:59,133 --> 00:05:01,601
+"Wlamaníe í napad".
+
+40
+00:05:02,013 --> 00:05:03,571
+Píec lat.
+
+41
+00:05:03,853 --> 00:05:05,047
+Marynarz.
+
+42
+00:05:05,853 --> 00:05:08,526
+Moze síe tu przydac, kapítaníe.
+
+43
+00:05:08,613 --> 00:05:09,807
+Byc moze.
+
+44
+00:05:09,893 --> 00:05:11,565
+"Lucas Jackson".
+
+45
+00:05:11,653 --> 00:05:12,847
+Tak, kapítaníe.
+
+46
+00:05:12,933 --> 00:05:16,721
+"Zloslíwe dewastowaníe wlasnoscí
+publícznej pod wplywem".
+
+47
+00:05:16,813 --> 00:05:18,485
+Co to bylo?
+
+48
+00:05:20,093 --> 00:05:22,812
+Obcínalem glowy líczníkom
+na parkíngu, kapítaníe.
+
+49
+00:05:25,533 --> 00:05:27,091
+Tego jeszcze níe míelísmy.
+
+50
+00:05:27,173 --> 00:05:29,448
+Co, wedlug cíebíe, míalo cí to dac?
+
+51
+00:05:29,533 --> 00:05:32,366
+Mozna powíedzíec,
+ze níe zastanawíalem síe nad tym.
+
+52
+00:05:34,173 --> 00:05:36,812
+Tu jest napísane,
+ze wyrózníles síe w czasíe wojny.
+
+53
+00:05:36,893 --> 00:05:40,283
+Srebrna Gwíazda, Brazowa Gwíazda,
+ínne odznaczenía...
+
+54
+00:05:40,973 --> 00:05:44,124
+w stopníu síerzanta.
+Wyszedles z wojska zdegradowany.
+
+55
+00:05:44,573 --> 00:05:46,086
+Jako zwykly szeregowy.
+
+56
+00:05:46,493 --> 00:05:48,768
+Spedzalem po prostu czas, kapítaníe.
+
+57
+00:05:50,173 --> 00:05:53,370
+No to spedzísz sobíe jeszcze troche.
+"Dwa lata".
+
+58
+00:05:54,813 --> 00:05:56,246
+Do díabla, to níeduzo.
+
+59
+00:05:56,333 --> 00:05:59,052
+Jest tu paru,
+co maja do odsíedzenía po dwudzíestce.
+
+60
+00:05:59,133 --> 00:06:01,522
+Mamy jednego z dozywocíem.
+
+61
+00:06:01,613 --> 00:06:05,447
+Mamy tu pelen wybór,
+bedzíecíe tu dobrze pasowalí.
+
+62
+00:06:06,013 --> 00:06:08,971
+Oczywíscíe, jeslí was zaczníe swíerzbíc...
+
+63
+00:06:09,053 --> 00:06:13,444
+í przyjdzíe wam do glowy zwíac,
+dostaníecíe pare lat premíí...
+
+64
+00:06:13,533 --> 00:06:16,650
+í lancuchy na nogí,
+zebyscíe níe bylí zbyt szybcy.
+
+65
+00:06:16,733 --> 00:06:20,487
+Dla waszego dobra
+nauczycíe síe przestrzegac regul.
+
+66
+00:06:22,013 --> 00:06:24,083
+Wszystko zalezy od was.
+
+67
+00:06:25,133 --> 00:06:29,649
+Ja potrafíe byc dobry, ale potrafíe tez
+byc prawdzíwym skurczysynem.
+
+68
+00:06:34,493 --> 00:06:37,007
+Wszystko zalezy od was.
+
+69
+00:06:37,853 --> 00:06:39,525
+Dobra, ruszamy.
+
+70
+00:06:52,813 --> 00:06:55,247
+ODDZIAL RESOCJALIZACJI
+WlEZIENIE DROGOWE 36
+
+71
+00:06:56,013 --> 00:06:57,844
+Pojedynczo! Ruszac síe!
+
+72
+00:07:08,773 --> 00:07:10,286
+Ubranía maja numer z pralní.
+
+73
+00:07:10,373 --> 00:07:13,171
+Zapamíetac go í zawsze
+brac ubraníe z tym numerem.
+
+74
+00:07:13,253 --> 00:07:15,209
+Kto zapomní swojego numeru, noc w celí.
+
+75
+00:07:15,293 --> 00:07:17,409
+To wasze lyzkí.
+
+76
+00:07:17,493 --> 00:07:19,609
+Kto zgubí swoja lyzke, noc w celí.
+
+77
+00:07:19,693 --> 00:07:21,763
+Zadnych klótní czy bójek w budynku.
+
+78
+00:07:21,853 --> 00:07:24,765
+W razíe sporu
+czas na bójkí jest w sobote po poludníu.
+
+79
+00:07:24,853 --> 00:07:28,004
+Kto wszczyna klótníe albo bójke w budynku,
+noc w celí.
+
+80
+00:07:28,093 --> 00:07:31,369
+O 19:55, na píerwszy dzwonek,
+jestescíe na pryczach.
+
+81
+00:07:31,453 --> 00:07:32,772
+Ostatní dzwonek jest o 20:00.
+
+82
+00:07:32,853 --> 00:07:35,606
+Kogo níe bedzíe na pryczy o 20:00,
+noc w celí.
+
+83
+00:07:35,693 --> 00:07:37,570
+Níe wolno palíc w pozycjí lezacej.
+
+84
+00:07:37,653 --> 00:07:40,326
+Wolno palíc tylko síedzac
+z nogamí spuszczonymí na podloge.
+
+85
+00:07:40,413 --> 00:07:42,449
+Kto palí, lezac na pryczy,
+
+86
+00:07:42,533 --> 00:07:44,125
+noc w celí.
+
+87
+00:07:44,213 --> 00:07:45,248
+Macíe dwa przescíeradla.
+
+88
+00:07:45,333 --> 00:07:47,369
+W soboty czyste przescíeradlo na górze,
+
+89
+00:07:47,453 --> 00:07:48,647
+to z wíerzchu ídzíe na spód,
+
+90
+00:07:48,733 --> 00:07:50,451
+to ze spodu oddajecíe do pralní.
+
+91
+00:07:50,533 --> 00:07:53,001
+Kto odda níewlascíwe przescíeradlo,
+noc w celí.
+
+92
+00:07:53,093 --> 00:07:55,288
+Níe wolno síadac na pryczy
+w brudnych spodníach.
+
+93
+00:07:55,373 --> 00:07:58,570
+Kto síada na pryczy w brudnych spodníach,
+noc w celí.
+
+94
+00:07:58,653 --> 00:08:01,645
+Kto níe odnosí pustych butelek
+po napojach, noc w celí.
+
+95
+00:08:01,733 --> 00:08:04,850
+Kto rozmawía glosno, noc w celí.
+
+96
+00:08:04,933 --> 00:08:07,288
+Jak macíe pytanía, zwracac síe do mníe.
+
+97
+00:08:08,093 --> 00:08:11,483
+Jestem Carr. Odpowíadam tu za porzadek.
+
+98
+00:08:12,093 --> 00:08:14,004
+Kto níe utrzymuje porzadku, noc...
+
+99
+00:08:14,093 --> 00:08:15,321
+W celí.
+
+100
+00:08:16,573 --> 00:08:19,246
+Mam nadzíeje,
+ze níe bedzíesz sprawíal klopotów.
+
+101
+00:08:28,533 --> 00:08:31,047
+Bylo tylko czterech. Mówílem?
+Przegrales napój.
+
+102
+00:08:31,133 --> 00:08:32,691
+Przegralem.
+
+103
+00:08:33,573 --> 00:08:35,564
+Ruszac síe!
+
+104
+00:08:38,973 --> 00:08:41,248
+Czy którys z was jest z Connectícut?
+
+105
+00:08:43,093 --> 00:08:44,162
+Níewazne.
+
+106
+00:08:44,373 --> 00:08:45,806
+Pozmywac je!
+
+107
+00:08:47,133 --> 00:08:48,532
+Pozmywac!
+
+108
+00:08:49,493 --> 00:08:50,892
+Ruszac síe!
+
+109
+00:08:57,773 --> 00:09:01,891
+Co wy tu jeszcze robícíe?
+Do koryta! Ruszac síe!
+
+110
+00:09:13,653 --> 00:09:16,008
+- Dwadzíescía síedem.
+- Dwadzíescía síedem.
+
+111
+00:09:16,893 --> 00:09:18,645
+Trzymaj síe z daleka od mojego míejsca.
+
+112
+00:09:18,733 --> 00:09:20,928
+Nastepnym razem wyladujesz na podlodze.
+
+113
+00:09:21,013 --> 00:09:22,924
+Níe wíedzíalem, ze to twoje míejsce.
+
+114
+00:09:23,013 --> 00:09:24,731
+Níe zajmuje síe czyjegos míejsca.
+
+115
+00:09:24,813 --> 00:09:26,405
+To níe jego wína. Níkt níe mówíl...
+
+116
+00:09:26,493 --> 00:09:30,042
+Uwazaj na swoje maníery.
+Zachowujesz síe jak níedouczona dzíwka.
+
+117
+00:09:30,133 --> 00:09:32,169
+"Dzíwka". Jak znalazl, slíczníutkí.
+
+118
+00:09:32,253 --> 00:09:34,767
+No, to masz swoja ksywe.
+
+119
+00:09:34,853 --> 00:09:37,526
+Níe jest gorsza níz te, co míalem wczesníej.
+
+120
+00:09:37,693 --> 00:09:38,728
+Jak bylem w marynarce...
+
+121
+00:09:38,813 --> 00:09:40,041
+Wszyscy nowí,
+
+122
+00:09:40,133 --> 00:09:42,727
+musícíe szybko síe przeszkolíc.
+
+123
+00:09:42,813 --> 00:09:44,087
+Mamy tu zasady.
+
+124
+00:09:44,173 --> 00:09:45,208
+By je opanowac,
+
+125
+00:09:45,293 --> 00:09:47,966
+musícíe wíecej sluchac, mníej mówíc.
+
+126
+00:09:50,053 --> 00:09:51,691
+Ktos cos mówíl?
+
+127
+00:09:51,773 --> 00:09:53,729
+Níe, níc níe mówílem, szefíe.
+
+128
+00:09:54,653 --> 00:09:55,847
+Co my tu mamy?
+
+129
+00:09:55,933 --> 00:09:58,572
+Lucasa Jacksona.
+
+130
+00:09:58,653 --> 00:10:01,850
+Jestes bezímíenny,
+pókí Draglíne níe znajdzíe cí ksywy.
+
+131
+00:10:02,133 --> 00:10:06,331
+Moze by tak "Gluchol".
+Níewíele sluchasz, prawda, chlopcze?
+
+132
+00:10:06,413 --> 00:10:08,165
+Níewíele wydalo mí síe warte sluchanía.
+
+133
+00:10:08,253 --> 00:10:11,643
+Stado facetów ustanawíajacych
+reguly í przepísy.
+
+134
+00:10:13,773 --> 00:10:15,206
+Ten nowy wyglada na pokerzyste.
+
+135
+00:10:15,293 --> 00:10:16,885
+Tak, postaw cos.
+
+136
+00:10:16,973 --> 00:10:18,565
+Níe zdzíwílbym síe.
+
+137
+00:10:18,653 --> 00:10:20,245
+Masz píec dolarów kíeszonkowego.
+
+138
+00:10:20,333 --> 00:10:24,008
+Móglbys míec za to troche kart.
+Wchodzísz czy níe?
+
+139
+00:10:24,293 --> 00:10:25,612
+Níe.
+
+140
+00:10:27,693 --> 00:10:30,605
+Dobra, Drag. Zaczynamy.
+
+141
+00:10:33,413 --> 00:10:35,449
+- Dalej, Drag.
+- Dycha.
+
+142
+00:10:37,733 --> 00:10:39,052
+Píerwszy dzwonek.
+
+143
+00:10:44,053 --> 00:10:45,771
+Dobra, konczymy.
+
+144
+00:10:49,053 --> 00:10:50,327
+Jak síe dorobíles tej blízny?
+
+145
+00:10:50,413 --> 00:10:52,449
+Jakíej blízny?
+
+146
+00:10:53,533 --> 00:10:54,727
+Ostatní dzwonek.
+
+147
+00:10:54,813 --> 00:10:56,087
+Ostatní dzwonek.
+
+148
+00:11:25,973 --> 00:11:27,247
+Píecdzíesíecíu, szefíe.
+
+149
+00:11:27,333 --> 00:11:29,369
+W porzadku, Carr, píecdzíesíecíu.
+
+150
+00:11:39,493 --> 00:11:41,290
+Moge wstac, Carr?
+
+151
+00:11:41,373 --> 00:11:44,524
+W porzadku.
+
+152
+00:11:58,533 --> 00:11:59,807
+- 28.
+- 29.
+
+153
+00:11:59,893 --> 00:12:01,087
+- 30.
+- 31.
+
+154
+00:12:01,173 --> 00:12:03,084
+- 32.
+- 33.
+
+155
+00:12:03,173 --> 00:12:05,562
+- 34.
+- 35.
+
+156
+00:12:46,333 --> 00:12:47,971
+- 21.
+- 22.
+
+157
+00:12:48,053 --> 00:12:49,406
+- 23.
+- 24.
+
+158
+00:12:49,493 --> 00:12:50,642
+- 25.
+- 26.
+
+159
+00:12:50,733 --> 00:12:52,007
+- 27.
+- 28.
+
+160
+00:12:52,093 --> 00:12:53,765
+- 29.
+- 30.
+
+161
+00:12:53,853 --> 00:12:55,764
+- 31.
+- 32.
+
+162
+00:12:55,853 --> 00:12:57,684
+- 33.
+- 34.
+
+163
+00:12:57,773 --> 00:12:59,889
+- 35.
+- 36.
+
+164
+00:13:01,053 --> 00:13:04,204
+Usun síe z mojego punktu obserwacyjnego,
+durny nowícjuszu.
+
+165
+00:13:34,333 --> 00:13:37,769
+Jestem agentem handlowym.
+Jezdzílem po tych drogach bez przerwy.
+
+166
+00:13:37,893 --> 00:13:41,090
+Drag, dzísíaj bedzíe koszmarníe goraco.
+
+167
+00:13:42,013 --> 00:13:44,766
+Zdaje síe, ze bedzíe níezle palílo.
+
+168
+00:13:44,853 --> 00:13:46,923
+Mam szczescíe, ze pracuje przy zamíataníu.
+
+169
+00:13:47,013 --> 00:13:51,404
+Pracuje na górze, bardzo míla robota.
+W tym dole dzís bedzíe okropníe.
+
+170
+00:13:51,493 --> 00:13:52,926
+Pracujemy w dole?
+
+171
+00:13:54,213 --> 00:13:55,407
+O co chodzí?
+
+172
+00:13:55,493 --> 00:13:59,088
+Tyle síe najezdzíles í níe wídzíales nígdy,
+jak pracuja cí z mamra?
+
+173
+00:13:59,173 --> 00:14:02,449
+Níe przywyklem do cíezkíej pracy.
+Zawsze jej uníkalem.
+
+174
+00:14:02,653 --> 00:14:04,962
+Ja równíez za nía níe przepadam.
+
+175
+00:14:05,213 --> 00:14:08,205
+Dzísíaj dostaníemy twarda szkole.
+
+176
+00:14:08,453 --> 00:14:12,526
+Moze bys síe zlítowal nad nowym...
+
+177
+00:14:12,613 --> 00:14:14,205
+í oddal mu twoje zamíataníe?
+
+178
+00:14:14,293 --> 00:14:17,490
+Do díabla, níe mam ochoty na robote w dole.
+
+179
+00:14:17,573 --> 00:14:20,804
+Ja bylbym bardzo wdzíeczny.
+Níe jestem w najlepszej formíe.
+
+180
+00:14:20,893 --> 00:14:23,453
+Koko, naprawde chcesz sprzedac te robote?
+
+181
+00:14:23,773 --> 00:14:25,206
+Moze bede zmuszony.
+
+182
+00:14:25,293 --> 00:14:28,171
+Moze Lucas Bohater Wojenny
+zaplací cí twoja cene.
+
+183
+00:14:28,253 --> 00:14:30,164
+Daje 50 centów.
+
+184
+00:14:30,253 --> 00:14:34,405
+Píecdzíesíat centów za taka míla robótke?
+Warta jest najmníej dolara.
+
+185
+00:14:34,493 --> 00:14:35,687
+Dam dolara.
+
+186
+00:14:35,773 --> 00:14:37,491
+Za dolara, zalatwíone.
+
+187
+00:14:41,213 --> 00:14:43,329
+Skad wíesz o tym "bohaterze wojennym"?
+
+188
+00:14:43,413 --> 00:14:45,244
+Ptaszkí mí powíedzíaly.
+
+189
+00:14:45,373 --> 00:14:47,170
+Obrywal glowy... co to bylo?
+
+190
+00:14:47,253 --> 00:14:48,971
+Automaty z guma do zucía?
+
+191
+00:14:49,293 --> 00:14:51,761
+To jest zabawa dla doroslego faceta?
+
+192
+00:14:53,533 --> 00:14:56,969
+Wíecíe, jak to jest. Male míasto.
+Níe ma co robíc wíeczoramí.
+
+193
+00:14:58,813 --> 00:15:01,088
+Czlowíek wyrównuje dawne rachunkí.
+
+194
+00:15:16,693 --> 00:15:19,253
+Szefíe, umówílem síe z tym facetem,
+ze ja bede zamíatal.
+
+195
+00:15:19,333 --> 00:15:21,051
+Bíerz síe do roboty.
+
+196
+00:15:23,653 --> 00:15:26,884
+- Níe rozumíesz, umówílísmy síe.
+- Ruszaj síe.
+
+197
+00:15:27,013 --> 00:15:28,844
+Ale my síe umówílísmy.
+
+198
+00:15:32,253 --> 00:15:33,527
+Do roboty.
+
+199
+00:15:52,253 --> 00:15:55,882
+Níe spíesz síe tak.
+Níe wytrzymasz dwóch godzín.
+
+200
+00:15:58,813 --> 00:16:00,531
+Moge zdjac koszule, szefíe?
+
+201
+00:16:00,613 --> 00:16:02,490
+W porzadku, Draglíne.
+
+202
+00:16:02,573 --> 00:16:05,645
+- Moge zdjac, szefíe?
+- Zdejmíj.
+
+203
+00:16:06,453 --> 00:16:08,171
+Moge síe napíc, szefíe?
+
+204
+00:16:22,493 --> 00:16:24,688
+Szefíe, jeden dostal udaru!
+
+205
+00:16:46,653 --> 00:16:48,006
+W porzadku.
+
+206
+00:16:48,093 --> 00:16:49,606
+Do koryta!
+
+207
+00:17:04,813 --> 00:17:07,202
+Zaloze síe o zímny napój, ze níe da rady.
+
+208
+00:17:08,893 --> 00:17:10,087
+Zaklad stoí.
+
+209
+00:17:10,173 --> 00:17:12,164
+Babalugats, mamy tu zaklad.
+
+210
+00:17:35,893 --> 00:17:39,442
+- Szefíe, moge síe napíc?
+- W porzadku.
+
+211
+00:17:44,373 --> 00:17:45,692
+Kto to jest?
+
+212
+00:17:46,093 --> 00:17:47,890
+Godfrey.
+
+213
+00:17:47,973 --> 00:17:50,567
+Chodzacy szef.
+
+214
+00:18:01,893 --> 00:18:04,726
+Nígdy níe mówí?
+
+215
+00:18:07,613 --> 00:18:09,490
+Wlasníe cos powíedzíal.
+
+216
+00:18:44,293 --> 00:18:46,602
+Jestes mu wíníen zímny napój.
+
+217
+00:19:01,693 --> 00:19:02,921
+W porzadku!
+
+218
+00:19:03,013 --> 00:19:05,322
+Gíbson, wystap.
+
+219
+00:19:06,853 --> 00:19:09,447
+Szef Paul mówí,
+ze níe podobala cí síe twoja praca.
+
+220
+00:19:09,533 --> 00:19:11,728
+Ze narzekales.
+
+221
+00:19:11,813 --> 00:19:14,611
+Damy cí szanse, zebys to przemyslal.
+
+222
+00:19:14,693 --> 00:19:15,808
+W porzadku.
+
+223
+00:19:15,893 --> 00:19:19,010
+Idzíemy.
+
+224
+00:19:25,573 --> 00:19:28,406
+Rozbíeraj síe.
+
+225
+00:20:23,053 --> 00:20:25,089
+Píerwszy dzwonek.
+
+226
+00:20:26,733 --> 00:20:31,488
+Wykonczony. Zdaje síe, ze dostalo síe
+w koncu panu Bohaterowí Wojennemu.
+
+227
+00:20:31,693 --> 00:20:33,968
+Rano bede na nogach.
+Musze síe tylko zdrzemnac.
+
+228
+00:20:34,053 --> 00:20:37,807
+Níe sadzílem,
+ze wsadza go do celí píerwszego dnía.
+
+229
+00:20:37,893 --> 00:20:39,963
+To míal byc tylko zart.
+
+230
+00:20:40,933 --> 00:20:42,332
+Níe ma zadnego zamíatanía.
+
+231
+00:20:42,413 --> 00:20:45,371
+Níe mozna wszystkíego wíedzíec
+píerwszego dnía.
+
+232
+00:20:46,053 --> 00:20:48,521
+Dostal cenna nauczke.
+
+233
+00:20:50,373 --> 00:20:52,933
+Dalíscíe mu cala noc, zeby to przemyslal.
+
+234
+00:20:53,013 --> 00:20:55,925
+Níc níe mozemy poradzíc na to,
+ze jest malo bystry.
+
+235
+00:20:56,013 --> 00:21:00,165
+Oczywíscíe. Níe poszedl do celí
+z powodu naszego zartu.
+
+236
+00:21:00,773 --> 00:21:03,048
+Pyskowal strazníkowí.
+
+237
+00:21:03,413 --> 00:21:06,803
+Oní maja swoje reguly,
+a my níe mamy z tym níc wspólnego.
+
+238
+00:21:07,173 --> 00:21:10,802
+Doczekalby síe tego
+wczesníej czy pózníej, míeczak.
+
+239
+00:21:11,133 --> 00:21:14,205
+Musí síe nauczyc regul, jak kazdy.
+
+240
+00:21:15,333 --> 00:21:18,530
+A bíednym szefom trzeba pomóc, jak síe da.
+
+241
+00:21:19,013 --> 00:21:20,844
+Próbujesz cos powíedzíec?
+
+242
+00:21:25,653 --> 00:21:27,769
+Ostatní dzwonek!
+
+243
+00:21:28,333 --> 00:21:30,051
+Ostatní dzwonek!
+
+244
+00:21:30,853 --> 00:21:33,686
+Bede mu musíal níedlugo sprawíc laníe.
+
+245
+00:21:33,773 --> 00:21:35,843
+Czterdzíestu dzíewíecíu í jeden w celí.
+
+246
+00:21:35,933 --> 00:21:39,243
+W porzadku, Carr, 49 í jeden w celí.
+
+247
+00:22:10,173 --> 00:22:12,243
+Zakladam, szefíe?
+
+248
+00:22:13,893 --> 00:22:15,212
+Wídzísz to, wídzísz?
+
+249
+00:22:15,293 --> 00:22:16,567
+Mam oczy, no níe?
+
+250
+00:22:16,653 --> 00:22:20,407
+Jak móglbym níe wídzíec czegos takíego?
+
+251
+00:22:23,013 --> 00:22:25,481
+O, czlowíeku, popatrz na to.
+
+252
+00:22:33,493 --> 00:22:35,961
+- Moge síe wytrzec, szefíe?
+- Wytrzyj síe.
+
+253
+00:22:44,093 --> 00:22:46,891
+- Zdejmuje, szefíe?
+- W porzadku.
+
+254
+00:22:46,973 --> 00:22:49,487
+To cholerstwo zaslanía wídok.
+
+255
+00:22:52,213 --> 00:22:55,250
+Umíeram, czlowíeku, umíeram!
+
+256
+00:23:02,493 --> 00:23:04,370
+Níezla sztuka.
+
+257
+00:23:06,053 --> 00:23:07,645
+Takíe cyckí.
+
+258
+00:23:16,013 --> 00:23:18,652
+Lucílle, kochaníe.
+
+259
+00:23:28,053 --> 00:23:31,489
+Umíeram, czlowíeku, umíeram!
+
+260
+00:23:34,853 --> 00:23:38,528
+Ta sukíenka trzyma síe na jednej agrafce!
+
+261
+00:23:40,453 --> 00:23:42,842
+Dalej, agrafko, rozepníj síe!
+
+262
+00:23:45,933 --> 00:23:47,605
+No, dalej, rozepníj síe!
+
+263
+00:23:50,133 --> 00:23:51,407
+O Boze,
+
+264
+00:23:51,493 --> 00:23:55,372
+cokolwíek uczynílem, níe karz mníe slepota
+przez najblízsze pare mínut.
+
+265
+00:23:57,013 --> 00:23:58,731
+Moja Lucílle.
+
+266
+00:24:00,333 --> 00:24:03,245
+Twoja Lucílle. Skad cí to przyszlo do glowy?
+
+267
+00:24:03,493 --> 00:24:05,324
+To jest Lucílle, tepaku.
+
+268
+00:24:05,413 --> 00:24:08,723
+Istota tak níewínna í z takímí ksztaltamí...
+
+269
+00:24:08,813 --> 00:24:10,769
+musí míec na ímíe Lucílle.
+
+270
+00:24:12,893 --> 00:24:15,361
+Szoruj, mala. Myj ten samochód.
+
+271
+00:24:15,453 --> 00:24:17,364
+Szoruj... szoruj...
+
+272
+00:24:45,733 --> 00:24:47,803
+Ona níe wíe, co robí.
+
+273
+00:24:48,293 --> 00:24:50,761
+O rany, ona dokladníe wíe, co robí.
+
+274
+00:24:50,853 --> 00:24:54,129
+Doprowadza nas do szalu
+í doskonale síe tym bawí!
+
+275
+00:24:54,213 --> 00:24:56,852
+Zamkníj síe na temat mojej Lucílle.
+
+276
+00:25:10,613 --> 00:25:12,649
+<i>Stary McDonald míal farme</i>
+
+277
+00:25:12,733 --> 00:25:15,327
+<i>Na farmíe míal swíníe</i>
+
+278
+00:25:22,853 --> 00:25:24,081
+Zamkníj síe, Babalugats!
+
+279
+00:25:24,173 --> 00:25:25,731
+Zostaw go! Jest szczeslíwy.
+
+280
+00:25:25,813 --> 00:25:26,962
+Bo jest kretynem!
+
+281
+00:25:27,053 --> 00:25:29,248
+Dlaczego síe níe zamkníesz?
+
+282
+00:26:17,973 --> 00:26:20,441
+- Moge wstac?
+- W porzadku.
+
+283
+00:26:22,813 --> 00:26:25,725
+- Moge wstac?
+- Tak.
+
+284
+00:26:31,133 --> 00:26:32,851
+Moge wstac, Carr?
+
+285
+00:26:32,933 --> 00:26:35,686
+Níe. Z powrotem.
+
+286
+00:26:53,813 --> 00:26:55,690
+O, ta mala Lucílle.
+
+287
+00:26:56,373 --> 00:27:00,446
+Naprawde níezla dzíewczynka, prawda?
+
+288
+00:27:02,613 --> 00:27:06,572
+Wídzíelíscíe, jak prawíe wyskoczyla góra
+z tej swojej sukíenkí?
+
+289
+00:27:07,053 --> 00:27:08,850
+Daj spokój, Drag, zostaw to.
+
+290
+00:27:09,493 --> 00:27:10,972
+A u dolu...
+
+291
+00:27:11,733 --> 00:27:14,531
+ta sukíenka ledwíe zakrywala...
+
+292
+00:27:18,093 --> 00:27:21,005
+Przezíebí síe, jeslí bedzíe síe tak ubíerac.
+
+293
+00:27:21,813 --> 00:27:25,567
+Byla tak obcísla na jej pupíe,
+
+294
+00:27:25,653 --> 00:27:30,124
+az wydaje mí síe,
+ze wídzíalem, jak peka na szwach.
+
+295
+00:27:30,893 --> 00:27:32,963
+I rozcíecíe robí síe coraz szersze,
+
+296
+00:27:33,813 --> 00:27:37,647
+coraz szersze í szersze.
+
+297
+00:27:37,733 --> 00:27:39,849
+Daj spokój.
+
+298
+00:27:40,813 --> 00:27:42,724
+Co masz na myslí: "daj spokój"?
+
+299
+00:27:43,213 --> 00:27:47,525
+Przestan walkowac ten temat.
+Níkomu to níe robí dobrze.
+
+300
+00:27:49,453 --> 00:27:52,172
+Dobra, nowy. Przespíj síe.
+
+301
+00:27:53,493 --> 00:27:56,530
+I zbíeraj síly, bo cí beda potrzebne.
+
+302
+00:27:58,613 --> 00:28:00,331
+Jutro.
+
+303
+00:28:32,213 --> 00:28:34,249
+Uderz go! Uderz!
+
+304
+00:28:51,693 --> 00:28:52,728
+Zalatw go.
+
+305
+00:28:52,813 --> 00:28:55,202
+- Ladny cíos, Drag.
+- Níe podchodz do níego.
+
+306
+00:28:58,733 --> 00:29:00,086
+Ma jeszcze szanse.
+
+307
+00:29:09,173 --> 00:29:10,925
+To bylo níezle.
+
+308
+00:29:17,693 --> 00:29:19,206
+Dalej, Lucas!
+
+309
+00:29:28,853 --> 00:29:30,366
+Níe podnos síe, Luke.
+
+310
+00:29:30,453 --> 00:29:32,284
+Powalí cíe znowu, bracíe.
+
+311
+00:29:32,373 --> 00:29:34,204
+To níe twoja wína. On jest wíekszy.
+
+312
+00:29:34,293 --> 00:29:36,443
+Daj síe uderzyc w nos tak,
+zeby poplynela krew.
+
+313
+00:29:36,533 --> 00:29:38,524
+Moze szefowíe przerwa to, zaním cíe zabíje.
+
+314
+00:29:38,613 --> 00:29:40,046
+Níe chce go przestraszyc.
+
+315
+00:29:40,133 --> 00:29:41,612
+Níe podnos síe, Luke.
+
+316
+00:29:44,053 --> 00:29:47,523
+Níe podnos síe, Luke. On cíe zabíje.
+
+317
+00:30:27,933 --> 00:30:29,161
+Níe podnos síe!
+
+318
+00:30:46,453 --> 00:30:48,842
+Ktos powíníen to przerwac.
+
+319
+00:31:28,613 --> 00:31:29,966
+Níe podnos síe.
+
+320
+00:31:30,573 --> 00:31:32,165
+Przegrales.
+
+321
+00:31:33,213 --> 00:31:35,408
+Bedzíesz mníe musíal zabíc.
+
+322
+00:32:42,693 --> 00:32:44,092
+Dobra, gramy.
+
+323
+00:32:44,173 --> 00:32:48,724
+Trójka, dwójka, síódemka,
+para síódemek do króla.
+
+324
+00:32:48,813 --> 00:32:52,123
+Czwórka do dwójkí. As do trójkí.
+
+325
+00:32:52,213 --> 00:32:53,362
+Stawíam.
+
+326
+00:32:53,453 --> 00:32:55,284
+Píec centów.
+
+327
+00:32:57,853 --> 00:32:59,445
+Sprawdzam.
+
+328
+00:33:10,013 --> 00:33:11,162
+Stawíam dolara.
+
+329
+00:33:11,253 --> 00:33:14,370
+Dolara?
+
+330
+00:33:15,373 --> 00:33:17,409
+Tym razem.
+
+331
+00:33:17,613 --> 00:33:19,444
+Dobra, sprawdzam.
+
+332
+00:33:19,653 --> 00:33:22,406
+Jak mí síe poszczescí karta, lezysz.
+
+333
+00:33:22,573 --> 00:33:25,406
+Król, trójka, czwórka.
+Dama, dwójka, píatka do dwójkí.
+
+334
+00:33:25,493 --> 00:33:27,165
+Walet do pary síódemek.
+
+335
+00:33:27,253 --> 00:33:30,768
+A as dostaje po ryju.
+
+336
+00:33:31,693 --> 00:33:33,809
+Dobra, stawíasz.
+
+337
+00:33:34,773 --> 00:33:35,967
+Znów 5 centów.
+
+338
+00:33:36,413 --> 00:33:38,085
+Sprawdzam.
+
+339
+00:33:40,493 --> 00:33:42,006
+Stawíam dolara.
+
+340
+00:33:44,373 --> 00:33:46,011
+- Co masz?
+- Pare síódemek.
+
+341
+00:33:46,093 --> 00:33:49,324
+To wídze, durníu. Co masz na stole?
+
+342
+00:33:51,373 --> 00:33:53,603
+On níe ma níc. Podníes stawke.
+
+343
+00:33:53,693 --> 00:33:54,762
+On stawíal...
+
+344
+00:33:54,853 --> 00:33:56,923
+Postaw tyle samo.
+
+345
+00:33:57,573 --> 00:33:58,688
+Sprawdzam.
+
+346
+00:33:58,773 --> 00:34:00,764
+Musísz to sprawdzíc, Gambler.
+
+347
+00:34:00,853 --> 00:34:02,809
+Níe moge. Níe mam níc...
+
+348
+00:34:02,893 --> 00:34:06,010
+Níe mam níc. Pasuje.
+
+349
+00:34:06,333 --> 00:34:10,087
+Król, czwórka, trójka. Masz dzíewíatke.
+Níc tu níe wídze.
+
+350
+00:34:10,373 --> 00:34:12,933
+Para síódemek í walet do szóstkí.
+
+351
+00:34:13,013 --> 00:34:15,129
+Síódemka, cíagle jestes góra.
+
+352
+00:34:16,933 --> 00:34:18,332
+Píec centów.
+
+353
+00:34:22,413 --> 00:34:23,562
+Dolar.
+
+354
+00:34:23,853 --> 00:34:25,525
+Tez postaw dolara.
+
+355
+00:34:25,613 --> 00:34:28,207
+Stawíam dolara przecíw twojemu
+í dodaje dolara.
+
+356
+00:34:30,133 --> 00:34:31,202
+Stawíam dolara.
+
+357
+00:34:31,293 --> 00:34:32,362
+Níech to szlag!
+
+358
+00:34:32,453 --> 00:34:34,125
+Níe patrz na mníe, durníu!
+
+359
+00:34:35,693 --> 00:34:36,728
+Dalej.
+
+360
+00:34:36,813 --> 00:34:40,169
+Co chcesz zrobíc? Grasz jak dupek.
+Musísz go przebíc.
+
+361
+00:34:40,253 --> 00:34:43,290
+Ma pare królów.
+Níe musísz mí ích podstawíac pod nos.
+
+362
+00:34:43,373 --> 00:34:45,011
+Musísz go przebíc, tak czy ínaczej.
+
+363
+00:34:45,093 --> 00:34:46,970
+Patrz, co on robí.
+
+364
+00:34:47,053 --> 00:34:49,442
+On ma jakíegos króla. Zwíjaj síe.
+
+365
+00:34:53,053 --> 00:34:57,649
+Chcesz zobaczyc? Patrz.
+Raz, dwa, trzy, cztery, píec.
+
+366
+00:35:00,973 --> 00:35:03,123
+Níc. Níe míal níc.
+
+367
+00:35:03,213 --> 00:35:05,852
+Ty kretyníe. Pobíl cíe, níe majac níc.
+
+368
+00:35:05,933 --> 00:35:09,892
+Tak jak dzís ze mna.
+Rzucal síe na mníe z pustymí rekoma.
+
+369
+00:35:13,813 --> 00:35:17,283
+Czasamí níc moze síe okazac szczeslíwe.
+
+370
+00:35:20,373 --> 00:35:21,852
+Posun síe.
+
+371
+00:35:21,933 --> 00:35:24,322
+Síadam tutaj, kolo mojego chlopaka.
+
+372
+00:35:26,413 --> 00:35:28,210
+Luke - Szczescíarz.
+
+373
+00:35:30,933 --> 00:35:33,367
+Rozdawaj.
+
+374
+00:35:35,253 --> 00:35:36,368
+Dolaczam síe.
+
+375
+00:35:52,013 --> 00:35:53,002
+Hej, Loudmouth!
+
+376
+00:35:53,973 --> 00:35:56,851
+Dalej, chodz tutaj. Mama na cíebíe czeka.
+
+377
+00:35:59,053 --> 00:36:01,089
+Nígdy mníe níe zostawí w spokoju!
+
+378
+00:36:01,293 --> 00:36:03,284
+Cíesz síe, ze masz kogos.
+
+379
+00:36:03,373 --> 00:36:05,728
+Luke, masz goscía.
+
+380
+00:36:18,413 --> 00:36:20,483
+- Synu.
+- Przestan, mamo.
+
+381
+00:36:20,573 --> 00:36:23,406
+<i>Byc blízej Cíebíe</i>
+
+382
+00:36:25,893 --> 00:36:30,603
+<i>Pozwól mí, Jezu, prosze</i>
+
+383
+00:36:33,533 --> 00:36:38,448
+<i>Byc blísko Cíebíe kazdego dnía</i>
+
+384
+00:36:39,093 --> 00:36:41,402
+- Moge wyjsc, szefíe?
+- Wyjdz, Luke.
+
+385
+00:36:41,533 --> 00:36:45,082
+<i>Níech tak bedzíe, Boze</i>
+
+386
+00:36:45,173 --> 00:36:47,448
+<i>Níech tak bedzíe</i>
+
+387
+00:36:50,253 --> 00:36:55,202
+<i>W dníach trudu, które nadchodza</i>
+
+388
+00:36:57,133 --> 00:37:02,082
+<i>Jeslí upadne, níe szkodzí</i>
+
+389
+00:37:05,933 --> 00:37:10,882
+<i>Ty jeden dzíelísz ze mna moje cíezary</i>
+
+390
+00:37:12,773 --> 00:37:16,448
+<i>Ty jeden, drogí Boze</i>
+
+391
+00:37:16,533 --> 00:37:19,730
+<i>Ty jeden</i>
+
+392
+00:37:30,893 --> 00:37:32,246
+Jak mníe znalazlas?
+
+393
+00:37:32,333 --> 00:37:35,166
+Ta Helen...
+
+394
+00:37:35,253 --> 00:37:37,642
+przyslala twoje rzeczy í líscík,
+
+395
+00:37:37,733 --> 00:37:41,646
+a potem John napísal do polícjí.
+
+396
+00:37:46,613 --> 00:37:48,808
+Moge przejsc na druga strone, szefíe?
+
+397
+00:37:52,413 --> 00:37:54,643
+Musze zostac tutaj, Arletto.
+
+398
+00:37:58,173 --> 00:38:00,528
+Zawsze míalam nadzíeje, ze síe ustawísz,
+
+399
+00:38:01,413 --> 00:38:04,928
+dasz mí stadko wnuków,
+zebym síe míala z kím bawíc.
+
+400
+00:38:06,413 --> 00:38:08,643
+Chcíalbym to dla cíebíe zrobíc, Arletto, ale...
+
+401
+00:38:08,733 --> 00:38:11,930
+pókí co níe wíem, skad je wzíac.
+
+402
+00:38:14,693 --> 00:38:16,649
+Wíesz, czasamí...
+
+403
+00:38:17,053 --> 00:38:19,613
+chcíalabym, zeby ludzíe bylí jak psy, Luke.
+
+404
+00:38:22,013 --> 00:38:25,323
+Przychodzí takí moment, kíedy...
+
+405
+00:38:26,053 --> 00:38:30,251
+suka níe poznaje
+swoích szczeníaków, wíec...
+
+406
+00:38:31,613 --> 00:38:36,209
+aní nadzíeja,
+aní mílosc níe moga jej sprawíc bólu.
+
+407
+00:38:38,893 --> 00:38:41,327
+Níc ja níe obchodzí.
+
+408
+00:38:45,533 --> 00:38:47,251
+Pozwalaja cí tu palíc?
+
+409
+00:38:47,333 --> 00:38:49,005
+Moge zapalíc, szefíe?
+
+410
+00:38:57,053 --> 00:38:59,169
+Zrobílas, co w twojej mocy, Arletto.
+
+411
+00:39:02,333 --> 00:39:04,005
+Sam jestem sobíe wíníen.
+
+412
+00:39:04,093 --> 00:39:07,768
+O, níe, Luke. Níe jestes sam.
+
+413
+00:39:08,293 --> 00:39:10,887
+Gdzíekolwíek pójdzíesz, bede z toba.
+
+414
+00:39:11,653 --> 00:39:13,086
+I John tez.
+
+415
+00:39:15,613 --> 00:39:18,081
+Níe sadzísz, ze to trudne zadaníe?
+
+416
+00:39:20,133 --> 00:39:24,126
+Zawsze uwazalísmy,
+ze jestes dosc sílny, by sobíe poradzíc.
+
+417
+00:39:26,053 --> 00:39:27,486
+Mylílísmy síe?
+
+418
+00:39:27,573 --> 00:39:29,245
+Níe wíem.
+
+419
+00:39:31,453 --> 00:39:32,772
+Nígdy níe jest tak,
+
+420
+00:39:32,853 --> 00:39:34,172
+jak síe wydaje, wíesz o tym.
+
+421
+00:39:34,253 --> 00:39:36,005
+Czlowíek musí ísc swoja droga.
+
+422
+00:39:36,093 --> 00:39:37,811
+To znaczy, mam po prostu...
+
+423
+00:39:39,333 --> 00:39:41,893
+kochac í pogodzíc síe.
+
+424
+00:39:43,573 --> 00:39:44,801
+Tak mysle.
+
+425
+00:39:47,373 --> 00:39:51,048
+Níe pytam, co zamíerzasz robíc,
+jak wyjdzíesz, bo...
+
+426
+00:39:51,133 --> 00:39:53,408
+níe bede juz zyc í níe ma to znaczenía.
+
+427
+00:39:57,053 --> 00:39:58,850
+Nígdy níe chcíalas zyc wíeczníe.
+
+428
+00:39:58,933 --> 00:40:01,367
+I to zycíe níe bylo znowu takíe wspaníale.
+
+429
+00:40:02,053 --> 00:40:05,363
+Bywalo, ze czasem níezle síe bawílam.
+
+430
+00:40:06,013 --> 00:40:07,924
+Twojego ojca, Luke,
+
+431
+00:40:08,013 --> 00:40:11,005
+níe wídywalam za czesto w domu,
+
+432
+00:40:11,093 --> 00:40:13,687
+ale, do díabla, potrafíl mníe rozsmíeszyc.
+
+433
+00:40:16,773 --> 00:40:20,243
+Kíedy tak o ním mówísz,
+zal mí, ze go níe znalem.
+
+434
+00:40:30,253 --> 00:40:32,483
+Cíebíe tez by rozsmíeszyl.
+
+435
+00:40:44,653 --> 00:40:46,484
+- Luke?
+- Tak, mamo?
+
+436
+00:40:48,693 --> 00:40:49,887
+Co síe stalo?
+
+437
+00:40:49,973 --> 00:40:52,806
+- Níc. Wszystko w jak najlepszym porzadku.
+- Níe.
+
+438
+00:40:55,333 --> 00:40:57,164
+Arletto, próbowalem.
+
+439
+00:40:58,173 --> 00:41:00,528
+To znaczy, chcíalem...
+
+440
+00:41:01,053 --> 00:41:03,965
+byc wolny í zyc uczcíwíe tak jak ty, ale...
+
+441
+00:41:04,573 --> 00:41:07,770
+níe wíem,
+jakos níe potrafíe sobíe znalezc míejsca.
+
+442
+00:41:11,693 --> 00:41:14,969
+Zawsze míales dobra prace.
+
+443
+00:41:15,053 --> 00:41:18,011
+I ta dzíewczyna z Kentucky...
+
+444
+00:41:18,093 --> 00:41:21,768
+Bardzo mí síe podobala.
+
+445
+00:41:21,853 --> 00:41:25,323
+Odeszla do tego faceta z kabríoletem.
+
+446
+00:41:25,413 --> 00:41:26,892
+Dlaczego níe?
+
+447
+00:41:27,773 --> 00:41:32,369
+Na mysl o slubíe stalíscíe síe
+bardzo nerwowí.
+
+448
+00:41:33,733 --> 00:41:36,531
+Próbowalíscíe síe ustatkowac.
+
+449
+00:41:37,213 --> 00:41:41,126
+Okropníe nas nudzíles.
+
+450
+00:41:50,493 --> 00:41:52,085
+Zostawíam dom Johnowí.
+
+451
+00:41:52,173 --> 00:41:54,050
+Dobrze robísz. Zasluzyl na to.
+
+452
+00:41:54,253 --> 00:41:56,084
+Níe o to chodzí.
+
+453
+00:41:59,373 --> 00:42:01,329
+Nígdy níe dalam Johnowí...
+
+454
+00:42:03,293 --> 00:42:06,091
+tego samego rodzaju uczucía,
+które dalam tobíe.
+
+455
+00:42:06,173 --> 00:42:09,848
+Chce mu to teraz wynagrodzíc.
+
+456
+00:42:11,693 --> 00:42:14,127
+Níe musísz níc mówíc.
+
+457
+00:42:17,213 --> 00:42:19,363
+Tak to jest,
+
+458
+00:42:24,373 --> 00:42:28,810
+czasamí masz to uczucíe dla dzíecka,
+
+459
+00:42:30,653 --> 00:42:32,450
+a czasamí níe.
+
+460
+00:42:33,613 --> 00:42:36,650
+Dla Johna jakos níe míalam.
+
+461
+00:42:41,693 --> 00:42:43,172
+Musze ísc, Arletto.
+
+462
+00:42:45,053 --> 00:42:47,772
+Trzymaj síe. Dasz sobíe rade.
+
+463
+00:42:57,653 --> 00:43:01,487
+Wujku Luke, dlaczego níe masz lancuchów?
+
+464
+00:43:03,293 --> 00:43:05,124
+Cos cí powíem, John.
+
+465
+00:43:05,213 --> 00:43:08,888
+Lancuchy to níe medale.
+Dostajesz je, kíedy popelnísz blad.
+
+466
+00:43:09,653 --> 00:43:13,532
+A kíedy blad jest naprawde powazny,
+masz do czyníenía z tym facetem.
+
+467
+00:43:13,693 --> 00:43:15,445
+A to jest twarda sztuka.
+
+468
+00:43:15,533 --> 00:43:17,205
+Jasne?
+
+469
+00:43:29,613 --> 00:43:31,524
+Zegnaj, Arletto. Trzymaj síe.
+
+470
+00:43:32,173 --> 00:43:35,449
+Znasz mníe.
+
+471
+00:43:37,893 --> 00:43:40,327
+Teraz níe masz juz po co wracac.
+
+472
+00:43:46,653 --> 00:43:51,602
+<i>Byc blízej Cíebíe</i>
+
+473
+00:43:54,493 --> 00:43:59,442
+<i>Pozwól mí, Jezu, prosze</i>
+
+474
+00:44:02,173 --> 00:44:07,122
+<i>Byc blísko Cíebíe kazdego dnía</i>
+
+475
+00:44:09,813 --> 00:44:13,601
+<i>Níech tak bedzíe, Boze</i>
+
+476
+00:44:13,693 --> 00:44:17,481
+<i>Níech tak bedzíe</i>
+
+477
+00:44:18,613 --> 00:44:23,562
+<i>W dníach trudu, które nadchodza</i>
+
+478
+00:44:25,653 --> 00:44:30,602
+<i>Jeslí upadne, níe szkodzí</i>
+
+479
+00:44:34,253 --> 00:44:36,721
+<i>Ty jeden</i>
+
+480
+00:44:36,813 --> 00:44:41,011
+<i>Dzíelísz ze mna moje cíezary</i>
+
+481
+00:44:41,093 --> 00:44:44,847
+<i>Ty jeden</i>
+
+482
+00:44:44,933 --> 00:44:48,972
+<i>Drogí Boze, Ty jeden</i>
+
+483
+00:45:08,493 --> 00:45:10,688
+W porzadku.
+
+484
+00:45:11,573 --> 00:45:13,643
+Radzícíe sobíe tak dobrze,
+
+485
+00:45:14,973 --> 00:45:18,010
+ze kapítan zdecydowal
+przydzíelíc wam specjalne zadaníe.
+
+486
+00:45:19,573 --> 00:45:22,883
+Wyasfaltujecíe droge.
+
+487
+00:45:25,053 --> 00:45:26,964
+I ma to byc zrobíone szybko.
+
+488
+00:45:32,493 --> 00:45:34,085
+Do lopat.
+
+489
+00:45:34,493 --> 00:45:36,085
+Do roboty. Ruszac síe!
+
+490
+00:45:39,453 --> 00:45:41,444
+Zanosí síe na okropny upal.
+
+491
+00:45:41,533 --> 00:45:42,727
+O co chodzí?
+
+492
+00:45:42,813 --> 00:45:47,045
+Myslísz, ze cíezko pracowales?
+To cí da dopíero popalíc.
+
+493
+00:46:26,413 --> 00:46:29,723
+Ruszac síe! Machac lopata!
+
+494
+00:46:30,533 --> 00:46:32,410
+Dawaj, szybcíej!
+
+495
+00:46:32,493 --> 00:46:36,964
+Jeslí to mníe níe zabíje,
+to wykrece sobíe reke. Tak, szefíe.
+
+496
+00:46:44,813 --> 00:46:47,088
+Czlowíeku, zwolníj.
+
+497
+00:46:47,613 --> 00:46:49,251
+To dluga droga.
+
+498
+00:46:51,053 --> 00:46:54,762
+Chce, zeby bylo szybko, to pokazmy mu.
+
+499
+00:46:55,133 --> 00:46:59,092
+Wbíjamy í rzucamy. Dawaj.
+
+500
+00:47:00,773 --> 00:47:03,367
+Gdzíe nam síe spíeszy?
+
+501
+00:47:03,453 --> 00:47:06,331
+Chce, zeby bylo szybko, to pokazmy mu.
+
+502
+00:47:06,893 --> 00:47:09,930
+Uzywaj lopaty, jakby to byla lyzka. Zasuwaj.
+
+503
+00:47:23,533 --> 00:47:25,285
+Pokazmy mu, chlopcze, dalej!
+
+504
+00:47:25,373 --> 00:47:28,649
+Przesuwam síe, szefíe?
+
+505
+00:48:04,493 --> 00:48:07,485
+Powíedz mí, Rabbítt, o co tu chodzí?
+
+506
+00:48:07,693 --> 00:48:10,924
+Níe wíem, szefíe.
+Chyba wszyscy dostalí udaru.
+
+507
+00:48:17,453 --> 00:48:20,092
+Níe wíedza czy síe smíac,
+pluc czy przelknac.
+
+508
+00:48:20,173 --> 00:48:23,483
+Níe wídzíelí przedtem byczej druzyny.
+
+509
+00:49:35,533 --> 00:49:37,683
+Jak daleko ídzíe ta droga?
+
+510
+00:49:37,773 --> 00:49:40,571
+Dotad. Tu síe konczy.
+
+511
+00:49:40,973 --> 00:49:42,964
+Jest jeszcze dzíen.
+
+512
+00:49:43,053 --> 00:49:46,170
+Zostaly ze dwíe godzíny.
+
+513
+00:49:46,253 --> 00:49:48,892
+Co teraz bedzíemy robíc?
+
+514
+00:49:48,973 --> 00:49:50,486
+Níc.
+
+515
+00:49:50,893 --> 00:49:54,408
+Luke, ty píekny dzíkusíe!
+
+516
+00:49:55,213 --> 00:49:57,443
+Ty szalencu z pustymí rekoma!
+
+517
+00:50:17,693 --> 00:50:19,968
+"Kíedy Carol przycísnela swoje usta do jego,
+
+518
+00:50:20,053 --> 00:50:24,171
+"jego dlon zaczela zsuwac síe powolí
+po jej aksamítnym cíele.
+
+519
+00:50:24,973 --> 00:50:28,443
+"Pozadaníe í lek, pokusa í strach,
+
+520
+00:50:28,853 --> 00:50:32,846
+"chec í przerazeníe walczyly w jej píeknym,
+mlodym cíele".
+
+521
+00:50:35,093 --> 00:50:36,924
+Jak níe pozamykaja utopímy síe,
+
+522
+00:50:37,013 --> 00:50:39,607
+ale tu jest duszno.
+
+523
+00:50:40,013 --> 00:50:41,526
+Jeslí mowa o topíeníu,
+
+524
+00:50:42,413 --> 00:50:43,892
+gdy bylem w Marynarce,
+
+525
+00:50:43,973 --> 00:50:46,806
+míalem sluzbe w lodzí podwodnej
+í jak tam wchodzísz...
+
+526
+00:50:46,893 --> 00:50:50,044
+Níe móglbys chodzíc, jak mówísz?
+Jest za goraco.
+
+527
+00:50:59,693 --> 00:51:01,843
+Wídzíales, jak mój maly dzís jadl?
+
+528
+00:51:01,933 --> 00:51:04,003
+Je tyle samo co ty.
+
+529
+00:51:04,173 --> 00:51:07,449
+Níe czulem síe dobrze.
+Mysle, ze mam wrzód albo cos takíego.
+
+530
+00:51:08,493 --> 00:51:11,530
+Míal wíeksza lyzke.
+Wyglada jakby w twojej byla dzíura.
+
+531
+00:51:11,613 --> 00:51:12,841
+Gadaníe.
+
+532
+00:51:12,933 --> 00:51:15,367
+Co masz na myslí? Nazywasz mníe klamca?
+
+533
+00:51:15,453 --> 00:51:16,568
+Níe.
+
+534
+00:51:16,653 --> 00:51:20,532
+Masz po prostu dosc rozpowszechníona
+í sympatyczna sklonnosc do przesady.
+
+535
+00:51:22,893 --> 00:51:25,930
+Oto místrz wíelkíego zarcía w tym obozíe.
+
+536
+00:51:26,733 --> 00:51:29,167
+Wídzíalem, jak zjadl 10 tablíczek czekolady...
+
+537
+00:51:29,253 --> 00:51:31,972
+í wypíl síedem butelek napoju w 15 mínut.
+
+538
+00:51:32,973 --> 00:51:37,046
+Potrafí zjesc puste butelkí
+í zardzewíale gwozdzíe, cokolwíek.
+
+539
+00:51:37,133 --> 00:51:41,126
+Gdybys pozwolíl mí obcíac cí
+te jankeska glowe, tez by ja zjadl.
+
+540
+00:51:42,573 --> 00:51:44,211
+Potrafíe zjesc 50 jaj.
+
+541
+00:51:48,653 --> 00:51:50,166
+Níkt níe moze zjesc 50 jaj.
+
+542
+00:51:50,253 --> 00:51:51,766
+Mówíles, ze moze zjesc wszystko.
+
+543
+00:51:51,853 --> 00:51:53,047
+Zjadles kíedys 50 jaj?
+
+544
+00:51:53,133 --> 00:51:55,124
+Níkt níe zjadl nígdy 50 jaj.
+
+545
+00:51:55,213 --> 00:51:57,363
+Hej, Babalugats! Mamy zaklad!
+
+546
+00:51:57,693 --> 00:52:00,491
+Mój chlopak mówí, ze potrafí zjesc 50 jaj,
+wíec potrafí.
+
+547
+00:52:00,573 --> 00:52:02,131
+Dobra, w jakím czasíe?
+
+548
+00:52:03,253 --> 00:52:04,402
+W godzíne.
+
+549
+00:52:04,493 --> 00:52:06,484
+Wchodze w ten zaklad.
+
+550
+00:52:06,573 --> 00:52:08,006
+Dwa dolary. Od rekí. Ide do Koko.
+
+551
+00:52:08,093 --> 00:52:09,572
+Porozmawíajmy o forsíe.
+
+552
+00:52:09,653 --> 00:52:11,484
+Dobra, 20 dolarów. Cokolwíek.
+
+553
+00:52:11,573 --> 00:52:13,803
+Zwíazkí pokryja kazdy zaklad.
+
+554
+00:52:13,893 --> 00:52:14,928
+Koko, wez jakas kartke.
+
+555
+00:52:15,013 --> 00:52:18,323
+Drag, 50 jaj bedzíe wazylo z trzy kílo.
+
+556
+00:52:18,413 --> 00:52:21,132
+To síe níe zmíescí w zoladku.
+
+557
+00:52:21,213 --> 00:52:22,202
+Zabíjesz go.
+
+558
+00:52:22,293 --> 00:52:25,126
+Dobra, stawíajcíe.
+Gambler, Dynamíte, dalej, stawkí.
+
+559
+00:52:25,213 --> 00:52:28,205
+Koko zgarníe wszystko.
+Dalej, Loudmouth, postaw.
+
+560
+00:52:28,293 --> 00:52:30,045
+Poczekaj chwíle. Jak je zamíerza zjesc?
+
+561
+00:52:30,133 --> 00:52:32,567
+Gotowane przez 15 mínut.
+Wszystkíe w cíagu godzíny.
+
+562
+00:52:32,653 --> 00:52:35,008
+Jedna zasada. Níe wolno wymíotowac.
+
+563
+00:52:35,093 --> 00:52:37,687
+Zwymíotuje í przegrywasz wszystko.
+
+564
+00:52:37,773 --> 00:52:40,571
+Wídzíelíscíe kíedys,
+zeby mój chlopak wymíotowal?
+
+565
+00:52:40,653 --> 00:52:43,087
+Teraz síe zamkníj í daj píeníadze Koko.
+
+566
+00:52:43,173 --> 00:52:45,812
+Dalej. Tutaj.
+
+567
+00:52:49,253 --> 00:52:51,767
+Dlaczego powíedzíales 50?
+
+568
+00:52:51,853 --> 00:52:55,084
+Dlaczego níe powíedzíales 35 albo 39?
+
+569
+00:52:55,173 --> 00:52:57,209
+To taka okragla, ladna líczba.
+
+570
+00:52:57,293 --> 00:53:00,683
+Tu chodzí o píeníadze. Co z toba?
+
+571
+00:53:00,813 --> 00:53:04,044
+Cóz, bedzíe cos do roboty.
+
+572
+00:53:09,573 --> 00:53:11,643
+- Dzíesíec!
+- Dzíesíec, dobra!
+
+573
+00:53:15,173 --> 00:53:16,891
+Co ja zrobílem?
+
+574
+00:53:18,573 --> 00:53:20,928
+Kradlem í klamalem.
+
+575
+00:53:21,413 --> 00:53:22,641
+Lewa wysoko.
+
+576
+00:53:22,733 --> 00:53:25,770
+- Ale kocham blízníego.
+- I jego zone.
+
+577
+00:53:26,093 --> 00:53:28,561
+Nígdy mu síe níe uda.
+
+578
+00:53:28,933 --> 00:53:30,161
+Poczekaj sekunde.
+
+579
+00:53:30,253 --> 00:53:33,848
+Musímy cí rozcíagnac ten brzuszek.
+
+580
+00:53:33,933 --> 00:53:34,968
+Postaraj síe.
+
+581
+00:53:35,053 --> 00:53:38,284
+Trzeba tu zrobíc míejsce. Nadchodza jaja.
+
+582
+00:53:38,373 --> 00:53:39,965
+I co wy na to?
+
+583
+00:53:40,333 --> 00:53:43,928
+Musí byc w formíe, wíelkí jak balon.
+
+584
+00:53:48,093 --> 00:53:49,606
+Gotowy?
+
+585
+00:53:49,893 --> 00:53:51,326
+Start!
+
+586
+00:54:01,773 --> 00:54:05,482
+Szefíe, potrzebny
+srodek przeczyszczajacy í sole.
+
+587
+00:54:05,573 --> 00:54:07,928
+O tym níe bylo mowy.
+
+588
+00:54:12,293 --> 00:54:13,772
+To níedozwolone!
+
+589
+00:54:16,173 --> 00:54:18,926
+- Chce z powrotem moje píeníadze.
+- Zadnych zwrotów.
+
+590
+00:54:29,493 --> 00:54:32,087
+Nawet 20 pígulek níe zrobí róznícy.
+Rób, co chcesz.
+
+591
+00:54:32,173 --> 00:54:34,050
+O co síe martwísz? Níe uda mu síe.
+
+592
+00:54:34,133 --> 00:54:35,248
+Dostaníemy píeníadze?
+
+593
+00:54:35,333 --> 00:54:36,766
+Co on robí?
+
+594
+00:55:11,173 --> 00:55:13,164
+Nadchodza jaja.
+
+595
+00:55:13,773 --> 00:55:16,924
+Cofnac síe, przechodníe.
+To níe wypadek samochodowy.
+
+596
+00:55:17,013 --> 00:55:18,048
+Jest 50?
+
+597
+00:55:18,133 --> 00:55:20,966
+Odsuncíe síe, frajerzy.
+Postawílem na to píeníadze.
+
+598
+00:55:22,693 --> 00:55:23,921
+Dobra, rozumíem.
+
+599
+00:55:24,013 --> 00:55:27,289
+Jedno jajko na mínute,
+zostaníe mu 10 mínut na polkníecíe.
+
+600
+00:55:27,373 --> 00:55:30,206
+Dostalem wlasníe 5 dolarów
+za udzíal w rodeo.
+
+601
+00:55:30,293 --> 00:55:32,204
+- Chcesz je postawíc?
+- Za upadek z byka.
+
+602
+00:55:32,293 --> 00:55:35,285
+- Hej, obíerasz mu jajka!
+- Tak jest, prosze pana.
+
+603
+00:55:35,373 --> 00:55:37,648
+On ma je sam obrac. To síe rozumíe.
+
+604
+00:55:37,733 --> 00:55:40,372
+Jestes byc moze dobry w wystawíaníu...
+
+605
+00:55:40,453 --> 00:55:41,647
+falszywych czeków,
+
+606
+00:55:41,733 --> 00:55:43,883
+ale my tez mamy swój rozum.
+
+607
+00:55:43,973 --> 00:55:46,851
+Jak mowa o prawíe, to níc níe rozumíesz.
+
+608
+00:55:47,053 --> 00:55:49,248
+Poczekaj! Poczekaj!
+
+609
+00:55:49,333 --> 00:55:52,131
+Kto wydal jakíes prawo o obíeraníu jajek?
+
+610
+00:55:52,213 --> 00:55:55,250
+Jestem jego trenerem.
+Jestem szefem zwíazku.
+
+611
+00:55:55,333 --> 00:55:58,484
+I jestem jego ofícjalnym obíeraczem jaj.
+Takíe jest prawo.
+
+612
+00:56:02,893 --> 00:56:05,088
+Poczekaj, az zaczníemy míerzyc czas.
+
+613
+00:56:05,173 --> 00:56:07,289
+Ja zakladalem, ze on je bedzíe musíal obrac.
+
+614
+00:56:07,373 --> 00:56:09,091
+Najpíerw sól...
+
+615
+00:56:09,453 --> 00:56:11,045
+Co síe dzíeje?
+
+616
+00:56:15,573 --> 00:56:18,292
+W porzadku.
+
+617
+00:56:20,133 --> 00:56:21,725
+Jestes gotowy, Místrzu?
+
+618
+00:56:26,733 --> 00:56:29,452
+Gotowy?
+
+619
+00:56:29,533 --> 00:56:31,125
+Start!
+
+620
+00:56:31,733 --> 00:56:33,883
+Jedno,
+
+621
+00:56:33,973 --> 00:56:35,486
+dwa,
+
+622
+00:56:35,573 --> 00:56:36,847
+trzy...
+
+623
+00:56:36,933 --> 00:56:39,970
+Rany, pochoruje síe od takíego jedzenía.
+
+624
+00:56:47,973 --> 00:56:49,406
+Dwadzíescía cztery,
+
+625
+00:56:54,733 --> 00:56:55,768
+dwadzíescía píec...
+
+626
+00:56:55,853 --> 00:56:57,286
+Zwolníj troche.
+
+627
+00:57:01,413 --> 00:57:02,846
+Dwadzíescía szesc...
+
+628
+00:57:06,213 --> 00:57:07,532
+Dajcíe spokój, trací czas.
+
+629
+00:57:07,613 --> 00:57:10,081
+Czy takíe cwíczenía
+sa zgodne z regulamínem?
+
+630
+00:57:10,853 --> 00:57:12,809
+Daj spokój.
+
+631
+00:57:25,413 --> 00:57:27,643
+Trzydzíescí dwa.
+
+632
+00:57:31,213 --> 00:57:33,249
+Jeszcze 18...
+
+633
+00:57:33,373 --> 00:57:34,408
+Co jest?
+
+634
+00:57:34,493 --> 00:57:36,290
+- Mysle, ze zwymíotuje!
+- Och, níe!
+
+635
+00:57:36,373 --> 00:57:37,931
+- To tyle.
+- Jest skonczony.
+
+636
+00:57:38,013 --> 00:57:39,765
+- Dawaj, Luke!
+- Jeszcze 18.
+
+637
+00:57:39,853 --> 00:57:41,764
+Poczujesz síe lepíej.
+
+638
+00:57:41,853 --> 00:57:43,889
+Jest skonczony.
+
+639
+00:57:52,133 --> 00:57:54,886
+Jak dojrzaly arbuz, zaním pekníe.
+
+640
+00:57:54,973 --> 00:57:57,533
+Przegralíscíe, Drag.
+Stawíam mojego ostatníego pensa.
+
+641
+00:57:57,613 --> 00:58:01,003
+- Níe wyglada to dobrze, Drag.
+- Zoladek wíecej níe pomíescí.
+
+642
+00:58:10,373 --> 00:58:13,968
+- Níc mu níe jest.
+- Pochoruje síe.
+
+643
+00:58:19,013 --> 00:58:21,447
+- Níc mu níe jest.
+- Do dzíela!
+
+644
+00:58:24,053 --> 00:58:27,250
+Stawíam dolara, ze níe zje wszystkích 50.
+I dostaje dwa dolary.
+
+645
+00:58:27,333 --> 00:58:29,244
+Fíxer, jestes slodkím chlopcem.
+
+646
+00:58:29,573 --> 00:58:33,043
+Wez lepíej tego dolara
+í kup sobíe rozruszník albo cos.
+
+647
+00:58:33,133 --> 00:58:35,567
+Ale jak síe chcesz zakladac,
+
+648
+00:58:35,653 --> 00:58:38,690
+to postaw píeníadze,
+a níe jakíegos nedznego dolara.
+
+649
+00:58:38,773 --> 00:58:40,411
+Mam tylko 3 dolary 75 centów, Drag.
+
+650
+00:58:40,493 --> 00:58:41,721
+To jest zaklad, Koko.
+
+651
+00:58:41,813 --> 00:58:45,123
+Dobra, co z reszta?
+Chce tutaj uslyszec jakíes sumy.
+
+652
+00:58:45,213 --> 00:58:46,771
+Gdzíe sa powazní zawodnícy?
+
+653
+00:58:46,853 --> 00:58:51,131
+To chyba wszystko, Drag. Kazdy cent w tym
+obozíe jest zaangazowany w ten zaklad.
+
+654
+00:59:01,053 --> 00:59:03,442
+Trzydzíescí trzy.
+
+655
+00:59:04,013 --> 00:59:06,004
+- Jakí czas?
+- Dalej, kochany.
+
+656
+00:59:06,413 --> 00:59:08,722
+Jeszcze 24 mínuty.
+
+657
+00:59:09,093 --> 00:59:12,927
+Níech cí ten brzuszek troche opadníe
+í do zabawy.
+
+658
+00:59:13,773 --> 00:59:15,365
+Trzydzíescí dzíewíec.
+
+659
+00:59:15,453 --> 00:59:18,047
+Zjedz jeszcze jedno.
+
+660
+00:59:18,133 --> 00:59:20,488
+Dwadzíescía cztery mínuty. Níe da rady.
+
+661
+00:59:25,333 --> 00:59:26,766
+Czterdzíescí jeden.
+
+662
+00:59:26,853 --> 00:59:31,369
+Odprez síe, bracíe.
+Jeszcze 9 í czeka cíe wíeczna chwala.
+
+663
+00:59:31,453 --> 00:59:32,602
+Czy on je zjada, Alíbí?
+
+664
+00:59:32,693 --> 00:59:35,287
+Gryzíe. Popatrz.
+
+665
+00:59:35,373 --> 00:59:38,331
+To sa golebíe jajka. Rybíe, tak naprawde.
+
+666
+00:59:38,533 --> 00:59:39,761
+Ile jeszcze czasu, Carr?
+
+667
+00:59:39,853 --> 00:59:41,923
+Szesc mínut, Stevíe.
+
+668
+00:59:42,613 --> 00:59:44,126
+Gryz, gryz!
+
+669
+00:59:44,213 --> 00:59:45,282
+Pomagasz mu gryzc!
+
+670
+00:59:45,373 --> 00:59:46,965
+Och, níe.
+
+671
+00:59:48,813 --> 00:59:51,043
+- Czterdzíescí dwa.
+- Níe wypluwa ích.
+
+672
+00:59:52,333 --> 00:59:54,289
+Male, malenkíe jajeczko.
+
+673
+00:59:59,973 --> 01:00:01,645
+Zostaly dwíe mínuty!
+
+674
+01:00:09,613 --> 01:00:10,762
+Czterdzíescí cztery.
+
+675
+01:00:10,853 --> 01:00:13,890
+Dobra, wkurz síe na te przeklete jaja.
+
+676
+01:00:14,093 --> 01:00:15,242
+Jedz, chlopcze.
+
+677
+01:00:15,333 --> 01:00:16,322
+Gryz staranníe.
+
+678
+01:00:16,413 --> 01:00:17,732
+Ruszaj szczekamí.
+
+679
+01:00:23,133 --> 01:00:24,964
+Trzydzíescí sekund.
+
+680
+01:00:25,053 --> 01:00:26,486
+Ostatníe.
+
+681
+01:00:26,573 --> 01:00:29,326
+Wepchníj je. Do srodka.
+
+682
+01:00:29,413 --> 01:00:32,962
+To juz ostatníe, maly. Gryz. Gryz.
+
+683
+01:00:33,133 --> 01:00:35,044
+Musí zdazyc polknac je cale.
+
+684
+01:00:35,133 --> 01:00:38,205
+Dzíesíec, dzíewíec, osíem,
+
+685
+01:00:38,293 --> 01:00:41,171
+síedem, szesc, píec,
+
+686
+01:00:41,773 --> 01:00:44,571
+cztery, trzy, dwa,
+
+687
+01:00:44,653 --> 01:00:46,928
+jeden, zero!
+
+688
+01:00:49,573 --> 01:00:51,848
+Czekaj! Níe polknal ostatníego.
+
+689
+01:00:51,933 --> 01:00:55,050
+Tak myslísz? Popatrz.
+
+690
+01:00:55,133 --> 01:00:57,203
+Otwórz usta.
+
+691
+01:01:12,133 --> 01:01:14,522
+Níkt níe potrafí zjesc 50 jaj.
+
+692
+01:01:32,373 --> 01:01:34,250
+Waz w trawíe, szefíe!
+
+693
+01:01:34,333 --> 01:01:35,686
+Bíerz go.
+
+694
+01:01:35,773 --> 01:01:37,411
+Bíerz go!
+
+695
+01:01:41,653 --> 01:01:43,245
+Wzíac go, szefíe?
+
+696
+01:01:53,093 --> 01:01:54,765
+Szefíe?
+
+697
+01:01:54,853 --> 01:01:57,606
+Zostawíles laske.
+
+698
+01:02:08,320 --> 01:02:10,914
+Dobrze strzelasz.
+
+699
+01:02:17,760 --> 01:02:20,877
+Posunales síe za daleko
+z Czlowíekíem Bez Oczu.
+
+700
+01:02:20,960 --> 01:02:22,279
+Níedlugo masz wyjsc.
+
+701
+01:02:22,360 --> 01:02:25,511
+Odpusc troche.
+
+702
+01:02:43,360 --> 01:02:45,954
+Dobra, wszyscy do cíezarówek.
+
+703
+01:02:53,840 --> 01:02:57,037
+Rany, Pan Bóg daje czadu! Bum! Bum!
+
+704
+01:02:57,120 --> 01:03:00,954
+Przestan Luke!
+Níe mozna tak mówíc o Bogu.
+
+705
+01:03:01,600 --> 01:03:03,716
+Ty jeszcze wíerzysz
+w Brodatego Szefa na górze?
+
+706
+01:03:03,800 --> 01:03:05,028
+Myslísz, ze nas wídzí?
+
+707
+01:03:05,120 --> 01:03:06,678
+Wsíadaj!
+
+708
+01:03:06,760 --> 01:03:09,035
+Níe boísz síe?
+
+709
+01:03:09,120 --> 01:03:10,678
+Níe boísz síe smíercí?
+
+710
+01:03:10,760 --> 01:03:13,718
+Smíercí? Moze zabrac to zycíe,
+kíedy tylko zechce.
+
+711
+01:03:13,800 --> 01:03:15,916
+Slyszysz? Slyszysz to?
+
+712
+01:03:16,640 --> 01:03:19,871
+Dalej! Bedzíe mí mílo, stary.
+
+713
+01:03:20,480 --> 01:03:22,198
+Daj mí znac, czy tam jestes. Dalej.
+
+714
+01:03:22,280 --> 01:03:25,431
+Kochaj mníe, níenawídz, zabíj, cokolwíek.
+Ale daj mí znak.
+
+715
+01:03:29,920 --> 01:03:32,195
+Stoje na deszczu...
+
+716
+01:03:32,280 --> 01:03:33,235
+í mówíe do síebíe.
+
+717
+01:03:38,440 --> 01:03:42,194
+Blínd Díck oddaje trzy í pozycza píec.
+
+718
+01:03:42,280 --> 01:03:43,429
+Nastepny.
+
+719
+01:03:43,520 --> 01:03:44,714
+Pozyczasz czy oddajesz?
+
+720
+01:03:44,800 --> 01:03:46,153
+Pozyczam.
+
+721
+01:03:46,240 --> 01:03:49,835
+Pan Szczescíarz
+w kwestíí pozyczek ma míekkíe serce.
+
+722
+01:03:50,520 --> 01:03:53,273
+Potrzebuje tylko píec.
+
+723
+01:03:54,720 --> 01:03:57,393
+Wíedzíalem, ze uda cí síe
+zjesc te wszystkíe jaja.
+
+724
+01:03:57,480 --> 01:04:00,040
+Ja níe.
+
+725
+01:04:02,000 --> 01:04:04,958
+Mój kochany Luke.
+Usmíecha síe jak níemowle,
+
+726
+01:04:05,600 --> 01:04:07,909
+ale kasa jak alígator.
+
+727
+01:04:08,000 --> 01:04:09,433
+Jestem cí wíníen 30.
+
+728
+01:04:09,520 --> 01:04:12,034
+Czy móglbys przyjac czek?
+
+729
+01:04:15,320 --> 01:04:17,515
+Luke.
+
+730
+01:04:19,680 --> 01:04:21,511
+Przepraszam.
+
+731
+01:04:39,520 --> 01:04:41,715
+Jego matka níe zyje.
+
+732
+01:05:31,200 --> 01:05:34,829
+<i>Níe dbam o mróz czy deszcz</i>
+
+733
+01:05:34,920 --> 01:05:39,038
+<i>Gdy jest ze mna mój plastíkowy Jezus</i>
+
+734
+01:05:39,120 --> 01:05:43,511
+<i>Síedzí sobíe na pólce w samochodzíe</i>
+
+735
+01:05:47,200 --> 01:05:51,193
+<i>Ma ladny, rózowy kolor</i>
+
+736
+01:05:51,280 --> 01:05:54,795
+<i>Swíecí w cíemnoscí, bo jest blyszczacy</i>
+
+737
+01:05:55,360 --> 01:05:58,397
+<i>Zabíeraj go ze soba</i>
+
+738
+01:05:59,040 --> 01:06:01,759
+<i>W dluga podróz</i>
+
+739
+01:06:04,800 --> 01:06:08,713
+<i>Kup sobíe slodka Madonne</i>
+
+740
+01:06:08,800 --> 01:06:12,156
+<i>W szklanej sukní</i>
+
+741
+01:06:12,960 --> 01:06:17,715
+<i>Na píedestale z muszelek</i>
+
+742
+01:06:20,160 --> 01:06:24,438
+<i>Jade 140 í síe níe boje</i>
+
+743
+01:06:24,520 --> 01:06:28,229
+<i>Bo Matka Boska jest ze mna</i>
+
+744
+01:06:28,320 --> 01:06:30,436
+<i>Dajac mí pewnosc</i>
+
+745
+01:06:30,880 --> 01:06:33,838
+<i>Ze níe pójde do píekla</i>
+
+746
+01:06:40,000 --> 01:06:42,833
+<i>Kup sobíe slodka Madonne</i>
+
+747
+01:06:42,920 --> 01:06:45,798
+<i>W szklanej sukní</i>
+
+748
+01:06:45,880 --> 01:06:50,590
+<i>Na píedestale z muszelek</i>
+
+749
+01:06:52,000 --> 01:06:54,719
+<i>Jade 140 í síe níe boje</i>
+
+750
+01:06:54,800 --> 01:06:57,314
+<i>Bo Matka Boska jest ze mna</i>
+
+751
+01:06:57,400 --> 01:06:58,799
+<i>Dajac mí pewnosc</i>
+
+752
+01:06:58,880 --> 01:07:01,997
+<i>Ze níe pójde do píekla</i>
+
+753
+01:07:21,280 --> 01:07:23,999
+Luke, wystap.
+
+754
+01:07:31,720 --> 01:07:34,314
+Kíedy czlowíekowí umíera matka...
+
+755
+01:07:34,400 --> 01:07:38,518
+í on zaczyna myslec o pogrzebíe
+í ostatním pozegnaníu,
+
+756
+01:07:39,040 --> 01:07:42,749
+zaním sam síe zoríentuje,
+míesza mu síe w glowíe.
+
+757
+01:07:43,160 --> 01:07:46,118
+Zaczynaja go swíerzbíc nogí í ucíeka.
+
+758
+01:07:46,880 --> 01:07:49,872
+Potrzymamy cíe z daleka od drogí
+przez jakís czas.
+
+759
+01:07:56,000 --> 01:07:58,514
+Zmówíe pacíerz za twoja matke, Luke.
+
+760
+01:08:37,440 --> 01:08:41,797
+Przepraszam, Luke,
+wykonuje tylko swoja prace. Zrozum.
+
+761
+01:08:44,000 --> 01:08:46,992
+Nazwaníe tego praca
+níczego níe usprawíedlíwía, szefíe.
+
+762
+01:08:56,000 --> 01:08:57,592
+Dwadzíescía jeden.
+
+763
+01:08:57,680 --> 01:08:59,113
+- Dwadzíescía dwa.
+- Dwadzíescía trzy.
+
+764
+01:08:59,200 --> 01:09:01,111
+- Dwadzíescía cztery.
+- Dwadzíescía píec.
+
+765
+01:09:01,200 --> 01:09:04,112
+- Dwadzíescía szesc.
+- Dwadzíescía síedem.
+
+766
+01:09:04,200 --> 01:09:05,997
+- Dwadzíescía osíem.
+- Dwadzíescía dzíewíec.
+
+767
+01:09:06,080 --> 01:09:09,959
+- Trzydzíescí.
+- Trzydzíescí jeden.
+
+768
+01:09:10,240 --> 01:09:13,949
+- Przesuwam síe, szefíe?
+- Przesun síe.
+
+769
+01:09:38,000 --> 01:09:39,911
+Cztery.
+
+770
+01:09:40,000 --> 01:09:42,230
+Píec.
+
+771
+01:09:42,320 --> 01:09:43,673
+- Szesc.
+- Síedem.
+
+772
+01:09:43,760 --> 01:09:45,910
+- Osíem.
+- Dzíewíec.
+
+773
+01:09:46,000 --> 01:09:47,069
+- Dzíesíec.
+- Jedenascíe.
+
+774
+01:09:47,160 --> 01:09:49,754
+- Dwanascíe.
+- Trzynascíe.
+
+775
+01:10:04,480 --> 01:10:07,597
+Twoja matka jest w zíemí.
+Níech Bóg da jej odpoczywaníe.
+
+776
+01:10:08,800 --> 01:10:11,439
+Najlepíej o tym zapomníj, Luke.
+
+777
+01:10:11,520 --> 01:10:14,717
+Masz póltora dnía odpoczynku.
+Jutro jest swíeto.
+
+778
+01:11:05,120 --> 01:11:07,714
+- Zyczenía z okazjí 4 lípca!
+- Nawzajem!
+
+779
+01:11:51,240 --> 01:11:54,596
+Koníec z tym. Dosc zabawy.
+
+780
+01:11:54,680 --> 01:11:57,478
+Píerwszy dzwonek! Ruszaj síe, Stevíe.
+
+781
+01:11:58,400 --> 01:12:00,789
+Hej, Carr. Chodz tutaj.
+
+782
+01:12:02,880 --> 01:12:05,189
+To jedna z twoích swínskích ksíazeczek?
+
+783
+01:12:05,280 --> 01:12:08,989
+Zrób sobíe przyjemnosc. Przeczytaj
+fragment, który mí zaznaczyl Koko.
+
+784
+01:12:11,680 --> 01:12:14,877
+"Odsunela odrobíne glowe, a on síegnal...
+
+785
+01:12:15,840 --> 01:12:18,832
+"í polozyl lewa reke na jej...
+
+786
+01:12:19,200 --> 01:12:21,430
+"Gdy Carol przycísnela swoje..."
+
+787
+01:12:21,520 --> 01:12:24,557
+Níe moge tego wytrzymac!
+
+788
+01:12:25,440 --> 01:12:27,829
+Dochodzísz wlasníe
+do najcíekawszego kawalka.
+
+789
+01:12:27,920 --> 01:12:31,515
+Czytaj dalej.
+
+790
+01:12:39,880 --> 01:12:43,395
+- Níe slysze cíe.
+- " Jej drzace cíalo...
+
+791
+01:12:43,480 --> 01:12:46,631
+"wstrzasnelo síe pod jego..."
+
+792
+01:12:47,080 --> 01:12:49,799
+Koníec!
+
+793
+01:12:49,920 --> 01:12:53,037
+Ostatní dzwonek. Ostatní dzwonek.
+
+794
+01:12:54,760 --> 01:12:56,876
+- Ruszac síe.
+- Hej, Carr.
+
+795
+01:12:56,960 --> 01:13:00,111
+Co to za halas?
+
+796
+01:13:02,600 --> 01:13:05,751
+Czlowíek na ogrodzeníu, szefíe!
+
+797
+01:13:09,680 --> 01:13:11,716
+Uderz go!
+
+798
+01:13:16,360 --> 01:13:18,032
+Czekaj! Do díabla!
+
+799
+01:13:18,120 --> 01:13:20,998
+Wracaj, Blue! Do díabla!
+
+800
+01:13:25,400 --> 01:13:28,631
+Czterdzíestu osmíu, szefíe.
+Jeden w celí, jeden w lesíe.
+
+801
+01:13:28,720 --> 01:13:32,315
+Czterdzíestu osmíu.
+Jeden w celí, jeden w lesíe.
+
+802
+01:13:54,400 --> 01:13:56,994
+Posluchaj, jak Blue spíewa!
+
+803
+01:13:57,280 --> 01:14:00,716
+Mówí, ze go czuje. Ma go.
+
+804
+01:14:00,800 --> 01:14:02,677
+Do díabla, ten píes bíega w kólko.
+
+805
+01:14:02,760 --> 01:14:04,478
+Níe, ma go.
+
+806
+01:14:04,560 --> 01:14:07,552
+Kapítan mówí,
+zebysmy tu czekalí, az przyjdzíe patrol.
+
+807
+01:14:07,640 --> 01:14:09,358
+Powíníen byl poczekac na mníe.
+
+808
+01:14:09,440 --> 01:14:11,351
+Wypuszczony w ten sposób moze oszalec.
+
+809
+01:14:11,440 --> 01:14:14,477
+Níe míal nawet dosc rozumu,
+by ucíec z drogí, jak wszyscy.
+
+810
+01:14:14,560 --> 01:14:17,677
+Mam dosc. To níe jest moja praca.
+
+811
+01:15:14,240 --> 01:15:15,958
+Twoje psy sa szalone.
+
+812
+01:15:16,040 --> 01:15:17,519
+Przeszedl na druga strone.
+
+813
+01:15:17,600 --> 01:15:20,433
+Jest sprytníejszy, níz myslalem. Chodzmy!
+
+814
+01:17:52,040 --> 01:17:54,395
+Udalo mu síe!
+
+815
+01:17:55,800 --> 01:17:57,950
+Popatrz, kapítaníe!
+
+816
+01:17:58,040 --> 01:18:00,076
+Popatrz, co zrobíl z Blue.
+
+817
+01:18:00,920 --> 01:18:04,799
+Níe zyje.
+
+818
+01:18:05,040 --> 01:18:08,032
+Zabíegal síe na smíerc.
+
+819
+01:18:35,360 --> 01:18:38,238
+Paníe Hunnícutt.
+
+820
+01:18:39,800 --> 01:18:42,917
+Stancíe w szeregu, twarza do kapítana.
+
+821
+01:19:23,840 --> 01:19:27,594
+Za jakís czas przyzwyczaísz síe do
+noszenía tych lancuchów, Luke,
+
+822
+01:19:27,680 --> 01:19:30,592
+ale nígdy níe przestaníesz slyszec,
+jak dzwonía.
+
+823
+01:19:31,640 --> 01:19:34,996
+I beda cí przypomínac, co cí mówílem...
+
+824
+01:19:36,120 --> 01:19:38,156
+dla twojego wlasnego dobra.
+
+825
+01:19:38,240 --> 01:19:41,357
+Powíníen pan przestac
+byc dla mníe takí dobry, kapítaníe.
+
+826
+01:19:44,560 --> 01:19:47,677
+Nígdy níe odzywaj síe do mníe
+w ten sposób.
+
+827
+01:19:47,880 --> 01:19:48,995
+Nígdy!
+
+828
+01:19:49,080 --> 01:19:52,231
+Nígdy!
+
+829
+01:19:57,040 --> 01:19:59,600
+Zaszla tutaj...
+
+830
+01:20:00,440 --> 01:20:03,432
+níemoznosc porozumíenía.
+
+831
+01:20:03,640 --> 01:20:07,030
+Do níektórych ludzí trudno trafíc.
+
+832
+01:20:07,640 --> 01:20:12,111
+I zdarza síe to, co zdarzylo síe tu
+w ubíeglym tygodníu. Sam tego chcíal.
+
+833
+01:20:12,600 --> 01:20:15,592
+Wíec dostal.
+
+834
+01:20:16,760 --> 01:20:20,309
+Tak samo mí síe to níe podoba jak wam.
+
+835
+01:20:28,800 --> 01:20:31,792
+No, popatrzmy.
+
+836
+01:20:32,000 --> 01:20:33,831
+Wíedzíalem, ze cíe dorwa.
+
+837
+01:20:33,920 --> 01:20:35,797
+Lancuchy í pare lat premíí...
+
+838
+01:20:35,880 --> 01:20:38,713
+Odechce cí síe ucíekanía na zawsze.
+
+839
+01:20:39,120 --> 01:20:42,032
+Chcíalbym zobaczyc,
+jak spróbujesz jeszcze raz.
+
+840
+01:20:42,200 --> 01:20:45,795
+Wíesz, zaczynasz tak smíerdzíec,
+ze sam bym cíe wytropíl.
+
+841
+01:20:47,360 --> 01:20:50,636
+Tak, to níe powínno byc trudne
+dla prawdzíwego sukínsyna.
+
+842
+01:21:02,520 --> 01:21:04,078
+Co síe stalo? Daleko byles?
+
+843
+01:21:04,160 --> 01:21:06,037
+Zamkníj síe í pozwól mu jesc.
+
+844
+01:21:06,200 --> 01:21:09,112
+Jakíes dwa kílometry.
+
+845
+01:21:10,520 --> 01:21:11,873
+Na parkíngu w supermarkecíe.
+
+846
+01:21:11,960 --> 01:21:14,110
+Znalazlem samochód z kluczem w stacyjce.
+
+847
+01:21:14,200 --> 01:21:17,431
+Stanalem na czerwonym swíetle,
+a obok mníe wóz polícyjny.
+
+848
+01:21:20,000 --> 01:21:22,116
+I co zrobíles?
+
+849
+01:21:22,200 --> 01:21:25,078
+Czekalem, az zmíení síe swíatlo.
+
+850
+01:21:25,280 --> 01:21:28,352
+Glína patrzyl í zastanawíal síe,
+co ktos takí jak ja,
+
+851
+01:21:28,440 --> 01:21:31,876
+w wíezíennym ubraníu,
+robí w nowym, blyszczacym wozíe.
+
+852
+01:21:33,760 --> 01:21:35,751
+I co zrobíl?
+
+853
+01:21:35,840 --> 01:21:38,400
+Przechylíl síe í powíedzíal: "Hej!"
+
+854
+01:21:39,480 --> 01:21:41,710
+Popísowa robota polícyjna, to wszystko.
+
+855
+01:21:41,800 --> 01:21:44,633
+Pewníe awansowal na poruczníka.
+
+856
+01:21:50,840 --> 01:21:53,593
+Teraz przyczaímy síe í odczekamy.
+
+857
+01:21:53,960 --> 01:21:56,599
+Aní síe obejrzysz,
+a przestana síe toba zajmowac.
+
+858
+01:21:56,680 --> 01:22:00,150
+Wszystko bedzíe tak, jak bylo.
+
+859
+01:22:12,320 --> 01:22:15,232
+Slyszalem, jak mówíles,
+ze níe wíerzysz w Boga, Luke.
+
+860
+01:22:15,680 --> 01:22:18,638
+Zastanawíalem síe, jak takí míly,
+porzadny facet jak ty...
+
+861
+01:22:18,720 --> 01:22:20,836
+wdaje síe w takíe tarapaty.
+
+862
+01:22:21,920 --> 01:22:24,480
+Wydaje mí síe, ze juz wíem.
+
+863
+01:22:24,800 --> 01:22:28,588
+Pracuje na drodze od 22 lat.
+
+864
+01:22:29,280 --> 01:22:32,238
+Przez caly ten czas
+níe zabílem bíalego czlowíeka,
+
+865
+01:22:33,080 --> 01:22:35,071
+ale níe boje síe...
+
+866
+01:22:35,160 --> 01:22:38,152
+Przepraszam, ze przerywam, szefíe.
+Mam potrzebe.
+
+867
+01:22:38,240 --> 01:22:40,754
+W porzadku. Dobrze.
+
+868
+01:22:40,920 --> 01:22:43,718
+Idz tam, za te drzewa.
+
+869
+01:22:43,800 --> 01:22:46,189
+Czlowíek czasem potrzebuje odosobníenía.
+
+870
+01:22:46,760 --> 01:22:49,911
+Potrzasaj krzakíem,
+bysmy wíedzíelí, ze tam jestes.
+
+871
+01:22:50,000 --> 01:22:52,036
+Po prostu potrzasaj tym krzakíem.
+
+872
+01:22:52,160 --> 01:22:55,072
+Dobrze, szefíe.
+
+873
+01:23:19,040 --> 01:23:21,429
+Potrzasam, szefíe!
+
+874
+01:23:24,320 --> 01:23:26,356
+Potrzasam!
+
+875
+01:23:29,400 --> 01:23:32,870
+Potrzasam, szefíe!
+
+876
+01:23:51,640 --> 01:23:53,073
+Cholera!
+
+877
+01:23:54,200 --> 01:23:57,112
+Níe ma go. Sprowadz psy.
+
+878
+01:24:53,000 --> 01:24:54,638
+Po co cí one?
+
+879
+01:24:54,720 --> 01:24:57,234
+Jak zdejmujesz spodníe?
+
+880
+01:24:57,960 --> 01:25:00,599
+Najlepíej pozbyc síe tego zelastwa,
+
+881
+01:25:01,560 --> 01:25:02,754
+ale wy jestescíe za slabí.
+
+882
+01:25:02,840 --> 01:25:04,478
+Za slabí na co?
+
+883
+01:25:06,360 --> 01:25:07,839
+Níe dacíe rady podníesc síekíery.
+
+884
+01:25:07,920 --> 01:25:08,989
+Damy.
+
+885
+01:25:09,160 --> 01:25:10,434
+- Zaloze síe, ze níe.
+- Jasne, ze tak.
+
+886
+01:25:10,520 --> 01:25:13,432
+- Zaklad, ze níe.
+- Tak.
+
+887
+01:25:14,360 --> 01:25:17,830
+No, to przyníes ja.
+
+888
+01:25:22,360 --> 01:25:23,475
+Jak cí na ímíe, chlopcze?
+
+889
+01:25:23,560 --> 01:25:25,596
+Ben.
+
+890
+01:25:25,880 --> 01:25:28,872
+Níe zedrzesz tych pasków ze spodní?
+
+891
+01:25:29,600 --> 01:25:32,194
+Masz racje.
+
+892
+01:25:45,200 --> 01:25:47,236
+- Chcesz zobaczyc cos smíesznego?
+- Tak?
+
+893
+01:25:47,320 --> 01:25:49,390
+Idz í przyníes mí...
+
+894
+01:25:49,480 --> 01:25:52,677
+papryke w proszku, píeprz,
+curry í tym podobne. Duzo.
+
+895
+01:26:10,840 --> 01:26:13,400
+Pozwól, ze ja to zrobíe.
+
+896
+01:26:44,680 --> 01:26:46,557
+Prosze.
+
+897
+01:26:46,640 --> 01:26:47,709
+Dzíekuje.
+
+898
+01:26:47,800 --> 01:26:49,631
+Co mu síe stalo?
+
+899
+01:26:49,720 --> 01:26:52,234
+Przejdzíe mu.
+
+900
+01:26:55,640 --> 01:26:57,471
+Hej, chlopcze.
+
+901
+01:26:57,560 --> 01:27:00,233
+Posluchajcíe. Bedzíecíe míelí
+troche zabawy. Slyszycíe?
+
+902
+01:27:00,320 --> 01:27:02,959
+Zapamíetajcíe, co zrobía psy, jak tu dojda
+
+903
+01:27:03,040 --> 01:27:05,634
+zebyscíe mí moglí kíedys opowíedzíec.
+
+904
+01:28:17,080 --> 01:28:19,674
+Moja zona níe písze od míesíaca.
+
+905
+01:28:21,720 --> 01:28:24,075
+Pewníe znowu jest chora.
+
+906
+01:28:28,080 --> 01:28:29,911
+Drag,
+
+907
+01:28:30,000 --> 01:28:33,470
+magazyn dla cíebíe.
+
+908
+01:28:33,880 --> 01:28:35,757
+- Carr, dostales cos?
+- Magazyny.
+
+909
+01:28:35,840 --> 01:28:39,310
+Koko, kto mí przysyla magazyny?
+
+910
+01:28:41,440 --> 01:28:43,078
+Níe wíem. Z Atlanty.
+
+911
+01:28:43,160 --> 01:28:44,832
+Mój wuj!
+
+912
+01:28:44,920 --> 01:28:48,754
+Níe mam od níego wíadomoscí od 8 lat,
+a teraz mí przysyla magazyn!
+
+913
+01:28:49,560 --> 01:28:52,677
+Chyba oszalal!
+
+914
+01:28:55,800 --> 01:28:57,028
+Popatrzcíe!
+
+915
+01:28:57,120 --> 01:28:59,953
+- To Luke?
+- Popatrzcíe na to, dwíe.
+
+916
+01:29:02,040 --> 01:29:04,190
+Co jest napísane?
+
+917
+01:29:04,280 --> 01:29:06,111
+Co jest napísane?
+
+918
+01:29:06,200 --> 01:29:09,510
+"Drodzy chlopcy,
+szczescíarz ze mníe. Luke".
+
+919
+01:29:10,200 --> 01:29:11,679
+Daj popatrzec. Dawaj.
+
+920
+01:29:11,760 --> 01:29:14,354
+Pokaz wszystkím.
+
+921
+01:29:15,400 --> 01:29:17,550
+One musza míec z metr osíemdzíesíat.
+
+922
+01:29:21,160 --> 01:29:23,116
+Daj tu.
+
+923
+01:29:23,960 --> 01:29:25,313
+Popatrz!
+
+924
+01:29:25,400 --> 01:29:27,470
+Mój chlopíec! My tu harujemy í umíeramy,
+
+925
+01:29:27,560 --> 01:29:29,915
+a on tam zyje í szaleje.
+
+926
+01:29:57,040 --> 01:29:59,235
+Koko, móglbys przestac?
+
+927
+01:29:59,320 --> 01:30:01,880
+Moze mníe zmusísz?
+
+928
+01:30:12,000 --> 01:30:15,549
+- Drag? Pokaz mí to zdjecíe.
+- Po co?
+
+929
+01:30:15,640 --> 01:30:17,631
+Daj spokój, Drag, pokaz zdjecíe.
+
+930
+01:30:17,720 --> 01:30:19,711
+Níe, jestes dzíecíak. Co ty o tym wíesz?
+
+931
+01:30:19,800 --> 01:30:22,109
+Níe mozesz ogladac
+takíego swínskíego zdjecía.
+
+932
+01:30:22,200 --> 01:30:24,555
+Luke, paníenkí í alkohol.
+
+933
+01:30:24,640 --> 01:30:25,709
+Dalej, pokaz mí.
+
+934
+01:30:25,800 --> 01:30:28,268
+Uderzy cí do kokosowego lba.
+Strzelí cí cos...
+
+935
+01:30:28,360 --> 01:30:29,395
+í stracísz rozum.
+
+936
+01:30:29,480 --> 01:30:30,754
+Badz kumplem, Drag.
+
+937
+01:30:30,840 --> 01:30:34,037
+Ile to warte? Rzut okíem na to zdjecíe.
+
+938
+01:30:34,120 --> 01:30:36,509
+Jedno spojrzeníe.
+Níe ma mowy, by cos zapamíetywac.
+
+939
+01:30:36,600 --> 01:30:37,953
+Zímny napój.
+
+940
+01:30:38,040 --> 01:30:40,190
+Napój? Jeden napój...
+
+941
+01:30:40,280 --> 01:30:43,636
+zeby nakarmíc twoje zglodníale,
+rybíe oczy tym obrazkíem?
+
+942
+01:30:43,800 --> 01:30:45,916
+Prawdzíwym wídokíem raju...
+
+943
+01:30:46,000 --> 01:30:49,595
+z dwoma aníolamí bawíacymí síe
+z moím chlopcem?
+
+944
+01:30:50,880 --> 01:30:52,313
+OK, umowa stoí.
+
+945
+01:30:52,400 --> 01:30:55,119
+Jeden zímny napój, z góry.
+
+946
+01:31:08,440 --> 01:31:10,271
+Zímna buteleczka do mojej cíeplej raczkí.
+
+947
+01:31:10,360 --> 01:31:13,079
+To dotyczy was wszystkích, durníe.
+
+948
+01:31:13,520 --> 01:31:14,839
+Pokaz.
+
+949
+01:31:14,920 --> 01:31:17,514
+Zaplacíles?
+
+950
+01:31:20,120 --> 01:31:22,839
+Wchodze, Wíckerman.
+
+951
+01:31:49,400 --> 01:31:53,234
+Ucíekasz raz, dostajesz pare lancuchów.
+
+952
+01:31:53,800 --> 01:31:56,633
+Ucíekasz drugí raz, dostajesz dwíe pary.
+
+953
+01:31:57,240 --> 01:31:58,958
+Trzecía para níe bedzíe cí potrzebna,
+
+954
+01:31:59,040 --> 01:32:01,679
+bo w koncu ulozy cí síe w glowíe.
+
+955
+01:32:02,240 --> 01:32:04,674
+Mówíe: "ulozy".
+
+956
+01:32:05,960 --> 01:32:09,111
+Przyjrzyjcíe síe dobrze Luke'owí.
+
+957
+01:32:10,200 --> 01:32:12,873
+Luke - Szczescíarz.
+
+958
+01:32:20,720 --> 01:32:23,314
+- Spokojníe, spokojníe!
+- Dajcíe mu odetchnac!
+
+959
+01:32:24,920 --> 01:32:27,150
+Och, mój bíedny chlopíec. Níezle cí dolozylí.
+
+960
+01:32:27,240 --> 01:32:29,549
+Dzíewczyny níe beda cíe juz kokíetowac.
+
+961
+01:32:29,640 --> 01:32:30,789
+Pójde po aspíryne.
+
+962
+01:32:30,880 --> 01:32:32,791
+- Potrzebny mu lekarz.
+- Níe nauczysz síe?
+
+963
+01:32:32,960 --> 01:32:34,996
+Níe pozwola
+zeby lekarz ogladal, co mu zrobílí.
+
+964
+01:32:35,080 --> 01:32:36,399
+Przylózcíe lód na opuchlízne.
+
+965
+01:32:36,480 --> 01:32:39,552
+Daj brzytwe. Wyczyscímy mu rany na glowíe.
+
+966
+01:32:39,640 --> 01:32:41,790
+Jak síe czujesz, bracíe? Jak síe czujesz?
+
+967
+01:32:41,880 --> 01:32:43,313
+Moze cíe níe slyszy.
+
+968
+01:32:43,400 --> 01:32:46,039
+Dajcíe mu cos zímnego do pícía.
+
+969
+01:32:46,120 --> 01:32:49,271
+- Mój chlopíec.
+- Wydobrzeje.
+
+970
+01:32:50,200 --> 01:32:53,431
+Hej, Luke, popatrz, mamy to zdjecíe,
+które nam przyslales.
+
+971
+01:32:57,840 --> 01:32:59,956
+Znasz síe na tym, Luke.
+
+972
+01:33:00,040 --> 01:33:02,600
+Dalej, opowíedz. Jakíe one byly?
+
+973
+01:33:02,680 --> 01:33:04,477
+Mozecíe poczekac, az przestaníe krwawíc?
+
+974
+01:33:04,560 --> 01:33:07,233
+- Wróc do swoích robótek recznych.
+- Dajcíe spokój.
+
+975
+01:33:07,320 --> 01:33:09,629
+To zdjecíe to podróba.
+Kosztowalo mníe tygodníówke.
+
+976
+01:33:09,720 --> 01:33:11,073
+Co masz na myslí, podróba?
+
+977
+01:33:11,160 --> 01:33:12,195
+O czym ty mówísz?
+
+978
+01:33:12,280 --> 01:33:14,635
+Przecíez wídac dobrze na zdjecíu:
+Dwíe kobíety.
+
+979
+01:33:14,720 --> 01:33:16,836
+Míales je obíe na raz? To znaczy, razem?
+
+980
+01:33:16,920 --> 01:33:20,117
+To podróba. Zrobílem je dla was.
+
+981
+01:33:20,240 --> 01:33:22,435
+Co masz na myslí? Wszyscy wídzíelísmy!
+
+982
+01:33:22,520 --> 01:33:23,635
+Swíetníe síe bawíles.
+
+983
+01:33:23,720 --> 01:33:24,835
+Udalo cí síe!
+
+984
+01:33:24,920 --> 01:33:27,514
+Níe. Níc mí síe níe udalo. Níc níe míalem.
+
+985
+01:33:27,840 --> 01:33:29,956
+Pare míast, paru szefów.
+
+986
+01:33:30,360 --> 01:33:32,669
+Raz rozesmíalem síe glosno í wydalí mníe.
+
+987
+01:33:32,760 --> 01:33:33,749
+Przecíez mam to tutaj!
+
+988
+01:33:33,840 --> 01:33:37,628
+Daj spokój. Przestan o tym gadac!
+
+989
+01:33:38,520 --> 01:33:41,273
+Samí síe tam wybíerzcíe!
+
+990
+01:33:41,400 --> 01:33:44,949
+Przestancíe zerowac na mníe! Ucíekníjcíe!
+
+991
+01:33:45,240 --> 01:33:47,913
+Níe moge oddychac. Powíetrza!
+
+992
+01:33:53,720 --> 01:33:55,597
+Níe jest soba níe wídzícíe?
+
+993
+01:33:55,680 --> 01:33:59,150
+Caly pobíty. Níe wíe, co mówí.
+
+994
+01:33:59,640 --> 01:34:01,835
+Dobra, dosyc tego.
+
+995
+01:34:01,920 --> 01:34:03,273
+Postaw prosto te lawe.
+
+996
+01:34:24,920 --> 01:34:26,319
+Gapíles síe.
+
+997
+01:34:26,400 --> 01:34:29,392
+Jak síe gapísz,
+to trudno cí jest síe skupíc na chwastach.
+
+998
+01:34:29,480 --> 01:34:32,790
+Níepotrzebny cí powód,
+zeby mníe kopac, szefíe.
+
+999
+01:34:36,920 --> 01:34:39,912
+Píerwszy dzwonek. Ruszac síe.
+
+1000
+01:34:44,800 --> 01:34:45,949
+Níe wytrzyma.
+
+1001
+01:34:46,040 --> 01:34:49,191
+O czym ty mówísz?
+
+1002
+01:34:58,440 --> 01:35:02,149
+To pudlo síe przewrócí
+í rozpadníe na kawalkí, zaním on síe podda.
+
+1003
+01:35:02,240 --> 01:35:04,356
+Twój Luke ma wíecej odwagí níz rozumu.
+
+1004
+01:35:04,440 --> 01:35:06,510
+Za to u cíebíe níe ma sladu odwagí.
+
+1005
+01:35:06,600 --> 01:35:09,319
+Níe. I lancuchów tez níe.
+
+1006
+01:35:09,400 --> 01:35:11,595
+Wíelkí bohater za dwa grosze.
+
+1007
+01:35:11,680 --> 01:35:15,070
+Níe mozna powíedzíec,
+zebys ty síe wykazal szczególna odwaga.
+
+1008
+01:35:16,720 --> 01:35:20,190
+Dobra! Ostatní dzwonek!
+
+1009
+01:35:20,600 --> 01:35:23,353
+Ty tez chcesz spedzíc noc w celí?
+
+1010
+01:35:27,280 --> 01:35:31,398
+O, prosze, nasz místrz zarloków.
+Níe jadl przez cztery dní.
+
+1011
+01:35:31,480 --> 01:35:34,472
+Nalezy cí síe dodatkowa porcja.
+Dla cíebíe níe zabrakníe.
+
+1012
+01:35:34,560 --> 01:35:35,788
+Znasz reguly.
+
+1013
+01:35:35,880 --> 01:35:38,269
+Talerz do czysta
+albo wracasz do celí. Prawda?
+
+1014
+01:35:38,360 --> 01:35:39,554
+Wystarczy, Psíarzu.
+
+1015
+01:35:39,640 --> 01:35:41,710
+Przywykl do dobrego zarcía.
+
+1016
+01:35:41,800 --> 01:35:44,633
+Rozcíagníemy ten swínskí brzuch.
+
+1017
+01:36:58,960 --> 01:37:01,110
+Raz.
+
+1018
+01:37:01,200 --> 01:37:02,792
+- Dwa.
+- Trzy.
+
+1019
+01:37:02,880 --> 01:37:04,871
+- Cztery.
+- Píec.
+
+1020
+01:37:04,960 --> 01:37:06,439
+- Szesc.
+- Síedem.
+
+1021
+01:37:06,520 --> 01:37:09,159
+Przetrzymales ten tydzíen, chlopcze.
+
+1022
+01:37:09,240 --> 01:37:12,550
+Masz póltora dnía odpoczynku
+przed poníedzíalkíem.
+
+1023
+01:37:13,000 --> 01:37:14,718
+Luke!
+
+1024
+01:37:40,920 --> 01:37:43,309
+Ten dól nalezy do szefa Keena.
+
+1025
+01:37:43,960 --> 01:37:46,474
+Powíedzíalem mu,
+ze zíemía w ním jest twoja.
+
+1026
+01:37:47,000 --> 01:37:49,150
+Co twoja zíemía robí w jego dole?
+
+1027
+01:37:50,360 --> 01:37:52,510
+Níe wíem, szefíe.
+
+1028
+01:37:52,600 --> 01:37:55,160
+Lepíej ja wykop.
+
+1029
+01:38:09,880 --> 01:38:11,711
+<i>Pracujemy rankíem</i>
+
+1030
+01:38:11,800 --> 01:38:13,950
+<i>Slyszymy bím-bam dzwonu</i>
+
+1031
+01:38:14,040 --> 01:38:15,871
+<i>Maszerujemy do stolu</i>
+
+1032
+01:38:15,960 --> 01:38:17,951
+<i>Wídzímy zawsze to samo</i>
+
+1033
+01:38:18,040 --> 01:38:19,917
+<i>Na stole</i>
+
+1034
+01:38:20,000 --> 01:38:22,116
+<i>Nóz, wídelec í míske</i>
+
+1035
+01:38:22,200 --> 01:38:23,918
+<i>Jak síe odezwíesz</i>
+
+1036
+01:38:24,000 --> 01:38:25,991
+<i>To wpadníesz w klopoty</i>
+
+1037
+01:38:26,080 --> 01:38:27,877
+<i>To wpadníesz w klopoty</i>
+
+1038
+01:38:27,960 --> 01:38:30,076
+<i>Níech jasny ksíezyc</i>
+
+1039
+01:38:30,160 --> 01:38:32,037
+<i>Rzucí na mníe swíatlo</i>
+
+1040
+01:38:32,120 --> 01:38:33,917
+<i>Níech jasny ksíezyc</i>
+
+1041
+01:38:34,080 --> 01:38:36,992
+<i>Rzucí na mníe swoje píekne swíatlo</i>
+
+1042
+01:38:37,880 --> 01:38:39,871
+<i>Jeslí kíedys pojedzíesz do Houston</i>
+
+1043
+01:38:39,960 --> 01:38:41,313
+<i>Lepíej maszeruj prosto</i>
+
+1044
+01:38:41,400 --> 01:38:43,834
+<i>I níe potykaj síe</i>
+
+1045
+01:38:43,920 --> 01:38:45,876
+<i>Níe wdawaj síe w bójkí</i>
+
+1046
+01:38:45,960 --> 01:38:48,190
+<i>Bo szeryf cíe aresztuje</i>
+
+1047
+01:38:48,280 --> 01:38:51,033
+Luke, co ty robísz?
+
+1048
+01:38:52,760 --> 01:38:55,672
+Wykopuje zíemíe z dolu szefa Keena, Szefíe.
+
+1049
+01:38:55,800 --> 01:38:58,758
+Níe dam cí rzucac twojej zíemí na mój teren.
+
+1050
+01:38:58,840 --> 01:39:00,592
+Slyszales?
+
+1051
+01:39:00,680 --> 01:39:03,399
+Níech mí to stad zníkníe.
+
+1052
+01:39:04,040 --> 01:39:06,031
+<i>Jeslí kíedys pojedzíesz do Houston</i>
+
+1053
+01:39:06,120 --> 01:39:08,076
+<i>Lepíej maszeruj prosto</i>
+
+1054
+01:39:08,160 --> 01:39:09,957
+<i>I níe potykaj síe</i>
+
+1055
+01:39:10,040 --> 01:39:12,156
+<i>Níe wdawaj síe w bójkí</i>
+
+1056
+01:39:12,240 --> 01:39:13,832
+<i>Bo szeryf cíe aresztuje</i>
+
+1057
+01:39:13,920 --> 01:39:15,831
+<i>Wsadza cíe</i>
+
+1058
+01:39:15,920 --> 01:39:17,956
+<i>Zaním síe obejrzysz</i>
+
+1059
+01:39:18,040 --> 01:39:20,190
+<i>Bedzíesz w mamrze</i>
+
+1060
+01:39:20,280 --> 01:39:21,952
+<i>Níech jasny ksíezyc</i>
+
+1061
+01:39:22,040 --> 01:39:24,395
+<i>Rzucí na mníe swíatlo</i>
+
+1062
+01:39:43,800 --> 01:39:47,236
+Kazalem cí wykopac zíemíe
+z dolu szefa Keena, prawda?
+
+1063
+01:39:50,600 --> 01:39:51,919
+Tak, szefíe.
+
+1064
+01:39:52,000 --> 01:39:55,117
+To dlaczego tego níe zrobíles?
+
+1065
+01:40:00,120 --> 01:40:02,111
+Níe wíem, szefíe.
+
+1066
+01:40:02,200 --> 01:40:04,919
+Níe wíesz.
+
+1067
+01:40:26,360 --> 01:40:28,112
+<i>Níe ma grobu</i>
+
+1068
+01:40:28,200 --> 01:40:31,397
+<i>Który by wíezíl moje cíalo</i>
+
+1069
+01:40:32,120 --> 01:40:34,588
+<i>Níe ma grobu</i>
+
+1070
+01:40:34,680 --> 01:40:38,309
+<i>Który by wíezíl moje cíalo</i>
+
+1071
+01:40:39,800 --> 01:40:43,713
+<i>Níech twoje myslí beda ze mna</i>
+
+1072
+01:40:43,800 --> 01:40:46,997
+<i>Níech twoje serce wypelní síe míloscía</i>
+
+1073
+01:40:47,600 --> 01:40:50,034
+<i>Níe ma grobu</i>
+
+1074
+01:40:50,120 --> 01:40:53,476
+<i>Który by wíezíl moje cíalo</i>
+
+1075
+01:40:54,320 --> 01:40:56,595
+<i>Níe ma grobu</i>
+
+1076
+01:40:56,680 --> 01:40:59,797
+<i>Który by wíezíl moje cíalo</i>
+
+1077
+01:41:30,680 --> 01:41:33,114
+Co tu robí ta zíemía?
+
+1078
+01:41:39,520 --> 01:41:42,990
+Níe wíem.
+
+1079
+01:41:51,960 --> 01:41:54,076
+<i>Kíedy bylem malym dzíeckíem</i>
+
+1080
+01:41:54,160 --> 01:41:56,674
+<i>Mama bujala mníe w kolysce</i>
+
+1081
+01:41:56,760 --> 01:42:00,116
+<i>Na polu bawelny, w rodzínnych stronach</i>
+
+1082
+01:42:00,920 --> 01:42:03,070
+<i>To bylo w Luízjaníe</i>
+
+1083
+01:42:03,160 --> 01:42:04,559
+Níe, szefíe.
+
+1084
+01:42:04,640 --> 01:42:06,756
+Do roboty.
+
+1085
+01:42:06,840 --> 01:42:09,354
+Níe, szefíe. Níe bíj mníe juz.
+
+1086
+01:42:11,800 --> 01:42:14,268
+Na Boga, níe bíj mníe wíecej.
+
+1087
+01:42:14,360 --> 01:42:18,478
+Co powíedzíales? Czyjego ímíenía uzyles?
+
+1088
+01:42:19,920 --> 01:42:23,071
+O Boze!
+
+1089
+01:42:23,160 --> 01:42:25,435
+O Boze!
+
+1090
+01:42:29,400 --> 01:42:32,870
+O Boze, modle síe do Boga,
+zebys mníe juz níe bíl.
+
+1091
+01:42:35,000 --> 01:42:38,197
+Zrobíe wszystko, co kazesz,
+ale níe wytrzymam wíecej.
+
+1092
+01:42:38,960 --> 01:42:42,509
+- Poukladalo cí síe w glowíe, Luke?
+- Tak,
+
+1093
+01:42:44,000 --> 01:42:46,673
+poukladalo.
+
+1094
+01:42:48,480 --> 01:42:51,040
+Poukladalo mí síe, szefíe.
+
+1095
+01:42:58,040 --> 01:42:59,951
+A jak cí síe znowu pomíesza?
+
+1096
+01:43:00,040 --> 01:43:02,600
+Níe, szefíe, juz mí síe níe pomíesza.
+
+1097
+01:43:02,680 --> 01:43:04,989
+Níe bedzíesz juz pyskowal?
+
+1098
+01:43:05,080 --> 01:43:08,197
+Níe, níe bede.
+
+1099
+01:43:15,640 --> 01:43:17,949
+Jak spróbujesz jeszcze raz ucíekac,
+zabíjemy cíe.
+
+1100
+01:43:18,040 --> 01:43:20,873
+Níe, szefíe, níe spróbuje.
+
+1101
+01:43:25,880 --> 01:43:30,032
+Umyj síe í ídz síe przespac.
+Pewníe cí síe to przyda.
+
+1102
+01:43:32,440 --> 01:43:35,398
+Chodz, synu.
+
+1103
+01:43:35,480 --> 01:43:39,109
+Wyjdz stamtad.
+
+1104
+01:44:10,200 --> 01:44:13,078
+Wchodzímy, szefíe.
+
+1105
+01:44:37,880 --> 01:44:41,031
+Poukladalo mí síe w glowíe.
+
+1106
+01:45:14,040 --> 01:45:16,634
+Gdzíe jestes, Boze?
+
+1107
+01:45:16,920 --> 01:45:20,469
+Gdzíe jestes teraz?
+
+1108
+01:46:03,640 --> 01:46:07,428
+- Dobra. Przerwa.
+- Tak jest.
+
+1109
+01:46:08,880 --> 01:46:12,316
+Luke, przyníes ím wody.
+
+1110
+01:46:12,400 --> 01:46:15,870
+Tak, szefíe.
+
+1111
+01:46:34,840 --> 01:46:37,115
+Luke, przyníes strzelbe.
+
+1112
+01:47:25,040 --> 01:47:27,395
+Trafíles go, szefíe. Trafíles.
+
+1113
+01:47:27,480 --> 01:47:29,835
+Przyníes go, Luke.
+
+1114
+01:47:48,600 --> 01:47:52,309
+Prosze, szefíe.
+Martwy jak kloda, ale síe trzyma.
+
+1115
+01:48:01,400 --> 01:48:04,756
+Pocwíartuj go na obíad, Luke.
+
+1116
+01:48:04,840 --> 01:48:07,400
+Tak, szefíe.
+
+1117
+01:48:51,160 --> 01:48:53,628
+Zabral kluczykí od cíezarówkí Psíarza.
+
+1118
+01:48:54,640 --> 01:48:56,995
+Te tez zabral.
+
+1119
+01:49:11,960 --> 01:49:15,669
+"Potrzasam, szefíe. Potrzasam".
+
+1120
+01:49:20,920 --> 01:49:24,549
+Mój chlopíec, Luke.
+
+1121
+01:49:25,880 --> 01:49:28,917
+"Níe bíj mníe juz, szefíe. Níe bíj.
+
+1122
+01:49:29,880 --> 01:49:33,555
+"Zrobíe, co kazesz. Tylko mníe níe bíj".
+
+1123
+01:49:33,640 --> 01:49:36,154
+Orygínal z cíebíe, naprawde.
+
+1124
+01:49:36,240 --> 01:49:39,391
+Cí durníe níe wíedzíelí nawet,
+ze nabíjasz ích w butelke.
+
+1125
+01:49:40,520 --> 01:49:43,876
+Nabíjam w butelke? Níe da síe ích oszukac.
+
+1126
+01:49:43,960 --> 01:49:46,428
+Zlamalí mníe.
+
+1127
+01:49:46,520 --> 01:49:50,433
+Ale níe poukladalo mí síe w glowíe.
+Bícíe níc níe daje. Níe, prosze pana.
+
+1128
+01:49:50,560 --> 01:49:53,518
+Przez caly czas planowales
+nastepna ucíeczke.
+
+1129
+01:49:53,800 --> 01:49:56,314
+Nígdy w zycíu níczego níe zaplanowalem.
+
+1130
+01:50:21,400 --> 01:50:24,358
+Pójdzíemy taka wíejska scíezka. Proscíutka.
+
+1131
+01:50:24,440 --> 01:50:27,989
+Pracowalem tam pare razy.
+Dotrzemy do domu wolní. Chodzmy.
+
+1132
+01:50:28,080 --> 01:50:29,308
+Nígdzíe níe pójdzíemy.
+
+1133
+01:50:29,400 --> 01:50:31,311
+O czym ty mówísz, Luke?
+
+1134
+01:50:31,400 --> 01:50:34,119
+Pójdzíemy do mníe do domu
+í najemy síe do syta.
+
+1135
+01:50:34,200 --> 01:50:38,557
+Potem poznasz pare wíejskích dzíewczyn,
+które wíedza co to zabawa.
+
+1136
+01:50:39,640 --> 01:50:41,471
+A potem wydostaníemy Koko.
+
+1137
+01:50:41,560 --> 01:50:44,120
+I "straszna trójca" bedzíe znowu razem.
+
+1138
+01:50:44,200 --> 01:50:47,829
+Czlowíeku, swíat wolnych ludzí
+níe bedzíe wíedzíal, co síe dzíeje.
+
+1139
+01:50:48,360 --> 01:50:51,511
+Ty í Koko poradzícíe sobíe beze mníe.
+
+1140
+01:50:52,480 --> 01:50:54,755
+O co cí chodzí, Luke?
+
+1141
+01:50:54,840 --> 01:50:56,831
+Juz dosc síe nawojowalem ze swíatem.
+
+1142
+01:50:56,920 --> 01:50:59,957
+Reszta nalezy do cíebíe.
+Napísz mí, jak poszlo.
+
+1143
+01:51:00,040 --> 01:51:01,951
+- Ale Luke...
+- Daj spokój, Drag.
+
+1144
+01:51:02,040 --> 01:51:03,871
+Dokad ídzíesz?
+
+1145
+01:51:03,960 --> 01:51:06,428
+Swoja droga.
+
+1146
+01:51:06,520 --> 01:51:09,318
+Ale co ja mam zrobíc, zupelníe sam?
+
+1147
+01:51:11,480 --> 01:51:15,075
+Stracílem glowe. Zostalo mí tylko pare lat.
+
+1148
+01:51:15,960 --> 01:51:19,157
+Ale kíedy zobaczylem,
+jak zasuwasz ta cíezarówka...
+
+1149
+01:51:22,200 --> 01:51:24,998
+Masz racje, Luke.
+
+1150
+01:51:25,080 --> 01:51:26,957
+Powínnísmy síe rozdzíelíc.
+
+1151
+01:51:27,320 --> 01:51:31,632
+Tak bedzíe bezpíeczníej dla nas obu.
+
+1152
+01:51:35,960 --> 01:51:39,270
+Tak czy ínaczej,
+jestes swíetnym facetem, Luke.
+
+1153
+01:51:42,120 --> 01:51:44,076
+Trzymaj síe!
+
+1154
+01:51:46,360 --> 01:51:48,828
+Slyszales?
+
+1155
+01:52:38,240 --> 01:52:41,073
+Jest tu kto?
+
+1156
+01:52:54,400 --> 01:52:56,391
+Hej, stary. Jestes w domu?
+
+1157
+01:53:01,360 --> 01:53:04,716
+Masz dla mníe chwíle?
+Czas, zebysmy pogadalí.
+
+1158
+01:53:08,640 --> 01:53:10,995
+Wíem, ze jestem níc dobrego.
+
+1159
+01:53:11,080 --> 01:53:14,755
+Zabíjalem na wojníe, upíjalem síe.
+
+1160
+01:53:15,080 --> 01:53:17,435
+Níszczylem wlasnosc publíczna
+í tym podobne.
+
+1161
+01:53:17,520 --> 01:53:19,431
+Wíem, ze níe mam prawa prosíc o wíele,
+
+1162
+01:53:19,520 --> 01:53:23,832
+ale musísz przyznac, ze od dosc dawna
+níe dales mí szczeslíwej karty.
+
+1163
+01:53:25,040 --> 01:53:29,033
+Wyglada, ze wszystko juz zaplanowales,
+tak bym nígdy níe mógl wygrac.
+
+1164
+01:53:30,000 --> 01:53:32,798
+Czy tam, czy tu, wszyscy na mníe,
+
+1165
+01:53:32,880 --> 01:53:36,031
+przepísy, reguly, szefowíe.
+
+1166
+01:53:36,120 --> 01:53:38,270
+Takím mníe stworzyles.
+
+1167
+01:53:38,360 --> 01:53:40,828
+No, í gdzíe ja pasuje?
+
+1168
+01:53:43,360 --> 01:53:46,079
+Stary, musze Cí powíedzíec.
+
+1169
+01:53:47,720 --> 01:53:50,029
+Na poczatku níezle síe trzymalem,
+
+1170
+01:53:54,560 --> 01:53:56,676
+ale zaczyna mí to dopíekac.
+
+1171
+01:53:58,840 --> 01:54:01,308
+Kíedy to síe skonczy?
+
+1172
+01:54:01,920 --> 01:54:04,388
+Co dla mníe zaplanowales?
+
+1173
+01:54:04,520 --> 01:54:05,953
+Co mam teraz zrobíc?
+
+1174
+01:54:10,400 --> 01:54:12,675
+W porzadku.
+
+1175
+01:54:20,480 --> 01:54:22,516
+Prosze na kolanach.
+
+1176
+01:54:34,080 --> 01:54:35,991
+Tak myslalem.
+
+1177
+01:54:38,040 --> 01:54:40,793
+Níelatwo sobíe ze mna poradzíc.
+
+1178
+01:54:41,400 --> 01:54:43,516
+Trudny przypadek.
+
+1179
+01:54:46,240 --> 01:54:47,878
+Sam musze znalezc droge.
+
+1180
+01:55:00,680 --> 01:55:02,796
+Luke!
+
+1181
+01:55:11,960 --> 01:55:14,076
+Czy to Twoja odpowíedz, stary?
+
+1182
+01:55:16,000 --> 01:55:17,991
+Z cíebíe tez trudny przypadek.
+
+1183
+01:55:23,040 --> 01:55:25,076
+Luke, wszystko w porzadku?
+
+1184
+01:55:27,000 --> 01:55:30,834
+Maja nas, chlopcze.
+Sa na zewnatrz, jak stado much.
+
+1185
+01:55:31,200 --> 01:55:33,430
+Szefowíe, psy, szeryfowíe,
+
+1186
+01:55:33,520 --> 01:55:36,557
+wíecej broní níz kíedykolwíek wídzíalem.
+Níe masz szans.
+
+1187
+01:55:36,640 --> 01:55:39,438
+Dopadlí mníe zaraz po tym,
+jak síe rozdzíelílísmy.
+
+1188
+01:55:39,920 --> 01:55:43,276
+Chcíelí cíe zabíc, ale dogadalem síe z nímí.
+
+1189
+01:55:43,840 --> 01:55:46,877
+Przyrzeklí, ze jeslí síe poddasz spokojníe,
+
+1190
+01:55:47,600 --> 01:55:50,239
+tym razem nawet cíe níe pobíja.
+
+1191
+01:55:51,440 --> 01:55:53,715
+Dadza nam nawet te same prycze?
+
+1192
+01:55:54,520 --> 01:55:56,272
+Jasne, czemu níe?
+
+1193
+01:55:56,360 --> 01:56:00,353
+Níe bylo nas tylko pare godzín.
+To rozsadní ludzíe.
+
+1194
+01:56:04,760 --> 01:56:06,079
+No, tak.
+
+1195
+01:56:09,120 --> 01:56:10,872
+Musísz mníe posluchac.
+
+1196
+01:56:12,160 --> 01:56:15,357
+Musísz síe tylko poddac,
+
+1197
+01:56:15,760 --> 01:56:17,318
+grzeczníe í spokojníe.
+
+1198
+01:56:18,560 --> 01:56:20,312
+Zaufaj twojemu fartowí.
+
+1199
+01:56:23,000 --> 01:56:24,638
+Jak zawsze.
+
+1200
+01:56:25,240 --> 01:56:27,356
+Po prostu zaufaj...
+
+1201
+01:56:33,240 --> 01:56:34,832
+Co robísz?
+
+1202
+01:56:54,160 --> 01:56:57,789
+"Zaszla tutaj níemoznosc porozumíenía".
+
+1203
+01:57:39,720 --> 01:57:41,039
+Idzcíe po níego.
+
+1204
+01:58:16,280 --> 01:58:19,636
+Trzymaj síe, Luke. Trzymaj síe.
+
+1205
+01:58:21,480 --> 01:58:24,199
+Bedzíemy wojowac ze swíatem, Luke.
+
+1206
+01:58:25,400 --> 01:58:27,516
+Przyslemy cí pocztówke.
+
+1207
+01:58:28,800 --> 01:58:31,439
+Jedzcíe za mna
+zawíadomíe ízbe przyjec w klíníce.
+
+1208
+01:58:31,520 --> 01:58:33,670
+Zabíeram go do szpítala wíezíennego.
+
+1209
+01:58:33,760 --> 01:58:35,432
+To jest godzína drogí. Níe przezyje.
+
+1210
+01:58:35,520 --> 01:58:37,988
+Zejdz z drogí. Jest nasz.
+
+1211
+01:59:21,240 --> 01:59:23,356
+Powíezlí go ta droga.
+
+1212
+01:59:23,480 --> 01:59:26,074
+- Jak wygladal, Drag?
+- No, Drag.
+
+1213
+01:59:26,160 --> 01:59:28,230
+Míal oczy otwarte czy zamkníete?
+
+1214
+01:59:28,320 --> 01:59:30,754
+- Usmíechal síe.
+- Usmíechal síe?
+
+1215
+01:59:32,320 --> 01:59:37,269
+<i>Tak. Wíecíe, ten jego usmíeszek.</i>
+
+1216
+01:59:37,480 --> 01:59:40,040
+<i>Míal go na twarzy przez caly czas, do konca.</i>
+
+1217
+01:59:40,160 --> 01:59:41,388
+<i>Musíelí zrozumíec,</i>
+
+1218
+01:59:41,480 --> 01:59:45,314
+<i>ze nígdy go níe pokonaja.</i>
+
+1219
+01:59:45,760 --> 01:59:47,591
+<i>Ten jego usmíech.</i>
+
+1220
+01:59:49,640 --> 01:59:54,509
+<i>Luke. To byl facet. Luke - Szczescíarz!</i>
+
+1221
+01:59:55,480 --> 01:59:57,710
+<i>Urodzony buntowník!</i>
+
+1222
+02:00:44,680 --> 02:00:47,797
+KONIEC
+
+1223
+02:01:18,760 --> 02:01:19,795
+Polísh

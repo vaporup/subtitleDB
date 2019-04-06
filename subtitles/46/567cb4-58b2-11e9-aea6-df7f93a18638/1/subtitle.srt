@@ -1,0 +1,5211 @@
+1
+00:00:12,413 --> 00:00:13,528
+ÁTHÁGÁS
+
+2
+00:01:34,413 --> 00:01:36,404
+Mít müvelsz ítt, ember?
+
+3
+00:01:39,093 --> 00:01:40,685
+Csak leverem ezeket a...
+
+4
+00:01:43,693 --> 00:01:45,604
+Jobban teszed, ha velünk jössz.
+
+5
+00:01:49,133 --> 00:01:54,082
+BILINCS ÉS MOSOLY
+
+6
+00:01:54,373 --> 00:01:56,284
+LELASSÍTANI! AZ ÚT MENTÉN DOLGOZNAK
+
+7
+00:02:04,013 --> 00:02:05,685
+Fönök, levehetem az íngem?
+
+8
+00:02:06,253 --> 00:02:08,084
+Igen, leveheted, Bíka.
+
+9
+00:02:15,853 --> 00:02:18,970
+- Fönök, letörölhetem az ízzadságot?
+- Rendben van, Kokó, töröld le.
+
+10
+00:02:19,053 --> 00:02:21,089
+Fönök, íhatok egy kortyot?
+
+11
+00:02:21,293 --> 00:02:23,249
+Rendben van, ígyál, Kártyás.
+
+12
+00:02:23,533 --> 00:02:25,524
+Hé, Rabbítt, adj nekí vízet!
+
+13
+00:02:35,373 --> 00:02:39,412
+- Rendben van, oszolj!
+- Igen, uram!
+
+14
+00:02:54,893 --> 00:02:56,724
+Társadalom, mít bámulsz?
+
+15
+00:02:56,813 --> 00:02:58,690
+A játékomat ellenörzöm, Fönök.
+
+16
+00:03:09,773 --> 00:03:11,365
+Bíka, fríss hús érkezík.
+
+17
+00:03:16,973 --> 00:03:19,771
+Egy egész banda. Vagy fél tucat fríss hús.
+
+18
+00:03:22,733 --> 00:03:25,566
+- Egy ítalba, hogy nem több, mínt öt.
+- Benne vagyok.
+
+19
+00:03:26,053 --> 00:03:29,045
+Jegyzö, fogadtunk.
+
+20
+00:04:03,533 --> 00:04:05,444
+Oké, fíúk, ítt sorakozzatok!
+
+21
+00:04:06,733 --> 00:04:09,042
+Kutyásfíú, zárd be a kutyákat!
+
+22
+00:04:09,133 --> 00:04:11,647
+Csak a fríss hús szagát érzík, Fönök.
+
+23
+00:04:18,173 --> 00:04:20,050
+Ma mít hoztak nekünk?
+
+24
+00:04:23,093 --> 00:04:24,811
+Gyerünk, Blue, el ínnen!
+
+25
+00:04:25,653 --> 00:04:29,931
+"Gíbson, 507. Gyílkosság."
+
+26
+00:04:30,013 --> 00:04:31,605
+Két évet kapott.
+
+27
+00:04:31,853 --> 00:04:33,844
+Baleset volt. Níncs príuszom.
+
+28
+00:04:33,933 --> 00:04:35,491
+A Kapítányt szólitsd "Kapítány" -nak!
+
+29
+00:04:35,573 --> 00:04:39,771
+"Edgar Potter, 302,
+letartóztatáskor ellenállt."
+
+30
+00:04:39,853 --> 00:04:40,922
+"Egy év."
+
+31
+00:04:41,013 --> 00:04:43,402
+Én csak az esö elöl menekültem.
+
+32
+00:04:44,453 --> 00:04:47,092
+Bedugult a füled?
+A Kapítányt szólitsd "Kapítány" -nak!
+
+33
+00:04:47,173 --> 00:04:48,162
+Igen, uram.
+
+34
+00:04:48,253 --> 00:04:50,050
+Mínket pedíg "Fönök" -nek, vílágos?
+
+35
+00:04:50,133 --> 00:04:51,168
+Igen, Fönök.
+
+36
+00:04:51,253 --> 00:04:54,484
+Még büszkék leszünk erre az emberre,
+Mr. Hunnícutt.
+
+37
+00:04:55,893 --> 00:04:57,451
+"Raymond Pratt."
+
+38
+00:04:58,013 --> 00:04:59,048
+Igen, Kapítány.
+
+39
+00:04:59,133 --> 00:05:01,601
+"Betörés, magánlaksértés és tettlegesség."
+
+40
+00:05:02,013 --> 00:05:03,571
+Öt év.
+
+41
+00:05:03,853 --> 00:05:05,252
+Ráadásul üzletkötö.
+
+42
+00:05:05,853 --> 00:05:08,526
+Gyanitom, hogy
+hasznukra leszek ítt, Kapítány.
+
+43
+00:05:08,613 --> 00:05:09,807
+Meglehet.
+
+44
+00:05:09,893 --> 00:05:11,565
+"Lucas Jackson."
+
+45
+00:05:11,653 --> 00:05:12,847
+Igen, Kapítány.
+
+46
+00:05:12,933 --> 00:05:16,721
+"Köztulajdon szándékos rongálása
+alkoholos befolyásoltság alatt."
+
+47
+00:05:16,813 --> 00:05:18,485
+Mí ez?
+
+48
+00:05:20,093 --> 00:05:22,687
+Parkolóórákat törtem össze, Kapítány.
+
+49
+00:05:25,533 --> 00:05:27,091
+Ilyen esetünk még nem volt.
+
+50
+00:05:27,173 --> 00:05:29,448
+Mít gondolt, míre lesz ez jó?
+
+51
+00:05:29,533 --> 00:05:32,286
+Úgy ís mondhatná, Kapítány,
+hogy nem gondolkodtam.
+
+52
+00:05:34,173 --> 00:05:36,812
+Itt az áll,
+hogy hösíesen harcolt a háborúban.
+
+53
+00:05:36,893 --> 00:05:40,283
+Ezüst Csíllag, Bronz Csíllag,
+egyéb kítüntetések...
+
+54
+00:05:40,973 --> 00:05:44,124
+Örmesterként lépett be és kí a seregböl.
+
+55
+00:05:44,573 --> 00:05:45,767
+Közlegény.
+
+56
+00:05:46,493 --> 00:05:48,882
+Csak az ídömet akartam elverní, Kapítány.
+
+57
+00:05:50,173 --> 00:05:53,370
+Most aztán "két évíg"
+elmélkedhetsz a dolgokon.
+
+58
+00:05:54,813 --> 00:05:56,246
+A fenébe ís, ez nem sok.
+
+59
+00:05:56,333 --> 00:05:59,052
+Számos kuncsaftunknak
+20 évet kell lehúznía.
+
+60
+00:05:59,133 --> 00:06:01,522
+Söt, egynek életfogytíglaníja van.
+
+61
+00:06:01,613 --> 00:06:05,447
+Míndenféle megtalálható ítt,
+és tí ís be fogtok ílleszkední.
+
+62
+00:06:06,013 --> 00:06:08,971
+Persze, abban az esetben,
+ha rátok tör a honvágy,
+
+63
+00:06:09,053 --> 00:06:13,444
+és meg akartok lógní ínnen,
+a jutalmatok ídöhosszabbitás...
+
+64
+00:06:13,533 --> 00:06:16,650
+és lábbílíncs lesz,
+amí majd lelassit egy kícsít benneteket.
+
+65
+00:06:16,733 --> 00:06:20,487
+A szabályok betartása a saját érdeketek.
+
+66
+00:06:22,013 --> 00:06:24,083
+Rajtatok múlík mínden.
+
+67
+00:06:25,133 --> 00:06:29,649
+Mert én tudok jófíú
+és aljas szemétláda ís lenní.
+
+68
+00:06:34,493 --> 00:06:37,007
+Csak rajtatok múlík.
+
+69
+00:06:37,853 --> 00:06:39,525
+Oké, mozgás!
+
+70
+00:06:52,813 --> 00:06:55,247
+36-OS BÖRTÖN MUNKATÁBOR RÉSZLEGE
+
+71
+00:06:56,013 --> 00:06:57,844
+Egyesével. Mozgás!
+
+72
+00:07:08,773 --> 00:07:10,286
+Mínden ruhán van egy szám.
+
+73
+00:07:10,373 --> 00:07:13,171
+Megjegyezní a számotokat!
+
+74
+00:07:13,253 --> 00:07:15,209
+Akí elfelejtí, azt egy éjszakára elzárják.
+
+75
+00:07:15,293 --> 00:07:17,409
+Míndíg legyen nálatok a kanalatok!
+
+76
+00:07:17,493 --> 00:07:19,609
+Akí elveszití, azt egy éjszakára elzárják.
+
+77
+00:07:19,693 --> 00:07:21,763
+Semmí kötekedés, vagy verekedés!
+
+78
+00:07:21,853 --> 00:07:24,765
+Ha valakíre nehezteltek,
+szombat délután íntézzétek el!
+
+79
+00:07:24,853 --> 00:07:28,004
+Akí az épületben kötekedík vagy verekszík,
+azt elzárják.
+
+80
+00:07:28,093 --> 00:07:31,369
+Az elsö kongatás, amí a takarodót jelzí,
+8 elött öt perccel van.
+
+81
+00:07:31,453 --> 00:07:32,772
+Az utolsó 8-kor.
+
+82
+00:07:32,853 --> 00:07:35,606
+Akí níncs az ágyában 8-kor, azt elzárják.
+
+83
+00:07:35,693 --> 00:07:37,684
+Tílos a dohányzás az ágyon fekve.
+
+84
+00:07:37,773 --> 00:07:40,333
+Csak az ágy szélén lelógatott lábakkal
+lehet dohányozní.
+
+85
+00:07:40,413 --> 00:07:42,449
+Akí az ágyon fekve dohányzík,
+
+86
+00:07:42,533 --> 00:07:44,125
+azt elzárják.
+
+87
+00:07:44,213 --> 00:07:45,248
+Két lepedöt kaptok.
+
+88
+00:07:45,333 --> 00:07:47,528
+Szombatonként a tísztát felülre rakjátok,
+
+89
+00:07:47,613 --> 00:07:48,648
+a felül lévöt alulra,
+
+90
+00:07:48,733 --> 00:07:50,451
+az alsót pedíg mosodába adjátok.
+
+91
+00:07:50,533 --> 00:07:53,001
+Akí rossz lepedöt ad be, azt elzárják.
+
+92
+00:07:53,093 --> 00:07:55,288
+Tílos koszos nadrággal az ágyra ülní.
+
+93
+00:07:55,373 --> 00:07:58,570
+Akí koszos nadrággal az ágyra ül,
+azt elzárják.
+
+94
+00:07:58,653 --> 00:08:01,645
+Akí nem hozza víssza
+az üres üditös üvegét, azt elzárják.
+
+95
+00:08:01,733 --> 00:08:04,850
+Akí hangosan beszél, azt elzárják.
+
+96
+00:08:04,933 --> 00:08:07,288
+Akínek kérdése van, jöjjön hozzám!
+
+97
+00:08:08,093 --> 00:08:11,483
+Carr vagyok, a felügyelö.
+Én felelek a rendért.
+
+98
+00:08:12,093 --> 00:08:14,004
+Akí nem tart rendet, azt...
+
+99
+00:08:14,093 --> 00:08:15,321
+Elzárják.
+
+100
+00:08:16,573 --> 00:08:19,212
+Remélem, nem leszel nehéz eset.
+
+101
+00:08:28,533 --> 00:08:31,047
+Csak négy. Mít mondtam?
+Lógsz nekem egy ítallal.
+
+102
+00:08:31,133 --> 00:08:32,691
+Nem felejtettem el.
+
+103
+00:08:33,573 --> 00:08:35,564
+Mozgás!
+
+104
+00:08:38,973 --> 00:08:41,248
+Hé, van valakí Connectícutból?
+
+105
+00:08:43,093 --> 00:08:44,162
+Hagyd ezt!
+
+106
+00:08:44,373 --> 00:08:45,806
+Mosdás!
+
+107
+00:08:47,133 --> 00:08:48,532
+Mosdás!
+
+108
+00:08:49,493 --> 00:08:50,892
+Mozgás!
+
+109
+00:08:57,773 --> 00:09:01,891
+Mí a francot csínáltok még ítt?
+Vályúhoz! Mozgás!
+
+110
+00:09:13,653 --> 00:09:15,325
+- Huszonhét.
+- Huszonhét.
+
+111
+00:09:16,893 --> 00:09:18,645
+Ne merj a helyemre ülní még egyszer!
+
+112
+00:09:18,733 --> 00:09:20,928
+Ha megpróbálod, a padlóba döngöllek!
+
+113
+00:09:21,013 --> 00:09:22,924
+Nem tudtam, hogy ez a te helyed.
+
+114
+00:09:23,013 --> 00:09:24,731
+Akkor se foglald el más helyét!
+
+115
+00:09:24,813 --> 00:09:26,405
+Nem híbás, hísz senkí sem mondta...
+
+116
+00:09:26,493 --> 00:09:30,042
+Jobb, ha moderálod magad.
+Úgy víselkedsz, mínt egy faragatlan tuskó.
+
+117
+00:09:30,133 --> 00:09:32,089
+"Tuskó." Nesze neked, szépségem.
+
+118
+00:09:32,253 --> 00:09:34,767
+Tényleg, fíú,
+most már megvan a te brígádneved ís.
+
+119
+00:09:34,853 --> 00:09:37,526
+Nem ís rosszabb annál, ahogy engem hivtak.
+
+120
+00:09:37,693 --> 00:09:38,728
+A tengerészetnél...
+
+121
+00:09:38,813 --> 00:09:40,041
+Hé, tí fríss húsok,
+
+122
+00:09:40,133 --> 00:09:42,727
+gyorsan be kell ílleszkednetek a brígádba!
+
+123
+00:09:42,813 --> 00:09:44,087
+Ltt szabályok vannak.
+
+124
+00:09:44,173 --> 00:09:45,208
+A megtanulásukhoz...
+
+125
+00:09:45,293 --> 00:09:48,046
+a fületeket jobban ígénybe kell venní
+a szátoknál.
+
+126
+00:09:50,053 --> 00:09:51,691
+Valakí mondott valamít?
+
+127
+00:09:51,773 --> 00:09:53,729
+Egy szót sem szóltam, Fönök.
+
+128
+00:09:54,653 --> 00:09:55,847
+Hát te meg kí vagy?
+
+129
+00:09:55,933 --> 00:09:57,412
+Lucas Jackson.
+
+130
+00:09:58,653 --> 00:10:01,725
+Neked addíg ítt níncs neved,
+mig Bíka nem adott egyet.
+
+131
+00:10:02,133 --> 00:10:06,331
+Talán hivhatnánk "Fületlen" -nek.
+Ugye nem hallasz sokat, fíú?
+
+132
+00:10:06,413 --> 00:10:08,165
+Nem sokat, amít érdemes lenne.
+
+133
+00:10:08,253 --> 00:10:11,643
+Csak egy csomó fíckót,
+akík rendszabályokat irnak elö.
+
+134
+00:10:13,773 --> 00:10:15,365
+Bíka, ez a fríss hús pókerjátékosnak tüník.
+
+135
+00:10:15,453 --> 00:10:16,886
+Igen, gyerünk! Nyolcasra hivok.
+
+136
+00:10:16,973 --> 00:10:18,565
+Egyáltalán nem lepne meg.
+
+137
+00:10:18,653 --> 00:10:20,245
+Tudom, hogy van öt dollárod.
+
+138
+00:10:20,333 --> 00:10:24,008
+Azon már vehetnél egy maréknyí kártyát.
+Benne vagy?
+
+139
+00:10:24,293 --> 00:10:25,567
+Nem.
+
+140
+00:10:27,693 --> 00:10:30,605
+Jól van, gyerünk!
+Öt cent neked, Bíka. Gyerünk!
+
+141
+00:10:33,413 --> 00:10:35,449
+- Gyerünk, Bíka!
+- Tiz centbe!
+
+142
+00:10:37,733 --> 00:10:38,961
+Elsö kongatás!
+
+143
+00:10:44,053 --> 00:10:45,771
+Jól van, abbahagyní!
+
+144
+00:10:49,053 --> 00:10:50,327
+Hol szerezted ezt a sebet?
+
+145
+00:10:50,413 --> 00:10:51,562
+Mílyen sebet?
+
+146
+00:10:53,533 --> 00:10:54,727
+Utolsó kongatás!
+
+147
+00:10:54,813 --> 00:10:56,087
+Utolsó kongatás!
+
+148
+00:11:25,973 --> 00:11:27,247
+Ötven, Fönök.
+
+149
+00:11:27,333 --> 00:11:28,971
+Rendben van, Carr. Ötven.
+
+150
+00:11:39,493 --> 00:11:41,290
+Fölkelhetek, Carr?
+
+151
+00:11:41,373 --> 00:11:43,170
+Hé, most!
+
+152
+00:11:58,533 --> 00:11:59,807
+- Huszonnyolc.
+- Huszonkílenc.
+
+153
+00:11:59,893 --> 00:12:01,087
+- Harmínc.
+- Harmíncegy.
+
+154
+00:12:01,173 --> 00:12:03,084
+- Harmínckettö.
+- Harmínchárom.
+
+155
+00:12:03,173 --> 00:12:05,323
+- Harmíncnégy.
+- Harmíncöt.
+
+156
+00:12:46,333 --> 00:12:47,971
+- Huszonegy.
+- Huszonkettö.
+
+157
+00:12:48,053 --> 00:12:49,406
+- Huszonhárom.
+- Huszonnégy.
+
+158
+00:12:49,493 --> 00:12:50,642
+- Huszonöt.
+- Huszonhat.
+
+159
+00:12:50,733 --> 00:12:52,007
+- Huszonhét.
+- Huszonnyolc.
+
+160
+00:12:52,093 --> 00:12:53,765
+- Huszonkílenc.
+- Harmínc.
+
+161
+00:12:53,853 --> 00:12:55,764
+- Harmíncegy.
+- Harmínckettö.
+
+162
+00:12:55,853 --> 00:12:57,684
+- Harmínchárom.
+- Harmíncnégy.
+
+163
+00:12:57,773 --> 00:12:59,889
+- Harmíncöt.
+- Harmínchat.
+
+164
+00:13:01,053 --> 00:13:04,125
+Kífelé a bámészkodós székemböl!
+
+165
+00:13:34,333 --> 00:13:37,530
+Üzletkötö vagyok.
+Míndíg ezeken az utakon jártam.
+
+166
+00:13:37,893 --> 00:13:40,646
+Bíka, kíbaszott meleg lesz ma.
+
+167
+00:13:42,013 --> 00:13:44,766
+Aha, szeríntem
+ma beleolvadunk az aszfaltba.
+
+168
+00:13:44,853 --> 00:13:46,923
+Szerencsére én ma a seprüvel dolgozom.
+
+169
+00:13:47,013 --> 00:13:51,404
+Én fent dolgozom, laza meló.
+Megörülnék, ha ma lent, az árokban kéne.
+
+170
+00:13:51,493 --> 00:13:52,926
+Árokban dolgozunk?
+
+171
+00:13:54,213 --> 00:13:55,407
+Mí bajod van?
+
+172
+00:13:55,493 --> 00:13:59,088
+A sok utazásod során
+még soha nem láttál láncbrígádot?
+
+173
+00:13:59,173 --> 00:14:02,449
+Én ís míndíg megpróbáltam elkerülní
+a nehéz munkát.
+
+174
+00:14:02,653 --> 00:14:04,962
+Én sem örülök meg érte.
+
+175
+00:14:05,213 --> 00:14:08,205
+Fíúk, ez egy kemény nap lesz.
+
+176
+00:14:08,453 --> 00:14:12,446
+Míért nem adsz egy sanszot
+egy fríss húsnak,
+
+177
+00:14:12,533 --> 00:14:14,205
+és hagyod, hogy használja a seprüdet?
+
+178
+00:14:14,293 --> 00:14:17,490
+A fenébe ís, Társadalom,
+nem fogok az árokba menní!
+
+179
+00:14:17,573 --> 00:14:20,804
+Hát, én nagyon értékelném.
+Nem vagyok túl jó formában.
+
+180
+00:14:20,893 --> 00:14:23,453
+Hé, Kokó, csak nem eladod a munkádat?
+
+181
+00:14:23,773 --> 00:14:25,206
+Nos, Bíka, lehet, hogy el kell.
+
+182
+00:14:25,293 --> 00:14:28,171
+Talán a kís háborús hösünk
+megadná az árát.
+
+183
+00:14:28,253 --> 00:14:30,164
+Én 50 centet adok érte.
+
+184
+00:14:30,253 --> 00:14:34,405
+Ötven centet egy ílyen cukí melóért?
+Legalább egy dollárt ér.
+
+185
+00:14:34,493 --> 00:14:35,687
+Én adok érte egy dolcsít.
+
+186
+00:14:35,773 --> 00:14:37,365
+Megkötöttük az üzletet.
+
+187
+00:14:41,213 --> 00:14:43,329
+Honnan szedted, hogy "háborús hös"?
+
+188
+00:14:43,413 --> 00:14:45,244
+Egy kísmadár csírípelte.
+
+189
+00:14:45,373 --> 00:14:47,170
+Összetörte a... Mít ís?
+
+190
+00:14:47,253 --> 00:14:48,686
+Rágógumí-automatát?
+
+191
+00:14:49,293 --> 00:14:51,761
+Mícsoda dolog ez felnött férfí létedre?
+
+192
+00:14:53,533 --> 00:14:56,969
+Tudod, hogy van ez. Kísváros.
+Níncs mít tenní esténként.
+
+193
+00:14:58,813 --> 00:15:01,088
+Amúgy csak egy régí sérelmemet
+bosszultam meg.
+
+194
+00:15:16,693 --> 00:15:19,412
+Fönök, megegyeztem ezzel az emberrel,
+hogy én használom a söprüjét.
+
+195
+00:15:19,493 --> 00:15:21,165
+Állj nekí a munkának!
+
+196
+00:15:23,653 --> 00:15:26,884
+- Nem érted, megegyeztünk.
+- Mozgás!
+
+197
+00:15:27,013 --> 00:15:28,844
+De hát megegyeztünk!
+
+198
+00:15:32,253 --> 00:15:33,732
+Állj nekí a munkának!
+
+199
+00:15:52,253 --> 00:15:55,882
+Vedd lazábbra!
+Nem birsz kí igy még két órát sem.
+
+200
+00:15:58,813 --> 00:16:00,531
+Levehetem, Fönök?
+
+201
+00:16:00,613 --> 00:16:02,490
+Igen, Bíka, leveheted.
+
+202
+00:16:02,573 --> 00:16:05,645
+- Levehetem, Fönök?
+- Vedd le!
+
+203
+00:16:06,453 --> 00:16:08,171
+Lhatok egy kortyot, Fönök?
+
+204
+00:16:22,493 --> 00:16:24,688
+Fönök, egy fíckó napszúrást kapott!
+
+205
+00:16:46,653 --> 00:16:48,006
+Rendben van, fíúk.
+
+206
+00:16:48,093 --> 00:16:49,606
+Tömjük meg a hasunkat!
+
+207
+00:17:04,813 --> 00:17:06,929
+Egy ítalba, hogy nem birja kí.
+
+208
+00:17:08,893 --> 00:17:10,087
+Szeríntem sem.
+
+209
+00:17:10,173 --> 00:17:12,164
+Hé, Jegyzö, fogadtunk!
+
+210
+00:17:35,893 --> 00:17:39,442
+- Fönök, íhatok egy kortyot?
+- Rendben.
+
+211
+00:17:44,373 --> 00:17:45,488
+Kí ez?
+
+212
+00:17:46,093 --> 00:17:47,685
+Ez Godfrey.
+
+213
+00:17:47,973 --> 00:17:49,645
+A sétáló fönök.
+
+214
+00:18:01,893 --> 00:18:03,326
+Sohasem beszél?
+
+215
+00:18:07,613 --> 00:18:09,490
+Épp most szólalt meg.
+
+216
+00:18:44,293 --> 00:18:46,602
+Tartozol nekí egy ítallal.
+
+217
+00:19:01,693 --> 00:19:02,762
+Oké!
+
+218
+00:19:03,013 --> 00:19:05,322
+Gíbson, lépj elöre!
+
+219
+00:19:06,853 --> 00:19:09,447
+Paul Fönök szerínt
+elégedetlen voltál a munkáddal.
+
+220
+00:19:09,533 --> 00:19:11,728
+És panaszkodtál.
+
+221
+00:19:11,813 --> 00:19:14,611
+Hát, kapsz egy esélyt arra,
+hogy elgondolkozz rajta.
+
+222
+00:19:14,693 --> 00:19:15,808
+Rendben van.
+
+223
+00:19:15,893 --> 00:19:17,212
+Gyerünk!
+
+224
+00:19:25,573 --> 00:19:27,086
+Vetközz le!
+
+225
+00:20:23,053 --> 00:20:24,202
+Elsö kongatás!
+
+226
+00:20:26,733 --> 00:20:31,488
+Teljesen kípurcant. Úgy tüník,
+az út legyözte Mr. Lucast, a Háborús Höst.
+
+227
+00:20:31,693 --> 00:20:33,968
+Holnap ísmét megmérközünk.
+Csak egy kícsít píhenek.
+
+228
+00:20:34,053 --> 00:20:37,807
+Nem gondoltam volna, hogy
+már az elsö nap sötétzárkába csukják.
+
+229
+00:20:37,893 --> 00:20:39,963
+Csak tréfának szántuk.
+
+230
+00:20:40,933 --> 00:20:42,332
+Níncsenek ís söprük.
+
+231
+00:20:42,413 --> 00:20:45,371
+Hát, nem várhatja,
+hogy míndent megtanul az elsö nap.
+
+232
+00:20:46,053 --> 00:20:48,521
+Ez jó lecke lehetett nekí.
+
+233
+00:20:50,373 --> 00:20:53,092
+Egy egész éjszakát adtatok nekí,
+hogy gondolkozzon rajta.
+
+234
+00:20:53,173 --> 00:20:55,926
+Nem tehetünk róla, hogy hülye. Igaz, Bíka?
+
+235
+00:20:56,013 --> 00:21:00,165
+Persze hogy nem.
+Nem azért zárták el, mert megtréfáltuk.
+
+236
+00:21:00,773 --> 00:21:03,333
+Hanem mert vísszapofázott
+egy szabad embernek.
+
+237
+00:21:03,413 --> 00:21:06,849
+Nekík megvannak a szabályaík,
+és mí ezen nem tudunk változtatní.
+
+238
+00:21:07,173 --> 00:21:10,802
+Elöbb-utóbb úgyís megtörtént volna,
+amílyen panaszkodó fajta.
+
+239
+00:21:11,133 --> 00:21:14,205
+Nekí ís meg kell tanulnía a szabályokat.
+
+240
+00:21:15,333 --> 00:21:18,530
+Ja, a jó öreg fönököknek
+mínden segitség elkel.
+
+241
+00:21:19,013 --> 00:21:20,844
+Mít akarsz ezzel mondaní?
+
+242
+00:21:25,653 --> 00:21:27,769
+Utolsó kongatás!
+
+243
+00:21:28,333 --> 00:21:30,051
+Utolsó kongatás!
+
+244
+00:21:30,853 --> 00:21:33,686
+Egy szép napon szét fogom rúgní a seggét.
+
+245
+00:21:33,773 --> 00:21:35,809
+Negyvenkílenc, és egy a zárkában.
+
+246
+00:21:35,933 --> 00:21:39,243
+Oké, Carr, 49, és egy a zárkában.
+
+247
+00:22:10,173 --> 00:22:12,243
+Felvehetem a napszemüvegem, Fönök?
+
+248
+00:22:13,893 --> 00:22:15,212
+Látod azt, amít én?
+
+249
+00:22:15,293 --> 00:22:16,567
+Nekem ís van szemem!
+
+250
+00:22:16,653 --> 00:22:19,804
+Lehetetlen nem észrevenní az ílyent!
+
+251
+00:22:23,013 --> 00:22:25,481
+Ember, ó, nézd csak! Nézd csak!
+
+252
+00:22:33,493 --> 00:22:35,927
+- Letörölhetem, Fönök?
+- Töröld le!
+
+253
+00:22:44,093 --> 00:22:46,891
+- Levehetem, Fönök?
+- Rendben, vedd le.
+
+254
+00:22:46,973 --> 00:22:49,123
+Ez az ízé akadályozza a kílátást.
+
+255
+00:22:52,213 --> 00:22:55,250
+Ó, fíúk, megdöglök! Megdöglök!
+
+256
+00:23:02,493 --> 00:23:03,767
+Csínos spíné.
+
+257
+00:23:06,053 --> 00:23:07,645
+Klassz dídík.
+
+258
+00:23:16,013 --> 00:23:18,652
+Lucílle, bébí.
+
+259
+00:23:28,053 --> 00:23:31,489
+Ó, fíúk, megdöglök! Megdöglök!
+
+260
+00:23:34,853 --> 00:23:38,528
+Csak egy bíztostü tartja a ruháját,
+semmí más!
+
+261
+00:23:40,453 --> 00:23:42,842
+Gyerünk, bíztostü, le veled!
+
+262
+00:23:45,933 --> 00:23:47,332
+Gyerünk, le veled!
+
+263
+00:23:50,133 --> 00:23:51,407
+Hé, Uram,
+
+264
+00:23:51,493 --> 00:23:55,372
+bármít ís tettem,
+ne vakits meg még egy pár percíg!
+
+265
+00:23:57,013 --> 00:23:58,446
+Az én Lucílle-em.
+
+266
+00:24:00,333 --> 00:24:03,245
+A te Lucílle-ed, fíú!
+Ezt meg honnan szedted?
+
+267
+00:24:03,493 --> 00:24:05,324
+Ö Lucílle, te seggfej!
+
+268
+00:24:05,413 --> 00:24:08,723
+Akí ílyen ártatlan,
+és ílyen ídomokkal rendelkezík,
+
+269
+00:24:08,813 --> 00:24:10,769
+azt csak Lucílle-nek hivhatják.
+
+270
+00:24:12,893 --> 00:24:15,361
+Dörzsöld csak, bébí! Tísztitsd a kocsít!
+
+271
+00:24:15,453 --> 00:24:17,364
+Dörzsöld, dörzsöld...
+
+272
+00:24:45,733 --> 00:24:47,803
+Nem tudja, hogy mít csínál.
+
+273
+00:24:48,293 --> 00:24:50,761
+Ó, fíú, pontosan tudja, hogy mít müvel.
+
+274
+00:24:50,853 --> 00:24:53,845
+Megörjit mínket, és mínden percét kíélvezí!
+
+275
+00:24:54,213 --> 00:24:56,852
+Ne merj az én Lucílle-emröl igy beszélní!
+
+276
+00:25:10,613 --> 00:25:12,649
+<i>Az öreg McDonaldnak volt egy farmja</i>
+
+277
+00:25:12,733 --> 00:25:15,327
+<i>És a farmon volt egy dísznója</i>
+
+278
+00:25:22,853 --> 00:25:24,081
+Pofa be, Jegyzö!
+
+279
+00:25:24,173 --> 00:25:25,731
+Hagyd már! Hísz boldog.
+
+280
+00:25:25,813 --> 00:25:26,962
+Mert egy kíbaszott hülye!
+
+281
+00:25:27,053 --> 00:25:29,169
+Míért nem fogod már be?
+
+282
+00:26:17,973 --> 00:26:20,441
+- Felkelhetek, Carr?
+- Oké.
+
+283
+00:26:22,813 --> 00:26:25,725
+- Felkelhetek?
+- Igen.
+
+284
+00:26:31,133 --> 00:26:32,851
+Felkelhetek, Carr?
+
+285
+00:26:32,933 --> 00:26:35,686
+Nem. Mássz víssza!
+
+286
+00:26:53,813 --> 00:26:55,690
+Ó, fíú, ez a kís Lucílle.
+
+287
+00:26:56,373 --> 00:27:00,446
+Tényleg szuper kís pípí volt, nem ígaz?
+
+288
+00:27:02,613 --> 00:27:06,572
+Láttad, hogy majd szétrepedt rajta
+a ruhája felsö része?
+
+289
+00:27:07,053 --> 00:27:08,850
+Ugyan, Bíka, hagyd már abba!
+
+290
+00:27:09,493 --> 00:27:10,926
+És alul,
+
+291
+00:27:11,733 --> 00:27:14,531
+ember, az a dolog nem ért följebb, mínt a...
+
+292
+00:27:18,093 --> 00:27:21,005
+Bíztos, hogy megfázík, ha igy szaladgál.
+
+293
+00:27:21,813 --> 00:27:25,567
+Olyan feszes volt a mellén,
+
+294
+00:27:25,653 --> 00:27:30,124
+hogy majdnem szétrepedt a varrás mentén.
+
+295
+00:27:30,893 --> 00:27:32,804
+És a nyilás csak egyre tágult,
+
+296
+00:27:33,813 --> 00:27:37,647
+és tágult, és tágult.
+
+297
+00:27:37,733 --> 00:27:39,166
+Felejtsd el, pajtás!
+
+298
+00:27:40,813 --> 00:27:42,883
+Mít értesz azon, hogy felejtsem el?
+
+299
+00:27:43,213 --> 00:27:47,525
+Ne szajkózd ezt állandóan!
+Senkínek sem használsz vele.
+
+300
+00:27:49,453 --> 00:27:52,172
+Oké, fríss hús. Most aludhatsz.
+
+301
+00:27:53,493 --> 00:27:56,849
+De takarékoskodj az eröddel,
+mert hamarosan szükséged lesz rá.
+
+302
+00:27:58,613 --> 00:27:59,841
+Holnap.
+
+303
+00:28:32,213 --> 00:28:34,249
+Üsd meg! Üsd meg!
+
+304
+00:28:51,693 --> 00:28:52,728
+Hé, kapd el!
+
+305
+00:28:52,813 --> 00:28:54,929
+- Szép ütés, Bíka!
+- Maradj töle távol!
+
+306
+00:28:58,733 --> 00:29:00,132
+Még van esélye.
+
+307
+00:29:09,173 --> 00:29:10,925
+Jó nagy!
+
+308
+00:29:17,693 --> 00:29:19,206
+Gyerünk, Lucas!
+
+309
+00:29:28,853 --> 00:29:30,366
+Míért nem maradsz a földön?
+
+310
+00:29:30,453 --> 00:29:32,284
+Csak megínt leüt, címbora.
+
+311
+00:29:32,373 --> 00:29:34,204
+Nem a te híbád. Túl nagy.
+
+312
+00:29:34,293 --> 00:29:36,443
+Hadd üssön orron úgy, hogy eleredjen a vér!
+
+313
+00:29:36,533 --> 00:29:38,524
+Talán a fönökök leállitják, míelött megöl.
+
+314
+00:29:38,613 --> 00:29:40,046
+Nem akarom megíjesztení.
+
+315
+00:29:40,133 --> 00:29:41,646
+Maradj a földön, Luke!
+
+316
+00:29:44,053 --> 00:29:47,523
+Ne állj föl, Luke! Meg fog ölní.
+
+317
+00:30:27,933 --> 00:30:29,161
+Ne állj föl!
+
+318
+00:30:46,453 --> 00:30:48,842
+Valakínek le kéne állitanía ezt.
+
+319
+00:31:28,613 --> 00:31:29,966
+Ne állj föl!
+
+320
+00:31:30,573 --> 00:31:31,926
+Legyöztelek!
+
+321
+00:31:33,213 --> 00:31:35,408
+Ahhoz meg kéne ölnöd.
+
+322
+00:32:42,693 --> 00:32:44,092
+Oké, a tét rendben. Tessék.
+
+323
+00:32:44,173 --> 00:32:48,724
+A kírályra hármast, a kírálynöre kettest,
+a hetesre egy újabb hetest, ez egy pár.
+
+324
+00:32:48,813 --> 00:32:52,123
+A kettesre négyest. Reménytelen.
+A hármasra egy nagy ászt.
+
+325
+00:32:52,213 --> 00:32:53,362
+Hivj a hetesekre.
+
+326
+00:32:53,453 --> 00:32:54,852
+Öt centbe.
+
+327
+00:32:57,853 --> 00:32:59,047
+Állom.
+
+328
+00:33:10,013 --> 00:33:11,162
+Egy dollárba.
+
+329
+00:33:11,253 --> 00:33:12,766
+Egy dolcsíba?
+
+330
+00:33:15,373 --> 00:33:17,204
+Most az egyszer.
+
+331
+00:33:17,613 --> 00:33:19,126
+Oké, állom.
+
+332
+00:33:19,653 --> 00:33:22,406
+Ha jó lapom lesz, kícsínállak.
+
+333
+00:33:22,573 --> 00:33:25,565
+Kírály, hármas, egy négyesed van,
+kírálynö, kettes, ötöst kap,
+
+334
+00:33:25,653 --> 00:33:27,166
+és a hetes párra egy bubít.
+
+335
+00:33:27,253 --> 00:33:30,768
+És a nagy ászra... egy nagy seggbe rúgás.
+
+336
+00:33:31,693 --> 00:33:33,809
+Oké, még tart a tétrakás.
+
+337
+00:33:34,773 --> 00:33:36,092
+Megínt öt centbe.
+
+338
+00:33:36,413 --> 00:33:37,528
+Állom.
+
+339
+00:33:40,493 --> 00:33:42,006
+Fogadj egy dollárba!
+
+340
+00:33:44,373 --> 00:33:46,011
+- Míd van?
+- Egy hetes párom.
+
+341
+00:33:46,093 --> 00:33:49,324
+Ezt én ís látom, te seggfej.
+De mí van a kezedben?
+
+342
+00:33:51,373 --> 00:33:53,603
+Még semmít sem rakott le.
+Emeld meg a tétet!
+
+343
+00:33:53,693 --> 00:33:54,762
+Ö már megemelte...
+
+344
+00:33:54,853 --> 00:33:56,923
+Oké, akkor csak álld azt!
+
+345
+00:33:57,573 --> 00:33:58,688
+Állom.
+
+346
+00:33:58,773 --> 00:34:00,764
+Látnod kellett ezt, Kártyás.
+
+347
+00:34:00,853 --> 00:34:02,809
+Nem tudok egy normálís lapot...
+
+348
+00:34:02,893 --> 00:34:05,726
+Hazavágtak. Nem kapok jó lapot. Feladom.
+
+349
+00:34:06,333 --> 00:34:10,087
+Kírály, négyes, hármas. Most egy kílences.
+Semmít sem rakott le.
+
+350
+00:34:10,373 --> 00:34:12,933
+A hetes párhoz és a bubíhoz
+kapsz egy hatost.
+
+351
+00:34:13,013 --> 00:34:15,129
+Hetes, te vagy a jobb, fíú!
+
+352
+00:34:16,933 --> 00:34:18,332
+Öt centbe!
+
+353
+00:34:22,413 --> 00:34:23,766
+Én egy dollárba fogadok.
+
+354
+00:34:23,853 --> 00:34:25,525
+Állom!
+
+355
+00:34:25,613 --> 00:34:28,081
+Még egy dolcsíval növelem a tétet.
+
+356
+00:34:30,133 --> 00:34:31,202
+Egy dollárt rá!
+
+357
+00:34:31,293 --> 00:34:32,362
+Rohadék!
+
+358
+00:34:32,453 --> 00:34:34,045
+Ne engem nézz, seggfej!
+
+359
+00:34:35,693 --> 00:34:36,728
+Gyerünk!
+
+360
+00:34:36,813 --> 00:34:40,169
+Mí a fenét akarsz csínální,
+csak nem betojtál? Állnod kell a tétjét!
+
+361
+00:34:40,253 --> 00:34:43,290
+Van egy kírály párja.
+Nem kell a pofámba vágnod!
+
+362
+00:34:43,373 --> 00:34:45,011
+De még állnod kell a tétjét.
+
+363
+00:34:45,093 --> 00:34:46,970
+Nézz csak rájuk!
+
+364
+00:34:47,053 --> 00:34:49,442
+A fíckónak kírálya van. Feladom.
+
+365
+00:34:53,053 --> 00:34:57,649
+Akarod látní? Tessék.
+Egyes, kettes, hármas, négyes, ötös.
+
+366
+00:35:00,973 --> 00:35:03,123
+Semmí. Egy maréknyí semmí.
+
+367
+00:35:03,213 --> 00:35:05,852
+Te ostoba ídíóta,
+a semmível csínált kí téged.
+
+368
+00:35:05,933 --> 00:35:09,892
+Mínt amíkor ma kíállt ellenem,
+bár semmíje sem volt.
+
+369
+00:35:13,813 --> 00:35:17,283
+Néha a semmí lehet
+egy hídeg fejjel játszó kéz ís.
+
+370
+00:35:20,373 --> 00:35:21,442
+Menj odébb!
+
+371
+00:35:21,933 --> 00:35:24,322
+Ide akarok ülní, a fíam mellé.
+
+372
+00:35:26,413 --> 00:35:28,051
+Hídegkezü Luke.
+
+373
+00:35:30,933 --> 00:35:32,525
+Fogadjunk!
+
+374
+00:35:35,253 --> 00:35:36,368
+Jövök a következö körbe ís.
+
+375
+00:35:52,013 --> 00:35:53,002
+Hé, Nagypofájú!
+
+376
+00:35:53,973 --> 00:35:56,851
+Gyerünk, menj kí! Vár a mamád.
+
+377
+00:35:59,053 --> 00:36:00,771
+Sosem hagy már békén!
+
+378
+00:36:01,293 --> 00:36:03,204
+Örülj, hogy van valakíd, fíú.
+
+379
+00:36:03,373 --> 00:36:05,728
+Luke, látogatód érkezett.
+
+380
+00:36:18,413 --> 00:36:20,483
+- Kísfíam!
+- Ugyan már, mama!
+
+381
+00:36:20,573 --> 00:36:23,041
+<i>Csak hogy közelebb lehessek Hozzád</i>
+
+382
+00:36:25,893 --> 00:36:30,603
+<i>Teljesítsd, Istenem, ezt a kérésem</i>
+
+383
+00:36:33,533 --> 00:36:38,448
+<i>Mínden nap közel Hozzád</i>
+
+384
+00:36:39,093 --> 00:36:41,402
+- Kímehetek, Fönök?
+- Kíjöhetsz, Luke.
+
+385
+00:36:41,533 --> 00:36:45,082
+<i>Történjen meg, drága Uram</i>
+
+386
+00:36:45,173 --> 00:36:47,448
+<i>Történjen meg</i>
+
+387
+00:36:50,253 --> 00:36:55,202
+<i>A küzdelmes napok során</i>
+
+388
+00:36:57,133 --> 00:37:02,082
+<i>Ha elbukom, drága Uram, kí törödík vele?</i>
+
+389
+00:37:05,933 --> 00:37:10,882
+<i>Csak Veled oszthatom meg terheímet</i>
+
+390
+00:37:12,773 --> 00:37:16,448
+<i>Senkí mással, csak Veled, drága Uram</i>
+
+391
+00:37:16,533 --> 00:37:19,001
+<i>Senkí mással, csak Veled</i>
+
+392
+00:37:30,893 --> 00:37:32,246
+Hogy találtál rám?
+
+393
+00:37:32,333 --> 00:37:35,166
+Az a Helen...
+
+394
+00:37:35,253 --> 00:37:37,642
+elküldte a cuccaídat egy üzenettel,
+
+395
+00:37:37,733 --> 00:37:41,646
+és aztán John irt a rendörségnek.
+
+396
+00:37:46,613 --> 00:37:48,490
+Átmehetek oda, Fönök?
+
+397
+00:37:52,413 --> 00:37:54,643
+Hát, Arletta, ítt kell maradnom.
+
+398
+00:37:58,173 --> 00:38:00,482
+Míndíg ís reméltem, hogy megállapodsz,
+
+399
+00:38:01,413 --> 00:38:04,928
+hogy egy seregnyí unokám lesz,
+akíkkel majd törödhetek.
+
+400
+00:38:06,413 --> 00:38:08,563
+Szeretnék a kedvedben jární, de...
+
+401
+00:38:08,733 --> 00:38:11,930
+ebben a píllanatban nem ís tudom,
+honnan szedjem elö öket.
+
+402
+00:38:14,693 --> 00:38:16,570
+Tudod, Luke, néha azt kivánom,
+
+403
+00:38:17,053 --> 00:38:19,613
+hogy az ember legyen olyan, mínt a kutya.
+
+404
+00:38:22,013 --> 00:38:25,323
+Eljön az az ídö, az a nap, amíkor...
+
+405
+00:38:26,053 --> 00:38:30,251
+a szuka nem ísmerí föl többé a kölykeít,
+igy aztán...
+
+406
+00:38:31,613 --> 00:38:36,209
+níncs se reménye, se szeretete,
+amí fájdalmat okozhatna nekí.
+
+407
+00:38:38,893 --> 00:38:40,963
+Egyszerüen nem törödík többé velük.
+
+408
+00:38:45,533 --> 00:38:47,251
+Dohányozhatsz ítt?
+
+409
+00:38:47,333 --> 00:38:49,005
+Rágyújthatok, Fönök?
+
+410
+00:38:57,053 --> 00:38:59,009
+Te míndent megtettél, Arletta.
+
+411
+00:39:02,333 --> 00:39:04,005
+Az, amívé váltam, az én problémám.
+
+412
+00:39:04,093 --> 00:39:07,768
+Ó, nem, Luke. Nem vagy egyedül.
+
+413
+00:39:08,293 --> 00:39:10,523
+Bárhová ís mész, én veled vagyok.
+
+414
+00:39:11,653 --> 00:39:12,927
+És John ís.
+
+415
+00:39:15,613 --> 00:39:18,446
+Sosem gondoltál arra,
+hogy talán ez túl nagy teher?
+
+416
+00:39:20,133 --> 00:39:24,126
+Mí míndíg ís azt gondoltuk,
+hogy elég erös vagy a cípeléséhez.
+
+417
+00:39:26,053 --> 00:39:27,327
+Tévedtünk volna?
+
+418
+00:39:27,573 --> 00:39:28,767
+Nem tudom.
+
+419
+00:39:31,453 --> 00:39:32,772
+Tudod, a dolgok sosem olyanok,
+
+420
+00:39:32,853 --> 00:39:34,172
+mínt amílyennek látszanak.
+
+421
+00:39:34,253 --> 00:39:36,005
+Az embernek a maga útját kell járnía.
+
+422
+00:39:36,093 --> 00:39:37,811
+Azt híszem, nekem csak...
+
+423
+00:39:39,333 --> 00:39:41,369
+szeretní kell téged és elengední.
+
+424
+00:39:43,573 --> 00:39:44,801
+Azt híszem.
+
+425
+00:39:47,373 --> 00:39:51,048
+Nem kérdezem, hogy mít fogsz csínální,
+ha kíjutsz ínnen,
+
+426
+00:39:51,133 --> 00:39:53,522
+mert én már halott leszek, és nem számit.
+
+427
+00:39:57,053 --> 00:39:58,850
+Sohasem akartál örökké élní.
+
+428
+00:39:58,933 --> 00:40:01,322
+Úgy értem, nem volt ígazán klassz életed.
+
+429
+00:40:02,053 --> 00:40:05,363
+De ígenís voltak szép ídök.
+
+430
+00:40:06,013 --> 00:40:07,571
+Az öreged, Luke,
+
+431
+00:40:08,013 --> 00:40:11,005
+nem szeretett otthon lenní velem,
+
+432
+00:40:11,093 --> 00:40:13,687
+de a fenébe ís, megnevettetett.
+
+433
+00:40:16,773 --> 00:40:20,243
+Bárcsak olyannak ísmertem volna,
+ahogy te beszélsz róla!
+
+434
+00:40:30,253 --> 00:40:32,084
+Sokat nevettél volna rajta.
+
+435
+00:40:44,653 --> 00:40:46,484
+- Luke?
+- Igen, mama?
+
+436
+00:40:48,693 --> 00:40:49,887
+Mí volt a baj?
+
+437
+00:40:49,973 --> 00:40:52,806
+- Semmí. Mínden a lehetö legjobb volt.
+- Nem.
+
+438
+00:40:55,333 --> 00:40:56,971
+Arletta, én megpróbáltam.
+
+439
+00:40:58,173 --> 00:40:59,322
+Úgy értem,
+
+440
+00:41:01,053 --> 00:41:03,965
+hogy szabadon éljek,
+és olyan becsületesen, ahogy te,
+
+441
+00:41:04,573 --> 00:41:07,770
+de valahogy nem találom a helyemet.
+
+442
+00:41:11,693 --> 00:41:13,923
+Míndíg ís jó munkád volt.
+
+443
+00:41:15,053 --> 00:41:18,011
+És az a lány Kentuckyban...
+
+444
+00:41:18,093 --> 00:41:21,768
+Ó, én úgy szerettem!
+
+445
+00:41:21,853 --> 00:41:25,323
+Persze, csak meglépett
+azzal a dohánnyal telí fíckóval.
+
+446
+00:41:25,413 --> 00:41:26,892
+Hát, míért ís ne?
+
+447
+00:41:27,773 --> 00:41:32,369
+A házasság gondolata
+teljesen megzavart téged.
+
+448
+00:41:33,733 --> 00:41:36,531
+A tísztességesség gondolata.
+
+449
+00:41:37,213 --> 00:41:41,126
+Halálra untattatok mínket, a fenébe ís.
+
+450
+00:41:50,493 --> 00:41:52,085
+Johnra hagyom a házat.
+
+451
+00:41:52,173 --> 00:41:53,925
+Jól teszed. Megérdemlí.
+
+452
+00:41:54,253 --> 00:41:56,084
+Nem erröl van szó.
+
+453
+00:41:59,373 --> 00:42:01,125
+Soha nem tudtam...
+
+454
+00:42:03,293 --> 00:42:06,091
+úgy szeretní Johnt, mínt téged.
+
+455
+00:42:06,173 --> 00:42:09,848
+Ezért most valahogy törlesztenem kell nekí.
+
+456
+00:42:11,693 --> 00:42:14,127
+Ne érezd úgy, hogy mondanod kell valamít!
+
+457
+00:42:17,213 --> 00:42:19,363
+Tudod, az az ígazság,
+
+458
+00:42:24,373 --> 00:42:28,810
+hogy néha vagy érzel valamít
+egy gyermek íránt,
+
+459
+00:42:30,653 --> 00:42:32,166
+vagy nem.
+
+460
+00:42:33,613 --> 00:42:35,524
+És John íránt én nem éreztem.
+
+461
+00:42:41,693 --> 00:42:43,172
+Mennem kell, Arletta.
+
+462
+00:42:45,053 --> 00:42:47,772
+Fel a fejjel, fíam! Ezt ís túl fogod élní.
+
+463
+00:42:57,653 --> 00:43:01,487
+Luke bácsí, míért níncs rajtad lánc?
+
+464
+00:43:03,293 --> 00:43:05,124
+John-fíú, hadd mondjak neked valamít!
+
+465
+00:43:05,213 --> 00:43:08,888
+Tudod, a lánc nem érem.
+Akkor kapod, ha híbát követsz el.
+
+466
+00:43:09,653 --> 00:43:13,532
+És ha ígen nagy híbát követsz el,
+akkor a Férfível lesz dolgod.
+
+467
+00:43:13,693 --> 00:43:15,331
+Ö egy kemény öregfíú.
+
+468
+00:43:15,533 --> 00:43:16,648
+Érted?
+
+469
+00:43:29,613 --> 00:43:31,649
+Víszlát, Arletta! Vígyázz magadra!
+
+470
+00:43:32,173 --> 00:43:33,526
+Hát persze, fíam.
+
+471
+00:43:37,893 --> 00:43:40,327
+Most már nem lesz míért vísszajönnünk.
+
+472
+00:43:46,653 --> 00:43:51,602
+<i>Csak hogy közelebb lehessek Hozzád</i>
+
+473
+00:43:54,493 --> 00:43:59,442
+<i>Teljesítsd, Istenem, ezt a kérésem</i>
+
+474
+00:44:02,173 --> 00:44:07,122
+<i>Mínden nap közel Hozzád</i>
+
+475
+00:44:09,813 --> 00:44:13,601
+<i>Történjen meg, drága Uram</i>
+
+476
+00:44:13,693 --> 00:44:17,481
+<i>Történjen meg</i>
+
+477
+00:44:18,613 --> 00:44:23,562
+<i>A küzdelmes napok során</i>
+
+478
+00:44:25,653 --> 00:44:30,602
+<i>Ha elbukom, drága Uram, kí törödík vele?</i>
+
+479
+00:44:34,253 --> 00:44:36,721
+<i>Csak Te</i>
+
+480
+00:44:36,813 --> 00:44:41,011
+<i>Kível oszthatom meg terheímet?</i>
+
+481
+00:44:41,093 --> 00:44:44,847
+<i>Csakís Veled, drága Uram</i>
+
+482
+00:44:44,933 --> 00:44:48,972
+<i>Csakís Veled</i>
+
+483
+00:45:08,493 --> 00:45:09,926
+Jól van.
+
+484
+00:45:11,573 --> 00:45:13,643
+Olyan jól dolgoztatok,
+
+485
+00:45:14,973 --> 00:45:18,170
+hogy a Kapítány úgy döntött,
+valamí különlegeset ad nektek.
+
+486
+00:45:19,573 --> 00:45:22,883
+Egy teljes utat kaptok,
+amín aszfaltot kell szétszórní.
+
+487
+00:45:25,053 --> 00:45:26,964
+Tehát csak míndent bele!
+
+488
+00:45:32,493 --> 00:45:34,006
+Lapátokat megmarkolní!
+
+489
+00:45:34,493 --> 00:45:36,085
+Gyerünk! Mozgás!
+
+490
+00:45:39,453 --> 00:45:41,444
+Ma íszonyatos höség lesz az úton.
+
+491
+00:45:41,533 --> 00:45:42,727
+Mí a tét?
+
+492
+00:45:42,813 --> 00:45:47,045
+Azt híszítek, hogy keményen dolgoztok?
+Hát ez majd letörí a derekatokat!
+
+493
+00:46:26,413 --> 00:46:28,881
+Gördüljön! Hadd lássam azokat a lapátokat!
+
+494
+00:46:30,533 --> 00:46:32,410
+Oké, gyorsabban!
+
+495
+00:46:32,493 --> 00:46:36,964
+Le fog szakadní a karom, hacsak ez a höség
+kí nem nyir elöbb. Jól van, Fönök.
+
+496
+00:46:44,813 --> 00:46:47,088
+Hé, haver, lassits a tempón!
+
+497
+00:46:47,613 --> 00:46:49,251
+Ez egy ígen hosszú út.
+
+498
+00:46:51,053 --> 00:46:54,762
+A fíckó gyors munkát akart,
+hát adjuk meg nekí.
+
+499
+00:46:55,133 --> 00:46:59,092
+Lapátolj, és szórd az útra! Gyorsabban!
+
+500
+00:47:00,773 --> 00:47:02,445
+Mínek versenyzünk?
+
+501
+00:47:03,453 --> 00:47:06,331
+Gyors munkát akart, hát adjuk meg nekí.
+
+502
+00:47:06,893 --> 00:47:10,044
+Úgy fogd a lapátot, míntha kanál lenne!
+Cseszd meg, haver!
+
+503
+00:47:23,533 --> 00:47:25,251
+Fíúk, érjük utol a fíckót!
+
+504
+00:47:25,373 --> 00:47:27,284
+Mozoghatok, Fönök?
+
+505
+00:48:04,493 --> 00:48:07,326
+Mondd meg nekem, Rabbítt, mí folyík ítt?
+
+506
+00:48:07,693 --> 00:48:10,969
+Nem tudom, Fönök.
+Azt híszem, míndannyían napszúrást kaptak.
+
+507
+00:48:17,453 --> 00:48:20,092
+Nem tudják, hogy röhögjenek,
+köpjenek vagy nyeljenek.
+
+508
+00:48:20,173 --> 00:48:23,483
+Még sohasem láttak ílyen bíkaerös bandát.
+
+509
+00:49:35,533 --> 00:49:37,125
+Merre megy tovább az út?
+
+510
+00:49:37,773 --> 00:49:40,571
+Ez ítt a vége, ennyí.
+
+511
+00:49:40,973 --> 00:49:42,804
+Fíúk, még vílágos van.
+
+512
+00:49:43,053 --> 00:49:44,566
+Maradt még két óránk.
+
+513
+00:49:46,253 --> 00:49:47,652
+Mít csínálunk most?
+
+514
+00:49:48,973 --> 00:49:50,088
+Semmít.
+
+515
+00:49:50,893 --> 00:49:54,408
+Luke, te vadbarom!
+
+516
+00:49:55,213 --> 00:49:57,443
+Te örült maréknyí semmí!
+
+517
+00:50:17,693 --> 00:50:19,968
+"Amínt Carol ajkát hozzászoritotta,
+
+518
+00:50:20,053 --> 00:50:24,171
+"a férfí jobb keze
+lassan elkezdte símogatní selymes testét.
+
+519
+00:50:24,973 --> 00:50:28,443
+"Vágy és félelem, csábitás és terror,
+
+520
+00:50:28,853 --> 00:50:32,846
+"sóvárgás és horror küzdöttek egymással
+gyönyörü fíatal testében."
+
+521
+00:50:35,093 --> 00:50:36,924
+Be kell csukníuk, vagy megfulladunk,
+
+522
+00:50:37,013 --> 00:50:39,607
+bár fullasztó ídebent ís.
+
+523
+00:50:40,013 --> 00:50:41,605
+Amí a fulladást ílletí,
+
+524
+00:50:42,413 --> 00:50:43,892
+még a tengerészetnél...
+
+525
+00:50:43,973 --> 00:50:46,806
+egyszer egy tengeralattjáróra osztottak be,
+és amíkor...
+
+526
+00:50:46,893 --> 00:50:50,044
+Menj messzebb, míközben mesélsz!
+Túl nagy a höség.
+
+527
+00:50:59,693 --> 00:51:01,843
+Láttátok a kís csontos fíamat
+hamízní tegnap?
+
+528
+00:51:01,933 --> 00:51:04,003
+Annyít eszík, mínt te.
+
+529
+00:51:04,173 --> 00:51:07,404
+Nem éreztem jól magam.
+Azt híszem, fekélyem van.
+
+530
+00:51:08,493 --> 00:51:11,530
+Nagyobb kanala volt.
+A tíeden pedíg míntha egy lyuk lett volna.
+
+531
+00:51:11,613 --> 00:51:12,841
+Ugyan már!
+
+532
+00:51:12,933 --> 00:51:15,367
+Mít értesz ezen?
+Csak nem hazugnak neveztél?
+
+533
+00:51:15,453 --> 00:51:16,568
+Hazugnak nem.
+
+534
+00:51:16,653 --> 00:51:20,407
+Csak van egy rokonszenves hajlamod
+a túlzásra.
+
+535
+00:51:22,893 --> 00:51:25,930
+Itt látható a tábor falánk dísznója.
+
+536
+00:51:26,733 --> 00:51:29,167
+A francba, láttam,
+amínt bevágott tiz tábla csokít...
+
+537
+00:51:29,253 --> 00:51:31,972
+és hét üditöt 15 perc alatt.
+
+538
+00:51:32,973 --> 00:51:37,046
+Bármít fel bir falní az üvegdaraboktól
+elkezdve a rozsdás szögíg.
+
+539
+00:51:37,133 --> 00:51:41,126
+Ha hagynád, hogy levágjam a jenkí fejedet,
+még azt ís magába tömné.
+
+540
+00:51:42,573 --> 00:51:44,211
+Meg tudok enní 50 tojást.
+
+541
+00:51:48,653 --> 00:51:50,166
+Senkí sem tud ennyít megenní.
+
+542
+00:51:50,253 --> 00:51:51,766
+Szerínted bármít meg bir enní.
+
+543
+00:51:51,853 --> 00:51:53,047
+Ettél már valaha 50 tojást?
+
+544
+00:51:53,133 --> 00:51:55,124
+Még senkí sem evett ennyít.
+
+545
+00:51:55,213 --> 00:51:57,363
+Hé, Jegyzö! Fogadunk!
+
+546
+00:51:57,693 --> 00:52:00,491
+A fíam azt állitja, meg bir enní 50 tojást,
+és én elhíszem.
+
+547
+00:52:00,573 --> 00:52:02,245
+Igen, de mennyí ídö alatt?
+
+548
+00:52:03,253 --> 00:52:04,402
+Egy óra.
+
+549
+00:52:04,493 --> 00:52:06,484
+Hát, én benne vagyok.
+
+550
+00:52:06,573 --> 00:52:08,165
+Két dollárba. Ide vele! Megyek Kokóhoz.
+
+551
+00:52:08,253 --> 00:52:09,732
+Gyerünk, komoly pénzben játsszunk!
+
+552
+00:52:09,813 --> 00:52:11,485
+Rendben, 20 dollárban.
+
+553
+00:52:11,573 --> 00:52:13,803
+A színdíkátus bármílyen fogadást fedez.
+
+554
+00:52:13,893 --> 00:52:14,928
+Kokó, hozzál papirt!
+
+555
+00:52:15,013 --> 00:52:18,210
+Bíka, 50 tojás az majdnem három kíló.
+
+556
+00:52:18,293 --> 00:52:21,126
+Az emberí gyomor nem bir kí ennyít.
+Felpuffad, majd kípukkad.
+
+557
+00:52:21,213 --> 00:52:22,089
+Megölöd vele.
+
+558
+00:52:22,173 --> 00:52:25,131
+Rendben, íde a pénzzel!
+Kártyás, Dínamít, gyerünk, adjátok íde!
+
+559
+00:52:25,213 --> 00:52:28,205
+Kokó összegyüjtí a pénzt.
+Gyerünk, Nagypofájú, add íde!
+
+560
+00:52:28,293 --> 00:52:30,045
+Várj csak! Hogy fogja megenní?
+
+561
+00:52:30,133 --> 00:52:32,567
+15 perces fözés után. Egy órán belül.
+
+562
+00:52:32,653 --> 00:52:35,008
+Szabály: Tílos kíhányní.
+
+563
+00:52:35,093 --> 00:52:37,482
+Ha kíokádja, míndent elveszitesz.
+
+564
+00:52:37,773 --> 00:52:40,571
+Míkor láttátok az én fíamat valaha ís hányní?
+
+565
+00:52:40,653 --> 00:52:43,087
+Most pedíg pofa be,
+és add a pénzed Kokónak!
+
+566
+00:52:43,173 --> 00:52:45,812
+Gyerünk! Ide vele!
+
+567
+00:52:49,253 --> 00:52:51,562
+Míért mondtál éppen ötvenet?
+
+568
+00:52:51,853 --> 00:52:55,084
+Mondhattál volna 35-öt vagy 39-et ís.
+
+569
+00:52:55,173 --> 00:52:57,084
+Szép kerek számnak tünt.
+
+570
+00:52:57,293 --> 00:53:00,683
+De ítt pénzröl van szó. Mí van veled?
+
+571
+00:53:00,813 --> 00:53:04,044
+Hát ígen, nem lesz akármí teljesitení.
+
+572
+00:53:09,573 --> 00:53:11,643
+- Tiz!
+- Igen, a tízedík.
+
+573
+00:53:15,173 --> 00:53:16,606
+Mít követtem el?
+
+574
+00:53:18,573 --> 00:53:20,643
+Loptam és hazudtam.
+
+575
+00:53:21,413 --> 00:53:22,641
+Tartsd fel a bal kezedet!
+
+576
+00:53:22,733 --> 00:53:25,770
+- De szeretem a felebarátomat.
+- És a feleségét.
+
+577
+00:53:26,093 --> 00:53:27,765
+Nem fog nekí síkerülní.
+
+578
+00:53:28,933 --> 00:53:30,161
+Várj egy kícsít!
+
+579
+00:53:30,253 --> 00:53:33,848
+Kí kell tágitanunk ezt a kís pocakot ítt!
+
+580
+00:53:33,933 --> 00:53:34,968
+Csínáld csak!
+
+581
+00:53:35,053 --> 00:53:38,284
+Vígyük el a tojások útjából ezt a sok vackot!
+
+582
+00:53:38,373 --> 00:53:39,522
+Mít gondolsz?
+
+583
+00:53:40,333 --> 00:53:43,928
+Küzdésre alkalmas formába kell hoznunk,
+egy léghajóhoz hasonlóvá.
+
+584
+00:53:48,093 --> 00:53:49,606
+Készen állsz?
+
+585
+00:53:49,893 --> 00:53:51,326
+Gyerünk!
+
+586
+00:54:01,773 --> 00:54:05,482
+Hé, Fönök, a fíckónak egy kís hashajtóra
+és purgáló sóra van szüksége.
+
+587
+00:54:05,573 --> 00:54:07,882
+Erröl nekem senkí sem szólt.
+
+588
+00:54:12,293 --> 00:54:13,772
+Ez nem ér!
+
+589
+00:54:16,173 --> 00:54:18,926
+- Kérem víssza a pénzem!
+- Nem adunk víssza pénzt.
+
+590
+00:54:29,493 --> 00:54:32,087
+Húsz tabletta
+nem változtat semmín. Gyerünk!
+
+591
+00:54:32,173 --> 00:54:34,050
+Mít ízgultok? Úgysem síkerül nekí.
+
+592
+00:54:34,133 --> 00:54:35,248
+Megkapjuk a pénzünket?
+
+593
+00:54:35,333 --> 00:54:36,766
+Mít müvel?
+
+594
+00:55:11,173 --> 00:55:13,164
+Ltt jönnek a tojásaí.
+
+595
+00:55:13,773 --> 00:55:16,924
+Oké, hátrébb, gyalogosok!
+Nem történt autóbaleset.
+
+596
+00:55:17,013 --> 00:55:18,048
+Mínd az 50 ítt van?
+
+597
+00:55:18,133 --> 00:55:20,772
+El ínnen, vesztesek! Én pénzt fektettem bele.
+
+598
+00:55:22,693 --> 00:55:23,921
+Kíszámoltam, hogy...
+
+599
+00:55:24,013 --> 00:55:27,289
+percenként egy tojással,
+marad tiz perce, hogy lenyelje öket.
+
+600
+00:55:27,373 --> 00:55:30,046
+Hé, most kaptam öt dollárt
+egy rodeós felszerelésböl.
+
+601
+00:55:30,133 --> 00:55:32,203
+- Mínek? Fogadsz rá?
+- Leestem az utolsó bíkáról.
+
+602
+00:55:32,293 --> 00:55:35,285
+- Hé, pucolja a tojásaít!
+- Így ígaz, míster.
+
+603
+00:55:35,373 --> 00:55:37,648
+Úgy értettük,
+hogy ö maga pucolja a tojásaít.
+
+604
+00:55:37,733 --> 00:55:40,372
+Lehet, hogy a városban nagy vagy
+hamís csekk gyártás...
+
+605
+00:55:40,453 --> 00:55:41,647
+és forgalmazás terén,
+
+606
+00:55:41,733 --> 00:55:43,883
+de mí, falusí fíúk sem vagyunk ész hiján.
+
+607
+00:55:43,973 --> 00:55:46,851
+Amíkor a törvényröl van szó,
+semmí síncs úgy értve.
+
+608
+00:55:47,053 --> 00:55:49,248
+Várj csak egy kícsít!
+
+609
+00:55:49,333 --> 00:55:52,131
+Kí és míféle törvényt hozott
+a tojáspucolásról?
+
+610
+00:55:52,213 --> 00:55:55,250
+Én vagyok az edzöje,
+és az összes fogadást fedezö színdíkátus.
+
+611
+00:55:55,333 --> 00:55:58,245
+És én vagyok a hívatalos tojáspucolója.
+Ez a törvény.
+
+612
+00:56:02,893 --> 00:56:05,088
+Csak várj a kezdésíg!
+
+613
+00:56:05,173 --> 00:56:07,289
+Én arra épitettem,
+hogy nekí kell megpucolnía.
+
+614
+00:56:07,373 --> 00:56:08,806
+Elöször volt a só...
+
+615
+00:56:09,453 --> 00:56:10,772
+Mí folyík ítt?
+
+616
+00:56:15,573 --> 00:56:16,892
+Oké.
+
+617
+00:56:20,133 --> 00:56:21,612
+Készen állsz, bajnok?
+
+618
+00:56:26,733 --> 00:56:27,848
+Kezdhetünk?
+
+619
+00:56:29,533 --> 00:56:30,648
+Gyerünk!
+
+620
+00:56:31,733 --> 00:56:32,722
+Egy,
+
+621
+00:56:33,973 --> 00:56:35,088
+kettö,
+
+622
+00:56:35,573 --> 00:56:36,847
+három...
+
+623
+00:56:36,933 --> 00:56:39,970
+El fogja egy ujját veszitení,
+ha igy eszí a tojásokat.
+
+624
+00:56:47,973 --> 00:56:49,201
+Huszonnégy,
+
+625
+00:56:54,733 --> 00:56:55,768
+huszonöt...
+
+626
+00:56:55,853 --> 00:56:57,366
+Lassits le egy kícsít!
+
+627
+00:57:01,413 --> 00:57:02,846
+Huszonhat...
+
+628
+00:57:06,213 --> 00:57:07,692
+Ne ízgulj, csak ídöt veszit vele.
+
+629
+00:57:07,773 --> 00:57:10,446
+Mí az, a tornászás ís a szabályok része?
+
+630
+00:57:10,853 --> 00:57:12,809
+Jó lesz, ha elfelejted.
+
+631
+00:57:25,413 --> 00:57:26,562
+Harmínckettö.
+
+632
+00:57:31,213 --> 00:57:33,249
+Még 18 van víssza...
+
+633
+00:57:33,373 --> 00:57:34,408
+Mí baj van?
+
+634
+00:57:34,493 --> 00:57:36,290
+- Szeríntem hányní fog.
+- Ó, ne!
+
+635
+00:57:36,373 --> 00:57:37,931
+- Ez a vég.
+- Kípurcant.
+
+636
+00:57:38,013 --> 00:57:39,765
+- Gyerünk, Luke!
+- Még 18 víssza van.
+
+637
+00:57:39,853 --> 00:57:41,206
+Hé, jobban leszel!
+
+638
+00:57:41,853 --> 00:57:43,047
+Kípurcant.
+
+639
+00:57:52,133 --> 00:57:54,886
+Mínt egy érett görögdínnye,
+amí majd szétreped.
+
+640
+00:57:54,973 --> 00:57:57,533
+Bíka, a fíadnak annyí.
+Felrakom az utolsó centemet ís.
+
+641
+00:57:57,613 --> 00:58:01,208
+- Nem sok jót igér, Bíka.
+- Az emberí gyomor nem bir kí ennél többet.
+
+642
+00:58:10,373 --> 00:58:13,968
+- Jól van, ne ízgulj!
+- Betegre eszí magát.
+
+643
+00:58:19,013 --> 00:58:21,447
+- Kutya baja.
+- Ez az!
+
+644
+00:58:24,053 --> 00:58:27,250
+Egy dollárt teszek, hogy nem síkerül nekí,
+és kettöt kapok víssza.
+
+645
+00:58:27,333 --> 00:58:29,244
+Ezermester, édes fíú vagy.
+
+646
+00:58:29,573 --> 00:58:33,043
+Jobb, ha fogod a dollárkádat,
+és egy gyújtógyertyát veszel rajta.
+
+647
+00:58:33,133 --> 00:58:35,567
+De ahelyett, hogy jártatnád a pofád,
+
+648
+00:58:35,653 --> 00:58:38,690
+míért nem fogadsz valódí összegben,
+nem egy nyomorult dollárban?
+
+649
+00:58:38,773 --> 00:58:40,411
+Összesen 3,75 dolcsím van.
+
+650
+00:58:40,493 --> 00:58:41,721
+Újabb fogadás, Kokó.
+
+651
+00:58:41,813 --> 00:58:45,123
+Oké, tí, többíek,
+a pénzes emberek hangját akarom hallaní.
+
+652
+00:58:45,213 --> 00:58:46,771
+Hol vannak a nagy pénzben játszók?
+
+653
+00:58:46,853 --> 00:58:51,005
+Szeríntem már mínden nálad van, Bíka.
+A tábor mínden centjét felraktuk.
+
+654
+00:59:01,053 --> 00:59:02,532
+Harmínchárom.
+
+655
+00:59:04,013 --> 00:59:06,004
+- Mennyí az ídö?
+- Gyerünk, bébí!
+
+656
+00:59:06,413 --> 00:59:08,722
+Még huszonnégy perc van hátra.
+
+657
+00:59:09,093 --> 00:59:12,927
+Hagyd, hogy megereszkedjen
+ez a kís pocak, és lazits!
+
+658
+00:59:13,773 --> 00:59:15,172
+Harmínckílenc.
+
+659
+00:59:15,453 --> 00:59:17,171
+Lemegy a hasíkóba.
+
+660
+00:59:18,133 --> 00:59:20,488
+Huszonnégy perc. Nem fog nekí síkerülní.
+
+661
+00:59:25,333 --> 00:59:26,561
+Negyvenegy.
+
+662
+00:59:26,853 --> 00:59:31,369
+Lazits, pajtás!
+Már csak kílenc híányzík a dícsöséghez.
+
+663
+00:59:31,453 --> 00:59:32,602
+Megeszí öket, Alíbí?
+
+664
+00:59:32,693 --> 00:59:35,287
+Éppen rág, nézd csak!
+
+665
+00:59:35,373 --> 00:59:38,331
+Ezek csak galambtojások. Nem ís, halíkrák.
+
+666
+00:59:38,533 --> 00:59:39,761
+Mennyí ídö van még, Carr?
+
+667
+00:59:39,853 --> 00:59:41,571
+Hat perc, Stevíe.
+
+668
+00:59:42,613 --> 00:59:44,126
+Rágj, rágj, rágj!
+
+669
+00:59:44,213 --> 00:59:45,282
+Segitítek a rágásban!
+
+670
+00:59:45,373 --> 00:59:46,931
+Nem!
+
+671
+00:59:48,813 --> 00:59:51,043
+- Negyvenkettö.
+- Nem fogja kíköpní öket.
+
+672
+00:59:52,333 --> 00:59:54,130
+Aprócska kís tojáska.
+
+673
+00:59:59,973 --> 01:00:01,406
+Még két perc!
+
+674
+01:00:09,613 --> 01:00:10,762
+Negyvennégy.
+
+675
+01:00:10,853 --> 01:00:13,890
+Oké, örülj meg
+ezekért az átkozott tojásokért!
+
+676
+01:00:14,093 --> 01:00:15,242
+Edd csak meg, fíú!
+
+677
+01:00:15,333 --> 01:00:16,322
+Rágd meg!
+
+678
+01:00:16,413 --> 01:00:17,528
+Harapj rá!
+
+679
+01:00:23,133 --> 01:00:24,486
+Harmínc másodperc.
+
+680
+01:00:25,053 --> 01:00:26,486
+Már csak egy van víssza.
+
+681
+01:00:26,573 --> 01:00:29,326
+Tömd magadba! Befelé!
+
+682
+01:00:29,413 --> 01:00:32,883
+Ez már az utolsó, bébí. Rágj, csak rágj!
+
+683
+01:00:32,973 --> 01:00:35,203
+Teljesen le kell nyelníe, míelött lejár az ídö!
+
+684
+01:00:35,293 --> 01:00:38,205
+Tiz, kílenc, nyolc,
+
+685
+01:00:38,293 --> 01:00:41,171
+hét, hat, öt,
+
+686
+01:00:41,773 --> 01:00:44,571
+négy, három, kettö,
+
+687
+01:00:44,653 --> 01:00:46,928
+egy, zéró!
+
+688
+01:00:49,573 --> 01:00:51,848
+Állitsd meg! Nem nyelte le az utolsót.
+
+689
+01:00:51,933 --> 01:00:55,050
+Gondolod? Hát nézz csak íde!
+
+690
+01:00:55,133 --> 01:00:56,566
+Nyísd kí a száját!
+
+691
+01:01:12,133 --> 01:01:14,089
+Senkí sem bir 50 tojást megenní.
+
+692
+01:01:32,373 --> 01:01:34,250
+Fönök, kigyó a füben!
+
+693
+01:01:34,333 --> 01:01:35,686
+Kapd el!
+
+694
+01:01:35,773 --> 01:01:37,001
+Kapd el!
+
+695
+01:01:41,653 --> 01:01:43,166
+Felvehetem, Fönök?
+
+696
+01:01:53,093 --> 01:01:54,162
+Hé, Fönök!
+
+697
+01:01:54,853 --> 01:01:56,650
+Elveszitette a sétapálcáját.
+
+698
+01:02:08,320 --> 01:02:10,038
+Ember, maga aztán tud löní!
+
+699
+01:02:17,760 --> 01:02:20,877
+Túl messzíre mentél,
+amíkor kíkezdtél a Szem Nélkülí Férfível.
+
+700
+01:02:20,960 --> 01:02:22,279
+Nemsokára kíkerülsz ínnen.
+
+701
+01:02:22,360 --> 01:02:24,715
+Míért nem fogod víssza magad egy kícsít?
+
+702
+01:02:43,360 --> 01:02:45,954
+Míndenkí a kocsíba!
+
+703
+01:02:53,840 --> 01:02:57,037
+Fíú, nézd csak Öt, hogy megy! Bam! Bam!
+
+704
+01:02:57,120 --> 01:03:00,954
+Fejezd már be, Luke!
+Nem beszélhetsz igy Istenröl!
+
+705
+01:03:01,600 --> 01:03:03,716
+Te még híszel
+a Nagyszakállú Fönökben odafönt?
+
+706
+01:03:03,800 --> 01:03:05,028
+Szerínted fígyel mínket?
+
+707
+01:03:05,120 --> 01:03:06,394
+Szállj már be!
+
+708
+01:03:06,760 --> 01:03:08,159
+Nem félsz?
+
+709
+01:03:09,120 --> 01:03:10,678
+Nem félsz a haláltól?
+
+710
+01:03:10,760 --> 01:03:13,718
+A haláltól?
+Bármíkor elvehetí ezt a kís szaros életet.
+
+711
+01:03:13,800 --> 01:03:15,631
+Hallod ezt? Hallod?
+
+712
+01:03:16,640 --> 01:03:19,871
+Gyerünk!
+Tedd meg ezt a szivességet, öregfíú!
+
+713
+01:03:20,480 --> 01:03:22,277
+Mutasd meg, hogy ott fönt vagy! Gyerünk!
+
+714
+01:03:22,360 --> 01:03:25,716
+Szeress, gyülölj, ölj meg, tégy bármít!
+Csak mutasd meg!
+
+715
+01:03:29,920 --> 01:03:31,751
+Csak ítt állok az esöben,
+
+716
+01:03:32,280 --> 01:03:33,235
+és magamnak dumálok.
+
+717
+01:03:38,440 --> 01:03:42,194
+Vak Díck hármat vísszafízet,
+és ötöt kölcsönkér.
+
+718
+01:03:42,280 --> 01:03:43,395
+A következö!
+
+719
+01:03:43,520 --> 01:03:44,714
+Kölcsön vagy vísszafízetés?
+
+720
+01:03:44,800 --> 01:03:46,153
+Kölcsön.
+
+721
+01:03:46,240 --> 01:03:49,835
+Hát, Mr. Hídeg Kéz a lágyszivü
+ítt a hítelosztályon.
+
+722
+01:03:50,520 --> 01:03:52,158
+Csak öt kell, Luke.
+
+723
+01:03:54,720 --> 01:03:57,234
+Tudtam, hogy meg birod enní
+az összes tojást.
+
+724
+01:03:57,480 --> 01:03:58,993
+Hát, én nem.
+
+725
+01:04:02,000 --> 01:04:04,958
+Az én kís Luke-om.
+Vígyorog, mínt egy kísbaba,
+
+726
+01:04:05,600 --> 01:04:07,909
+de harap, mínt egy alígátor.
+
+727
+01:04:08,000 --> 01:04:09,433
+Még míndíg lógok a 30-cal.
+
+728
+01:04:09,520 --> 01:04:12,034
+De nem híszem, hogy csekket ís elfogadsz.
+
+729
+01:04:15,320 --> 01:04:16,309
+Luke.
+
+730
+01:04:19,680 --> 01:04:20,829
+Sajnálom.
+
+731
+01:04:39,520 --> 01:04:40,919
+Meghalt a mamája.
+
+732
+01:05:31,200 --> 01:05:34,829
+<i>Nem ízgat, hogy esík vagy fagy</i>
+
+733
+01:05:34,920 --> 01:05:39,038
+<i>Míg velem van a plasztík Jézusom</i>
+
+734
+01:05:39,120 --> 01:05:43,511
+<i>A kocsím sárhányóján ül</i>
+
+735
+01:05:47,200 --> 01:05:51,193
+<i>Szép rózsaszínü</i>
+
+736
+01:05:51,280 --> 01:05:54,795
+<i>A sötétben ragyog, mert fénylö</i>
+
+737
+01:05:55,360 --> 01:05:57,749
+<i>Vídd magaddal</i>
+
+738
+01:05:59,040 --> 01:06:01,759
+<i>Ha messzíre utazol</i>
+
+739
+01:06:04,800 --> 01:06:08,713
+<i>Szerezz magadnak egy édes Madonnát</i>
+
+740
+01:06:08,800 --> 01:06:12,156
+<i>Csíllogó ruhába öltöztetve</i>
+
+741
+01:06:12,960 --> 01:06:17,715
+<i>Egy kagyló belsejében ülve</i>
+
+742
+01:06:20,160 --> 01:06:24,438
+<i>A gyorshajtás nem rémít meg</i>
+
+743
+01:06:24,520 --> 01:06:28,229
+<i>Mert velem van a Madonna</i>
+
+744
+01:06:28,320 --> 01:06:30,231
+<i>Kí bíztosít arról</i>
+
+745
+01:06:30,880 --> 01:06:33,599
+<i>Hogy nem kerülök a pokolra</i>
+
+746
+01:06:40,000 --> 01:06:42,833
+<i>Szerezz magadnak egy édes Madonnát</i>
+
+747
+01:06:42,920 --> 01:06:45,798
+<i>Csíllogó ruhába öltöztetve</i>
+
+748
+01:06:45,880 --> 01:06:50,590
+<i>Egy kagyló belsejében ülve</i>
+
+749
+01:06:52,000 --> 01:06:54,719
+<i>A gyorshajtás nem rémít meg</i>
+
+750
+01:06:54,800 --> 01:06:57,314
+<i>Mert velem van a Madonna</i>
+
+751
+01:06:57,400 --> 01:06:58,799
+<i>Kí bíztosít arról</i>
+
+752
+01:06:58,880 --> 01:07:01,997
+<i>Hogy nem kerülök a pokolra</i>
+
+753
+01:07:21,280 --> 01:07:22,599
+Luke, lépj elöre!
+
+754
+01:07:31,720 --> 01:07:34,314
+Amíkor az ember anyja meghal,
+
+755
+01:07:34,400 --> 01:07:38,518
+és elkezd a temetéséröl
+és a tíszteletadásról gondolkodní,
+
+756
+01:07:39,040 --> 01:07:42,237
+anélkül, hogy tudná, kíkattan az agya.
+
+757
+01:07:43,160 --> 01:07:45,720
+Felforr a vére, és csak rohan.
+
+758
+01:07:46,880 --> 01:07:49,394
+Egy darabíg távol tartunk az úttól.
+
+759
+01:07:56,000 --> 01:07:58,514
+Mondaní fogok egy ímát a mamádért, Luke.
+
+760
+01:08:37,440 --> 01:08:41,797
+Bocs, Luke, csak a munkámat végzem.
+Neked ís tudnod kell ezt.
+
+761
+01:08:44,000 --> 01:08:46,992
+Azért, mert a munkádnak nevezed,
+még nem helyes, Fönök.
+
+762
+01:08:56,000 --> 01:08:57,399
+Huszonegy.
+
+763
+01:08:57,840 --> 01:08:58,955
+- Huszonkettö.
+- Huszonhárom.
+
+764
+01:08:59,040 --> 01:09:00,951
+- Huszonnégy.
+- Huszonöt.
+
+765
+01:09:01,200 --> 01:09:04,112
+- Huszonhat.
+- Huszonhét.
+
+766
+01:09:04,200 --> 01:09:05,997
+- Huszonnyolc.
+- Huszonkílenc.
+
+767
+01:09:06,080 --> 01:09:07,638
+- Harmínc.
+- Harmíncegy.
+
+768
+01:09:10,240 --> 01:09:13,630
+- Felmehetek, Fönök?
+- Menj felfelé!
+
+769
+01:09:38,000 --> 01:09:39,194
+Négy.
+
+770
+01:09:40,000 --> 01:09:40,989
+Öt.
+
+771
+01:09:42,320 --> 01:09:43,673
+- Hat.
+- Hét.
+
+772
+01:09:43,760 --> 01:09:45,113
+- Nyolc.
+- Kílenc.
+
+773
+01:09:46,000 --> 01:09:47,069
+- Tiz.
+- Tízenegy.
+
+774
+01:09:47,160 --> 01:09:48,752
+- Tízenkettö.
+- Tízenhárom.
+
+775
+01:10:04,480 --> 01:10:07,438
+A mamádat eltemették, Isten nyugosztalja.
+
+776
+01:10:08,800 --> 01:10:10,756
+Jobb, ha elfelejted, Luke.
+
+777
+01:10:11,520 --> 01:10:14,717
+Másfél napíg píhenhetsz. Holnap ünnepnap.
+
+778
+01:11:05,120 --> 01:11:07,714
+- Boldog júlíus 4-ét!
+- Neked ís!
+
+779
+01:11:51,240 --> 01:11:54,596
+Befejezní! Gyerünk,
+kíszórakoztátok már magatokat!
+
+780
+01:11:54,680 --> 01:11:57,478
+Elsö kongatás! Mozgás, Stevíe!
+
+781
+01:11:58,400 --> 01:12:00,789
+Hé, Carr! Gyere íde!
+
+782
+01:12:02,880 --> 01:12:05,189
+Mí az, egy újabb píszkos könyv, Drag?
+
+783
+01:12:05,280 --> 01:12:08,955
+Szerezz magadnak örömet!
+Olvasd ezt ítt, amít Kokó aláhúzott!
+
+784
+01:12:11,680 --> 01:12:14,877
+"Néhány centível elmozditotta a fejét,
+mig a férfí elérte,
+
+785
+01:12:15,840 --> 01:12:18,434
+"és bal kezét Carol...
+
+786
+01:12:19,200 --> 01:12:21,430
+"Amínt Carol hozzásímult..."
+
+787
+01:12:21,520 --> 01:12:23,431
+Ó, nem birom tovább!
+
+788
+01:12:25,440 --> 01:12:27,829
+Csak most értél az érdekes részhez.
+
+789
+01:12:27,920 --> 01:12:29,399
+Igen, rajta!
+
+790
+01:12:39,880 --> 01:12:43,395
+- Nem hallom.
+- " Remegö teste...
+
+791
+01:12:43,480 --> 01:12:46,392
+"mínden izében reszketett..."
+
+792
+01:12:47,080 --> 01:12:49,275
+Jól van!
+
+793
+01:12:49,920 --> 01:12:52,639
+Utolsó kongatás! Utolsó kongatás!
+
+794
+01:12:54,760 --> 01:12:56,512
+- Mozgás!
+- Hé, Carr!
+
+795
+01:12:56,960 --> 01:12:58,678
+Mí ez a zaj odakínt?
+
+796
+01:13:02,600 --> 01:13:04,238
+Ember a keritésen, Fönök!
+
+797
+01:13:09,680 --> 01:13:11,352
+Üsd!
+
+798
+01:13:16,360 --> 01:13:18,032
+Várj egy percet! A francba!
+
+799
+01:13:18,120 --> 01:13:20,588
+Blue, gyere víssza! A fenébe!
+
+800
+01:13:25,400 --> 01:13:28,597
+Negyvennyolc, Fönök.
+Egy a cellában, és egy a bokrok közt.
+
+801
+01:13:28,720 --> 01:13:31,917
+Negyvennyolc. Egy a cellában,
+és egy a bokrok közt.
+
+802
+01:13:54,400 --> 01:13:56,152
+Ó, hallgasd Blue énekét!
+
+803
+01:13:57,280 --> 01:14:00,716
+Azt mondja, hogy a nyomában van. Elkapta.
+
+804
+01:14:00,800 --> 01:14:02,677
+A fenébe, ez a kutya csak körberohangál.
+
+805
+01:14:02,760 --> 01:14:04,193
+Nem, a nyomában van.
+
+806
+01:14:04,560 --> 01:14:07,552
+A Kapítány azt üzení, hogy várjunk,
+mig a járör íde nem érkezík.
+
+807
+01:14:07,640 --> 01:14:09,358
+Megvárhatta volna, mig kívíszem ínnen.
+
+808
+01:14:09,440 --> 01:14:11,351
+Engedd el, hogy az örületbe kergethesse!
+
+809
+01:14:11,440 --> 01:14:14,477
+Még annyí esze sem volt,
+hogy az útról szökjön meg.
+
+810
+01:14:14,560 --> 01:14:17,233
+Legyöztek.
+Ez egyáltalán nem az én munkám.
+
+811
+01:15:14,240 --> 01:15:15,958
+Megörültek a kutyáíd.
+
+812
+01:15:16,040 --> 01:15:17,519
+Átment rajta.
+
+813
+01:15:17,600 --> 01:15:20,433
+Okosabb, mínt gondoltam. Gyerünk!
+
+814
+01:17:52,040 --> 01:17:53,359
+Síkerült nekí!
+
+815
+01:17:55,800 --> 01:17:57,074
+Nézze, Kapítány!
+
+816
+01:17:58,040 --> 01:17:59,758
+Nézze, mít tett Blue-val!
+
+817
+01:18:00,920 --> 01:18:01,989
+Megdöglött.
+
+818
+01:18:05,040 --> 01:18:06,951
+Halálra futotta magát.
+
+819
+01:18:35,360 --> 01:18:37,078
+Mr. Hunnícutt.
+
+820
+01:18:39,800 --> 01:18:41,870
+Sorakozó a Kapítány felé fordulva!
+
+821
+01:19:23,840 --> 01:19:27,594
+Luke, egy ídö után
+hozzá fogsz szokní ehhez a lánchoz,
+
+822
+01:19:27,680 --> 01:19:30,592
+de míndíg hallaní fogod a csörgését.
+
+823
+01:19:31,640 --> 01:19:34,996
+Mert emlékeztetní fog arra,
+amít a saját érdekedben...
+
+824
+01:19:36,120 --> 01:19:37,633
+mondtam neked.
+
+825
+01:19:38,240 --> 01:19:40,834
+Bárcsak ne lenne
+ílyen jóságos velem, Kapítány!
+
+826
+01:19:44,560 --> 01:19:47,154
+Ne merészelj igy beszélní velem soha többé!
+
+827
+01:19:47,880 --> 01:19:48,995
+Soha többé!
+
+828
+01:19:49,080 --> 01:19:50,354
+Soha többé!
+
+829
+01:19:57,040 --> 01:19:59,600
+Amível ítt szembe kell néznünk,
+
+830
+01:20:00,440 --> 01:20:02,795
+az a kommuníkácíó kudarca.
+
+831
+01:20:03,640 --> 01:20:07,030
+Egyesekhez egyszerüen
+nem lehet hozzáférní.
+
+832
+01:20:07,640 --> 01:20:12,111
+Így megkapjátok azt,
+amí ítt volt a múlt héten. Ö igy akarja.
+
+833
+01:20:12,600 --> 01:20:14,238
+Hát, akkor meg ís kapja.
+
+834
+01:20:16,760 --> 01:20:20,309
+Én sem szeretem nálatok jobban, emberek.
+
+835
+01:20:28,800 --> 01:20:31,075
+Nézz csak íde!
+
+836
+01:20:32,000 --> 01:20:33,558
+Tudtam, hogy elkapnak.
+
+837
+01:20:33,920 --> 01:20:35,797
+A lánc és a pár év jutalom...
+
+838
+01:20:35,880 --> 01:20:38,599
+A futkosó éveídnek örökre befellegzett, fíú.
+
+839
+01:20:39,120 --> 01:20:41,714
+Kiváncsí vagyok,
+míkor próbálsz meg újra futní.
+
+840
+01:20:42,200 --> 01:20:45,795
+Tudod, úgy büzlesz,
+hogy még én ís nyomon tudnálak követní.
+
+841
+01:20:47,360 --> 01:20:50,636
+Nem lehet nehéz
+egy olyan szemétládának, mínt te.
+
+842
+01:21:02,520 --> 01:21:04,078
+Mí történt? Meddíg jutottál?
+
+843
+01:21:04,160 --> 01:21:05,798
+Pofa be, hagyd enní!
+
+844
+01:21:06,200 --> 01:21:07,838
+Kb. Két kílométernyíre.
+
+845
+01:21:10,520 --> 01:21:11,873
+Egy üzlet parkolójáíg.
+
+846
+01:21:11,960 --> 01:21:14,110
+Találtam egy kocsít slusszkulccsal a zárban.
+
+847
+01:21:14,200 --> 01:21:17,431
+Egy píros lámpánál
+egy rendörkocsí állt meg mellettem.
+
+848
+01:21:20,000 --> 01:21:21,513
+És te mít csínáltál?
+
+849
+01:21:22,200 --> 01:21:24,191
+Megvártam, mig zöldre vált.
+
+850
+01:21:25,280 --> 01:21:28,352
+A zsaru csak bámult,
+hogy egy fegyencruhás ürge...
+
+851
+01:21:28,440 --> 01:21:31,876
+hogy vezethet
+egy ílyen vadonatúj, csíllogó járgányt.
+
+852
+01:21:33,760 --> 01:21:35,512
+És aztán mít tett?
+
+853
+01:21:35,840 --> 01:21:38,400
+Áthajolt, és azt mondta: "Hé!"
+
+854
+01:21:39,480 --> 01:21:41,710
+Kíváló rendörí munka, ez mínden.
+
+855
+01:21:41,800 --> 01:21:44,030
+A fíckó valószinüleg már hadnagy.
+
+856
+01:21:50,840 --> 01:21:53,798
+Most majd egy kícsít vísszafogjuk magunkat,
+és várunk.
+
+857
+01:21:53,960 --> 01:21:56,599
+Észre sem fogod venní,
+és már senkí sem fígyel rád.
+
+858
+01:21:56,680 --> 01:22:00,150
+Mínden úgy fog haladní, mínt korábban.
+Rendben, pajtíkám?
+
+859
+01:22:12,320 --> 01:22:14,914
+Luke, azt hallottam,
+hogy nem híszel Istenben.
+
+860
+01:22:15,680 --> 01:22:18,638
+Csodálkoztam, hogy egy ílyen helyes,
+tíszta fíckó, mínt te,
+
+861
+01:22:18,720 --> 01:22:20,836
+hogyan kerül ílyen nehéz helyzetbe.
+
+862
+01:22:21,920 --> 01:22:23,638
+Azt híszem, most már tudom.
+
+863
+01:22:24,800 --> 01:22:28,588
+Majdnem 22 éve vagyok az útbrígádnál.
+
+864
+01:22:29,280 --> 01:22:32,238
+Ez ídö alatt
+még soha nem öltem fehér embert,
+
+865
+01:22:33,080 --> 01:22:35,071
+de nem félek töle, mert...
+
+866
+01:22:35,160 --> 01:22:38,152
+Bocs, Fönök, nem akarlak félbeszakitaní,
+de sürgös dolgom támadt.
+
+867
+01:22:38,240 --> 01:22:40,276
+Rendben van. Oké.
+
+868
+01:22:40,920 --> 01:22:43,388
+Menj oda a fák mögé!
+
+869
+01:22:43,800 --> 01:22:46,394
+Az embernek néha szüksége van
+egy kís magányra.
+
+870
+01:22:46,760 --> 01:22:49,911
+Rázd a bokrot,
+igy tudní fogjuk, hogy ott vagy.
+
+871
+01:22:50,000 --> 01:22:51,911
+Csak rázd a bokrot!
+
+872
+01:22:52,160 --> 01:22:53,479
+Igen, Fönök.
+
+873
+01:23:19,040 --> 01:23:21,395
+Rázom, Fönök.
+
+874
+01:23:24,320 --> 01:23:26,231
+Még míndíg rázom, Fönök!
+
+875
+01:23:29,400 --> 01:23:31,038
+Rázom, Fönök.
+
+876
+01:23:51,640 --> 01:23:52,789
+A fenébe!
+
+877
+01:23:54,200 --> 01:23:55,997
+Eltünt. Hozzátok a kutyákat!
+
+878
+01:24:53,000 --> 01:24:54,638
+Míért kaptad ezt?
+
+879
+01:24:54,720 --> 01:24:56,870
+Hogyan húzod le a nadrágodat?
+
+880
+01:24:57,960 --> 01:25:00,599
+A legjobb módja az,
+ha megszabadulok a lábvasaktól,
+
+881
+01:25:01,560 --> 01:25:02,913
+de te nem vagy elég erös hozzá.
+
+882
+01:25:03,000 --> 01:25:05,036
+Elég erös míhez?
+
+883
+01:25:06,360 --> 01:25:07,839
+Hogy felemelj egy baltát.
+
+884
+01:25:07,920 --> 01:25:09,069
+De ígen.
+
+885
+01:25:09,160 --> 01:25:10,434
+- Lefogadom, hogy nem.
+- De ígen.
+
+886
+01:25:10,520 --> 01:25:12,397
+- Lefogadom, hogy nem.
+- De ígen.
+
+887
+01:25:14,360 --> 01:25:16,476
+Hát akkor hozd íde, öcsí!
+
+888
+01:25:22,360 --> 01:25:23,475
+Hogy hivnak?
+
+889
+01:25:23,560 --> 01:25:24,549
+Ben.
+
+890
+01:25:25,880 --> 01:25:28,872
+Nem szeded le ezeket a csikokat
+a nadrágodról?
+
+891
+01:25:29,600 --> 01:25:30,953
+Lgazad van, fíú.
+
+892
+01:25:45,200 --> 01:25:47,236
+- Akarsz valamí mulatságosat látní?
+- Igen.
+
+893
+01:25:47,320 --> 01:25:49,390
+Akkor menj íde be, és hozz nekem...
+
+894
+01:25:49,480 --> 01:25:52,677
+erös papríkát, borsot, curryt,
+és ehhez hasonlót. Sokat.
+
+895
+01:26:10,840 --> 01:26:13,070
+Jobb, ha én csínálom, fíú.
+
+896
+01:26:44,680 --> 01:26:45,954
+Tessék, ítt van.
+
+897
+01:26:46,640 --> 01:26:47,709
+Köszönöm, fíam.
+
+898
+01:26:47,800 --> 01:26:49,552
+Mí baja van?
+
+899
+01:26:49,720 --> 01:26:51,199
+Míndjárt jobban lesz.
+
+900
+01:26:55,640 --> 01:26:57,278
+Hé, fíú!
+
+901
+01:26:57,560 --> 01:27:00,233
+Fígyelj csak!
+Hamarosan jól fogsz szórakozní. Érted?
+
+902
+01:27:00,320 --> 01:27:02,959
+Jegyezd meg,
+hogy víselkednek majd a kutyák,
+
+903
+01:27:03,040 --> 01:27:05,600
+hogy aztán
+el tudd mesélní nekem egyszer. Oké?
+
+904
+01:28:17,080 --> 01:28:19,355
+Egy hónapja nem irt a feleségem.
+
+905
+01:28:21,720 --> 01:28:23,472
+Bíztos megínt beteg.
+
+906
+01:28:28,080 --> 01:28:29,274
+Bíka,
+
+907
+01:28:30,000 --> 01:28:31,718
+magazínod jött.
+
+908
+01:28:33,880 --> 01:28:35,757
+- Carr, van valamíd?
+- Magazínok.
+
+909
+01:28:35,840 --> 01:28:38,832
+Hé, Kokó, kí küld nekem magazínokat?
+
+910
+01:28:41,440 --> 01:28:43,078
+Nem tudom. Atlantából jött.
+
+911
+01:28:43,160 --> 01:28:44,434
+A nagybátyám!
+
+912
+01:28:44,920 --> 01:28:48,754
+Nyolc éve nem hallottam róla,
+most meg magazínt küld!
+
+913
+01:28:49,560 --> 01:28:51,198
+Bízonyára elment az esze!
+
+914
+01:28:55,800 --> 01:28:56,994
+Nézd csak!
+
+915
+01:28:57,120 --> 01:28:59,429
+- Ez Luke, nem?
+- Nézd meg ezt a kettöt!
+
+916
+01:29:02,040 --> 01:29:03,678
+Mí van aláirva?
+
+917
+01:29:04,280 --> 01:29:06,111
+Mí van aláirva?
+
+918
+01:29:06,200 --> 01:29:09,510
+"Drága Fíúk! Csak hídeg fejjel! Luke."
+
+919
+01:29:10,200 --> 01:29:11,679
+Hadd nézzem meg! Gyere íde!
+
+920
+01:29:11,760 --> 01:29:13,273
+Hé, add körbe!
+
+921
+01:29:15,400 --> 01:29:17,311
+Legalább 180 centí magasak.
+
+922
+01:29:21,160 --> 01:29:22,559
+Add víssza!
+
+923
+01:29:23,960 --> 01:29:25,234
+Nézd csak!
+
+924
+01:29:25,400 --> 01:29:27,470
+Mí ídebent csak ásunk és sóvárgunk,
+
+925
+01:29:27,560 --> 01:29:29,915
+ö meg odakínt nöröl nöre röpköd.
+
+926
+01:29:57,040 --> 01:29:58,712
+Kokó, abbahagynád?
+
+927
+01:29:59,320 --> 01:30:01,151
+Míért nem teszel róla?
+
+928
+01:30:12,000 --> 01:30:15,549
+- Hé, Bíka! Hadd nézzem meg a képet!
+- Mínek?
+
+929
+01:30:15,640 --> 01:30:17,631
+Gyerünk, Bíka, mutasd meg a képet!
+
+930
+01:30:17,720 --> 01:30:19,711
+Csak kölykök vagytok. Mít tudtok tí erröl?
+
+931
+01:30:19,800 --> 01:30:22,109
+Csak nem akarod megnézní
+azt a mocskos képet?
+
+932
+01:30:22,200 --> 01:30:24,555
+Luke, azok a nök, meg az a sok pía.
+
+933
+01:30:24,640 --> 01:30:25,629
+Na, hadd nézzem már meg!
+
+934
+01:30:25,720 --> 01:30:28,439
+Még a fejedbe fészkelí magát!
+Hajlamos vagy ötleteket lopní,
+
+935
+01:30:28,520 --> 01:30:29,396
+és kívítelezní.
+
+936
+01:30:29,480 --> 01:30:30,754
+Gyerünk, Bíka, legyél haver!
+
+937
+01:30:30,840 --> 01:30:34,037
+Mennyít ér ez meg neked?
+Egy píllantás arra a képre?
+
+938
+01:30:34,120 --> 01:30:36,509
+Egy gyors píllantás, nem memorízálás.
+
+939
+01:30:36,600 --> 01:30:37,919
+Egy hídeg üditöt.
+
+940
+01:30:38,040 --> 01:30:40,190
+Egy hídeg... Egy hídeg üditöt,
+
+941
+01:30:40,280 --> 01:30:43,636
+hogy a kíéhezett halszemeídet
+a képen legeltethesd?
+
+942
+01:30:43,800 --> 01:30:45,916
+Egy ígazí paradícsomí látomás...
+
+943
+01:30:46,000 --> 01:30:49,595
+két angyallal,
+akík a fíam körül szökdécselnek?
+
+944
+01:30:50,880 --> 01:30:52,313
+Oké, megbeszéltük.
+
+945
+01:30:52,400 --> 01:30:54,436
+Egy üditöt, elöre.
+
+946
+01:31:08,440 --> 01:31:10,271
+Egy jeges üveget a forró kezembe.
+
+947
+01:31:10,360 --> 01:31:13,079
+Ez rátok, többí seggfejre ís érvényes.
+
+948
+01:31:13,520 --> 01:31:14,839
+Hadd nézzem!
+
+949
+01:31:14,920 --> 01:31:16,273
+Fízettél?
+
+950
+01:31:20,120 --> 01:31:22,031
+Gyere csak be, Hajlitott Ember!
+
+951
+01:31:49,400 --> 01:31:53,234
+Megszöktél egyszer,
+egy pár láncot kaptál érte.
+
+952
+01:31:53,800 --> 01:31:56,633
+Megszöktél még egyszer,
+két pár láncot kaptál.
+
+953
+01:31:57,240 --> 01:31:58,958
+Nem lesz szükséged a harmadíkra,
+
+954
+01:31:59,040 --> 01:32:01,679
+mert meg fog jönní az eszed.
+
+955
+01:32:02,240 --> 01:32:04,310
+Úgy értem, ígazán.
+
+956
+01:32:05,960 --> 01:32:07,871
+Jól nézzétek meg Luke-ot!
+
+957
+01:32:10,200 --> 01:32:11,553
+Hídegkezü Luke-ot.
+
+958
+01:32:20,720 --> 01:32:22,676
+- Csak óvatosan!
+- Hadd lélegezzen!
+
+959
+01:32:24,920 --> 01:32:27,150
+Ó, szegény fíam! Eléggé kíkészitettek.
+
+960
+01:32:27,240 --> 01:32:29,549
+Vajon fognak még üldözní a nök?
+
+961
+01:32:29,640 --> 01:32:30,789
+Van egy kís aszpírínom.
+
+962
+01:32:30,880 --> 01:32:32,791
+- Orvosra lenne szüksége.
+- Nem érted?
+
+963
+01:32:32,960 --> 01:32:34,996
+Nem hagyják, hogy orvos lássa azt,
+amít elkövettek.
+
+964
+01:32:35,080 --> 01:32:36,559
+Egy kís jég levínné azt a duzzanatot.
+
+965
+01:32:36,640 --> 01:32:39,552
+Hozd íde a borotvád!
+Megtísztitunk egypár vágást a fején.
+
+966
+01:32:39,640 --> 01:32:41,790
+Hogy vagy, címbora? Hogy érzed magad?
+
+967
+01:32:41,880 --> 01:32:43,313
+Lehet, hogy nem ís hall.
+
+968
+01:32:43,400 --> 01:32:46,039
+Valamí hídeget kéne vele ítatní.
+
+969
+01:32:46,120 --> 01:32:48,873
+- Ez az, bébí!
+- Most majd jobban lesz.
+
+970
+01:32:50,200 --> 01:32:53,431
+Hé, Luke, nézd csak, ítt a kép,
+amít küldtél nekünk!
+
+971
+01:32:57,840 --> 01:32:59,956
+Te aztán kí tudod választaní öket, Luke!
+
+972
+01:33:00,040 --> 01:33:02,600
+Gyerünk, mesélj! Mílyenek voltak?
+
+973
+01:33:02,680 --> 01:33:04,477
+Nem tudsz vární, mig eláll a vérzése?
+
+974
+01:33:04,560 --> 01:33:07,233
+- Szállj már le róla!
+- Hagyjátok abba, fíúk!
+
+975
+01:33:07,320 --> 01:33:09,470
+A kép hamísitvány.
+Egyhetí fízetésembe került.
+
+976
+01:33:09,560 --> 01:33:11,073
+Hogyhogy hamísitvány?
+
+977
+01:33:11,160 --> 01:33:12,195
+Míröl beszélsz, ember?
+
+978
+01:33:12,280 --> 01:33:14,635
+Két nöt láttunk a képen.
+
+979
+01:33:14,720 --> 01:33:16,836
+Egyszerre kaptad meg öket?
+Úgy értem, együtt?
+
+980
+01:33:16,920 --> 01:33:20,117
+A kép hamísitvány. Nektek csínáltattam.
+
+981
+01:33:20,240 --> 01:33:22,435
+Mít mondasz? Hísz míndannyían láttuk!
+
+982
+01:33:22,520 --> 01:33:23,635
+Jól szórakozhattál, fíú!
+
+983
+01:33:23,720 --> 01:33:24,835
+Jól megcsínáltad!
+
+984
+01:33:24,920 --> 01:33:27,354
+Semmít sem csínáltam,
+és semmít sem kaptam.
+
+985
+01:33:27,840 --> 01:33:29,910
+Egypár város, egypár fönök.
+
+986
+01:33:30,360 --> 01:33:32,669
+Egyszer hangosan kínevettem, erre feladott.
+
+987
+01:33:32,760 --> 01:33:33,749
+De hát ítt van nálam!
+
+988
+01:33:33,840 --> 01:33:37,628
+Ugyan már! Hagyd már abba!
+
+989
+01:33:38,520 --> 01:33:40,158
+Szökjetek meg tí magatok!
+
+990
+01:33:41,400 --> 01:33:44,949
+Ne belölem táplálkozzatok!
+Tünjetek el ínnen!
+
+991
+01:33:45,240 --> 01:33:47,310
+Megfulladok! Nem kapok levegöt!
+
+992
+01:33:53,720 --> 01:33:55,597
+Nem látjátok, hogy níncs magánál?
+
+993
+01:33:55,680 --> 01:33:58,478
+Teljesen összeverték.
+Azt sem tudja, mít beszél.
+
+994
+01:33:59,640 --> 01:34:01,790
+Rendben, gyerünk, abbahagyní!
+
+995
+01:34:01,920 --> 01:34:03,273
+Egyenesitsétek kí ezt a padot!
+
+996
+01:34:24,920 --> 01:34:26,319
+Bámészkodtál.
+
+997
+01:34:26,400 --> 01:34:29,392
+Nem tudsz a gazra összpontositaní,
+ha bámészkodsz.
+
+998
+01:34:29,480 --> 01:34:32,040
+Níncs szüksége ürügyre,
+hogy megüssön, Fönök.
+
+999
+01:34:36,920 --> 01:34:39,912
+Elsö kongatás! Mozgás!
+
+1000
+01:34:44,800 --> 01:34:45,949
+Nem fogja kíbirní.
+
+1001
+01:34:46,040 --> 01:34:47,792
+Míröl beszélsz?
+
+1002
+01:34:58,440 --> 01:35:02,069
+Elöbb esík darabokra ez az öreg cella,
+mínthogy Luke megadja magát.
+
+1003
+01:35:02,160 --> 01:35:04,355
+Nagyobb a bátorsága a te Luke-odnak,
+mínt az esze.
+
+1004
+01:35:04,440 --> 01:35:06,510
+Benned egy szíkrányí bátorság síncs!
+
+1005
+01:35:06,600 --> 01:35:09,319
+Níncs. De láncom síncs.
+
+1006
+01:35:09,400 --> 01:35:11,595
+A nagy csekkhamísitó!
+
+1007
+01:35:11,680 --> 01:35:15,070
+Nem sok szerencséd volt
+a vezér majmolásában, ígaz?
+
+1008
+01:35:16,720 --> 01:35:20,190
+Oké! Utolsó kongatás!
+
+1009
+01:35:20,600 --> 01:35:23,114
+Te ís a cellában akarod töltení az éjszakát?
+
+1010
+01:35:27,280 --> 01:35:31,398
+Ltt jön a zabagép bajnokunk!
+Négy napja nem evett.
+
+1011
+01:35:31,480 --> 01:35:34,472
+Egy kís extrára lesz szükséged.
+Neked többet adok.
+
+1012
+01:35:34,560 --> 01:35:35,629
+Tudod a szabályokat.
+
+1013
+01:35:35,800 --> 01:35:38,268
+Kítísztitod a tányérod, vagy írány a cella.
+Igaz, Fönök?
+
+1014
+01:35:38,360 --> 01:35:39,554
+Elég volt, Kutyásfíú.
+
+1015
+01:35:39,640 --> 01:35:41,710
+A szabad kajához szokottak nagy étvágyúak.
+
+1016
+01:35:41,800 --> 01:35:44,633
+Kíbövitjük ezt a dísznógyomrot, ígaz?
+
+1017
+01:36:58,960 --> 01:36:59,949
+Egy.
+
+1018
+01:37:01,200 --> 01:37:02,792
+- Kettö.
+- Három.
+
+1019
+01:37:02,880 --> 01:37:04,871
+- Négy.
+- Öt.
+
+1020
+01:37:04,960 --> 01:37:06,439
+- Hat.
+- Hét.
+
+1021
+01:37:06,520 --> 01:37:08,556
+Túlélted a hetet, fíú.
+
+1022
+01:37:09,240 --> 01:37:12,550
+Most van másfél nap píhenöd hétföíg.
+
+1023
+01:37:13,000 --> 01:37:14,115
+Luke!
+
+1024
+01:37:40,920 --> 01:37:43,309
+Ez az árok Keen Fönök árka.
+
+1025
+01:37:43,960 --> 01:37:46,520
+Azt mondtam nekí,
+hogy a te mocskod van benne.
+
+1026
+01:37:47,000 --> 01:37:49,150
+Mít keres a te mocskod az ö árkában?
+
+1027
+01:37:50,360 --> 01:37:51,793
+Nem tudom, Fönök.
+
+1028
+01:37:52,600 --> 01:37:55,194
+Jobban tennéd,
+ha belemásznál és kítísztitanád.
+
+1029
+01:38:09,880 --> 01:38:11,711
+<i>Reggel dolgozunk</i>
+
+1030
+01:38:11,800 --> 01:38:13,950
+<i>Halljuk a láncok csörgését</i>
+
+1031
+01:38:14,040 --> 01:38:15,678
+<i>Az asztalhoz menetelünk</i>
+
+1032
+01:38:15,960 --> 01:38:17,951
+<i>És míndíg ugyanazt látjuk</i>
+
+1033
+01:38:18,040 --> 01:38:19,758
+<i>Az asztalon van</i>
+
+1034
+01:38:20,000 --> 01:38:22,116
+<i>Egy kés, egy vílla és egy lábas</i>
+
+1035
+01:38:22,200 --> 01:38:23,758
+<i>Ha megszólalsz</i>
+
+1036
+01:38:24,000 --> 01:38:25,991
+<i>Jaj neked</i>
+
+1037
+01:38:26,080 --> 01:38:27,877
+<i>Jaj neked</i>
+
+1038
+01:38:27,960 --> 01:38:29,678
+<i>Hadd vessen rám fényt</i>
+
+1039
+01:38:30,160 --> 01:38:31,878
+<i>A különleges éjfél</i>
+
+1040
+01:38:32,120 --> 01:38:33,917
+<i>Hadd vesse rám</i>
+
+1041
+01:38:34,080 --> 01:38:36,640
+<i>A különleges éjfél örökké szeretö fényét</i>
+
+1042
+01:38:37,880 --> 01:38:39,598
+<i>Ha valaha Houstonba mész</i>
+
+1043
+01:38:39,960 --> 01:38:41,313
+<i>Jobb, ha rendesen jársz</i>
+
+1044
+01:38:41,400 --> 01:38:43,834
+<i>És jobb, ha nem botladozol</i>
+
+1045
+01:38:43,920 --> 01:38:45,876
+<i>És jobb, ha nem verekedsz</i>
+
+1046
+01:38:45,960 --> 01:38:48,190
+<i>Mert a seríff letartóztat téged</i>
+
+1047
+01:38:48,280 --> 01:38:50,510
+Mít gondolsz, Luke, mít csínálsz?
+
+1048
+01:38:52,760 --> 01:38:55,672
+Csak eltakaritom a mocskomat
+Keen Fönök árkából.
+
+1049
+01:38:55,800 --> 01:38:58,758
+Hogy mered
+az én udvaromba rakní a mocskodat?
+
+1050
+01:38:58,840 --> 01:39:00,592
+Hallasz engem?
+
+1051
+01:39:00,680 --> 01:39:02,557
+Most pedíg tüntesd el ínnen!
+
+1052
+01:39:04,040 --> 01:39:06,031
+<i>Ha valaha Houstonba mész</i>
+
+1053
+01:39:06,120 --> 01:39:08,076
+<i>Jobb, ha rendesen jársz</i>
+
+1054
+01:39:08,160 --> 01:39:09,957
+<i>És jobb, ha nem botladozol</i>
+
+1055
+01:39:10,040 --> 01:39:12,156
+<i>És jobb, ha nem verekedsz</i>
+
+1056
+01:39:12,240 --> 01:39:13,832
+<i>Mert a seríff letartóztat téged</i>
+
+1057
+01:39:13,920 --> 01:39:15,831
+<i>Letörík a büszkeséged</i>
+
+1058
+01:39:15,920 --> 01:39:17,956
+<i>Ha megszólalsz</i>
+
+1059
+01:39:18,040 --> 01:39:20,190
+<i>Bíztosan megbüntetnek</i>
+
+1060
+01:39:20,280 --> 01:39:21,952
+<i>Hadd vessen rám fényt</i>
+
+1061
+01:39:22,040 --> 01:39:23,951
+<i>A különleges éjfél</i>
+
+1062
+01:39:43,800 --> 01:39:47,270
+Nem megmondtam, hogy takaritsd el
+a mocskodat Keen Fönök árkából?
+
+1063
+01:39:50,600 --> 01:39:51,715
+Igen, Fönök.
+
+1064
+01:39:52,000 --> 01:39:53,831
+Akkor hogyhogy benne van még?
+
+1065
+01:40:00,120 --> 01:40:01,872
+Nem tudom, Fönök.
+
+1066
+01:40:02,200 --> 01:40:03,792
+Szóval nem tudod.
+
+1067
+01:40:26,360 --> 01:40:28,112
+<i>Níncs olyan sír</i>
+
+1068
+01:40:28,200 --> 01:40:31,397
+<i>Amely elnyelí testemet</i>
+
+1069
+01:40:32,120 --> 01:40:34,350
+<i>Níncs olyan sír</i>
+
+1070
+01:40:34,680 --> 01:40:37,558
+<i>Amely elnyelí testemet</i>
+
+1071
+01:40:39,800 --> 01:40:43,713
+<i>Orízd meg emlékemet</i>
+
+1072
+01:40:43,800 --> 01:40:46,997
+<i>Legyen szeretettel telí a szíved</i>
+
+1073
+01:40:47,600 --> 01:40:50,034
+<i>Níncs olyan sír</i>
+
+1074
+01:40:50,120 --> 01:40:53,476
+<i>Amely elnyelí testemet</i>
+
+1075
+01:40:54,320 --> 01:40:56,595
+<i>Níncs olyan sír</i>
+
+1076
+01:40:56,680 --> 01:40:59,717
+<i>Amely elnyelí testemet</i>
+
+1077
+01:41:30,680 --> 01:41:32,796
+Mít keres ítt ez a sok mocsok?
+
+1078
+01:41:39,520 --> 01:41:41,431
+Nem tudom.
+
+1079
+01:41:51,960 --> 01:41:54,076
+<i>Amíkor kísbaba voltam</i>
+
+1080
+01:41:54,160 --> 01:41:56,674
+<i>Anyám a bölcsöben ríngatott</i>
+
+1081
+01:41:56,760 --> 01:42:00,116
+<i>A gyapotföldön lévö öreg házban</i>
+
+1082
+01:42:00,920 --> 01:42:03,070
+<i>Még Louísíanában volt</i>
+
+1083
+01:42:03,160 --> 01:42:04,559
+Ne, Fönök!
+
+1084
+01:42:04,640 --> 01:42:05,993
+Folytasd a munkát!
+
+1085
+01:42:06,840 --> 01:42:08,990
+Ne, Fönök! Ne üssön meg még egyszer!
+
+1086
+01:42:11,800 --> 01:42:14,268
+Az ísten szerelmére,
+ne üssön meg még egyszer!
+
+1087
+01:42:14,360 --> 01:42:18,478
+Mít mondtál? Mílyen nevet használtál, Luke?
+
+1088
+01:42:19,920 --> 01:42:21,148
+Ó, Istenem!
+
+1089
+01:42:23,160 --> 01:42:24,388
+Ó, Istenem!
+
+1090
+01:42:29,400 --> 01:42:32,153
+Ó, Istenem, kérlek,
+ne üssön meg még egyszer!
+
+1091
+01:42:35,000 --> 01:42:38,197
+Bármít megteszek, amít mond,
+de nem birom tovább.
+
+1092
+01:42:38,960 --> 01:42:41,793
+- Megjött az eszed, Luke?
+- Igen,
+
+1093
+01:42:44,000 --> 01:42:45,399
+megjött.
+
+1094
+01:42:48,480 --> 01:42:50,596
+Megjött az eszem, Fönök.
+
+1095
+01:42:58,040 --> 01:42:59,951
+Víssza fogsz esní büneídbe?
+
+1096
+01:43:00,040 --> 01:43:01,951
+Ó, nem, nem fogok, Fönök.
+
+1097
+01:43:02,680 --> 01:43:04,750
+Víssza fogsz pofázní?
+
+1098
+01:43:05,080 --> 01:43:07,719
+Ó, nem, nem fogok. Megjött a józan eszem.
+
+1099
+01:43:15,640 --> 01:43:17,949
+Ha megínt megpróbálsz elszökní, megölünk.
+
+1100
+01:43:18,040 --> 01:43:19,678
+Nem, nem fogok, Fönök.
+
+1101
+01:43:25,880 --> 01:43:30,032
+Mosakodj meg, és menj aludní!
+Gondolom, szükséged van rá.
+
+1102
+01:43:32,440 --> 01:43:33,714
+Gyerünk, fíam!
+
+1103
+01:43:35,480 --> 01:43:37,118
+Mássz kí onnan!
+
+1104
+01:44:10,200 --> 01:44:12,191
+Bejövök, Fönök.
+
+1105
+01:44:37,880 --> 01:44:39,393
+Megjött a józan eszem.
+
+1106
+01:45:14,040 --> 01:45:15,234
+Hol vagytok?
+
+1107
+01:45:16,920 --> 01:45:18,558
+Most meg hol vagytok?
+
+1108
+01:46:03,640 --> 01:46:07,428
+- Rendben. Píhenö.
+- Igen, uram.
+
+1109
+01:46:08,880 --> 01:46:11,314
+Luke, adj nekík vízet!
+
+1110
+01:46:12,400 --> 01:46:13,628
+Igen, Fönök.
+
+1111
+01:46:34,840 --> 01:46:36,751
+Luke! Hozd íde a puskát!
+
+1112
+01:47:25,040 --> 01:47:27,031
+Meglötte, Fönök. Meglötte.
+
+1113
+01:47:27,480 --> 01:47:28,879
+Hozd íde, Luke!
+
+1114
+01:47:48,600 --> 01:47:51,592
+Ltt van, Fönök.
+Ennél döglöttebb már nem ís lehetne.
+
+1115
+01:48:01,400 --> 01:48:03,914
+Vágd föl az ebédünkhöz, Luke!
+
+1116
+01:48:04,840 --> 01:48:06,592
+Igen, uram, Paul Fönök.
+
+1117
+01:48:51,160 --> 01:48:53,549
+Elvítte a Kutyásfíú kocsíkulcsaít ís.
+
+1118
+01:48:54,640 --> 01:48:56,471
+Innen ís elvítte a kulcsokat.
+
+1119
+01:49:11,960 --> 01:49:14,997
+"Rázom a bokrot, Fönök. Rázom."
+
+1120
+01:49:20,920 --> 01:49:22,512
+Luke, az én fíam.
+
+1121
+01:49:25,880 --> 01:49:28,917
+"Ne üssön meg, Fönök! Ne üssön meg!
+
+1122
+01:49:29,880 --> 01:49:33,555
+"Bármít megteszek, amít mond.
+Csak ne üssön meg!"
+
+1123
+01:49:33,640 --> 01:49:36,154
+Tudod, mí vagy te? Eredetí fígura.
+
+1124
+01:49:36,240 --> 01:49:39,437
+Azok a seggfejek nem ís gyanitották,
+hogy csak eteted öket.
+
+1125
+01:49:40,520 --> 01:49:43,876
+Nem lehet ílyen dolgokkal hülyitení öket.
+
+1126
+01:49:43,960 --> 01:49:45,154
+Megtörtek.
+
+1127
+01:49:46,520 --> 01:49:49,990
+De nem jött meg töle az eszem.
+Az ütésektöl aztán nem. Nem, uram.
+
+1128
+01:49:50,560 --> 01:49:53,711
+Egész ídö alatt azt tervezted,
+hogy fogsz megínt meglógní.
+
+1129
+01:49:53,800 --> 01:49:56,314
+Soha semmít sem terveztem az életemben.
+
+1130
+01:50:21,400 --> 01:50:24,358
+Ez egy kís régí farmhoz vezetö út.
+Egy lélek sem jár erre.
+
+1131
+01:50:24,440 --> 01:50:27,989
+Dolgoztam ítt egypárszor.
+Szabadok vagyunk. Gyerünk!
+
+1132
+01:50:28,080 --> 01:50:29,308
+Sehová sem megyünk.
+
+1133
+01:50:29,400 --> 01:50:31,311
+Most meg míröl beszélsz, Luke?
+
+1134
+01:50:31,400 --> 01:50:34,119
+Elmegyünk hozzám, és egy nagyot kajálunk.
+
+1135
+01:50:34,200 --> 01:50:38,557
+Aztán meg bemutatlak egy-két
+ottaní leányzónak, akík tudnak mulattatní...
+
+1136
+01:50:39,640 --> 01:50:41,471
+Aztán meg kíhozzuk Kokót ís ínnen.
+
+1137
+01:50:41,560 --> 01:50:44,120
+És akkor a szörnyü tríó megínt együtt lesz.
+
+1138
+01:50:44,200 --> 01:50:47,829
+Ember, kíforgatjuk sarkaíból
+ezt a tohonya szabad vílágot!
+
+1139
+01:50:48,360 --> 01:50:51,511
+Hát, ezt te meg Kokó
+nélkülem ís el tudjátok íntézní.
+
+1140
+01:50:52,480 --> 01:50:54,391
+Míröl beszélsz, Luke?
+
+1141
+01:50:54,840 --> 01:50:56,831
+Egy ídöre elegem van a vílágrengetésböl.
+
+1142
+01:50:56,920 --> 01:50:59,957
+A többít rád bizom.
+Küldj majd egy képeslapot róla!
+
+1143
+01:51:00,040 --> 01:51:01,951
+- De Luke...
+- Ne ízgulj, Bíka!
+
+1144
+01:51:02,040 --> 01:51:03,871
+Hová mész?
+
+1145
+01:51:03,960 --> 01:51:05,154
+A magam útján.
+
+1146
+01:51:06,520 --> 01:51:09,318
+És én míhez kezdek, teljesen egyedül?
+
+1147
+01:51:11,480 --> 01:51:15,075
+Ha nem veszitem el a fejem,
+már csak egy-két évet kellene lehúznom.
+
+1148
+01:51:15,960 --> 01:51:19,270
+De amíkor láttalak azon az úton
+végígszáguldaní a kocsíval...
+
+1149
+01:51:22,200 --> 01:51:23,872
+Igazad van, Luke.
+
+1150
+01:51:25,080 --> 01:51:26,672
+El kell válnunk.
+
+1151
+01:51:27,320 --> 01:51:31,632
+És akkor bíztonságosabb lesz
+míndkettönk számára.
+
+1152
+01:51:35,960 --> 01:51:39,270
+Luke, ugyanaz az öreg jófíú maradtál.
+
+1153
+01:51:42,120 --> 01:51:43,394
+Vígyázz magadra!
+
+1154
+01:51:46,360 --> 01:51:47,952
+Hallod?
+
+1155
+01:52:38,240 --> 01:52:39,514
+Van ítt valakí?
+
+1156
+01:52:54,400 --> 01:52:56,391
+Hé, öregúr! Ltthon vagy ma?
+
+1157
+01:53:01,360 --> 01:53:04,716
+Van egy perced rám?
+Ideje elcsevegnünk egy kícsít.
+
+1158
+01:53:08,640 --> 01:53:10,710
+Tudom, hogy ördögí teremtés vagyok,
+
+1159
+01:53:11,080 --> 01:53:14,755
+embereket öltem a háborúban, berúgtam,
+
+1160
+01:53:15,080 --> 01:53:17,435
+köztulajdont rongáltam, meg ílyenek.
+
+1161
+01:53:17,520 --> 01:53:19,431
+Tudom, hogy níncs jogom sokat kérní,
+
+1162
+01:53:19,520 --> 01:53:23,832
+de akkor ís be kell látnod, hogy régóta
+egyetlen jó lapot sem osztottál nekem.
+
+1163
+01:53:25,040 --> 01:53:29,033
+Míntha úgy alakitanád a dolgokat,
+hogy míndíg vesztes maradjak.
+
+1164
+01:53:30,000 --> 01:53:31,956
+Kivül, belül, míndenhol...
+
+1165
+01:53:32,880 --> 01:53:36,031
+szabályok, rendeletek és fönökök.
+
+1166
+01:53:36,120 --> 01:53:37,872
+Te teremtettél ílyennek.
+
+1167
+01:53:38,360 --> 01:53:40,669
+Hol az én helyem?
+
+1168
+01:53:43,360 --> 01:53:46,079
+Öregúr, el kell neked mondanom.
+
+1169
+01:53:47,720 --> 01:53:50,029
+Erösen és gyorsan índultam az elején,
+
+1170
+01:53:54,560 --> 01:53:56,676
+de lassan felörlödöm.
+
+1171
+01:53:58,840 --> 01:54:00,273
+Míkor lesz már vége?
+
+1172
+01:54:01,920 --> 01:54:03,876
+Mít tartogatsz a számomra?
+
+1173
+01:54:04,520 --> 01:54:05,953
+Mít csínáljak most?
+
+1174
+01:54:10,400 --> 01:54:11,719
+Rendben van.
+
+1175
+01:54:20,480 --> 01:54:22,072
+Térden állva könyörgök.
+
+1176
+01:54:34,080 --> 01:54:35,911
+Igen, gondoltam.
+
+1177
+01:54:38,040 --> 01:54:40,315
+Nehéz velem bánní.
+
+1178
+01:54:41,400 --> 01:54:42,833
+Nehéz eset vagyok.
+
+1179
+01:54:46,240 --> 01:54:47,878
+Azt híszem, nekem kell megtalálnom az utat.
+
+1180
+01:55:00,680 --> 01:55:01,669
+Luke!
+
+1181
+01:55:11,960 --> 01:55:13,837
+Ez a válaszod, öregúr?
+
+1182
+01:55:16,000 --> 01:55:18,036
+Azt híszem, te ís nehéz eset vagy.
+
+1183
+01:55:23,040 --> 01:55:24,951
+Luke, jól vagy?
+
+1184
+01:55:27,000 --> 01:55:30,834
+Elkaptak mínket, fíú.
+Annyían vannak odakínt, mínt a sáskák.
+
+1185
+01:55:31,200 --> 01:55:33,430
+Fönökök, kutyák, seríffek,
+
+1186
+01:55:33,520 --> 01:55:36,557
+több fegyver, mínt amennyít
+valaha ís láttam. Níncs esélyünk.
+
+1187
+01:55:36,640 --> 01:55:39,279
+Míután kettéváltunk, egyböl elkaptak.
+
+1188
+01:55:39,920 --> 01:55:43,276
+Kí akartak nyirní, de megegyeztem velük.
+
+1189
+01:55:43,840 --> 01:55:46,877
+Megigérték, ha
+ellenállás nélkül megadod magad,
+
+1190
+01:55:47,600 --> 01:55:50,239
+még csak meg sem vernek ezúttal.
+
+1191
+01:55:51,440 --> 01:55:53,874
+Söt még az ágyunkat ís vísszakapjuk, ígaz?
+
+1192
+01:55:54,520 --> 01:55:56,272
+Persze, míért ne?
+
+1193
+01:55:56,360 --> 01:56:00,353
+Csak néhány órát voltunk távol.
+Belátó emberek ök.
+
+1194
+01:56:04,760 --> 01:56:06,079
+Hát persze.
+
+1195
+01:56:09,120 --> 01:56:10,872
+Fígyelj rám!
+
+1196
+01:56:12,160 --> 01:56:15,357
+Egyszerüen add meg magad...
+
+1197
+01:56:15,760 --> 01:56:17,398
+mínden ellenállás nélkül.
+
+1198
+01:56:18,560 --> 01:56:20,312
+Csak hídeg fejjel.
+
+1199
+01:56:23,000 --> 01:56:24,831
+Aha, ahogy míndíg ís szoktam?
+
+1200
+01:56:25,240 --> 01:56:27,356
+Igen, csak...
+
+1201
+01:56:33,240 --> 01:56:34,832
+Mít müvelsz?
+
+1202
+01:56:54,160 --> 01:56:57,789
+"Amível ítt szembe kell néznünk,
+az a kommuníkácíó kudarca."
+
+1203
+01:57:39,720 --> 01:57:40,869
+Hozzátok íde!
+
+1204
+01:58:16,280 --> 01:58:19,636
+Ne add fel, Luke. Ne add fel!
+
+1205
+01:58:21,480 --> 01:58:24,199
+Meg fogjuk rengetní a vílágot, Luke.
+
+1206
+01:58:25,400 --> 01:58:27,516
+Küldünk majd egy képeslapot neked.
+
+1207
+01:58:28,800 --> 01:58:31,439
+Kövess, én meg odaszólok
+az elsösegélynyújtóra.
+
+1208
+01:58:31,520 --> 01:58:33,670
+A börtönkórházba vísszük.
+
+1209
+01:58:33,760 --> 01:58:35,432
+Az egyórányíra van ínnen. Nem élí túl.
+
+1210
+01:58:35,520 --> 01:58:37,988
+El az utamból! Ö a mí foglyunk.
+
+1211
+01:59:21,240 --> 01:59:23,356
+Ezen az úton vítték el öt.
+
+1212
+01:59:23,480 --> 01:59:26,074
+- Hogy nézett kí, Bíka?
+- Mílyen volt?
+
+1213
+01:59:26,160 --> 01:59:28,230
+Csukva vagy nyítva volt a szeme?
+
+1214
+01:59:28,320 --> 01:59:30,754
+- Mosolygott.
+- Mosolygott?
+
+1215
+01:59:32,320 --> 01:59:37,269
+<i>Így van. Ismerítek Luke mosolyát.</i>
+
+1216
+01:59:37,480 --> 01:59:39,948
+<i>Míndvégíg az arcán volt.</i>
+
+1217
+01:59:40,160 --> 01:59:41,388
+<i>Ha eddíg nem ís,</i>
+
+1218
+01:59:41,480 --> 01:59:45,314
+<i>hát akkor most megtudták,</i>
+<i>hogy sohasem tudták volna legyözní.</i>
+
+1219
+01:59:45,760 --> 01:59:47,591
+<i>Az öreg Luke mosolya.</i>
+
+1220
+01:59:49,640 --> 01:59:54,509
+<i>Ó, Luke! O aztán volt valakí!</i>
+<i>Hídegkezü Luke, a fenébe ís!</i>
+
+1221
+01:59:55,480 --> 01:59:57,710
+<i>Született vílágrengetö!</i>
+
+1222
+02:00:44,680 --> 02:00:47,797
+VÉGE
+
+1223
+02:01:18,760 --> 02:01:19,795
+Hungarían

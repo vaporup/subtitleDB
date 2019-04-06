@@ -1,0 +1,9 @@
+---
+filename: "Cool-Hand-Luke_1967_WunSeeDee.srt"
+language: "pl"
+format: "srt"
+
+matches:
+- filename: "Cool-Hand-Luke_1967_WunSeeDee.avi"
+  hash: "2385f27a9524048a"
+  filesize: "735686656"
