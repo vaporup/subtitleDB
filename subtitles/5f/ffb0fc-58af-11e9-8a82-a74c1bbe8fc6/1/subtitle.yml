@@ -1,0 +1,9 @@
+---
+filename: "Closer.2004.BRRip.XviD-VLiS.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Closer.2004.BRRip.XviD-VLiS.avi"
+  hash: "d5e75a2d1b0d3141"
+  filesize: "734527488"
