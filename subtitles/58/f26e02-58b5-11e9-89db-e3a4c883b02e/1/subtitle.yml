@@ -1,0 +1,10 @@
+---
+filename: "Fracture.2007.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Fracture.2007.720p.BrRip.x264.YIFY.mp4"
+  hash: "97b3b1f71b41875f"
+  filesize: "787820823"
