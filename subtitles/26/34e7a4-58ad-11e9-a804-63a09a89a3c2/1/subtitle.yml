@@ -1,0 +1,9 @@
+---
+filename: "Casablanca.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Casablanca.avi"
+  hash: "5fc39597deb9655e"
+  filesize: "733454336"
