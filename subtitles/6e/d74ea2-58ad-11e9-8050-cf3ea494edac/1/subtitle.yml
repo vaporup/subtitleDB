@@ -1,0 +1,9 @@
+---
+filename: "Christine_MissRipZ.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Christine_MissRipZ.avi"
+  hash: "05f910064169abdd"
+  filesize: "734115840"
