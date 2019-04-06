@@ -1,0 +1,10 @@
+---
+filename: "Flipped 2010 [BDRip.XviD-miguel] [ENG].srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Flipped 2010 [BDRip.XviD-miguel] [ENG].avi"
+  hash: "8e2cdd1c88a8c921"
+  filesize: "733671424"
