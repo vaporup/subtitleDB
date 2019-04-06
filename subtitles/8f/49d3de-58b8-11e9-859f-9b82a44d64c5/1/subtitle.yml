@@ -1,0 +1,9 @@
+---
+filename: "Team-America-World-Police.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Team-America-World-Police.avi"
+  hash: "693a8e135044f943"
+  filesize: "734414848"
