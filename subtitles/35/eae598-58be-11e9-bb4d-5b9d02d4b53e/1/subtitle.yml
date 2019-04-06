@@ -1,0 +1,9 @@
+---
+filename: "King-of-Thorn.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "King-of-Thorn.avi"
+  hash: "8535cb09557953ef"
+  filesize: "695166976"
