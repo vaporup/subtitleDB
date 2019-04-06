@@ -1,0 +1,10 @@
+---
+filename: "G.I.Jane.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "G.I.Jane.mp4"
+  hash: "60b5b6121871157a"
+  filesize: "790516369"
