@@ -1,0 +1,9 @@
+---
+filename: "Exam.2009.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Exam.2009.720p.BluRay.x264.YIFY.mp4"
+  hash: "673118f973b2efa5"
+  filesize: "794909089"
