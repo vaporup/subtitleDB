@@ -1,0 +1,9 @@
+---
+filename: "The Seven Year Itch (1955).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Seven Year Itch (1955).avi"
+  hash: "51652569299aba5e"
+  filesize: "928497664"
