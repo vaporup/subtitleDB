@@ -1,0 +1,9 @@
+---
+filename: "UsaBit.com_crash-sum.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "UsaBit.com_crash-sum.avi"
+  hash: "dbde1947ab04be4f"
+  filesize: "734341120"
