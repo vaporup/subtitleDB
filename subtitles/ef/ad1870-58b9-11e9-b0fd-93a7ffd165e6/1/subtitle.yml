@@ -1,0 +1,9 @@
+---
+filename: "Mad Max.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Mad Max.avi"
+  hash: "741972aac2c99753"
+  filesize: "736008192"
