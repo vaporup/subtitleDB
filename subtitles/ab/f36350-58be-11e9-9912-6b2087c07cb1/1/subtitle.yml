@@ -1,0 +1,10 @@
+---
+filename: "Knowing.2009.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Knowing.2009.720p.BrRip.x264.YIFY.mp4"
+  hash: "c2c832088d349cb0"
+  filesize: "734043752"
