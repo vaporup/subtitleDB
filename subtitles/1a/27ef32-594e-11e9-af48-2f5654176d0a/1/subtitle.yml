@@ -1,0 +1,10 @@
+---
+filename: "Tron.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Tron.avi"
+  hash: "ffc0ba922d1a1220"
+  filesize: "736268288"
