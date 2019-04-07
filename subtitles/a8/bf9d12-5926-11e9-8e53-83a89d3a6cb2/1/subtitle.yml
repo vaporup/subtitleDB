@@ -1,0 +1,9 @@
+---
+filename: "Seven.[1995].DVDRip.Xvid.Blood.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Seven.[1995].DVDRip.Xvid.Blood.avi"
+  hash: "fb6539c58e212d92"
+  filesize: "739145728"
