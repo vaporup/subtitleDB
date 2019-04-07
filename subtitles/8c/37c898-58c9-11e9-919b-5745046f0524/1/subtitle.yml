@@ -1,0 +1,9 @@
+---
+filename: "Star.Trek.2009.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Star.Trek.2009.720p.BrRip.x264.YIFY.mp4"
+  hash: "2cf89e895e30c328"
+  filesize: "787926398"
