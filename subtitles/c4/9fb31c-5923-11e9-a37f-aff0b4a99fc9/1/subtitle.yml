@@ -1,0 +1,9 @@
+---
+filename: "Universal Soldier (1992).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Universal Soldier (1992).mp4"
+  hash: "926c538d638fe831"
+  filesize: "941797596"
