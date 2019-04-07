@@ -1,0 +1,10 @@
+---
+filename: "lymelife.2008.limited.dvdrip.xvid-amiable.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "lymelife.2008.limited.dvdrip.xvid-amiable.avi"
+  hash: "1dd50adc4ae5f7a5"
+  filesize: "732934144"
