@@ -1,0 +1,10 @@
+---
+filename: "Serendipity.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Serendipity.avi"
+  hash: "30a55cdf3f579dbd"
+  filesize: "723664896"
