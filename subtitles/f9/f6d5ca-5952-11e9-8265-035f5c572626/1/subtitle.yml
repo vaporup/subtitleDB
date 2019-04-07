@@ -1,0 +1,9 @@
+---
+filename: "ouzo-pinaoz.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "ouzo-pinaoz.avi"
+  hash: "cee8a6b8d3843eea"
+  filesize: "728178688"
