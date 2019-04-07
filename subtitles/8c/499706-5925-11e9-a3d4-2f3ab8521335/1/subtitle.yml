@@ -1,0 +1,9 @@
+---
+filename: "Mary.and.Max-BOKUTOX.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Mary.and.Max-BOKUTOX.YIFY.mp4"
+  hash: "f4459c5b6291f5bc"
+  filesize: "630708697"
