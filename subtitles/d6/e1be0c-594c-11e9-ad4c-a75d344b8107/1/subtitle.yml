@@ -1,0 +1,9 @@
+---
+filename: "Skyline[2010]DVDrip-Crisp.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Skyline[2010]DVDrip-Crisp.avi"
+  hash: "0177faf767ccb719"
+  filesize: "735639552"
