@@ -1,0 +1,9 @@
+---
+filename: "The Couch Trip (1988).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Couch Trip (1988).avi"
+  hash: "b046b33992b184c9"
+  filesize: "734017536"
