@@ -1,0 +1,9 @@
+---
+filename: "Moonstruck.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Moonstruck.avi"
+  hash: "951bde394996cb4a"
+  filesize: "786426368"
