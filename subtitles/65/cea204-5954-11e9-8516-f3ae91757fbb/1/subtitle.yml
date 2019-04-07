@@ -1,0 +1,9 @@
+---
+filename: "Seconds 1966.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Seconds 1966.avi"
+  hash: "90ae0030536b6d29"
+  filesize: "730470400"
