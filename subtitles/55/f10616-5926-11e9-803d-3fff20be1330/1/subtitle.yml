@@ -1,0 +1,9 @@
+---
+filename: "Signs.2002.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Signs.2002.720p.BluRay.x264.YIFY.mp4"
+  hash: "13eeb2b20cda27c5"
+  filesize: "734745750"
