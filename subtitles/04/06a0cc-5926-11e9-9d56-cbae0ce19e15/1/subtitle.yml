@@ -1,0 +1,10 @@
+---
+filename: "The.Gift.2015.BRRip.XViD-ETRG.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "The.Gift.2015.BRRip.XViD-ETRG.avi"
+  hash: "6848834643f3e276"
+  filesize: "732373932"
