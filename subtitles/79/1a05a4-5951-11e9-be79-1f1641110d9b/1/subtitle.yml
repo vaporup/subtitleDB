@@ -1,0 +1,9 @@
+---
+filename: "The-Muppets.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Muppets.avi"
+  hash: "63f99c6fbf861ed6"
+  filesize: "735948800"
