@@ -1,0 +1,9 @@
+---
+filename: "The Color Of Money_VGL.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Color Of Money_VGL.mkv"
+  hash: "3836f1b7b99fcabb"
+  filesize: "876518860"
