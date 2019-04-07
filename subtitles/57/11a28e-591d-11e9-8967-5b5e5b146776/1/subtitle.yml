@@ -1,0 +1,9 @@
+---
+filename: "Lammbock.German.2001.DVDRIP.XviD-XC.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Lammbock.German.2001.DVDRIP.XviD-XC.avi"
+  hash: "90a3675ee0333a21"
+  filesize: "736346112"
