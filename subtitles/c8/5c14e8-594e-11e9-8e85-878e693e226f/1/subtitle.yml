@@ -1,0 +1,9 @@
+---
+filename: "The-Loved-Ones.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Loved-Ones.avi"
+  hash: "8a08e0e0f268d920"
+  filesize: "731098002"
