@@ -1,0 +1,9 @@
+---
+filename: "The Island.sv.srt"
+language: "sv"
+format: "srt"
+
+matches:
+- filename: "The Island.avi"
+  hash: "3ae488619b991dd5"
+  filesize: "729511936"
