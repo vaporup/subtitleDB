@@ -1,0 +1,9 @@
+---
+filename: "The Puppet Masters [1994].srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Puppet Masters [1994].avi"
+  hash: "5af7f9aed522d88d"
+  filesize: "733904896"
