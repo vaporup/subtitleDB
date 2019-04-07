@@ -1,0 +1,9 @@
+---
+filename: "Tron.Legacy.2010.DVDRip.XviD-EVO.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Tron.Legacy.2010.DVDRip.XviD-EVO.avi"
+  hash: "55c0144b771765bb"
+  filesize: "834584576"
