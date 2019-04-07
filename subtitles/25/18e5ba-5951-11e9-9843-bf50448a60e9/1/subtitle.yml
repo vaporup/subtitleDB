@@ -1,0 +1,9 @@
+---
+filename: "Stand By Me.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Stand By Me.avi"
+  hash: "f4c08f12ea3a8d1b"
+  filesize: "734009344"
