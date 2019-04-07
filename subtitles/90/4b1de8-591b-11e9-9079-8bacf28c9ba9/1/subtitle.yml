@@ -1,0 +1,10 @@
+---
+filename: "The.Beach.2000.720p.BrRip.x264.YIFY.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "The.Beach.2000.720p.BrRip.x264.YIFY.mp4"
+  hash: "a89a88886ed92009"
+  filesize: "787400514"
