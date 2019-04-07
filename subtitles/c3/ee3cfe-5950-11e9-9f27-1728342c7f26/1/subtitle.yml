@@ -1,0 +1,9 @@
+---
+filename: "Read My Lips.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Read My Lips.avi"
+  hash: "3075fb3e10b5e1a6"
+  filesize: "839174144"
