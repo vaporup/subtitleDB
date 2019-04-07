@@ -1,0 +1,9 @@
+---
+filename: "Spellbound.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Spellbound.avi"
+  hash: "ff11b6071002c1c2"
+  filesize: "735664128"
