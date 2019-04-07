@@ -1,0 +1,9 @@
+---
+filename: "The-Escapist_FxM.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The-Escapist_FxM.avi"
+  hash: "413fdc457a540e39"
+  filesize: "733767680"
