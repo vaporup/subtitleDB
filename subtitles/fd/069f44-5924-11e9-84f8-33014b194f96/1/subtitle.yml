@@ -1,0 +1,9 @@
+---
+filename: "Mad Max 3 - Beyond Thunderdome.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Mad Max 3 - Beyond Thunderdome.avi"
+  hash: "b14e6ecee7e84fac"
+  filesize: "735262720"
