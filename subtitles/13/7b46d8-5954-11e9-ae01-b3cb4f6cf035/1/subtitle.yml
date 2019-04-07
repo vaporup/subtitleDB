@@ -1,0 +1,9 @@
+---
+filename: "Sabrina.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Sabrina.avi"
+  hash: "5d89225e91a00361"
+  filesize: "921738566"
