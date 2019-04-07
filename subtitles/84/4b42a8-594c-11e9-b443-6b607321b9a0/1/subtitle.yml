@@ -1,0 +1,9 @@
+---
+filename: "Red [2010] BRRip XviD AC3-RARBG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Red [2010] BRRip XviD AC3-RARBG.avi"
+  hash: "d547082c1c9e9759"
+  filesize: "733606734"
