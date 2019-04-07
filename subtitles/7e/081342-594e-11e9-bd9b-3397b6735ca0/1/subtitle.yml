@@ -1,0 +1,10 @@
+---
+filename: "Little Big Man.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Little Big Man.mp4"
+  hash: "8d8fe9b154ce7725"
+  filesize: "973795531"
