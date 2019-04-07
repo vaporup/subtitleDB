@@ -1,0 +1,10 @@
+---
+filename: "i-smwhr.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "i-smwhr.avi"
+  hash: "bd0b15ba8e39885c"
+  filesize: "734183424"
