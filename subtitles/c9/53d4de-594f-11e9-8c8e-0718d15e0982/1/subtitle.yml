@@ -1,0 +1,9 @@
+---
+filename: "UsaBit.com_i-lani.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "UsaBit.com_i-lani.avi"
+  hash: "9f6b5263da6a0028"
+  filesize: "733364224"
