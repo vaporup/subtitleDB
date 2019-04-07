@@ -1,0 +1,10 @@
+---
+filename: "The-Dark-Knight.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "The-Dark-Knight.avi"
+  hash: "fd2e93f2ec4e84ef"
+  filesize: "943419392"
