@@ -1,0 +1,9 @@
+---
+filename: "The.Wackness[2008]DvDrip-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The.Wackness[2008]DvDrip-aXXo.avi"
+  hash: "587d96d40a2b257d"
+  filesize: "735418368"
