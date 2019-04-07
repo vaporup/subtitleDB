@@ -1,0 +1,9 @@
+---
+filename: "Smashed.2012.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Smashed.2012.720p.BluRay.x264.YIFY.mp4"
+  hash: "b3d49c765857af08"
+  filesize: "682477187"
