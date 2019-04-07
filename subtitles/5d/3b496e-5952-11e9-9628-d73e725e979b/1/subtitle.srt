@@ -1,0 +1,4007 @@
+1
+00:00:37,570 --> 00:00:39,770
+<i>Our sun is dying.</i>
+
+2
+00:00:40,470 --> 00:00:43,340
+<i>Mankind faces extinction.</i>
+
+3
+00:00:45,310 --> 00:00:50,010
+<i>Seven years ago, the Icarus Project
+sent a mission to restart the sun.</i>
+
+4
+00:00:50,180 --> 00:00:53,980
+<i>But that mission was lost
+before it reached the star.</i>
+
+5
+00:00:56,060 --> 00:01:00,320
+<i>Sixteen months ago, I, Robert Capa,
+and a crew of seven...</i>
+
+6
+00:01:00,490 --> 00:01:03,790
+<i>...left Earth frozen in a solar winter.</i>
+
+7
+00:01:05,160 --> 00:01:06,690
+<i>Our payload...</i>
+
+8
+00:01:06,870 --> 00:01:11,800
+<i>...a stellar bomb with the mass
+equivalent to Manhattan Island.</i>
+
+9
+00:01:12,670 --> 00:01:14,640
+<i>Our purpose...</i>
+
+10
+00:01:15,310 --> 00:01:18,870
+<i>...to create a star within a star.</i>
+
+11
+00:01:43,640 --> 00:01:47,900
+<i>Eight astronauts strapped
+to the back of a bomb.</i>
+
+12
+00:01:48,340 --> 00:01:49,870
+<i>My bomb.</i>
+
+13
+00:01:51,480 --> 00:01:53,640
+<i>Welcome to</i> Icarus II<i>.</i>
+
+14
+00:02:26,210 --> 00:02:27,370
+<i>Icarus</i>.
+
+15
+00:02:27,910 --> 00:02:29,940
+<i>Yes, Dr. Searle?</i>
+
+16
+00:02:30,150 --> 00:02:33,610
+Please re-filter
+the Observation Room portal.
+
+17
+00:02:33,790 --> 00:02:37,420
+<i>Filter up or down, Dr. Searle?</i>
+
+18
+00:02:38,020 --> 00:02:39,720
+Down.
+
+19
+00:02:43,860 --> 00:02:45,730
+Oh, my.
+
+20
+00:02:48,670 --> 00:02:53,370
+<i>Icarus</i>, how close is this
+to full brightness?
+
+21
+00:02:53,810 --> 00:02:57,870
+<i>At this distance of 36 million miles...</i>
+
+22
+00:02:58,040 --> 00:03:02,780
+<i>...you are observing the sun
+at 2 percent of full brightness.</i>
+
+23
+00:03:03,120 --> 00:03:04,170
+Two percent?
+
+24
+00:03:05,620 --> 00:03:07,310
+Can you show me 4 percent?
+
+25
+00:03:07,490 --> 00:03:11,920
+<i>Four percent would result in
+irreversible damage to your retinas.</i>
+
+26
+00:03:18,830 --> 00:03:22,160
+<i>However, you could observe
+3.1 percent...</i>
+
+27
+00:03:22,340 --> 00:03:25,330
+<i>...for a period of not longer than
+30 seconds.</i>
+
+28
+00:03:25,570 --> 00:03:28,510
+All right. <i>Icarus</i>, I'm gonna reset...
+
+29
+00:03:28,710 --> 00:03:32,800
+...the filter to 3.1 percent.
+
+30
+00:04:09,750 --> 00:04:11,810
+Well, it's invigorating.
+
+31
+00:04:11,980 --> 00:04:14,820
+It's like taking a shower in light.
+
+32
+00:04:14,990 --> 00:04:18,050
+- You lose yourself a little.
+- Like a flotation tank.
+
+33
+00:04:18,260 --> 00:04:19,280
+Actually, no.
+
+34
+00:04:24,800 --> 00:04:26,160
+Look, what is it, beef?
+
+35
+00:04:26,330 --> 00:04:27,700
+Chicken.
+
+36
+00:04:27,870 --> 00:04:30,230
+If you don't like it,
+you take my shift next time.
+
+37
+00:04:30,400 --> 00:04:33,570
+For psych tests on deep space,
+I ran sensory-deprivation trials.
+
+38
+00:04:33,770 --> 00:04:36,210
+Testing total darkness
+on flotation tanks.
+
+39
+00:04:36,380 --> 00:04:40,240
+And the point about darkness is,
+you float in it.
+
+40
+00:04:40,410 --> 00:04:43,250
+You and the darkness are distinct
+from each other...
+
+41
+00:04:43,420 --> 00:04:47,510
+...because darkness is an absence
+of something, it's a vacuum.
+
+42
+00:04:47,690 --> 00:04:50,710
+But total light, it envelops you.
+
+43
+00:04:50,890 --> 00:04:52,520
+It becomes you.
+
+44
+00:04:55,060 --> 00:04:57,030
+It's very strange. I don't--
+
+45
+00:04:57,730 --> 00:04:59,320
+I recommend it.
+
+46
+00:04:59,500 --> 00:05:02,330
+What's strange, Searle,
+is that you're the psych officer...
+
+47
+00:05:02,500 --> 00:05:04,830
+...and I'm clearly a lot saner
+than you are.
+
+48
+00:05:07,710 --> 00:05:08,730
+Good.
+
+49
+00:05:23,390 --> 00:05:25,760
+All right, if no one's gonna say it,
+I'm going to.
+
+50
+00:05:25,930 --> 00:05:30,260
+The solar wind reading is much higher
+than we'd anticipated at this distance.
+
+51
+00:05:30,430 --> 00:05:33,630
+For the moment we can still send
+package messages back.
+
+52
+00:05:33,830 --> 00:05:36,300
+High-frequency bursts will rise
+above interference...
+
+53
+00:05:36,470 --> 00:05:39,370
+...and the Moon Stations
+will be able to pick them up.
+
+54
+00:05:39,540 --> 00:05:44,770
+But it's possible that within 24 hours
+we won't be able to communicate at all.
+
+55
+00:05:44,940 --> 00:05:46,430
+Possible?
+
+56
+00:05:47,580 --> 00:05:49,240
+Probable.
+
+57
+00:05:51,450 --> 00:05:53,320
+We'll finally be on our own.
+
+58
+00:05:53,490 --> 00:05:56,750
+We're 55 million miles from Earth.
+I'd say we're already on our own.
+
+59
+00:05:57,260 --> 00:06:00,090
+Come on, guys.
+We were expecting this.
+
+60
+00:06:00,260 --> 00:06:02,320
+No great drama.
+We're flying into the dead zone...
+
+61
+00:06:02,500 --> 00:06:04,900
+...seven days sooner
+than we thought.
+
+62
+00:06:05,400 --> 00:06:09,270
+But if any of you are planning
+on sending a final message home...
+
+63
+00:06:09,800 --> 00:06:11,570
+...you should do it now.
+
+64
+00:06:21,980 --> 00:06:24,680
+Well, Mom and Dad.
+
+65
+00:06:26,690 --> 00:06:28,980
+I hope you're proud of your son...
+
+66
+00:06:29,160 --> 00:06:31,990
+...saving mankind and so on.
+
+67
+00:07:00,790 --> 00:07:05,160
+By the time you get this message,
+I'll be in the dead zone.
+
+68
+00:07:06,360 --> 00:07:09,020
+It came a little sooner
+than we thought.
+
+69
+00:07:09,460 --> 00:07:13,420
+But this means that you won't be able
+to send a message back.
+
+70
+00:07:14,670 --> 00:07:19,330
+So I just wanted to let you know
+that I don't need the message.
+
+71
+00:07:20,040 --> 00:07:24,000
+Because I know everything
+you wanna say.
+
+72
+00:07:31,680 --> 00:07:37,850
+Just remember it takes eight minutes
+for light to travel from sun to Earth.
+
+73
+00:07:38,020 --> 00:07:40,080
+Which means you'll know
+we've succeeded...
+
+74
+00:07:40,260 --> 00:07:43,520
+...about eight minutes
+after we deliver the payload.
+
+75
+00:07:43,700 --> 00:07:48,220
+All you have to do is look out
+for a little extra brightness in the sky.
+
+76
+00:07:48,400 --> 00:07:52,740
+So, if you wake up one morning,
+and it's a particularly beautiful day...
+
+77
+00:07:52,910 --> 00:07:54,900
+...you'll know we made it.
+
+78
+00:07:57,180 --> 00:07:58,770
+Okay.
+
+79
+00:07:59,010 --> 00:08:00,880
+I'm signing out.
+
+80
+00:08:01,910 --> 00:08:04,210
+And I'll see you in a couple of years.
+
+81
+00:08:52,260 --> 00:08:54,790
+<i>Icarus</i>, dial it down a little, will you?
+
+82
+00:08:54,970 --> 00:08:57,230
+<i>Yes, Corazon.</i>
+
+83
+00:09:02,140 --> 00:09:04,040
+Captain?
+
+84
+00:09:06,850 --> 00:09:08,470
+Captain?
+
+85
+00:09:10,980 --> 00:09:13,780
+I'm guessing you've been
+talking to Searle.
+
+86
+00:09:16,190 --> 00:09:18,320
+- So, do you have that report for me?
+- Yeah.
+
+87
+00:09:18,490 --> 00:09:19,790
+Right here.
+
+88
+00:09:21,430 --> 00:09:25,300
+The O2 productivity is good. In fact,
+if anything, we're over-producing.
+
+89
+00:09:25,460 --> 00:09:28,160
+It will trail off dramatically
+when we get nearer.
+
+90
+00:09:28,330 --> 00:09:33,070
+But in truth, we have the reserves
+to make it there and a quarter-way back.
+
+91
+00:09:35,340 --> 00:09:37,870
+You're thinking about <i>Icarus I</i>.
+
+92
+00:09:39,680 --> 00:09:42,700
+Well, whatever it was
+that tripped them up...
+
+93
+00:09:42,880 --> 00:09:45,850
+...I don't think
+it was a lack of oxygen.
+
+94
+00:09:46,290 --> 00:09:49,020
+Not on the outward journey,
+at any rate.
+
+95
+00:09:50,460 --> 00:09:52,150
+Fuck.
+
+96
+00:09:55,230 --> 00:09:56,690
+Fuck.
+
+97
+00:09:58,960 --> 00:10:02,090
+- Mace.
+- Mace.
+
+98
+00:10:02,540 --> 00:10:04,230
+- What are you doing?
+- Come on.
+
+99
+00:10:04,400 --> 00:10:06,300
+- Fuck.
+- Relax. Put it down.
+
+100
+00:10:06,470 --> 00:10:07,530
+You son of a bitch.
+
+101
+00:10:09,910 --> 00:10:11,500
+- <i>Fucker took an hour in there.</i>
+- <i>Stop.</i>
+
+102
+00:10:11,680 --> 00:10:14,010
+I can't send my package,
+the wind is too high.
+
+103
+00:10:14,180 --> 00:10:17,580
+- <i>Calm down.</i>
+- <i>I'm sorry, all right? Jesus.</i>
+
+104
+00:10:17,750 --> 00:10:20,580
+Kaneda, Searle, report to Flight Deck.
+
+105
+00:10:20,750 --> 00:10:22,520
+<i>What's up?</i>
+
+106
+00:10:22,860 --> 00:10:26,810
+We have an excess of manliness
+breaking out in the Comms Center.
+
+107
+00:10:30,830 --> 00:10:31,850
+So how does this work?
+
+108
+00:10:32,060 --> 00:10:34,260
+<i>Am I supposed to tell you
+about my childhood?</i>
+
+109
+00:10:34,430 --> 00:10:37,560
+I probably know more
+about your childhood than you do.
+
+110
+00:10:43,640 --> 00:10:44,770
+It's the time.
+
+111
+00:10:47,880 --> 00:10:50,940
+Sixteen months,
+you can get used to anything.
+
+112
+00:10:51,450 --> 00:10:52,920
+You just...
+
+113
+00:10:53,450 --> 00:10:55,180
+...lose track.
+
+114
+00:10:59,590 --> 00:11:01,750
+I know I fucked up.
+
+115
+00:11:07,970 --> 00:11:09,730
+From now on...
+
+116
+00:11:09,900 --> 00:11:12,600
+<i>...I'm not gonna lose track again.</i>
+
+117
+00:11:14,770 --> 00:11:16,170
+Prescription...
+
+118
+00:11:17,480 --> 00:11:19,640
+...Earth Room.
+
+119
+00:11:19,810 --> 00:11:21,210
+Two hours?
+
+120
+00:11:21,780 --> 00:11:25,110
+- And get a haircut, Mace.
+- Yeah.
+
+121
+00:11:39,800 --> 00:11:40,990
+Bring back the waves.
+
+122
+00:11:41,200 --> 00:11:45,070
+<i>Dr. Searle's prescription specifies
+a peaceful module.</i>
+
+123
+00:11:45,240 --> 00:11:46,900
+The waves make me feel peaceful.
+
+124
+00:11:56,650 --> 00:11:58,410
+Again.
+
+125
+00:12:16,440 --> 00:12:19,130
+Mace, I'm sorry.
+I should have let you go first.
+
+126
+00:12:19,310 --> 00:12:22,640
+Capa. It's me.
+I'm the one apologizing, all right?
+
+127
+00:12:23,040 --> 00:12:24,600
+All right.
+
+128
+00:12:30,150 --> 00:12:31,880
+- Was that the apology?
+- Yeah.
+
+129
+00:12:32,050 --> 00:12:34,490
+- Consider it accepted.
+- Okay.
+
+130
+00:12:59,680 --> 00:13:03,310
+<i>It was a sequence of contact reports
+on the top-left shield quadrant...</i>
+
+131
+00:13:04,050 --> 00:13:08,650
+<i>...which, by 1700, had turned
+into a minor asteroid storm.</i>
+
+132
+00:13:08,820 --> 00:13:10,850
+<i>None bigger than a raindrop...</i>
+
+133
+00:13:11,020 --> 00:13:12,580
+<i>...but we had 19 punctures...</i>
+
+134
+00:13:12,790 --> 00:13:16,090
+<i>...and a secondary contact
+to the engine compartment.</i>
+
+135
+00:13:16,300 --> 00:13:18,990
+<i>Took three alpha shifts to patch it up.</i>
+
+136
+00:13:19,160 --> 00:13:22,000
+<i>Lost a little vapor. Nothing serious.</i>
+
+137
+00:13:22,500 --> 00:13:25,230
+<i>I watched them hit us
+from the Observation Room.</i>
+
+138
+00:13:25,700 --> 00:13:28,300
+<i>Gotta tell you, Moon Base, it was--</i>
+
+139
+00:13:29,110 --> 00:13:30,840
+<i>It was...</i>
+
+140
+00:13:31,310 --> 00:13:32,940
+<i>...beautiful.</i>
+
+141
+00:13:34,450 --> 00:13:37,010
+<i>Gotta tell you, Moon Base, it was--</i>
+
+142
+00:13:37,880 --> 00:13:39,540
+<i>It was...</i>
+
+143
+00:13:40,020 --> 00:13:41,850
+<i>...beautiful.</i>
+
+144
+00:13:58,070 --> 00:14:00,100
+- <i>Mace?</i>
+- Yeah.
+
+145
+00:14:00,270 --> 00:14:03,240
+<i>Your maintenance program
+allows a further 14 minutes...</i>
+
+146
+00:14:03,410 --> 00:14:06,850
+<i>...for the mainframe panel
+to remain out of coolant tank.</i>
+
+147
+00:14:08,380 --> 00:14:09,940
+Shit.
+
+148
+00:14:34,970 --> 00:14:36,130
+Guys...
+
+149
+00:14:36,310 --> 00:14:38,170
+...you wanna see something?
+
+150
+00:14:41,250 --> 00:14:44,310
+Well, I should have
+a few words to say...
+
+151
+00:14:44,480 --> 00:14:46,350
+...but on reflection...
+
+152
+00:14:46,520 --> 00:14:48,010
+...what can one say?
+
+153
+00:14:48,190 --> 00:14:50,380
+Ladies and gentlemen.
+
+154
+00:14:51,390 --> 00:14:52,410
+Mercury.
+
+155
+00:16:29,860 --> 00:16:33,050
+Twenty-three hours ago,
+on the comms systems--
+
+156
+00:16:33,230 --> 00:16:34,920
+While listening to your space music?
+
+157
+00:16:35,090 --> 00:16:38,530
+- -while scanning the frequencies,
+I heard a transmission.
+
+158
+00:16:40,070 --> 00:16:42,730
+It appeared as we flew
+into the dark side of Mercury.
+
+159
+00:16:42,900 --> 00:16:44,560
+The iron content of the planet...
+
+160
+00:16:44,740 --> 00:16:46,100
+...is acting as an antenna.
+
+161
+00:16:46,270 --> 00:16:49,760
+There's high background interference,
+but the signal is clear enough.
+
+162
+00:16:49,940 --> 00:16:53,740
+<i>Icarus</i>, please play audio file 7-5/B.
+
+163
+00:16:53,910 --> 00:16:56,010
+<i>Yes, Harvey.</i>
+
+164
+00:17:12,600 --> 00:17:13,620
+End file.
+
+165
+00:17:14,570 --> 00:17:16,230
+What is it?
+
+166
+00:17:16,840 --> 00:17:18,600
+It's the <i>Icarus I</i>.
+
+167
+00:17:20,340 --> 00:17:22,310
+That signal is their distress beacon.
+
+168
+00:17:22,470 --> 00:17:23,770
+Jesus.
+
+169
+00:17:23,940 --> 00:17:26,000
+That's impossible.
+It's been seven years.
+
+170
+00:17:26,180 --> 00:17:28,770
+Clearly it's not impossible
+because you can hear it.
+
+171
+00:17:28,950 --> 00:17:30,970
+- They're still alive?
+- We don't know.
+
+172
+00:17:31,150 --> 00:17:33,340
+But they could be.
+Oxygen is self-replenishing.
+
+173
+00:17:33,550 --> 00:17:35,110
+Water is recycled.
+
+174
+00:17:35,290 --> 00:17:37,080
+They have the solar power
+they need.
+
+175
+00:17:37,260 --> 00:17:39,950
+What about food?
+Their supplies couldn't last.
+
+176
+00:17:40,130 --> 00:17:41,490
+That depends.
+
+177
+00:17:41,660 --> 00:17:44,290
+They had stock to cover eight people
+for three years.
+
+178
+00:17:44,460 --> 00:17:46,360
+That's a four-year shortfall.
+Hell of a diet.
+
+179
+00:17:46,570 --> 00:17:48,530
+We don't know what happened
+to <i>Icarus I</i>.
+
+180
+00:17:48,700 --> 00:17:50,830
+There might have been an accident.
+
+181
+00:17:51,000 --> 00:17:53,200
+There might not have been
+eight people to feed.
+
+182
+00:17:53,370 --> 00:17:57,330
+- Captain, do we know where they are?
+- Well done, Capa. That is the question.
+
+183
+00:17:58,280 --> 00:18:00,110
+<i>Icarus</i>.
+
+184
+00:18:00,580 --> 00:18:04,140
+Please plot our trajectory following
+the slingshot around Mercury.
+
+185
+00:18:04,320 --> 00:18:06,280
+<i>Yes, captain.</i>
+
+186
+00:18:08,690 --> 00:18:12,280
+Now plot the source
+of the <i>Icarus I</i> beacon.
+
+187
+00:18:17,500 --> 00:18:19,460
+Jesus. They almost made it.
+
+188
+00:18:19,630 --> 00:18:22,100
+That's why no one picked up
+the signal until now.
+
+189
+00:18:23,240 --> 00:18:25,400
+It was lost in the background light
+and noise.
+
+190
+00:18:25,600 --> 00:18:27,070
+We're gonna pass right by them.
+
+191
+00:18:27,240 --> 00:18:30,570
+Within 10 or 15 thousand miles.
+
+192
+00:18:30,740 --> 00:18:32,730
+Can anyone survive?
+
+193
+00:18:32,910 --> 00:18:35,470
+If the shield is intact.
+
+194
+00:18:35,810 --> 00:18:37,910
+We'll be able to see them?
+
+195
+00:18:38,880 --> 00:18:40,250
+Yes.
+
+196
+00:18:40,420 --> 00:18:44,360
+I'd need to look at all of this
+pretty carefully. Very carefully.
+
+197
+00:18:44,520 --> 00:18:49,760
+But if I had to make a guess right now,
+I'd say we could adjust our trajectory.
+
+198
+00:18:50,160 --> 00:18:51,650
+We could fly straight to them.
+
+199
+00:18:51,830 --> 00:18:53,390
+But we're not gonna do that.
+
+200
+00:18:56,900 --> 00:19:00,840
+Just to make it absolutely clear,
+there's no way we're gonna do that.
+
+201
+00:19:03,910 --> 00:19:06,430
+Do I have to spell it out for you?
+
+202
+00:19:06,650 --> 00:19:09,580
+We have a payload to deliver
+to the heart of our nearest star.
+
+203
+00:19:09,750 --> 00:19:12,180
+We're doing it
+because that star is dying.
+
+204
+00:19:12,350 --> 00:19:14,220
+And if it dies, we die.
+
+205
+00:19:14,390 --> 00:19:15,720
+Everything dies.
+
+206
+00:19:15,890 --> 00:19:17,680
+So that is our mission.
+There is nothing...
+
+207
+00:19:17,860 --> 00:19:21,620
+...literally nothing, more important than
+completing our mission. End of story.
+
+208
+00:19:21,790 --> 00:19:24,260
+- He's right.
+- He's right. Of course I'm right.
+
+209
+00:19:24,430 --> 00:19:26,730
+Is anyone here seriously
+considering otherwise?
+
+210
+00:19:26,900 --> 00:19:28,590
+- May I put a counter argument?
+- No.
+
+211
+00:19:28,770 --> 00:19:30,130
+Captain?
+
+212
+00:19:30,300 --> 00:19:31,430
+Go ahead.
+
+213
+00:19:32,200 --> 00:19:34,300
+It would, of course...
+
+214
+00:19:34,470 --> 00:19:38,910
+...be absurd to alter our trajectory
+to assist the crew of the <i>Icarus I</i>.
+
+215
+00:19:39,080 --> 00:19:42,440
+Even if we knew that some or
+even all of that crew are still alive...
+
+216
+00:19:42,950 --> 00:19:47,980
+...their lives are expendable
+when seen in the context of our mission.
+
+217
+00:19:49,120 --> 00:19:50,150
+As are our own lives.
+
+218
+00:19:50,320 --> 00:19:51,910
+- Exactly.
+- However...
+
+219
+00:19:52,820 --> 00:19:56,320
+...there is something onboard the
+<i>Icarus I</i> that may be worth the detour.
+
+220
+00:19:56,500 --> 00:19:59,120
+As you pointed out, Mace,
+we have a payload to deliver.
+
+221
+00:19:59,300 --> 00:20:00,320
+A payload. Singular.
+
+222
+00:20:00,500 --> 00:20:04,060
+Now, everything about the delivery
+and effectiveness of that payload...
+
+223
+00:20:04,270 --> 00:20:06,790
+...is entirely theoretical.
+
+224
+00:20:06,970 --> 00:20:08,630
+Simply put...
+
+225
+00:20:08,810 --> 00:20:11,170
+...we don't know if it's gonna work.
+
+226
+00:20:11,340 --> 00:20:14,570
+But what we do know is this...
+
+227
+00:20:14,910 --> 00:20:18,110
+...if we had two bombs,
+we'd have two chances.
+
+228
+00:20:18,280 --> 00:20:21,150
+You're assuming
+we'd be able to pilot <i>Icarus I</i>.
+
+229
+00:20:21,320 --> 00:20:22,340
+- Yes.
+- Which is assuming...
+
+230
+00:20:22,520 --> 00:20:26,980
+...that whatever stopped them wasn't
+a fault or a damage to the spacecraft.
+
+231
+00:20:27,160 --> 00:20:29,130
+- Yes.
+- It's a lot of assumptions.
+
+232
+00:20:29,290 --> 00:20:30,320
+It is.
+
+233
+00:20:30,500 --> 00:20:31,790
+It's a risk assessment.
+
+234
+00:20:31,960 --> 00:20:32,990
+The question is:
+
+235
+00:20:33,170 --> 00:20:37,100
+Does the risk of a detour outweigh
+the benefits of an extra payload?
+
+236
+00:20:46,310 --> 00:20:47,640
+- We'll have a vote.
+- No, no.
+
+237
+00:20:48,150 --> 00:20:49,480
+No, we won't.
+
+238
+00:20:50,680 --> 00:20:52,310
+We are not a democracy.
+
+239
+00:20:53,950 --> 00:20:56,850
+We're a collection of astronauts
+and scientists.
+
+240
+00:20:57,020 --> 00:21:00,480
+So we're gonna make the most
+informed decision available to us.
+
+241
+00:21:00,660 --> 00:21:01,960
+Made by you, by any chance?
+
+242
+00:21:02,130 --> 00:21:05,320
+Made by the person best qualified
+to understand the complexities...
+
+243
+00:21:05,500 --> 00:21:07,470
+...of a payload delivery.
+
+244
+00:21:07,900 --> 00:21:09,370
+Our physicist.
+
+245
+00:21:17,410 --> 00:21:19,040
+Shit.
+
+246
+00:21:23,980 --> 00:21:28,420
+Okay, <i>Icarus</i>, run the math on the
+successful delivery of the payload.
+
+247
+00:21:28,590 --> 00:21:30,920
+<i>Okay, payload delivery point reached.</i>
+
+248
+00:21:31,090 --> 00:21:32,220
+Detach the payload.
+
+249
+00:21:32,790 --> 00:21:35,820
+<i>Stellar bomb initiated and detached.</i>
+
+250
+00:21:35,990 --> 00:21:38,430
+<i>Crew and living section
+have four minutes...</i>
+
+251
+00:21:38,600 --> 00:21:41,430
+<i>...to clear and commence
+homeward journey.</i>
+
+252
+00:21:41,870 --> 00:21:46,430
+And four minutes after separation,
+boosters automatically fire.
+
+253
+00:21:46,610 --> 00:21:51,370
+<i>Payload boosters will automatically
+fire after four-minute delay.</i>
+
+254
+00:21:51,540 --> 00:21:54,030
+<i>Entering coronal hole
+in South Polar Cap.</i>
+
+255
+00:21:54,210 --> 00:21:55,870
+<i>Magnetic field structure open.</i>
+
+256
+00:21:56,050 --> 00:21:58,610
+<i>Temperature, 37,000.</i>
+
+257
+00:21:58,820 --> 00:22:02,510
+<i>Reliability of projection has dropped
+below 45 percent.</i>
+
+258
+00:22:02,690 --> 00:22:06,210
+<i>Remaining projection is not open
+to useful speculation.</i>
+
+259
+00:22:06,390 --> 00:22:07,950
+<i>Variables infinite.</i>
+
+260
+00:22:08,130 --> 00:22:09,460
+<i>Accuracy unknown.</i>
+
+261
+00:22:09,630 --> 00:22:11,260
+That's the problem right there.
+
+262
+00:22:11,430 --> 00:22:13,800
+Between the boosters
+and the gravity of the sun...
+
+263
+00:22:13,970 --> 00:22:15,800
+...the velocity will be so great...
+
+264
+00:22:15,970 --> 00:22:18,300
+...space and time
+will become smeared together.
+
+265
+00:22:18,470 --> 00:22:21,600
+Everything will distort,
+everything will be unquantifiable.
+
+266
+00:22:21,770 --> 00:22:24,570
+You have to come down on one side
+or the other.
+
+267
+00:22:24,880 --> 00:22:28,740
+- I need a decision.
+- It's not a decision, it's a guess.
+
+268
+00:22:29,080 --> 00:22:33,280
+It's like flipping a coin and asking me
+to decide whether it'll be heads or tails.
+
+269
+00:22:34,220 --> 00:22:35,780
+And?
+
+270
+00:22:36,890 --> 00:22:38,250
+Heads.
+
+271
+00:22:43,260 --> 00:22:46,720
+We've mined all Earth's fissile
+materials for this bomb.
+
+272
+00:22:47,130 --> 00:22:49,760
+There's not gonna be
+another payload.
+
+273
+00:22:51,370 --> 00:22:54,170
+The one we carry is our last chance.
+
+274
+00:22:54,370 --> 00:22:58,100
+Our last best hope.
+
+275
+00:23:01,580 --> 00:23:04,070
+Searle's argument is sound.
+
+276
+00:23:04,420 --> 00:23:06,380
+Two last hopes are better than one.
+
+277
+00:23:08,420 --> 00:23:09,890
+That's it.
+
+278
+00:23:26,910 --> 00:23:28,500
+<i>Slingshot complete.</i>
+
+279
+00:23:28,670 --> 00:23:31,800
+Icarus <i>leaving Mercury orbit.</i>
+
+280
+00:24:00,140 --> 00:24:01,200
+Hey.
+
+281
+00:24:01,370 --> 00:24:03,200
+Hey.
+
+282
+00:24:08,480 --> 00:24:10,240
+Good dream?
+
+283
+00:24:11,380 --> 00:24:12,710
+Let me guess.
+
+284
+00:24:13,050 --> 00:24:15,020
+The surface of the sun?
+
+285
+00:24:17,020 --> 00:24:18,960
+Only dream I ever have.
+
+286
+00:24:19,590 --> 00:24:22,890
+Every time I shut my eyes
+it's always the same.
+
+287
+00:24:24,560 --> 00:24:27,190
+Maybe you should talk
+to Dr. Searle about that.
+
+288
+00:24:27,870 --> 00:24:30,460
+See if he can help you out.
+
+289
+00:24:32,970 --> 00:24:34,700
+Maybe.
+
+290
+00:24:38,210 --> 00:24:40,610
+I just wanted to let you know...
+
+291
+00:24:41,210 --> 00:24:43,740
+...I think you made the right decision.
+
+292
+00:24:44,920 --> 00:24:46,380
+Well.
+
+293
+00:24:48,620 --> 00:24:53,420
+Mace doesn't and I'm guessing Harvey
+and Trey don't either.
+
+294
+00:24:53,590 --> 00:24:55,060
+Yeah...
+
+295
+00:24:55,490 --> 00:24:57,220
+...but I do.
+
+296
+00:25:23,560 --> 00:25:25,990
+- Get the alarm. What's going on?
+- I screwed up.
+
+297
+00:25:26,160 --> 00:25:28,090
+It's not you. It's my responsibility.
+
+298
+00:25:28,260 --> 00:25:30,490
+- We shouldn't be straying.
+- Trey, cut to it.
+
+299
+00:25:30,660 --> 00:25:34,100
+In order to change the route,
+I had to manually override <i>Icarus</i>.
+
+300
+00:25:34,270 --> 00:25:37,930
+So I made all the calculations myself.
+And I double- and triple-checked them.
+
+301
+00:25:38,100 --> 00:25:39,300
+They all worked out.
+
+302
+00:25:39,470 --> 00:25:42,440
+So I set the new coordinates
+and put us on our way.
+
+303
+00:25:42,610 --> 00:25:44,800
+What's the problem?
+The trajectory is wrong?
+
+304
+00:25:44,980 --> 00:25:46,240
+The trajectory is good.
+
+305
+00:25:46,850 --> 00:25:51,080
+But it changes our angle of approach
+to the sun by 1.1 degrees.
+
+306
+00:25:51,250 --> 00:25:54,050
+You didn't reset the shields
+to the new angle.
+
+307
+00:25:57,290 --> 00:25:59,620
+Jesus Christ, Trey.
+
+308
+00:26:00,090 --> 00:26:01,960
+I forgot.
+
+309
+00:26:04,800 --> 00:26:09,960
+My head was full of velocities and fuel
+calculations and a million different--
+
+310
+00:26:10,140 --> 00:26:12,930
+I fucked up, all right?
+
+311
+00:26:14,710 --> 00:26:16,440
+People do shit.
+
+312
+00:26:16,610 --> 00:26:18,340
+They get stressed...
+
+313
+00:26:19,210 --> 00:26:21,140
+...and fuck up.
+
+314
+00:26:21,950 --> 00:26:23,170
+I fucked up.
+
+315
+00:26:23,350 --> 00:26:25,180
+Trey.
+
+316
+00:26:30,020 --> 00:26:33,010
+The fact is, we're still alive.
+
+317
+00:26:34,160 --> 00:26:36,680
+A hole hasn't burnt
+in the side of the ship.
+
+318
+00:26:36,860 --> 00:26:38,990
+We don't have
+a 10,000-degree climate.
+
+319
+00:26:39,160 --> 00:26:42,030
+- So, what's the actual damage?
+- We don't know.
+
+320
+00:26:42,200 --> 00:26:45,730
+<i>Icarus</i> tried to reset the shields
+independently when the alarm triggered.
+
+321
+00:26:45,900 --> 00:26:48,000
+But all the sensors up there are
+burned out.
+
+322
+00:26:48,170 --> 00:26:50,730
+So we have no idea of the state
+of the affected area.
+
+323
+00:26:51,680 --> 00:26:54,300
+Only way we're gonna know
+is if we go out there.
+
+324
+00:26:55,980 --> 00:26:57,500
+Okay.
+
+325
+00:26:57,680 --> 00:26:59,510
+I'll get suited up.
+
+326
+00:26:59,680 --> 00:27:01,580
+It's a two-man job.
+
+327
+00:27:01,750 --> 00:27:04,350
+As second in command,
+you're not going anywhere.
+
+328
+00:27:04,520 --> 00:27:06,510
+- I volunteer.
+- No, I volunteer.
+
+329
+00:27:07,330 --> 00:27:08,420
+Fine.
+
+330
+00:27:08,630 --> 00:27:10,750
+I volunteer Capa.
+
+331
+00:27:15,070 --> 00:27:16,430
+Sure.
+
+332
+00:27:16,630 --> 00:27:18,000
+I'll do it.
+
+333
+00:27:20,070 --> 00:27:21,630
+Okay.
+
+334
+00:27:47,230 --> 00:27:48,600
+Okay.
+
+335
+00:28:27,940 --> 00:28:30,970
+You've done this a thousand times
+in Earth-orbit training.
+
+336
+00:28:31,780 --> 00:28:33,240
+Yeah.
+
+337
+00:28:33,410 --> 00:28:35,140
+You're gonna be fine.
+
+338
+00:28:35,310 --> 00:28:36,340
+Okay?
+
+339
+00:28:48,930 --> 00:28:49,950
+Okay, <i>Icarus</i>.
+
+340
+00:28:50,130 --> 00:28:52,120
+I'm gonna be taking
+control for a while.
+
+341
+00:28:52,300 --> 00:28:54,600
+- <i>Okay, Cassie.</i>
+- I'm gonna be cutting speed.
+
+342
+00:28:54,770 --> 00:28:57,760
+I'm gonna rotate us so the damage
+is facing away from the sun.
+
+343
+00:28:57,940 --> 00:29:00,270
+- Do we understand each other?
+- <i>Yes, Cassie.</i>
+
+344
+00:29:00,440 --> 00:29:03,600
+Rotate by that much, we're gonna
+lose comm towers three and four.
+
+345
+00:29:03,780 --> 00:29:06,270
+Well, it's a good thing
+we don't need them, then.
+
+346
+00:29:06,440 --> 00:29:09,140
+We don't need them now,
+we're gonna need them to go home.
+
+347
+00:29:09,310 --> 00:29:11,340
+We'll cross that bridge when
+we come to it.
+
+348
+00:29:11,520 --> 00:29:15,150
+In the meantime, I'm gonna try and
+give them as much shadow as I can.
+
+349
+00:29:15,320 --> 00:29:16,480
+All right, guys.
+
+350
+00:29:16,650 --> 00:29:18,380
+I'm opening up.
+
+351
+00:29:50,660 --> 00:29:52,590
+Okay.
+
+352
+00:29:58,160 --> 00:30:00,650
+<i>Helmet-cam operational.</i>
+
+353
+00:30:00,830 --> 00:30:02,600
+<i>Affirmative. Good image.</i>
+
+354
+00:30:05,040 --> 00:30:07,030
+Capa, check,
+helmet-cam fully operational.
+
+355
+00:30:07,210 --> 00:30:08,870
+<i>Affirmative.</i>
+
+356
+00:30:12,740 --> 00:30:16,080
+<i>Exiting airlock with maintenance
+modules.</i>
+
+357
+00:30:29,760 --> 00:30:33,630
+Moving down
+to investigate damaged area.
+
+358
+00:30:34,470 --> 00:30:36,370
+Okay, guys.
+
+359
+00:30:36,530 --> 00:30:38,230
+Nice and easy.
+
+360
+00:30:39,200 --> 00:30:40,970
+<i>Nice and easy.</i>
+
+361
+00:30:41,140 --> 00:30:42,900
+<i>Copy.</i>
+
+362
+00:30:55,390 --> 00:30:58,410
+Icarus<i>, please adjust shield
+to allow for rotation.</i>
+
+363
+00:30:58,620 --> 00:31:00,750
+<i>Yes, Cassie.</i>
+
+364
+00:31:28,950 --> 00:31:31,390
+<i>Establishing new alignment to sun.</i>
+
+365
+00:31:33,990 --> 00:31:35,620
+Jesus.
+
+366
+00:31:35,790 --> 00:31:37,920
+That's the temperature change
+on the shields.
+
+367
+00:31:38,100 --> 00:31:40,620
+The metal's just contracting
+and expanding.
+
+368
+00:31:40,800 --> 00:31:43,460
+I know what it is, flyboy.
+
+369
+00:31:51,810 --> 00:31:54,640
+It sounds like she's tearing apart.
+
+370
+00:32:15,870 --> 00:32:19,670
+<i>Fatal damage to Comms Towers
+3 and 4.</i>
+
+371
+00:32:19,840 --> 00:32:23,170
+Copy, <i>Icarus</i>. Loss of towers
+3 and 4. Cancel alarm.
+
+372
+00:32:23,340 --> 00:32:26,500
+Shut down sensor
+to Comms Tower 3 and 4.
+
+373
+00:32:36,220 --> 00:32:39,250
+<i>You should see it up here, guys.</i>
+
+374
+00:32:40,160 --> 00:32:42,350
+<i>It's pretty impressive.</i>
+
+375
+00:32:54,110 --> 00:32:55,570
+<i>Okay.</i>
+
+376
+00:32:55,740 --> 00:32:58,710
+<i>There are four damaged panels.</i>
+
+377
+00:33:01,680 --> 00:33:04,610
+<i>They're about 300 meters out.</i>
+
+378
+00:33:17,360 --> 00:33:20,630
+Capa, take it easy. You're going
+through your O2 pretty fast.
+
+379
+00:33:22,430 --> 00:33:24,530
+Copy that, Cory.
+
+380
+00:33:29,640 --> 00:33:31,870
+That's it.
+Slow down the breathing.
+
+381
+00:33:32,040 --> 00:33:34,030
+Relaxed movement.
+
+382
+00:33:53,930 --> 00:33:56,300
+<i>Approaching the first panel.</i>
+
+383
+00:34:19,090 --> 00:34:20,320
+<i>We were lucky.</i>
+
+384
+00:34:20,490 --> 00:34:22,790
+<i>Can you guys see this?</i>
+
+385
+00:34:22,960 --> 00:34:24,020
+<i>We can see it.</i>
+
+386
+00:34:24,200 --> 00:34:26,600
+The hydraulics are burnt out.
+
+387
+00:34:26,760 --> 00:34:29,060
+<i>Let's get this closed.</i>
+
+388
+00:34:50,590 --> 00:34:52,580
+Okay, Mace.
+
+389
+00:34:52,960 --> 00:34:54,080
+That's it.
+
+390
+00:34:58,660 --> 00:35:00,290
+That's the first one closed.
+
+391
+00:35:00,460 --> 00:35:02,060
+You can do it?
+
+392
+00:35:02,230 --> 00:35:03,530
+<i>It'll take a while, but--</i>
+
+393
+00:35:04,800 --> 00:35:06,460
+Yeah.
+
+394
+00:35:07,240 --> 00:35:08,300
+We can do it.
+
+395
+00:35:10,240 --> 00:35:12,110
+Great job.
+
+396
+00:35:20,180 --> 00:35:21,710
+<i>Lots of smiling faces
+in this room, guys.</i>
+
+397
+00:35:21,920 --> 00:35:23,890
+- <i>Great job.</i>
+- <i>I love you, captain.</i>
+
+398
+00:35:33,500 --> 00:35:35,760
+<i>Moving to next panel.</i>
+
+399
+00:35:36,130 --> 00:35:37,930
+<i>Three to go.</i>
+
+400
+00:35:58,420 --> 00:35:59,950
+Hey.
+
+401
+00:36:01,530 --> 00:36:03,580
+Don't kill yourself, man.
+We got this, okay?
+
+402
+00:36:06,600 --> 00:36:07,860
+What's going on, guys?
+
+403
+00:36:08,370 --> 00:36:09,530
+<i>The ship's moving.</i>
+
+404
+00:36:09,700 --> 00:36:11,430
+We're venting O2. Shit.
+
+405
+00:36:11,600 --> 00:36:13,040
+I think we're venting O2.
+
+406
+00:36:13,200 --> 00:36:15,070
+<i>Resuming computer control
+of</i> Icarus II<i>.</i>
+
+407
+00:36:15,240 --> 00:36:16,870
+Negative, <i>Icarus</i>. Manual control.
+
+408
+00:36:17,040 --> 00:36:18,870
+<i>Negative, Cassie. Computer control.</i>
+
+409
+00:36:19,040 --> 00:36:21,530
+- <i>Returning vessel to original rotation.</i>
+- What?
+
+410
+00:36:21,710 --> 00:36:23,810
+<i>Icarus</i>, override computer
+to manual control.
+
+411
+00:36:23,980 --> 00:36:25,640
+<i>Negative. Mission in jeopardy.</i>
+
+412
+00:36:25,820 --> 00:36:28,790
+<i>Override command statement to
+manual flight controls removed.</i>
+
+413
+00:36:28,950 --> 00:36:30,280
+- Why?
+- Negative, <i>Icarus</i>.
+
+414
+00:36:30,450 --> 00:36:32,120
+Negative. State reason immediately.
+
+415
+00:36:32,290 --> 00:36:34,720
+<i>Fire in oxygen garden.</i>
+
+416
+00:36:39,700 --> 00:36:40,960
+No.
+
+417
+00:36:43,800 --> 00:36:44,830
+Seal oxygen feed.
+
+418
+00:36:45,000 --> 00:36:47,970
+- Fireguard perimeter.
+- Sealing sector. Sealing feed.
+
+419
+00:36:50,510 --> 00:36:53,440
+- Seal sections five through nine.
+- Sealing five through nine.
+
+420
+00:36:56,610 --> 00:36:58,640
+Kaneda, Capa,
+get back to the airlock now.
+
+421
+00:36:58,820 --> 00:37:00,220
+Can't.
+
+422
+00:37:01,490 --> 00:37:03,920
+<i>Can't leave upright panels.</i>
+
+423
+00:37:04,460 --> 00:37:07,320
+<i>The ship will burn up if the shields
+are not repaired.</i>
+
+424
+00:37:07,490 --> 00:37:08,820
+- They're gonna die.
+- Don't.
+
+425
+00:37:08,990 --> 00:37:10,690
+- They're gonna burn.
+- They are not.
+
+426
+00:37:10,860 --> 00:37:12,450
+<i>Override</i> Icarus<i>. Cassie, pilot...</i>
+
+427
+00:37:12,630 --> 00:37:14,690
+<i>...emergency command 0-0-0.</i>
+
+428
+00:37:14,870 --> 00:37:16,660
+<i>Copy command 0-0-0.</i>
+
+429
+00:37:16,830 --> 00:37:19,460
+- <i>Second human confirmation required.</i>
+- Copy.
+
+430
+00:37:19,640 --> 00:37:20,660
+Mace?
+
+431
+00:37:21,370 --> 00:37:22,530
+Mace?
+
+432
+00:37:22,740 --> 00:37:23,760
+Wait, Cassie.
+
+433
+00:37:26,480 --> 00:37:27,810
+Jesus Christ, Harvey.
+
+434
+00:37:28,650 --> 00:37:31,510
+Harvey, comms officer,
+confirm back-up 0-0-0.
+
+435
+00:37:31,680 --> 00:37:33,150
+<i>Override command confirmed.</i>
+
+436
+00:37:33,320 --> 00:37:35,010
+<i>Manual control returned.</i>
+
+437
+00:37:35,190 --> 00:37:36,380
+No.
+
+438
+00:37:36,950 --> 00:37:38,350
+<i>Icarus</i>, continue procedure.
+
+439
+00:37:39,190 --> 00:37:40,250
+<i>What?</i>
+
+440
+00:37:40,830 --> 00:37:41,990
+<i>Captain.</i>
+
+441
+00:37:42,830 --> 00:37:45,160
+- Back me up.
+- <i>Copy, Mace.</i>
+
+442
+00:37:45,330 --> 00:37:47,700
+<i>Crew priority
+is to protect the payload.</i>
+
+443
+00:37:48,300 --> 00:37:49,730
+<i>Get the fire out.</i>
+
+444
+00:37:49,900 --> 00:37:52,300
+Icarus<i>, take control of the ship.</i>
+
+445
+00:37:52,900 --> 00:37:55,630
+- <i>Affirmative, captain.</i>
+- Damn it.
+
+446
+00:37:58,180 --> 00:38:01,470
+<i>Returning vessel to original rotation.</i>
+
+447
+00:38:16,830 --> 00:38:18,690
+- Let me in. Please.
+- <i>Negative.</i>
+
+448
+00:38:18,860 --> 00:38:21,300
+<i>Door sealed by operating superior
+comms officer.</i>
+
+449
+00:38:21,670 --> 00:38:23,060
+<i>You motherfucker.</i>
+
+450
+00:38:23,230 --> 00:38:24,360
+Let me in.
+
+451
+00:38:26,900 --> 00:38:29,030
+<i>Hazard diagnostic complete.</i>
+
+452
+00:38:29,210 --> 00:38:30,940
+<i>Sprinkler system failing.</i>
+
+453
+00:38:31,110 --> 00:38:33,410
+<i>Fire will burn for six hours.</i>
+
+454
+00:38:33,580 --> 00:38:35,880
+<i>Sixty percent chance
+of containment failure.</i>
+
+455
+00:38:36,050 --> 00:38:40,110
+<i>Seventy-five percent chance of collateral
+damage to life-support systems.</i>
+
+456
+00:38:40,320 --> 00:38:42,310
+What are we gonna do?
+
+457
+00:38:43,350 --> 00:38:45,220
+- Flood it with O2.
+- What?
+
+458
+00:38:45,390 --> 00:38:47,760
+It'll cause a flashover.
+Make it burn itself out.
+
+459
+00:38:47,930 --> 00:38:49,520
+We'll lose the whole garden.
+
+460
+00:38:49,690 --> 00:38:50,720
+We already lost it.
+
+461
+00:38:51,560 --> 00:38:53,260
+<i>Jesus, Mace, I don't know.</i>
+
+462
+00:38:53,730 --> 00:38:55,630
+<i>Icarus</i>, open the O2 tanks.
+
+463
+00:38:55,830 --> 00:38:57,430
+<i>Cory, get the hell out of there.</i>
+
+464
+00:38:57,600 --> 00:38:59,230
+<i>Opening O2 tanks.</i>
+
+465
+00:39:03,410 --> 00:39:05,140
+No.
+
+466
+00:39:21,490 --> 00:39:25,120
+<i>Eighty-nine percent of shield
+in full sunlight.</i>
+
+467
+00:39:43,610 --> 00:39:46,310
+<i>Capa, go back.</i>
+
+468
+00:39:46,580 --> 00:39:48,480
+<i>I'll finish this.</i>
+
+469
+00:39:48,650 --> 00:39:49,680
+Please, I can do this.
+
+470
+00:39:52,420 --> 00:39:53,980
+Go.
+
+471
+00:40:02,530 --> 00:40:04,500
+Capa returning to airlock.
+
+472
+00:40:04,670 --> 00:40:06,030
+Do you copy?
+
+473
+00:40:08,210 --> 00:40:11,330
+<i>Capa returning to airlock.
+Do you copy?</i>
+
+474
+00:40:11,510 --> 00:40:14,270
+<i>Copy, Capa. Hurry.</i>
+
+475
+00:40:15,610 --> 00:40:19,170
+<i>Ninety-one percent of shield
+in full sunlight.</i>
+
+476
+00:40:43,570 --> 00:40:47,310
+<i>Ninety-four percent of shield
+in full sunlight.</i>
+
+477
+00:40:52,950 --> 00:40:56,850
+Captain? Captain?
+I'm at the edge of the shield.
+
+478
+00:40:57,350 --> 00:40:58,950
+<i>Do you copy?</i>
+
+479
+00:40:59,390 --> 00:41:01,860
+Captain, you must leave now.
+Captain?
+
+480
+00:41:02,030 --> 00:41:05,330
+<i>Ninety-seven percent of shield
+in full sunlight.</i>
+
+481
+00:41:05,500 --> 00:41:08,560
+Final panel closing.
+The shield is secure.
+
+482
+00:41:08,730 --> 00:41:10,060
+You have to move now.
+
+483
+00:41:10,230 --> 00:41:12,730
+<i>Captain, it's right on you.</i>
+
+484
+00:41:12,900 --> 00:41:15,430
+- Kaneda's not gonna make it.
+- <i>You have to move.</i>
+
+485
+00:41:15,610 --> 00:41:17,570
+<i>You have to move now.</i>
+
+486
+00:41:17,740 --> 00:41:18,830
+It's too far.
+
+487
+00:41:20,340 --> 00:41:22,470
+<i>Captain, move.</i>
+
+488
+00:41:24,050 --> 00:41:25,570
+<i>Why isn't he moving?</i>
+
+489
+00:41:26,550 --> 00:41:27,710
+<i>Kaneda.</i>
+
+490
+00:41:27,890 --> 00:41:29,440
+What do you see?
+
+491
+00:41:29,620 --> 00:41:31,950
+<i>Searle, tell our captain to move.</i>
+
+492
+00:41:32,120 --> 00:41:35,220
+Kaneda, what can you see?
+
+493
+00:41:35,390 --> 00:41:37,190
+<i>Searle, do you copy?</i>
+
+494
+00:41:53,240 --> 00:41:54,510
+Kaneda?
+
+495
+00:42:25,610 --> 00:42:28,440
+<i>Shield rotation complete.</i>
+
+496
+00:42:54,510 --> 00:42:56,470
+The breakdown is as follows.
+
+497
+00:42:56,640 --> 00:42:58,470
+Trey is sedated in the Med Centre.
+
+498
+00:42:58,640 --> 00:43:01,300
+Dr. Searle has diagnosed him
+as a suicide risk.
+
+499
+00:43:02,850 --> 00:43:05,780
+I don't think any of us
+are about to question that diagnosis.
+
+500
+00:43:05,950 --> 00:43:09,720
+As second in command,
+I am now the captain of <i>Icarus II</i>.
+
+501
+00:43:09,890 --> 00:43:12,220
+Thanks both to Kaneda...
+
+502
+00:43:12,390 --> 00:43:15,450
+...and Capa, our shields are intact.
+
+503
+00:43:15,630 --> 00:43:17,890
+As is the payload.
+
+504
+00:43:18,400 --> 00:43:21,830
+But the oxygen garden
+is totally destroyed.
+
+505
+00:43:22,300 --> 00:43:26,170
+In addition, a large amount of O2
+was burned in the fire.
+
+506
+00:43:26,470 --> 00:43:27,900
+As it stands now...
+
+507
+00:43:29,040 --> 00:43:33,670
+...we don't have enough oxygen reserves
+to get us to our payload delivery point.
+
+508
+00:43:35,350 --> 00:43:37,680
+Let alone to survive
+the return journey.
+
+509
+00:43:37,850 --> 00:43:40,680
+So cancel the ticker-tape parade.
+
+510
+00:43:44,020 --> 00:43:48,120
+We now have no choice
+but to rendezvous with <i>Icarus I</i>.
+
+511
+00:43:49,060 --> 00:43:51,490
+If we're gonna complete
+the mission...
+
+512
+00:43:51,660 --> 00:43:54,360
+...the <i>Icarus I</i> is our only hope.
+
+513
+00:44:06,440 --> 00:44:09,070
+Technically, he made a mistake.
+
+514
+00:44:09,250 --> 00:44:10,840
+What are you trying to say, Cory?
+
+515
+00:44:11,010 --> 00:44:14,680
+Harvey said there's not enough oxygen
+to get us to the delivery point.
+
+516
+00:44:14,850 --> 00:44:16,880
+But there is.
+
+517
+00:44:18,190 --> 00:44:21,780
+There just isn't enough oxygen
+to get all of us there.
+
+518
+00:44:22,690 --> 00:44:25,360
+Are you suggesting
+we let Trey kill himself?
+
+519
+00:44:25,530 --> 00:44:27,090
+No.
+
+520
+00:44:28,170 --> 00:44:30,290
+And in any case...
+
+521
+00:44:30,800 --> 00:44:33,290
+...Trey wouldn't be enough.
+
+522
+00:44:34,400 --> 00:44:36,700
+We need to lose two more.
+
+523
+00:44:42,180 --> 00:44:45,270
+Three out of seven.
+That's a lot of short straws.
+
+524
+00:45:26,620 --> 00:45:28,920
+<i>Capa, it's me.</i>
+
+525
+00:45:34,500 --> 00:45:36,090
+It's different.
+
+526
+00:45:36,270 --> 00:45:39,430
+Being afraid
+that you won't make it back home.
+
+527
+00:45:40,100 --> 00:45:43,800
+And then knowing that you won't.
+
+528
+00:45:45,480 --> 00:45:48,470
+Our survival depends
+on what we can salvage from <i>Icarus I</i>.
+
+529
+00:45:48,650 --> 00:45:50,170
+No.
+
+530
+00:45:51,550 --> 00:45:52,780
+We're gonna die out here.
+
+531
+00:45:53,750 --> 00:45:55,880
+Like the other crew.
+
+532
+00:45:56,290 --> 00:45:58,020
+I know it.
+
+533
+00:46:00,060 --> 00:46:01,750
+So do you.
+
+534
+00:46:05,360 --> 00:46:06,450
+Are you scared?
+
+535
+00:46:15,510 --> 00:46:17,560
+When the stellar bomb is triggered...
+
+536
+00:46:18,780 --> 00:46:21,370
+...very little will happen at first.
+
+537
+00:46:21,710 --> 00:46:24,740
+<i>And then a spark
+will pop into existence...</i>
+
+538
+00:46:24,920 --> 00:46:28,780
+<i>...and it will hang for an instant,
+hovering in space. And then...</i>
+
+539
+00:46:30,220 --> 00:46:32,210
+...it will split into two.
+
+540
+00:46:32,390 --> 00:46:34,080
+And those will split again...
+
+541
+00:46:34,290 --> 00:46:36,160
+...and again and again.
+
+542
+00:46:40,430 --> 00:46:42,520
+Detonation beyond all imagining.
+
+543
+00:46:44,530 --> 00:46:46,160
+A big bang on a small scale.
+
+544
+00:46:46,340 --> 00:46:48,300
+A new star born out of a dying one.
+
+545
+00:46:50,540 --> 00:46:52,670
+I think it'll be beautiful.
+
+546
+00:46:53,740 --> 00:46:55,800
+No. I'm not scared.
+
+547
+00:47:00,920 --> 00:47:02,510
+I am.
+
+548
+00:47:51,130 --> 00:47:53,730
+<i>Searle, Capa, they're waiting for you.</i>
+
+549
+00:47:53,900 --> 00:47:55,930
+Okay, let's go.
+
+550
+00:49:42,550 --> 00:49:45,070
+Be careful, watch your step.
+
+551
+00:49:49,490 --> 00:49:51,510
+Cassie, are you getting this
+on the feed?
+
+552
+00:49:51,690 --> 00:49:53,180
+<i>Getting what?</i>
+
+553
+00:49:53,720 --> 00:49:57,020
+The air. It's full of dust.
+
+554
+00:49:57,190 --> 00:49:58,860
+Human skin.
+
+555
+00:49:59,030 --> 00:50:00,120
+What?
+
+556
+00:50:00,300 --> 00:50:03,560
+Eighty percent of all dust
+is human skin.
+
+557
+00:50:08,510 --> 00:50:10,200
+Sorry.
+
+558
+00:50:14,810 --> 00:50:16,240
+- No lights?
+- No.
+
+559
+00:50:16,410 --> 00:50:17,640
+No surprise.
+
+560
+00:50:19,150 --> 00:50:21,620
+Anyone afraid of the dark?
+
+561
+00:50:22,520 --> 00:50:23,540
+We should split up.
+
+562
+00:50:23,720 --> 00:50:26,310
+I'm not sure that's such a good idea.
+
+563
+00:50:26,820 --> 00:50:28,150
+Yeah, probably right.
+
+564
+00:50:28,330 --> 00:50:31,490
+Might get picked off one at a time
+by aliens.
+
+565
+00:50:31,660 --> 00:50:35,100
+<i>Icarus I</i> is a big ship. We can't search it
+effectively in one group.
+
+566
+00:50:35,270 --> 00:50:37,670
+Okay. You're right.
+
+567
+00:50:39,040 --> 00:50:42,230
+Mace, head up for the Flight Deck,
+see if you can't get her to fly.
+
+568
+00:50:44,140 --> 00:50:46,900
+Searle, check the social area
+and the sleeping quarters.
+
+569
+00:50:47,080 --> 00:50:48,940
+Capa, aim for the payload.
+
+570
+00:50:50,480 --> 00:50:52,680
+I'll check the garden.
+
+571
+00:50:52,950 --> 00:50:55,580
+Let's keep in contact, guys.
+
+572
+00:51:33,360 --> 00:51:35,720
+Listen up, everybody.
+
+573
+00:51:36,330 --> 00:51:39,960
+You gotta see this.
+Seven years of unchecked growth.
+
+574
+00:51:41,530 --> 00:51:43,520
+<i>Can you see this?</i>
+
+575
+00:51:43,830 --> 00:51:46,960
+<i>It's an ecosystem working beautifully
+after all this time.</i>
+
+576
+00:51:47,140 --> 00:51:49,370
+You seeing this readout,
+O2, everybody.
+
+577
+00:51:50,310 --> 00:51:51,330
+It's wonderful.
+
+578
+00:51:51,810 --> 00:51:52,830
+<i>Oh, my God.</i>
+
+579
+00:51:53,010 --> 00:51:54,910
+<i>Cory, look at the ferns.</i>
+
+580
+00:52:11,030 --> 00:52:13,190
+That's strange.
+
+581
+00:52:13,630 --> 00:52:16,190
+Subsystems are fine.
+Solar harvest is fine.
+
+582
+00:52:16,370 --> 00:52:20,270
+The ship should be running except I'm
+getting nothing from the flight computer.
+
+583
+00:52:27,280 --> 00:52:28,340
+Got water.
+
+584
+00:52:32,280 --> 00:52:33,770
+Food.
+
+585
+00:52:39,960 --> 00:52:41,690
+No crew.
+
+586
+00:52:42,290 --> 00:52:43,420
+No bodies.
+
+587
+00:52:51,030 --> 00:52:52,870
+My God.
+
+588
+00:52:53,940 --> 00:52:56,370
+You can hardly walk, it's so thick.
+
+589
+00:53:00,040 --> 00:53:03,040
+<i>I am Pinbacker.</i>
+
+590
+00:53:04,950 --> 00:53:07,250
+<i>Commander of the</i> Icarus I<i>.</i>
+
+591
+00:53:10,990 --> 00:53:13,750
+<i>We have abandoned our mission.</i>
+
+592
+00:53:14,920 --> 00:53:17,720
+<i>Our star is dying.</i>
+
+593
+00:53:19,260 --> 00:53:21,750
+<i>All our science...</i>
+
+594
+00:53:23,300 --> 00:53:25,560
+<i>...all our hopes...</i>
+
+595
+00:53:26,970 --> 00:53:30,570
+<i>...our dreams, are foolish.</i>
+
+596
+00:53:31,340 --> 00:53:33,610
+<i>In the face of this...</i>
+
+597
+00:53:34,440 --> 00:53:36,140
+<i>...we are...</i>
+
+598
+00:53:36,910 --> 00:53:40,610
+<i>...dust. Nothing more.</i>
+
+599
+00:53:41,080 --> 00:53:45,990
+<i>And to this dust, we will return.</i>
+
+600
+00:53:49,260 --> 00:53:55,130
+<i>When he chooses for us to die.</i>
+
+601
+00:53:55,300 --> 00:53:57,530
+<i>It is not our place...</i>
+
+602
+00:53:58,540 --> 00:54:01,300
+<i>...to challenge God.</i>
+
+603
+00:54:05,280 --> 00:54:07,180
+Okay, that make sense to anyone?
+
+604
+00:54:07,340 --> 00:54:10,800
+Transmission code is six
+and a half years ago.
+
+605
+00:54:12,880 --> 00:54:15,280
+<i>That would be after they entered
+the non-com zone.</i>
+
+606
+00:54:16,250 --> 00:54:19,450
+That should be the time they
+were supposed to deliver the payload.
+
+607
+00:54:36,270 --> 00:54:38,830
+<i>Payload is fully operational.</i>
+
+608
+00:54:39,010 --> 00:54:40,200
+Say again, Capa?
+
+609
+00:54:40,380 --> 00:54:43,070
+The payload is fully operational.
+It's A-okay.
+
+610
+00:54:45,080 --> 00:54:48,050
+That's great news.
+Looks like we got what we came for.
+
+611
+00:54:48,220 --> 00:54:49,850
+No, we don't.
+
+612
+00:54:50,020 --> 00:54:51,580
+<i>Go ahead, Mace?</i>
+
+613
+00:54:51,790 --> 00:54:54,220
+I know what caused
+the distress signal.
+
+614
+00:54:54,690 --> 00:54:57,920
+<i>There's a coolant failure of some kind.
+The bottom line is...</i>
+
+615
+00:54:58,090 --> 00:55:01,000
+<i>...it doesn't matter that Capa
+has his payload.</i>
+
+616
+00:55:01,160 --> 00:55:03,600
+<i>Without the mainframe, we can't fly.</i>
+
+617
+00:55:05,000 --> 00:55:07,200
+<i>It's been sabotaged.</i>
+
+618
+00:55:10,610 --> 00:55:12,840
+We should never have
+gone off the mission.
+
+619
+00:55:30,890 --> 00:55:33,060
+I have something to say.
+
+620
+00:55:34,860 --> 00:55:35,920
+Found the crew.
+
+621
+00:55:57,490 --> 00:55:59,250
+What happened?
+
+622
+00:56:01,120 --> 00:56:02,720
+They had an epiphany.
+
+623
+00:56:03,730 --> 00:56:04,780
+They saw the light.
+
+624
+00:56:05,900 --> 00:56:07,890
+They burned themselves.
+
+625
+00:56:08,060 --> 00:56:09,400
+No shit.
+
+626
+00:56:09,570 --> 00:56:12,930
+I suspect the observation filter
+is fully open.
+
+627
+00:56:13,100 --> 00:56:18,400
+If we weren't behind the screen
+of <i>Icarus II</i>, we'd join them.
+
+628
+00:56:18,980 --> 00:56:20,370
+Ashes to ashes.
+
+629
+00:56:22,650 --> 00:56:24,740
+Stardust to stardust.
+
+630
+00:56:25,680 --> 00:56:26,740
+<i>Icarus!</i>
+
+631
+00:56:32,090 --> 00:56:33,610
+<i>Icarus</i>. Stabilizers.
+
+632
+00:56:40,030 --> 00:56:42,930
+- What was that?
+- Guys, get back to the airlock, now.
+
+633
+00:56:48,340 --> 00:56:49,970
+<i>We have a major incident.</i>
+
+634
+00:56:50,140 --> 00:56:51,940
+<i>We are floating free from you.</i>
+
+635
+00:56:52,110 --> 00:56:53,840
+<i>Repeat, we are floating free.</i>
+
+636
+00:56:54,540 --> 00:56:55,940
+<i>All crew back to the airlock.</i>
+
+637
+00:57:08,420 --> 00:57:10,050
+- Cassie.
+- <i>The airlock has decoupled.</i>
+
+638
+00:57:10,230 --> 00:57:11,780
+<i>We don't know why.</i>
+
+639
+00:57:11,960 --> 00:57:14,620
+<i>The locking system on</i> Icarus I
+<i>is totally ripped open.</i>
+
+640
+00:57:14,800 --> 00:57:17,990
+I can hold our position but we aren't
+gonna be able to dock again.
+
+641
+00:57:18,170 --> 00:57:19,500
+<i>There's another thing, guys.</i>
+
+642
+00:57:19,670 --> 00:57:22,540
+<i>You've got a breach, I can see it.
+You're losing atmosphere.</i>
+
+643
+00:57:23,310 --> 00:57:24,330
+We're screwed.
+
+644
+00:57:25,340 --> 00:57:26,370
+No, we're not.
+
+645
+00:57:32,880 --> 00:57:34,440
+One of us isn't, anyway.
+
+646
+00:57:52,670 --> 00:57:53,690
+What happened?
+
+647
+00:57:53,870 --> 00:57:56,860
+Airlock's destroyed.
+There's only one suit. Capa's taking it.
+
+648
+00:58:05,420 --> 00:58:07,850
+- Why Capa?
+- The rest of us are lower priority.
+
+649
+00:58:08,020 --> 00:58:09,420
+I'm not a low priority.
+
+650
+00:58:09,590 --> 00:58:12,420
+You're a comms officer on a ship
+that has no communication.
+
+651
+00:58:12,590 --> 00:58:13,750
+I am the captain.
+
+652
+00:58:14,720 --> 00:58:16,990
+The mission needs a captain
+to hold it together.
+
+653
+00:58:18,260 --> 00:58:22,100
+Harvey, Capa's the only person outside
+of <i>Icarus</i> who can operate the payload.
+
+654
+00:58:22,600 --> 00:58:23,690
+There is no choice.
+
+655
+00:58:23,870 --> 00:58:25,390
+No, there's no choice for you.
+
+656
+00:58:25,570 --> 00:58:28,400
+Capa, I order you to remove that suit.
+
+657
+00:58:31,740 --> 00:58:33,610
+Get out of the suit.
+
+658
+00:58:36,950 --> 00:58:39,940
+That is a direct order.
+
+659
+00:58:42,650 --> 00:58:47,420
+I assure you, when I'm onboard <i>Icarus II</i>
+that I'll do everything within my power--
+
+660
+00:58:47,590 --> 00:58:50,150
+To what?
+Shuttle back with more suits?
+
+661
+00:58:50,330 --> 00:58:51,880
+The airlock is ripped in half.
+
+662
+00:58:52,060 --> 00:58:55,760
+Once we break that seal,
+how are we gonna re-pressurize?
+
+663
+00:59:02,440 --> 00:59:03,910
+Cassie.
+
+664
+00:59:04,640 --> 00:59:06,070
+Go.
+
+665
+00:59:06,240 --> 00:59:09,230
+<i>Listen. We can't depressurize
+when we open the airlock.</i>
+
+666
+00:59:09,410 --> 00:59:12,280
+<i>So the force of the gas
+is gonna fire him out, right?</i>
+
+667
+00:59:12,820 --> 00:59:13,840
+Right.
+
+668
+00:59:14,050 --> 00:59:17,350
+<i>If you open your airlock and
+we line it up right, he'll fire inside.</i>
+
+669
+00:59:19,290 --> 00:59:20,310
+And so will we.
+
+670
+00:59:23,660 --> 00:59:24,680
+Without suits?
+
+671
+00:59:26,260 --> 00:59:28,990
+- Get as close as you can.
+- You'll have 20 meters to cover.
+
+672
+00:59:29,170 --> 00:59:31,790
+At minus 273 degrees Celsius.
+
+673
+00:59:33,940 --> 00:59:35,770
+It's gonna be cold.
+
+674
+00:59:36,210 --> 00:59:38,110
+But we'll make it.
+
+675
+00:59:40,610 --> 00:59:42,310
+Anyone got any better ideas?
+
+676
+00:59:47,520 --> 00:59:48,850
+Copy that.
+
+677
+01:00:05,370 --> 01:00:07,030
+Mace.
+
+678
+01:00:07,600 --> 01:00:09,470
+One problem.
+
+679
+01:00:10,010 --> 01:00:11,970
+The computer's down.
+
+680
+01:00:12,140 --> 01:00:15,700
+One of us has to manually
+operate the seal.
+
+681
+01:00:16,010 --> 01:00:17,880
+From inside.
+
+682
+01:00:18,920 --> 01:00:21,040
+Shit.
+
+683
+01:00:23,250 --> 01:00:25,050
+You're right.
+
+684
+01:00:25,220 --> 01:00:29,250
+So, whatever happens,
+one of us is staying behind.
+
+685
+01:00:31,860 --> 01:00:34,390
+I see. I get it.
+
+686
+01:00:34,560 --> 01:00:37,900
+It's me.
+That's what you're all thinking?
+
+687
+01:00:40,570 --> 01:00:42,060
+No, Harvey.
+
+688
+01:00:42,240 --> 01:00:43,260
+It's me.
+
+689
+01:01:04,190 --> 01:01:05,720
+You okay?
+
+690
+01:01:07,200 --> 01:01:08,790
+Hey, Capa.
+
+691
+01:01:09,200 --> 01:01:10,790
+We're only stardust.
+
+692
+01:01:24,310 --> 01:01:25,940
+<i>Mace, we're lined up.</i>
+
+693
+01:01:26,120 --> 01:01:28,240
+<i>Everything's set.</i>
+
+694
+01:01:33,220 --> 01:01:34,810
+Searle, are you ready?
+
+695
+01:01:37,790 --> 01:01:40,890
+All right.
+We only got one shot at this.
+
+696
+01:01:41,060 --> 01:01:42,090
+Cassie.
+
+697
+01:01:42,700 --> 01:01:44,500
+- <i>Are you ready?</i>
+- Ready.
+
+698
+01:01:44,700 --> 01:01:48,400
+Harvey, keep your eyes shut
+and exhale slowly.
+
+699
+01:01:48,570 --> 01:01:49,700
+Copy.
+
+700
+01:01:53,840 --> 01:01:55,310
+Let's do it.
+
+701
+01:02:42,120 --> 01:02:43,790
+<i>Crew detected in airlock.</i>
+
+702
+01:02:44,260 --> 01:02:46,490
+<i>Recommend sealing
+outer airlock door.</i>
+
+703
+01:02:46,660 --> 01:02:49,220
+<i>I lost Harvey. I lost Harvey.</i>
+
+704
+01:02:49,400 --> 01:02:51,890
+- <i>Harvey's gone.</i>
+- <i>Crew detected in airlock.</i>
+
+705
+01:02:52,640 --> 01:02:54,830
+<i>Sealing outer airlock door.</i>
+
+706
+01:03:31,010 --> 01:03:32,410
+Breathe, Mace. Just breathe.
+
+707
+01:03:32,580 --> 01:03:33,740
+Get my hand. Get my hand.
+
+708
+01:03:33,910 --> 01:03:35,340
+- Breathe, Mace.
+- Capa?
+
+709
+01:03:35,510 --> 01:03:38,340
+You're okay, Mace. You're okay, Mace.
+Please, breathe.
+
+710
+01:03:56,700 --> 01:04:00,070
+- Capa, are you all right?
+- Yeah. Yeah.
+
+711
+01:04:01,640 --> 01:04:03,540
+Let's get you out of here.
+
+712
+01:04:45,920 --> 01:04:47,610
+<i>Searle?</i>
+
+713
+01:04:48,420 --> 01:04:50,250
+<i>We're leaving now.</i>
+
+714
+01:04:54,590 --> 01:04:56,790
+<i>We're gonna complete the mission.</i>
+
+715
+01:04:58,590 --> 01:05:00,790
+<i>We're all thinking of you, Searle.</i>
+
+716
+01:05:02,130 --> 01:05:03,190
+<i>Searle?</i>
+
+717
+01:05:04,270 --> 01:05:06,170
+<i>We're gonna go now.</i>
+
+718
+01:05:11,840 --> 01:05:13,040
+<i>We love you.</i>
+
+719
+01:05:41,300 --> 01:05:43,860
+I've been through <i>Icarus's</i> activity file
+and I checked it.
+
+720
+01:05:44,040 --> 01:05:46,200
+Double-checked it.
+Cory triple-checked it.
+
+721
+01:05:46,380 --> 01:05:48,740
+And it's the same results.
+
+722
+01:05:49,810 --> 01:05:53,510
+In other words, unless <i>Icarus</i> is deleting
+her own files, she didn't do it.
+
+723
+01:05:53,680 --> 01:05:56,810
+And there was no malfunction
+on the airlock hardware.
+
+724
+01:05:56,990 --> 01:06:00,440
+Which means the airlock
+was decoupled manually.
+
+725
+01:06:01,520 --> 01:06:03,720
+Cassie and I were on the Flight Deck.
+
+726
+01:06:03,890 --> 01:06:05,880
+And I was with Capa and Searle.
+
+727
+01:06:06,360 --> 01:06:09,890
+And I think we can all assume
+it wasn't Harvey.
+
+728
+01:06:10,370 --> 01:06:12,700
+Which leaves one possibility.
+
+729
+01:06:14,270 --> 01:06:15,330
+Trey.
+
+730
+01:06:15,500 --> 01:06:18,170
+Trey is so doped up
+he can hardly walk or feed himself.
+
+731
+01:06:18,340 --> 01:06:22,040
+He sleeps for 23 hours a day.
+And he blames himself for everything.
+
+732
+01:06:22,210 --> 01:06:23,770
+- Why would he do it?
+- We don't know.
+
+733
+01:06:23,980 --> 01:06:27,710
+The possibility remains that it was
+him and we gotta take that seriously.
+
+734
+01:06:27,880 --> 01:06:29,210
+By doping him up more?
+
+735
+01:06:29,890 --> 01:06:34,450
+This isn't just about the possibility
+whether he sabotaged the airlock.
+
+736
+01:06:34,620 --> 01:06:36,890
+There is something else too.
+
+737
+01:06:40,060 --> 01:06:44,590
+When Searle and Harvey died,
+we lost two breathers.
+
+738
+01:06:45,370 --> 01:06:47,360
+If Trey dies...
+
+739
+01:06:48,400 --> 01:06:51,810
+...we'll have the oxygen
+to make it to the delivery point.
+
+740
+01:06:52,010 --> 01:06:54,200
+At least now we know what happened
+on <i>Icarus I</i>.
+
+741
+01:06:54,380 --> 01:06:57,640
+- The same thing that's happening here.
+- Fuck you, Capa.
+
+742
+01:06:57,810 --> 01:07:01,010
+What are you trying to remind us of?
+Our lost humanity?
+
+743
+01:07:06,390 --> 01:07:07,410
+I'll do it.
+
+744
+01:07:09,230 --> 01:07:11,160
+I'm not passing any bucks.
+
+745
+01:07:11,890 --> 01:07:13,660
+Do it how?
+
+746
+01:07:15,230 --> 01:07:17,390
+That's between me and Trey.
+
+747
+01:07:20,240 --> 01:07:23,070
+We'll have a vote this time.
+Unanimous decision required.
+
+748
+01:07:24,070 --> 01:07:26,740
+So you know where I stand.
+
+749
+01:07:33,950 --> 01:07:34,970
+And me.
+
+750
+01:07:38,420 --> 01:07:40,320
+What are you asking?
+
+751
+01:07:40,990 --> 01:07:44,150
+That we weigh the life of one
+against the future of mankind?
+
+752
+01:07:48,930 --> 01:07:50,190
+Kill him.
+
+753
+01:07:50,930 --> 01:07:52,490
+Cassie?
+
+754
+01:07:56,510 --> 01:07:58,000
+No.
+
+755
+01:08:01,480 --> 01:08:04,640
+- Cassie.
+- I know the argument.
+
+756
+01:08:04,810 --> 01:08:06,870
+I know the logic.
+
+757
+01:08:07,820 --> 01:08:09,810
+You're saying you need my vote.
+
+758
+01:08:09,990 --> 01:08:12,480
+I'm saying you can't have it.
+
+759
+01:08:21,130 --> 01:08:22,960
+What do we do?
+
+760
+01:08:29,240 --> 01:08:31,370
+Oh, God.
+
+761
+01:08:33,180 --> 01:08:34,900
+I'm sorry, Cassie.
+
+762
+01:08:40,750 --> 01:08:43,240
+You make it easy for him.
+
+763
+01:08:44,690 --> 01:08:46,420
+Somehow.
+
+764
+01:08:47,060 --> 01:08:49,320
+Find a kindness.
+
+765
+01:09:53,460 --> 01:09:55,180
+Trey.
+
+766
+01:09:58,890 --> 01:10:01,560
+<i>Everybody get here now.</i>
+
+767
+01:10:17,850 --> 01:10:18,900
+He cut his wrists.
+
+768
+01:10:19,080 --> 01:10:21,280
+He took responsibility.
+
+769
+01:10:24,790 --> 01:10:26,760
+All these deaths.
+
+770
+01:10:26,920 --> 01:10:28,360
+Kaneda.
+
+771
+01:10:28,520 --> 01:10:30,990
+Searle. Harvey.
+
+772
+01:10:31,160 --> 01:10:32,630
+Trey.
+
+773
+01:10:33,430 --> 01:10:36,920
+None of them would have happened
+if you hadn't diverted the mission.
+
+774
+01:10:38,730 --> 01:10:41,530
+- What do you want me to say?
+- I don't want you to say shit.
+
+775
+01:10:41,740 --> 01:10:44,870
+I just want you to know that this...
+
+776
+01:10:45,040 --> 01:10:47,030
+...belongs here.
+
+777
+01:10:49,550 --> 01:10:51,170
+Fuck you.
+
+778
+01:11:10,900 --> 01:11:14,630
+Air is low.
+We need to limit our exertions.
+
+779
+01:11:48,400 --> 01:11:50,560
+- <i>Icarus?</i>
+- <i>Yes, Capa?</i>
+
+780
+01:11:50,740 --> 01:11:53,370
+Run an update on biometric signs
+for all crew.
+
+781
+01:11:53,540 --> 01:11:56,030
+Check oxygen consumption.
+
+782
+01:11:56,680 --> 01:11:58,340
+<i>Checking.</i>
+
+783
+01:11:58,910 --> 01:12:00,610
+Thank you.
+
+784
+01:12:02,020 --> 01:12:03,750
+<i>Capa.</i>
+
+785
+01:12:03,920 --> 01:12:05,720
+- Yes?
+- <i>You are dying.</i>
+
+786
+01:12:06,360 --> 01:12:07,950
+<i>All crew are dying.</i>
+
+787
+01:12:08,120 --> 01:12:09,950
+We know we're dying.
+
+788
+01:12:10,360 --> 01:12:13,890
+As long as we can live long enough
+to deliver the payload...
+
+789
+01:12:14,060 --> 01:12:15,260
+...we're okay with it.
+
+790
+01:12:15,430 --> 01:12:18,020
+<i>Capa, warning.</i>
+
+791
+01:12:18,200 --> 01:12:21,140
+<i>You will not live long enough
+to deliver the payload.</i>
+
+792
+01:12:23,940 --> 01:12:25,960
+Please clarify.
+
+793
+01:12:26,140 --> 01:12:29,910
+<i>Twelve hours before crew will be unable
+to perform complex tasks.</i>
+
+794
+01:12:30,080 --> 01:12:33,740
+<i>Fourteen hours before crew will
+be unable to perform basic tasks.</i>
+
+795
+01:12:33,920 --> 01:12:35,710
+<i>Sixteen hours until death.</i>
+
+796
+01:12:35,880 --> 01:12:37,370
+<i>Journey time to delivery point:</i>
+
+797
+01:12:37,550 --> 01:12:39,950
+- <i>Nineteen hours.</i>
+- Impossible. Corazon was certain.
+
+798
+01:12:40,120 --> 01:12:42,450
+We have remaining oxygen
+to keep four crew alive.
+
+799
+01:12:42,620 --> 01:12:45,560
+<i>Affirmative. Four crew could
+survive on current reserves--</i>
+
+800
+01:12:45,730 --> 01:12:48,090
+Trey is dead.
+There are only four crew members.
+
+801
+01:12:48,260 --> 01:12:49,290
+<i>Negative.</i>
+
+802
+01:12:49,460 --> 01:12:52,400
+Affirmative, <i>Icarus</i>. Four crew:
+Mace, Cassie, Corazon and me.
+
+803
+01:12:52,570 --> 01:12:54,590
+<i>Five crew members.</i>
+
+804
+01:13:00,080 --> 01:13:01,600
+<i>Icarus?</i>
+
+805
+01:13:01,780 --> 01:13:03,370
+<i>Yes?</i>
+
+806
+01:13:05,880 --> 01:13:07,180
+Who's the fifth crew member?
+
+807
+01:13:08,450 --> 01:13:10,180
+<i>Unknown.</i>
+
+808
+01:13:12,520 --> 01:13:14,850
+Where is the fifth crew member?
+
+809
+01:13:15,020 --> 01:13:17,820
+<i>In the Observation Room.</i>
+
+810
+01:13:56,700 --> 01:13:59,030
+Are you an angel?
+
+811
+01:14:01,540 --> 01:14:03,560
+Has the time come?
+
+812
+01:14:07,240 --> 01:14:10,040
+I've been waiting so long.
+
+813
+01:14:16,990 --> 01:14:18,710
+Who are you?
+
+814
+01:14:20,490 --> 01:14:22,050
+Who am I?
+
+815
+01:14:28,560 --> 01:14:30,960
+At the end of time...
+
+816
+01:14:31,700 --> 01:14:35,730
+...a moment will come
+when just one man remains.
+
+817
+01:14:37,410 --> 01:14:39,270
+Then the moment will pass.
+
+818
+01:14:41,680 --> 01:14:44,110
+The man will be gone.
+
+819
+01:14:47,020 --> 01:14:50,780
+There will be nothing to show
+as if we were ever here...
+
+820
+01:14:51,790 --> 01:14:54,190
+...but stardust.
+
+821
+01:14:56,220 --> 01:15:00,890
+The last man, alone with God.
+
+822
+01:15:03,870 --> 01:15:06,360
+Am I that man?
+
+823
+01:15:20,620 --> 01:15:22,240
+My God.
+
+824
+01:15:25,250 --> 01:15:28,280
+My God, Pinbacker?
+
+825
+01:15:29,220 --> 01:15:31,420
+Not your God.
+
+826
+01:15:31,590 --> 01:15:33,250
+Mine.
+
+827
+01:15:46,940 --> 01:15:48,770
+<i>Icarus</i>. Full sunlight.
+
+828
+01:16:05,990 --> 01:16:07,050
+Anyone.
+
+829
+01:17:02,720 --> 01:17:04,240
+Oh, my God.
+
+830
+01:17:04,690 --> 01:17:05,710
+<i>Icarus?</i>
+
+831
+01:17:12,630 --> 01:17:15,430
+<i>Warning, you do not have
+authority to remove...</i>
+
+832
+01:17:15,630 --> 01:17:17,890
+<i>...the mainframe panels
+from the coolant.</i>
+
+833
+01:17:18,070 --> 01:17:20,830
+<i>Please return the panels
+to the coolant.</i>
+
+834
+01:17:21,000 --> 01:17:24,730
+<i>I cannot locate
+your biometric signs.</i>
+
+835
+01:17:24,940 --> 01:17:28,210
+<i>Please identify yourself.</i>
+
+836
+01:17:50,870 --> 01:17:53,600
+You gotta be kidding.
+
+837
+01:18:10,450 --> 01:18:12,550
+My God.
+
+838
+01:18:20,830 --> 01:18:22,800
+A baby.
+
+839
+01:18:24,770 --> 01:18:26,390
+A beautiful baby.
+
+840
+01:18:26,570 --> 01:18:29,060
+<i>Icarus</i>, patch me through to Mace.
+I have something...
+
+841
+01:18:29,240 --> 01:18:30,760
+...wonderful to show him.
+
+842
+01:18:30,940 --> 01:18:33,430
+Or Cassie or Capa.
+
+843
+01:18:34,240 --> 01:18:35,900
+<i>Icarus?</i>
+
+844
+01:18:40,820 --> 01:18:42,720
+Don't fight.
+
+845
+01:18:44,020 --> 01:18:45,920
+Don't fight.
+
+846
+01:19:18,120 --> 01:19:19,850
+Mace?
+
+847
+01:19:55,360 --> 01:19:56,480
+Capa?
+
+848
+01:19:57,830 --> 01:20:00,520
+Is anyone else getting silence
+from <i>Icarus?</i>
+
+849
+01:20:03,030 --> 01:20:05,000
+Anybody?
+
+850
+01:20:20,120 --> 01:20:21,880
+Capa?
+
+851
+01:20:51,380 --> 01:20:53,940
+<i>Icarus</i>, why are we in orbit?
+
+852
+01:20:56,620 --> 01:20:57,850
+Respond.
+
+853
+01:21:01,160 --> 01:21:02,210
+What?
+
+854
+01:21:02,390 --> 01:21:03,550
+Jesus Christ.
+
+855
+01:21:04,290 --> 01:21:05,950
+Capa? Capa?
+
+856
+01:21:09,660 --> 01:21:10,930
+<i>In the suit.</i>
+
+857
+01:21:11,100 --> 01:21:12,570
+<i>Use the hard link.</i>
+
+858
+01:21:12,730 --> 01:21:13,830
+<i>In the helmet.</i>
+
+859
+01:21:14,000 --> 01:21:15,590
+Mace?
+
+860
+01:21:19,370 --> 01:21:21,100
+- <i>What the hell is going on?</i>
+- Mace?
+
+861
+01:21:21,280 --> 01:21:22,970
+I can't talk to <i>Icarus</i>.
+
+862
+01:21:23,140 --> 01:21:26,480
+<i>Pinbacker is onboard.
+He's trying to stop the mission.</i>
+
+863
+01:21:26,650 --> 01:21:29,480
+<i>He's trying to destroy the mission.
+He's insane.</i>
+
+864
+01:21:41,700 --> 01:21:43,660
+<i>Mace, listen.
+I'm locked in the airlock.</i>
+
+865
+01:21:43,830 --> 01:21:46,770
+Jesus Christ.
+The mainframe is out of the coolant.
+
+866
+01:21:52,470 --> 01:21:54,030
+The mechanism is disabled.
+
+867
+01:21:54,210 --> 01:21:55,970
+I can't lower the mainframe panels.
+
+868
+01:21:56,140 --> 01:21:58,010
+Mace, repeat, please.
+
+869
+01:21:59,480 --> 01:22:01,540
+<i>Icarus</i> is gonna burn out.
+
+870
+01:22:04,550 --> 01:22:05,610
+Mace.
+
+871
+01:22:05,820 --> 01:22:07,520
+<i>Mace, come in.</i>
+
+872
+01:24:34,600 --> 01:24:36,160
+Come on.
+
+873
+01:24:41,010 --> 01:24:42,500
+<i>Capa.</i>
+
+874
+01:24:42,680 --> 01:24:43,700
+- <i>Capa.</i>
+- Mace?
+
+875
+01:24:44,450 --> 01:24:46,940
+We're in orbit. The computer is down.
+
+876
+01:24:47,820 --> 01:24:50,980
+<i>I don't know if I can get her
+back online.</i>
+
+877
+01:24:51,150 --> 01:24:54,950
+<i>You have to break us out
+of orbit manually.</i>
+
+878
+01:24:55,120 --> 01:24:56,680
+<i>The only way to do that...</i>
+
+879
+01:24:56,860 --> 01:24:59,830
+...is separate the payload.
+Do you get it, Capa?
+
+880
+01:24:59,990 --> 01:25:02,790
+<i>Force the bomb into the sun.</i>
+
+881
+01:25:03,600 --> 01:25:05,030
+Separate the payload.
+
+882
+01:25:05,530 --> 01:25:10,060
+You'll have to get to the bomb
+and detonate manually.
+
+883
+01:25:10,240 --> 01:25:12,730
+Unlock the airlock, do you copy?
+Unlock the airlock.
+
+884
+01:25:13,310 --> 01:25:17,010
+I don't know how, just do it.
+Just do it.
+
+885
+01:25:18,210 --> 01:25:19,840
+<i>Okay.</i>
+
+886
+01:25:20,210 --> 01:25:22,550
+<i>I'm gonna do this.</i>
+
+887
+01:25:23,420 --> 01:25:25,010
+Copy, Mace.
+
+888
+01:25:26,490 --> 01:25:28,180
+Copy.
+
+889
+01:26:25,050 --> 01:26:26,410
+Capa.
+
+890
+01:26:26,580 --> 01:26:28,610
+My leg.
+
+891
+01:26:42,760 --> 01:26:44,460
+Oh, God.
+
+892
+01:26:51,840 --> 01:26:54,100
+Do it, Capa.
+
+893
+01:26:59,280 --> 01:27:00,800
+Do it.
+
+894
+01:27:07,020 --> 01:27:08,080
+Mace.
+
+895
+01:31:50,070 --> 01:31:51,600
+Come on.
+
+896
+01:32:49,300 --> 01:32:51,320
+<i>Only dream I ever have.</i>
+
+897
+01:32:51,630 --> 01:32:53,100
+<i>Is it the surface of the sun?</i>
+
+898
+01:32:54,500 --> 01:32:57,840
+<i>Every time I shut my eyes
+it's always the same.</i>
+
+899
+01:34:59,930 --> 01:35:01,550
+Cassie?
+
+900
+01:35:10,070 --> 01:35:11,660
+Cassie?
+
+901
+01:35:11,840 --> 01:35:13,100
+We're flying into the sun.
+
+902
+01:35:16,940 --> 01:35:19,110
+Cassie, there's not much time.
+I need to know.
+
+903
+01:35:19,280 --> 01:35:20,750
+Where is he? Is he here?
+
+904
+01:35:27,250 --> 01:35:31,090
+For seven years I spoke with God.
+
+905
+01:35:38,500 --> 01:35:42,030
+He told me to take us all to heaven.
+
+906
+01:35:48,740 --> 01:35:50,300
+No.
+
+907
+01:36:33,890 --> 01:36:35,550
+Finish it.
+
+908
+01:37:54,570 --> 01:37:55,870
+Let's say 25. Set at 25.
+
+909
+01:38:08,320 --> 01:38:09,510
+Please.
+
+910
+01:38:09,680 --> 01:38:11,150
+Please.
+
+911
+01:40:02,100 --> 01:40:04,890
+<i>Hi, sis.</i>
+
+912
+01:40:05,870 --> 01:40:07,930
+<i>Kiss the kids.</i>
+
+913
+01:40:16,810 --> 01:40:17,940
+You guys, come on.
+
+914
+01:40:18,650 --> 01:40:20,440
+It's time.
+
+915
+01:40:25,890 --> 01:40:27,750
+<i>So if you wake up one morning...</i>
+
+916
+01:40:27,920 --> 01:40:32,320
+<i>...and it's a particularly beautiful day,
+you'll know we made it.</i>
+
+917
+01:40:34,900 --> 01:40:36,450
+<i>Okay.</i>
+
+918
+01:40:36,730 --> 01:40:38,630
+<i>I'm signing out.</i>

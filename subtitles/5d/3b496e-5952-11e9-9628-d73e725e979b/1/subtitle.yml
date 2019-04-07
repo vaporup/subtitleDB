@@ -1,0 +1,9 @@
+---
+filename: "Sunshine-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Sunshine-aXXo.avi"
+  hash: "fbb79cec1ecd5ff5"
+  filesize: "735735808"
