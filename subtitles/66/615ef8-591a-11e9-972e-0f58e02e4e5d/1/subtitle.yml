@@ -1,0 +1,9 @@
+---
+filename: "Last.Vegas.2013.720p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Last.Vegas.2013.720p.BluRay.x264.YIFY.mp4"
+  hash: "22d61cfab4ab839e"
+  filesize: "852668720"
