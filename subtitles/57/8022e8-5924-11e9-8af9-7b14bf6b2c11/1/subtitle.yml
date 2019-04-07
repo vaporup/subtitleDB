@@ -1,0 +1,9 @@
+---
+filename: "Seven.Pounds[2008]DvDrip-aXXo.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Seven.Pounds[2008]DvDrip-aXXo.avi"
+  hash: "2a4e4709d616fd76"
+  filesize: "735500288"
