@@ -1,0 +1,9 @@
+---
+filename: "alli-somv2012-xvid.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "alli-somv2012-xvid.avi"
+  hash: "7ab2a61af2f7f9ed"
+  filesize: "734998528"
