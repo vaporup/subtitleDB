@@ -1,0 +1,9 @@
+---
+filename: "Say-Anything_Special_Edition.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Say-Anything_Special_Edition.avi"
+  hash: "c5ff1bc47d7a14fc"
+  filesize: "735084544"
