@@ -1,0 +1,9 @@
+---
+filename: "Mysterious-Skin.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Mysterious-Skin.avi"
+  hash: "1b70966d47f3a181"
+  filesize: "734044160"
