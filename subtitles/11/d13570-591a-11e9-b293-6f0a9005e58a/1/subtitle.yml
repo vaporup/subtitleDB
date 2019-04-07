@@ -1,0 +1,9 @@
+---
+filename: "The Godfather Part I (1972).srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Godfather Part I (1972).avi"
+  hash: "360bffee815879f7"
+  filesize: "943781888"
