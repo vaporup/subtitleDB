@@ -1,0 +1,9 @@
+---
+filename: "American.Ultra.2015.720p.BRRip.x264.AAC-ETRG.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "American.Ultra.2015.720p.BRRip.x264.AAC-ETRG.mp4"
+  hash: "0ed40f9225c2ee0b"
+  filesize: "788026521"
