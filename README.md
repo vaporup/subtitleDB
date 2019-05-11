@@ -1,5 +1,7 @@
 # A gitdistributed subtitle database
 
+We want quality subs
+
 ## Requirements
 
 - python-whoosh
