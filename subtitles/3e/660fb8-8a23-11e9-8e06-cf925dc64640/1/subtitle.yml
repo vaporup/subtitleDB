@@ -1,0 +1,9 @@
+---
+filename: "10.Cloverfield.Lane.2016.720p.HDRip.800MB.MkvCage.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "10.Cloverfield.Lane.2016.720p.HDRip.800MB.MkvCage.mkv"
+  hash: "e23526359e655733"
+  filesize: "841621541"
