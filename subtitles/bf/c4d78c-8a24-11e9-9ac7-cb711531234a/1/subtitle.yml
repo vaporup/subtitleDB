@@ -1,0 +1,9 @@
+---
+filename: "Papillon.1973.1080p.BluRay.x264.YIFY.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Papillon.1973.1080p.BluRay.x264.YIFY.mp4"
+  hash: "8c8fa0f1652a6cfd"
+  filesize: "2324195919"
