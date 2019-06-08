@@ -1,0 +1,9 @@
+---
+filename: "Freedom Downtime - Kevin Mitnick.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Freedom Downtime - Kevin Mitnick.avi"
+  hash: "5a19a57ff3e58e77"
+  filesize: "733919232"
