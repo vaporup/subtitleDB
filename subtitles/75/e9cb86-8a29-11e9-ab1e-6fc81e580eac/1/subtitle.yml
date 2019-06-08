@@ -1,0 +1,10 @@
+---
+filename: "Futurama-Benders-Big-Score.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "Futurama-Benders-Big-Score.avi"
+  hash: "eb91156c0fd4b7df"
+  filesize: "730939576"
