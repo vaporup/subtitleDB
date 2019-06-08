@@ -1,0 +1,9 @@
+---
+filename: "The Sting.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Sting.avi"
+  hash: "e2a189b4c6d95390"
+  filesize: "887373824"
