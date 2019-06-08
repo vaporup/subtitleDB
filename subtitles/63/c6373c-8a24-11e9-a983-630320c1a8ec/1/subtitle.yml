@@ -1,0 +1,10 @@
+---
+filename: "AI.Rising.2019.DVDRip.XviD.AC3-EVO.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "AI.Rising.2019.DVDRip.XviD.AC3-EVO.avi"
+  hash: "cc2c3bc67772a6f8"
+  filesize: "1274678226"
