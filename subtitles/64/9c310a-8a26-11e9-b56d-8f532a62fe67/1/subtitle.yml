@@ -1,0 +1,9 @@
+---
+filename: "The Woman in Red.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "The Woman in Red.mkv"
+  hash: "514f986c4f0a70d4"
+  filesize: "1609402291"
