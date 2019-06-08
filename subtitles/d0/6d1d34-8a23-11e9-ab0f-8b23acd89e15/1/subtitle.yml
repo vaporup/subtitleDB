@@ -1,0 +1,10 @@
+---
+filename: "A.Cure.for.Wellness.2016.720p.BluRay.x264.VPPV.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "A.Cure.for.Wellness.2016.720p.BluRay.x264.VPPV.mkv"
+  hash: "6c9a7364b28671ee"
+  filesize: "1312473733"
