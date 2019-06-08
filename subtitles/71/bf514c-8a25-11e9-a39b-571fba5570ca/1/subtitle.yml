@@ -1,0 +1,10 @@
+---
+filename: "The Conspiracy 2012 BRRip X264-PLAYNOW.srt"
+language: "en"
+format: "srt"
+type: "cc"
+
+matches:
+- filename: "The Conspiracy 2012 BRRip X264-PLAYNOW.mkv"
+  hash: "2af64a2a18cec3ae"
+  filesize: "776908354"
