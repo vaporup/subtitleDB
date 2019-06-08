@@ -1,0 +1,9 @@
+---
+filename: "Seelenschatten.srt"
+language: "de"
+format: "srt"
+
+matches:
+- filename: "Seelenschatten.avi"
+  hash: "a01c1d9eba102a13"
+  filesize: "768109i566"
