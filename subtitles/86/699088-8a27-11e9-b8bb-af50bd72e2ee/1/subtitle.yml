@@ -1,0 +1,9 @@
+---
+filename: "Mildred-Pierce.srt"
+language: "en"
+format: "srt"
+
+matches:
+- filename: "Mildred-Pierce.avi"
+  hash: "862a7b68421b14bd"
+  filesize: "727525376"
